@@ -1,6 +1,7 @@
 name: scrape-epa
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 * * * *' 
 jobs:
