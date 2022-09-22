@@ -19,8 +19,8 @@ export class EPAScraper {
       filename: 'epa-rss.sqlite',
       driver: sqlite3.cached.Database
     })
-    //  for (let alphabet = 0; alphabet < 26; alphabet++) {
-    for (let alphabet = 0; alphabet < 1; alphabet++) {
+    for (let alphabet = 0; alphabet < 26; alphabet++) {
+    //for (let alphabet = 0; alphabet < 1; alphabet++) {
 
       // Do every letter in alphabet. This is a *lot* of requests overall. 26 * number of companies per letter
       var chr = String.fromCharCode(65 + alphabet);
