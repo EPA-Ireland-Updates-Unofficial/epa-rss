@@ -18,7 +18,7 @@
     "sqlite3": "^5.1.1"
   },
   "scripts": {
-    "build": "tsc --build",
+    "build": "tsc experiment.ts",
     "clean": "tsc --build --clean",
     "run": "node experiment.js"
   }
