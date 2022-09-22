@@ -3,7 +3,7 @@ name: scrape-epa
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' 
+    - cron: '7 5 * * *' # Run once a day at 5:07am
 jobs:
   scheduled:
     runs-on: ubuntu-latest
