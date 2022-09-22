@@ -1,0 +1,39 @@
+name: add_activities_to_db
+
+on:
+  schedule:
+    - cron: '0 * * * *' 
+env:
+  NODE_VERSION: '16.x'                # set this to the node version to use
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner
+      
+      - name: setup node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+          
+    - name: npm install, build, and test
+      run: |
+        npm install
+        npm run build
+        npm run          
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a
+          
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master

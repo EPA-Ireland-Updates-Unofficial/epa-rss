@@ -1,0 +1,114 @@
+// EPA Ireland RSS - Copyright Conor O'Neill 2022, conor@conoroneill.com
+// LICENSE Apache-2.0
+
+import axios from 'axios';
+import cheerio from 'cheerio';
+import { Feed } from 'feed';
+import * as Parser from 'rss-parser';
+import { RateLimiter } from 'limiter';
+import * as sqlite3 from 'sqlite3';
+import { open } from 'sqlite'
+
+// Throttle URL requests to one every 0.5 seconds
+const limiter = new RateLimiter({ tokensPerInterval: 1, interval: 500 });
+
+export class EPAScraper {
+  async scrapeNews(urlbase: string) {
+
+    const db = await open({
+      filename: 'epa-rss.sqlite',
+      driver: sqlite3.cached.Database
+    })
+    //  for (let alphabet = 0; alphabet < 26; alphabet++) {
+    for (let alphabet = 0; alphabet < 1; alphabet++) {
+
+      // Do every letter in alphabet. This is a *lot* of requests overall. 26 * number of companies per letter
+      var chr = String.fromCharCode(65 + alphabet);
+      // https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse
+
+      let url = urlbase + chr + "*&Submit=Browse";
+      console.log("Page for Letter " + chr + " : " + url);
+      const response = await axios.get(url);
+      const html = response.data;
+
+      const $ = cheerio.load(html);
+      const RSSLinks = $(".licSearchTable").find("a").toArray();
+      for (let i = 0; i < RSSLinks.length; i++) {
+        // HREF of each page is like: ippc-view.jsp?regno=P1115-01
+        // URL of each page is like:  https://epawebapp.epa.ie/terminalfour/ippc/ippc-view.jsp?regno=P1115-01
+        // Giving an RSS URL like:    https://epawebapp.epa.ie/licences/lic_eDMS/rss/P1115-01.xml
+
+        //console.log($(link).text(), $(link).attr('href'));
+        let eachRSSURL = "https://epawebapp.epa.ie/licences/lic_eDMS/rss/" + $(RSSLinks[i]).text() + ".xml";
+        console.log(eachRSSURL);
+
+        // Rate Limit
+        const remainingMessages = await limiter.removeTokens(1);
+
+        let parser = new Parser({
+          headers: { 'Accept': 'application/rss+xml, text/xml; q=0.1' },
+        });
+
+        try {
+          let RSSContent = await parser.parseURL(eachRSSURL);
+          console.log(RSSContent.title);
+          for (let j = 0; j < RSSContent.items.length; j++) {
+            let item = RSSContent.items[j];
+            //console.log(item.pubDate + ' : ' + item.title + ' : ' + item.link);
+            let isoDate = new Date(item.pubDate!);
+            const result = await db.run(
+              'INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?, ?, ?, ?, ?, ?)',
+              url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString()  
+            )
+          }
+        } catch (e) {
+          console.log("Error: " + e);
+        }
+      }
+    }
+    await db.close();
+  }
+}
+
+
+async function main() {
+  // Scrape all the RSS feeds on the EPA site and update SQLite
+  const scraper = new EPAScraper();
+  await scraper.scrapeNews("https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=");
+
+  // Update Daily RSS
+  const feed = new Feed({
+    title: "EPA Ireland RSS Feed",
+    description: "RSS feed for EPA website",
+    id: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
+    link: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
+    language: "en",
+    image: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
+    favicon: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
+    copyright: "2022 © EPA. All Rights Reserved.",
+    updated: new Date(),
+    generator: "AWS Lambda",
+    feedLinks: {
+      rss: "https://example.com/rss"
+    },
+    author: {
+      name: "EPA",
+      email: "info@epa.ie",
+      link: "https://www.epa.ie/who-we-are/contact-us/"
+    }
+  });
+  // Save this to an XML file
+  console.log(feed.rss2()); 
+
+  // Update Weekly RSS
+
+  // Generate today's CSV
+
+  // Generate this week's CSV?
+
+  // Generate a GitHub Release with today's updates as the contents
+
+}
+
+main();
+
