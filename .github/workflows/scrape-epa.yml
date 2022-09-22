@@ -15,22 +15,15 @@ jobs:
         with:
           node-version: '16.x'
           cache: 'npm'
-          
       - name: npm install, build, and test
         run: |
           npm install
           npm run build
           npm run          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a
             
-        - name: commit files
-          run: |
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git add -A
-            git commit -m "update data" -a
-            
-        - name: push changes
-          uses: ad-m/github-push-action@v0.6.0
-          with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            branch: master
