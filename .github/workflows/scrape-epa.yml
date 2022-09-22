@@ -1,4 +1,4 @@
-name: add_activities_to_db
+name: scrape-epa
 
 on:
   schedule:
@@ -7,7 +7,7 @@ env:
   NODE_VERSION: '16.x'                # set this to the node version to use
 
 jobs:
-  build:
+  scheduled:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
