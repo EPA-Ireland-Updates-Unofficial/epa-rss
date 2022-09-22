@@ -46,45 +46,28 @@ var Parser = require("rss-parser");
 var limiter_1 = require("limiter");
 var sqlite3 = require("sqlite3");
 var sqlite_1 = require("sqlite");
+// Throttle URL requests to one every 0.5 seconds
 var limiter = new limiter_1.RateLimiter({ tokensPerInterval: 1, interval: 500 });
 var EPAScraper = /** @class */ (function () {
     function EPAScraper() {
     }
     EPAScraper.prototype.scrapeNews = function (urlbase) {
         return __awaiter(this, void 0, void 0, function () {
-            var db, feed, alphabet, chr, url, response, html, $, RSSLinks, i, eachRSSURL, remainingMessages, parser, RSSContent, j, item, isoDate, result, e_1;
+            var db, alphabet, chr, url, response, html, $, RSSLinks, i, eachRSSURL, remainingMessages, parser, RSSContent, j, item, isoDate, result, e_1;
             return __generator(this, function (_a) {
                 switch (_a.label) {
                     case 0: return [4 /*yield*/, (0, sqlite_1.open)({
                             filename: 'epa-rss.sqlite',
                             driver: sqlite3.cached.Database
-                        })];
+                        })
+                        //  for (let alphabet = 0; alphabet < 26; alphabet++) {
+                    ];
                     case 1:
                         db = _a.sent();
-                        feed = new feed_1.Feed({
-                            title: "EPA Ireland RSS Feed",
-                            description: "RSS feed for EPA website",
-                            id: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
-                            link: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
-                            language: "en",
-                            image: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
-                            favicon: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
-                            copyright: "2022 © EPA. All Rights Reserved.",
-                            updated: new Date(),
-                            generator: "AWS Lambda",
-                            feedLinks: {
-                                rss: "https://example.com/rss"
-                            },
-                            author: {
-                                name: "EPA",
-                                email: "info@epa.ie",
-                                link: "https://www.epa.ie/who-we-are/contact-us/"
-                            }
-                        });
                         alphabet = 0;
                         _a.label = 2;
                     case 2:
-                        if (!(alphabet < 26)) return [3 /*break*/, 15];
+                        if (!(alphabet < 1)) return [3 /*break*/, 15];
                         chr = String.fromCharCode(65 + alphabet);
                         url = urlbase + chr + "*&Submit=Browse";
                         console.log("Page for Letter " + chr + " : " + url);
@@ -99,7 +82,6 @@ var EPAScraper = /** @class */ (function () {
                     case 4:
                         if (!(i < RSSLinks.length)) return [3 /*break*/, 14];
                         eachRSSURL = "https://epawebapp.epa.ie/licences/lic_eDMS/rss/" + $(RSSLinks[i]).text() + ".xml";
-                        //let eachRSSURL = "https://epawebapp.epa.ie/licences/lic_eDMS/rss/" + $(link).text() + ".xml";
                         console.log(eachRSSURL);
                         return [4 /*yield*/, limiter.removeTokens(1)];
                     case 5:
@@ -119,7 +101,6 @@ var EPAScraper = /** @class */ (function () {
                     case 8:
                         if (!(j < RSSContent.items.length)) return [3 /*break*/, 11];
                         item = RSSContent.items[j];
-                        console.log(item.pubDate + ' : ' + item.title + ' : ' + item.link);
                         isoDate = new Date(item.pubDate);
                         return [4 /*yield*/, db.run('INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?, ?, ?, ?, ?, ?)', url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString())];
                     case 9:
@@ -142,7 +123,7 @@ var EPAScraper = /** @class */ (function () {
                     case 15: return [4 /*yield*/, db.close()];
                     case 16:
                         _a.sent();
-                        return [2 /*return*/, (feed.rss2())];
+                        return [2 /*return*/];
                 }
             });
         });
@@ -152,7 +133,7 @@ var EPAScraper = /** @class */ (function () {
 exports.EPAScraper = EPAScraper;
 function main() {
     return __awaiter(this, void 0, void 0, function () {
-        var scraper;
+        var scraper, feed;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0:
@@ -160,6 +141,28 @@ function main() {
                     return [4 /*yield*/, scraper.scrapeNews("https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=")];
                 case 1:
                     _a.sent();
+                    feed = new feed_1.Feed({
+                        title: "EPA Ireland RSS Feed",
+                        description: "RSS feed for EPA website",
+                        id: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
+                        link: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
+                        language: "en",
+                        image: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
+                        favicon: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
+                        copyright: "2022 © EPA. All Rights Reserved.",
+                        updated: new Date(),
+                        generator: "AWS Lambda",
+                        feedLinks: {
+                            rss: "https://example.com/rss"
+                        },
+                        author: {
+                            name: "EPA",
+                            email: "info@epa.ie",
+                            link: "https://www.epa.ie/who-we-are/contact-us/"
+                        }
+                    });
+                    // Save this to an XML file
+                    console.log(feed.rss2());
                     return [2 /*return*/];
             }
         });

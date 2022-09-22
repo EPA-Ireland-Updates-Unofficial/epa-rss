@@ -20,6 +20,6 @@
   "scripts": {
     "build": "tsc experiment.ts",
     "clean": "tsc --build --clean",
-    "run": "node experiment.js"
+    "experiment": "node experiment.js"
   }
 }
