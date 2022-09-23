@@ -18,8 +18,8 @@ const limiter = new RateLimiter({ tokensPerInterval: 1, interval: 250 });
 
 async function scrapeNews(urlbase: string) {
 
-  //for (let alphabet = 0; alphabet < 26; alphabet++) {
-  for (let alphabet = 0; alphabet < 1; alphabet++) {
+  for (let alphabet = 0; alphabet < 26; alphabet++) {
+  //for (let alphabet = 0; alphabet < 1; alphabet++) {
 
     // Do every letter in alphabet. This is a *lot* of requests overall. 26 * number of companies per letter
     var chr = String.fromCharCode(65 + alphabet);
