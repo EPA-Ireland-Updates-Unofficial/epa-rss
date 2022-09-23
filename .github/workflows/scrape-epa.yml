@@ -3,7 +3,7 @@ name: scrape-epa
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7 5 * * *' # Run once a day at 5:07am
+    - cron: '17 1 * * *' # Run once a day at 1:17am
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -20,7 +20,7 @@ jobs:
         run: |
           npm install
           npm run build
-          npm run experiment          
+          npm run generate          
       - name: commit files
         run: |
           git config --local user.email "action@github.com"

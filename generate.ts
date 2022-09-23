@@ -1,4 +1,4 @@
-// EPA Ireland RSS - Copyright Conor O'Neill 2022, conor@conoroneill.com
+// EPA Ireland RSS and CSV - Copyright Conor O'Neill 2022, conor@conoroneill.com
 // LICENSE Apache-2.0
 
 import axios from 'axios';
@@ -8,9 +8,12 @@ import * as Parser from 'rss-parser';
 import { RateLimiter } from 'limiter';
 import * as sqlite3 from 'sqlite3';
 import { open } from 'sqlite'
+import * as fs from 'fs';
+import { stringify } from 'csv-stringify';
 
-// Throttle URL requests to one every 0.5 seconds
-const limiter = new RateLimiter({ tokensPerInterval: 1, interval: 500 });
+
+// Throttle URL requests to one every 0.25 seconds
+const limiter = new RateLimiter({ tokensPerInterval: 1, interval: 250 });
 
 export class EPAScraper {
   async scrapeNews(urlbase: string) {
@@ -20,7 +23,7 @@ export class EPAScraper {
       driver: sqlite3.cached.Database
     })
     for (let alphabet = 0; alphabet < 26; alphabet++) {
-    //for (let alphabet = 0; alphabet < 1; alphabet++) {
+      //for (let alphabet = 0; alphabet < 1; alphabet++) {
 
       // Do every letter in alphabet. This is a *lot* of requests overall. 26 * number of companies per letter
       var chr = String.fromCharCode(65 + alphabet);
@@ -58,7 +61,7 @@ export class EPAScraper {
             let isoDate = new Date(item.pubDate!);
             const result = await db.run(
               'INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?, ?, ?, ?, ?, ?)',
-              url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString()  
+              url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString()
             )
           }
         } catch (e) {
@@ -70,11 +73,11 @@ export class EPAScraper {
   }
 }
 
-
-async function main() {
-  // Scrape all the RSS feeds on the EPA site and update SQLite
-  const scraper = new EPAScraper();
-  await scraper.scrapeNews("https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=");
+async function dailyRSSCSV() {
+  const db = await open({
+    filename: 'epa-rss.sqlite',
+    driver: sqlite3.cached.Database
+  })
 
   // Update Daily RSS
   const feed = new Feed({
@@ -97,14 +100,66 @@ async function main() {
       link: "https://www.epa.ie/who-we-are/contact-us/"
     }
   });
+
+  // Get all the results for yesterday
+  let d = new Date();
+  let month = ("0" + (d.getMonth() + 1)).slice(-2);
+  let day = ("0" + (d.getDate() - 1)).slice(-2);
+  let year = d.getFullYear();
+  let yesterday = year+"-"+month+"-"+day;
+  const result = await db.all('select * from allsubmissions where DATE(itemdate) = ?', [yesterday]);
+
+  const dailycsv = "output/csv/daily/"+yesterday+".csv";
+  const writableStream = fs.createWriteStream(dailycsv);
+  const columns = [
+    "Item Date",
+    "Submitter",
+    "Item",
+    "Item URL",
+    "Submitter URL",
+    "Main Page URL",
+  ];
+  const stringifier = stringify({ header: true, columns: columns });
+
+  for (let i = 0; i < result.length; i++){
+  
+  stringifier.write([result[i].itemdate, result[i].rsspagetitle, result[i].itemtitle, result[i].itemurl, result[i].rsspageurl, result[i].mainpageurl]);
+
+  //console.log(result[i]);
+  let publishDateTime = new Date(result[i].itemdate);
+  feed.addItem({
+      title: result[i].itemtitle,
+      id: result[i].itemurl,
+      link: result[i].itemurl || '',
+      description: result[i].itemtitle,
+      content: result[i].rsspagetitle + ": " + result[i].itemtitle,
+      author: [
+        {
+          name: "EPA Ireland",
+          email: "info@epa.ie",
+          link: "https://www.epa.ie/who-we-are/contact-us/"
+        }
+      ],
+      date: publishDateTime
+    });
+}
+
   // Save this to an XML file
-  console.log(feed.rss2()); 
+  fs.writeFileSync('output/daily.xml', feed.rss2());
 
-  // Update Weekly RSS
+  // Save the CSV file
+  stringifier.pipe(writableStream);
 
-  // Generate today's CSV
+ // console.log(feed.rss2());
+}
 
-  // Generate this week's CSV?
+async function main() {
+  // Scrape all the RSS feeds on the EPA site and update SQLite
+  const scraper = new EPAScraper();
+  await scraper.scrapeNews("https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=");
+
+  // Generate daily RSS and CSV for yesterday's updates
+  await dailyRSSCSV();
 
   // Generate a GitHub Release with today's updates as the contents
 
