@@ -156,8 +156,6 @@ async function main() {
 
   await db.close();
 
-  // TODO: Generate a GitHub Release with today's updates as the contents
-
 }
 
 main();
