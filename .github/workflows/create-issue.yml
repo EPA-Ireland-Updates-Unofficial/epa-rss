@@ -6,7 +6,7 @@ jobs:
   create_issue:
     runs-on: ubuntu-latest
     steps:
-      - name: Get today's date
+      - name: Get yesterday's date
         id: date
         run: |
           echo "::set-output name=yesterday::$(date  --date="yesterday" +"%Y-%m-%d")"   
