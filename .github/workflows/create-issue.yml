@@ -1,4 +1,4 @@
-name: scrape-epa
+name: create-issue
 
 on:
   workflow_dispatch:
