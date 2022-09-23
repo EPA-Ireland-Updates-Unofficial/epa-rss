@@ -19,6 +19,7 @@ jobs:
       - name: npm install, build, and test
         run: |
           npm install
+          cp epa-rss-template.sqlite epa-rss.sqlite
           npm run build
           npm run generate          
       - name: commit files
