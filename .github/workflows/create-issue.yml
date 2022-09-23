@@ -1,0 +1,27 @@
+name: scrape-epa
+
+on:
+  workflow_dispatch:
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get today's date
+        id: date
+        run: |
+          echo "::set-output name=today::$(date "+%Y/%m/%d")"
+
+      - name: Create an issue
+        uses: actions-ecosystem/action-create-issue@v1
+        with:
+          github_token: ${{ secrets.github_token }}
+          title: ${{ steps.date.outputs.today }}
+          body: |
+            ## This week's TODO
+
+            - [ ] Have a meeting with UX team
+            - [ ] Check the dashboard
+
+          labels: |
+            meeting
+            weekly
