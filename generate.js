@@ -203,9 +203,23 @@ function dailyRSSCSV() {
                         });
                     }
                     // Save this to an XML file
-                    fs.writeFileSync('output/daily.xml', feed.rss2());
+                    fs.writeFileSync('./output/daily.xml', feed.rss2());
+                    console.log("wrote output/daily.xml");
                     // Save the CSV file
                     stringifier.pipe(writableStream);
+                    console.log("wrote " + dailycsv);
+                    // Debug
+                    console.log("Current Path: " + process.cwd());
+                    console.log("Current LS: ");
+                    fs.readdirSync("./").forEach(function (file) {
+                        console.log(file);
+                    });
+                    fs.readdirSync("./output/").forEach(function (file) {
+                        console.log(file);
+                    });
+                    fs.readdirSync("./output/csv/").forEach(function (file) {
+                        console.log(file);
+                    });
                     return [2 /*return*/];
             }
         });
@@ -217,6 +231,12 @@ function main() {
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0:
+                    // Debug
+                    console.log("Current Path: " + process.cwd());
+                    console.log("Current LS: ");
+                    fs.readdirSync("./").forEach(function (file) {
+                        console.log(file);
+                    });
                     scraper = new EPAScraper();
                     return [4 /*yield*/, scraper.scrapeNews("https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=")];
                 case 1:
