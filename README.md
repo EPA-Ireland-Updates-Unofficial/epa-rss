@@ -6,9 +6,12 @@ It all runs under GitHub Actions at 1.15AM UTC every day and takes about 15 minu
 ## Subscribing to the RSS Feed
 Use this URL in [Feedly](https://feedly.com) or similar:
 
-## Getting the latest updates via Eail
-Coming soon
+## Viewing the daily CSV files.
+They are all here in the repo: https://github.com/conoro/epa-rss/tree/main/output/csv/daily
+
+## Getting the latest updates via Email
+Coming at some point.
 
 ## Examining the data in the SQLite Database using Datasette Lite
-A very cool project by [Simon Willison](https://github.com/simonw/datasette-lite). You can browse and query all the data here:
+A very cool project by [Simon Willison](https://github.com/simonw/datasette-lite). You can browse and query all the data up to Sep 22nd 2022 here:
 
