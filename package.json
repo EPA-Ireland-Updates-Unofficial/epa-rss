@@ -20,6 +20,6 @@
   },
   "scripts": {
     "build": "tsc generate.ts",
-    "experiment": "node generate.js"
+    "generate": "node generate.js"
   }
 }
