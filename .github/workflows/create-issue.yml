@@ -9,19 +9,12 @@ jobs:
       - name: Get today's date
         id: date
         run: |
-          echo "::set-output name=today::$(date "+%Y/%m/%d")"
+          echo "::set-output name=yesterday::$(date  --date="yesterday" +"%Y/%m/%d")"   
 
       - name: Create an issue
         uses: actions-ecosystem/action-create-issue@v1
         with:
           github_token: ${{ secrets.github_token }}
-          title: ${{ steps.date.outputs.today }}
+          title:  EPA Submissions for ${{ steps.date.outputs.yesterday }}
           body: |
-            ## This week's TODO
-
-            - [ ] Have a meeting with UX team
-            - [ ] Check the dashboard
-
-          labels: |
-            meeting
-            weekly
+            * If any submissions, they will be here: https://github.com/conoro/epa-rss/blob/main/output/csv/daily/${{ steps.date.outputs.yesterday }}.csv 
