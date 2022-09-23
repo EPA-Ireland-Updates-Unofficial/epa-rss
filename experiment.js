@@ -59,15 +59,13 @@ var EPAScraper = /** @class */ (function () {
                     case 0: return [4 /*yield*/, (0, sqlite_1.open)({
                             filename: 'epa-rss.sqlite',
                             driver: sqlite3.cached.Database
-                        })
-                        //  for (let alphabet = 0; alphabet < 26; alphabet++) {
-                    ];
+                        })];
                     case 1:
                         db = _a.sent();
                         alphabet = 0;
                         _a.label = 2;
                     case 2:
-                        if (!(alphabet < 1)) return [3 /*break*/, 15];
+                        if (!(alphabet < 26)) return [3 /*break*/, 15];
                         chr = String.fromCharCode(65 + alphabet);
                         url = urlbase + chr + "*&Submit=Browse";
                         console.log("Page for Letter " + chr + " : " + url);
