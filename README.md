@@ -9,9 +9,6 @@ Use this URL in [Feedly](https://feedly.com) or similar: https://raw.githubuserc
 ## Viewing the daily CSV files.
 They are all here in the repo starting on Sep 22nd 2022: https://github.com/conoro/epa-rss/tree/main/output/csv/daily
 
-## Getting the latest updates via Email
-Coming at some point.
-
 ## Examining the data in the SQLite Database using Datasette Lite
 A very cool project by [Simon Willison](https://github.com/simonw/datasette-lite). You can browse and query all the data up to Sep 22nd 2022 here: https://lite.datasette.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fconoro%2Fepa-rss%2Fmain%2Fepa-archive.sqlite#/epa-archive/allsubmissions
 
