@@ -145,15 +145,37 @@ async function dailyRSSCSV() {
 }
 
   // Save this to an XML file
-  fs.writeFileSync('output/daily.xml', feed.rss2());
+  fs.writeFileSync('./output/daily.xml', feed.rss2());
+  console.log("wrote output/daily.xml");
 
   // Save the CSV file
   stringifier.pipe(writableStream);
+  console.log("wrote " + dailycsv);
 
+    // Debug
+    console.log("Current Path: " + process.cwd());
+    console.log("Current LS: ");
+    fs.readdirSync("./").forEach(file => {
+      console.log(file);
+    });
+    fs.readdirSync("./output/").forEach(file => {
+      console.log(file);
+    });
+    fs.readdirSync("./output/csv/").forEach(file => {
+      console.log(file);
+    });
+  
  // console.log(feed.rss2());
 }
 
 async function main() {
+  // Debug
+  console.log("Current Path: " + process.cwd());
+  console.log("Current LS: ");
+  fs.readdirSync("./").forEach(file => {
+    console.log(file);
+  });
+
   // Scrape all the RSS feeds on the EPA site and update SQLite
   const scraper = new EPAScraper();
   await scraper.scrapeNews("https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=");
