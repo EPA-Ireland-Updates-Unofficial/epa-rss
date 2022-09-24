@@ -197,7 +197,7 @@ function main() {
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0: return [4 /*yield*/, (0, sqlite_1.open)({
-                        filename: 'epa-rss.sqlite',
+                        filename: 'sqlite/epa-rss.sqlite',
                         driver: sqlite3.cached.Database
                     })
                     // Scrape all the RSS feeds on the EPA site and update SQLite
