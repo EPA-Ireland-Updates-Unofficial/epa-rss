@@ -19,7 +19,7 @@ jobs:
       - name: npm install, build, and run code
         run: |
           npm install
-          cp epa-rss-template.sqlite epa-rss.sqlite
+          cp sqlite/epa-rss-template.sqlite sqlite/epa-rss.sqlite
           npm run build
           npm run generate          
       - name: commit files
@@ -29,6 +29,16 @@ jobs:
           git add -A
           git commit -m "update EPS data" -a
           git push
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: shallwefootball/s3-upload-action@master
+        with:
+          aws_key_id: ${{ secrets.AWS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY}}
+          aws_bucket: ${{ secrets.AWS_BUCKET }}
+          source_dir: 'sqlite'
   create_issue:
     runs-on: ubuntu-latest
     steps:

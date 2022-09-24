@@ -144,7 +144,7 @@ async function dailyRSSCSV() {
 
 async function main() {
   db = await open({
-    filename: 'epa-rss.sqlite',
+    filename: 'sqlite/epa-rss.sqlite',
     driver: sqlite3.cached.Database
   })
 

@@ -18,7 +18,7 @@ If you'd like to receive email with a link to the latest CSV each day:
 * You should start receiving the emails beginning tomorrow.
   
 ## Examining the data in the SQLite Database using Datasette Lite
-Datasette Lite is a very cool project by [Simon Willison](https://github.com/simonw/datasette-lite). You can browse and query all the EPS data up to Sep 22nd 2022 here: https://lite.datasette.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fconoro%2Fepa-rss%2Fmain%2Fepa-archive.sqlite#/epa-archive/allsubmissions
+[Datasette Lite](https://github.com/simonw/datasette-lite) is a very cool project by Simon Willison. You can browse and query all the EPS data up to Sep 22nd 2022 here: https://lite.datasette.io/?url=https%3A%2F%2Fepa-rss.s3.eu-west-1.amazonaws.com%2Fepa-archive.sqlite#/epa-archive/allsubmissions
 
 
 LICENSE Apache-2.0
