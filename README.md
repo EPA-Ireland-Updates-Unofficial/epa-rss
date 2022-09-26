@@ -17,8 +17,10 @@ If you'd like to receive email with a link to the latest CSV each day:
 * Select "Custom" and tick the box beside "Issues". Then click Apply. 
 * You should start receiving the emails beginning tomorrow.
   
+  ## SQLite Database
+  The latest full set of scraped data is available as a SQLite DB that you can [download here](https://epa-rss.s3.eu-west-1.amazonaws.com/latest/epa-rss.sqlite). Use something like [SQLiteStudio](https://sqlitestudio.pl/) to browse and query it.
 ## Examining the data in the SQLite Database using Datasette Lite
-[Datasette Lite](https://github.com/simonw/datasette-lite) is a very cool project by Simon Willison. You can browse and query all the EPS data up to Sep 22nd 2022 here: https://lite.datasette.io/?url=https%3A%2F%2Fepa-rss.s3.eu-west-1.amazonaws.com%2Fepa-archive.sqlite#/epa-archive/allsubmissions
+Alternatively you can use a very cool project by Simon Willison called [Datasette Lite](https://github.com/simonw/datasette-lite) to browse and query all the latest data in your browser [by going here](https://lite.datasette.io/?url=https%3A%2F%2Fepa-rss.s3.eu-west-1.amazonaws.com%2Flatest%2Fepa-rss.sqlite#/epa-rss/allsubmissions). 
 
 
 LICENSE Apache-2.0
