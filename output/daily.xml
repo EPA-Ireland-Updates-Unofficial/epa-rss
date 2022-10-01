@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sat, 01 Oct 2022 02:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 05:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -15,5 +15,149 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[S010620 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f46.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f46.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 10:20:45 GMT</pubDate>
+            <description><![CDATA[S010620 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0040-03 -- Anglo Beef Processors Ireland Unlimited Company: S010620 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010623 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843ff0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843ff0.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 13:50:25 GMT</pubDate>
+            <description><![CDATA[S010623 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0040-03 -- Anglo Beef Processors Ireland Unlimited Company: S010623 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission - Snapshot - Submission No S010623  - P0040-03 - donagh cronin]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fef.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fef.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 13:50:25 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010623  - P0040-03 - donagh cronin]]></description>
+            <content:encoded><![CDATA[P0040-03 -- Anglo Beef Processors Ireland Unlimited Company: Submission - Snapshot - Submission No S010623  - P0040-03 - donagh cronin]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011634]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fa2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fa2.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 12:10:49 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011634]]></description>
+            <content:encoded><![CDATA[P0915-02 -- Ballyfaskin Enterprises Ltd: Notification to Applicant Extension Request - LACT00011634]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Director Decision - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843ee8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843ee8.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 08:10:38 GMT</pubDate>
+            <description><![CDATA[Director Decision - Licence Amendment]]></description>
+            <content:encoded><![CDATA[P0516-04 -- Boliden Tara Mines Designated Activity Company: Director Decision - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - LetEPA300922 Extension Approval 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fc4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fc4.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 12:50:21 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - LetEPA300922 Extension Approval 2]]></description>
+            <content:encoded><![CDATA[P1155-01 -- Dernahesco Poultry Limited: Letter from Applicant - LetEPA300922 Extension Approval 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011633]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f93.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f93.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 12:00:19 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011633]]></description>
+            <content:encoded><![CDATA[P1155-01 -- Dernahesco Poultry Limited: Notification to Applicant Extension Request - LACT00011633]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EIA Screening Determination - LACT00011543]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844004.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844004.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 14:10:55 GMT</pubDate>
+            <description><![CDATA[EIA Screening Determination - LACT00011543]]></description>
+            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: EIA Screening Determination - LACT00011543]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - en.si.2022.0478]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084404e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084404e.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 16:01:02 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - en.si.2022.0478]]></description>
+            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: Unsolicited Additional Information - en.si.2022.0478]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AA Screening - Public Notice - LACT00011544]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844073.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844073.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 16:51:03 GMT</pubDate>
+            <description><![CDATA[AA Screening - Public Notice - LACT00011544]]></description>
+            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: AA Screening - Public Notice - LACT00011544]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AA Screening Determination - LACT00011544]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844074.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844074.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 16:51:04 GMT</pubDate>
+            <description><![CDATA[AA Screening Determination - LACT00011544]]></description>
+            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: AA Screening Determination - LACT00011544]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011629]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f45.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f45.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 10:20:45 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011629]]></description>
+            <content:encoded><![CDATA[P0009-05 -- Eli Lilly Kinsale Limited: Notification to Applicant Extension Request - LACT00011629]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - LetEPA300922 Extension Approval 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fc5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fc5.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 12:50:22 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - LetEPA300922 Extension Approval 1]]></description>
+            <content:encoded><![CDATA[P1164-01 -- Mr. Aidan Brady: Letter from Applicant - LetEPA300922 Extension Approval 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011631]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f81.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f81.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 11:51:19 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011631]]></description>
+            <content:encoded><![CDATA[P1164-01 -- Mr. Aidan Brady: Notification to Applicant Extension Request - LACT00011631]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011632]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f82.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843f82.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 11:51:19 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011632]]></description>
+            <content:encoded><![CDATA[P1167-01 -- Mr. Kevin Keenan: Notification to Applicant Extension Request - LACT00011632]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - LetEPA300922 Extension Approval]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fc6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280843fc6.pdf</guid>
+            <pubDate>Fri, 30 Sep 2022 12:50:22 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - LetEPA300922 Extension Approval]]></description>
+            <content:encoded><![CDATA[P1167-01 -- Mr. Kevin Keenan: Letter from Applicant - LetEPA300922 Extension Approval]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>

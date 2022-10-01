@@ -144,8 +144,9 @@ function dailyRSSCSV() {
                         }
                     });
                     d = new Date();
+                    d.setDate(d.getDate() - 1);
                     month = ("0" + (d.getMonth() + 1)).slice(-2);
-                    day = ("0" + (d.getDate() - 1)).slice(-2);
+                    day = ("0" + (d.getDate())).slice(-2);
                     year = d.getFullYear();
                     yesterday = year + "-" + month + "-" + day;
                     return [4 /*yield*/, db.all('select * from allsubmissions where DATE(itemdate) = ?', [yesterday])];
