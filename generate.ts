@@ -92,8 +92,9 @@ async function dailyRSSCSV() {
 
   // Get all the results for yesterday
   let d = new Date();
+  d.setDate(d.getDate() - 1);
   let month = ("0" + (d.getMonth() + 1)).slice(-2);
-  let day = ("0" + (d.getDate() - 1)).slice(-2);
+  let day = ("0" + (d.getDate())).slice(-2);
   let year = d.getFullYear();
   let yesterday = year + "-" + month + "-" + day;
   const result = await db.all('select * from allsubmissions where DATE(itemdate) = ?', [yesterday]);
