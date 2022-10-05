@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 04 Oct 2022 02:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 02:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -16,444 +16,210 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV24102 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd4.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:11 GMT</pubDate>
-            <description><![CDATA[SV24102 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0847-01 -- Abbott Ireland Limited: SV24102 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 14]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ee9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ee9.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 08:10:38 GMT</pubDate>
+            <description><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 14]]></description>
+            <content:encoded><![CDATA[P1186-01 -- Amazon Data Services Ireland Limited: Reminder Email (RFI Overdue)  - Reg 14(2) Notice 14]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00011651]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a8e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a8e.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 14:10:41 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00011651]]></description>
-            <content:encoded><![CDATA[P1186-01 -- Amazon Data Services Ireland Limited: Notification to Applicant Extension Request - LACT00011651]]></content:encoded>
+            <title><![CDATA[SV25770 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084517c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084517c.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:10:56 GMT</pubDate>
+            <description><![CDATA[SV25770 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0040-02 -- Munster Proteins Limited t/a Waterford Proteins: SV25770 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25746 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd3.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:11 GMT</pubDate>
-            <description><![CDATA[SV25746 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0812-01 -- Arrow Group Limited: SV25746 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV25791 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084517d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084517d.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:10:57 GMT</pubDate>
+            <description><![CDATA[SV25791 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0040-02 -- Munster Proteins Limited t/a Waterford Proteins: SV25791 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV24366 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd2.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:11 GMT</pubDate>
-            <description><![CDATA[SV24366 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: SV24366 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Unsolicited Additional Information - Air Modelling IPW IE Licence]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844fbb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844fbb.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 13:40:58 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Air Modelling IPW IE Licence]]></description>
+            <content:encoded><![CDATA[P0407-02 -- Irish Pioneer Works (Fabricators) Limited: Unsolicited Additional Information - Air Modelling IPW IE Licence]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV24191 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd0.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:10 GMT</pubDate>
-            <description><![CDATA[SV24191 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0500-01 -- Bord Na Mona Energy Limited: SV24191 - Licensee Report]]></content:encoded>
+            <title><![CDATA[P1180-01 Unsolicited Correspondence response]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845029.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845029.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 15:50:34 GMT</pubDate>
+            <description><![CDATA[P1180-01 Unsolicited Correspondence response]]></description>
+            <content:encoded><![CDATA[P1180-01 -- Kilkenny Cheese Limited: P1180-01 Unsolicited Correspondence response]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV24032 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce8.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:31:38 GMT</pubDate>
-            <description><![CDATA[SV24032 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0106-02 -- Bruscar Bhearna Teoranta: SV24032 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0000482203-10]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844f65.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844f65.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 11:40:50 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0000482203-10]]></description>
+            <content:encoded><![CDATA[P0790-03 -- Mr Eoin O"Brien: Notification to Applicant - RFI Ext. Consent - LACT0000482203-10]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Web Notice - FD Issued]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a27.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a27.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 12:31:06 GMT</pubDate>
-            <description><![CDATA[Web Notice - FD Issued]]></description>
-            <content:encoded><![CDATA[P1139-01 -- Cecil and Lily Clarke: Web Notice - FD Issued]]></content:encoded>
+            <title><![CDATA[Dust Round 2 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845196.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845196.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:25 GMT</pubDate>
+            <description><![CDATA[Dust Round 2 2022]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig  Thornton Waste Disposal Limited: Dust Round 2 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a40.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a40.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 12:50:37 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register]]></description>
-            <content:encoded><![CDATA[P1139-01 -- Cecil and Lily Clarke: Notification to Planning Authority - Register]]></content:encoded>
+            <title><![CDATA[W0044-0222AQ40 Dust Sample 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845197.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845197.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:25 GMT</pubDate>
+            <description><![CDATA[W0044-0222AQ40 Dust Sample 2]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig  Thornton Waste Disposal Limited: W0044-0222AQ40 Dust Sample 2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a41.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a41.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 12:50:38 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register]]></description>
-            <content:encoded><![CDATA[P1139-01 -- Cecil and Lily Clarke: Notification to Planning Authority - Register]]></content:encoded>
+            <title><![CDATA[W0044-0222AQ38 Quarter 3 Foul Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845198.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845198.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:25 GMT</pubDate>
+            <description><![CDATA[W0044-0222AQ38 Quarter 3 Foul Water]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig  Thornton Waste Disposal Limited: W0044-0222AQ38 Quarter 3 Foul Water]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a42.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844a42.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 12:50:38 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register]]></description>
-            <content:encoded><![CDATA[P1139-01 -- Cecil and Lily Clarke: Notification to Planning Authority - Register]]></content:encoded>
+            <title><![CDATA[JFK Dust Sample 2 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a2.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:27 GMT</pubDate>
+            <description><![CDATA[JFK Dust Sample 2 2022]]></description>
+            <content:encoded><![CDATA[W0227-01 -- Lawlor Brothers Waste Disposal Ltd t/a Access Skip Hire: JFK Dust Sample 2 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23283 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ccc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ccc.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:10 GMT</pubDate>
-            <description><![CDATA[SV23283 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0048-03 -- Dawn Meats Ireland t/a Western Proteins: SV23283 - Licensee Report]]></content:encoded>
+            <title><![CDATA[W0227-0122AQ13 Dust Sample 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a3.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:27 GMT</pubDate>
+            <description><![CDATA[W0227-0122AQ13 Dust Sample 2]]></description>
+            <content:encoded><![CDATA[W0227-01 -- Lawlor Brothers Waste Disposal Ltd t/a Access Skip Hire: W0227-0122AQ13 Dust Sample 2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25690 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cce.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cce.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:10 GMT</pubDate>
-            <description><![CDATA[SV25690 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0179-01 -- North Tipperary County Council - Ballinclough: SV25690 - Licensee Report]]></content:encoded>
+            <title><![CDATA[W0227-0122AQ15 Quarter 3 Foul Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a4.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:27 GMT</pubDate>
+            <description><![CDATA[W0227-0122AQ15 Quarter 3 Foul Water]]></description>
+            <content:encoded><![CDATA[W0227-01 -- Lawlor Brothers Waste Disposal Ltd t/a Access Skip Hire: W0227-0122AQ15 Quarter 3 Foul Water]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - Order - S.I. 478 of 2022 - Planning & Development Act 2000 - Section 181(2)(a) Order 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084494d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084494d.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 09:06:50 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Order - S.I. 478 of 2022 - Planning & Development Act 2000 - Section 181(2)(a) Order 2022]]></description>
-            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: Unsolicited Additional Information - Order - S.I. 478 of 2022 - Planning & Development Act 2000 - Section 181(2)(a) Order 2022]]></content:encoded>
+            <title><![CDATA[W0227-0122AQ14 Quarter 3 Surface Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a5.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:27 GMT</pubDate>
+            <description><![CDATA[W0227-0122AQ14 Quarter 3 Surface Water]]></description>
+            <content:encoded><![CDATA[W0227-01 -- Lawlor Brothers Waste Disposal Ltd t/a Access Skip Hire: W0227-0122AQ14 Quarter 3 Surface Water]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Re Request to Extended IEL Review Period 03Oct22]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808449f1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808449f1.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 11:50:35 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Re Request to Extended IEL Review Period 03Oct22]]></description>
-            <content:encoded><![CDATA[P0009-05 -- Eli Lilly Kinsale Limited: Letter from Applicant - Re Request to Extended IEL Review Period 03Oct22]]></content:encoded>
+            <title><![CDATA[SV23644 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845199.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280845199.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:25 GMT</pubDate>
+            <description><![CDATA[SV23644 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: SV23644 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[260422GLANWAY270422 Odour cert  June22]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd5.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:11 GMT</pubDate>
-            <description><![CDATA[260422GLANWAY270422 Odour cert  June22]]></description>
-            <content:encoded><![CDATA[P1015-03 -- Glanway Limited: 260422GLANWAY270422 Odour cert  June22]]></content:encoded>
+            <title><![CDATA[Dust Cover Letter - W0053-03 June 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519a.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:25 GMT</pubDate>
+            <description><![CDATA[Dust Cover Letter - W0053-03 June 2022]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: Dust Cover Letter - W0053-03 June 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23121 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ccb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ccb.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:10 GMT</pubDate>
-            <description><![CDATA[SV23121 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0010-04 -- Pfizer Ireland Pharmaceuticals: SV23121 - Licensee Report]]></content:encoded>
+            <title><![CDATA[W0053-03 Q2 2022 Fassaroe Landfill Gas]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519b.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:25 GMT</pubDate>
+            <description><![CDATA[W0053-03 Q2 2022 Fassaroe Landfill Gas]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: W0053-03 Q2 2022 Fassaroe Landfill Gas]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[ FD Newspaper Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808449ce.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808449ce.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 11:31:04 GMT</pubDate>
-            <description><![CDATA[ FD Newspaper Notice]]></description>
-            <content:encoded><![CDATA[P1153-01 -- James Jordan:  FD Newspaper Notice]]></content:encoded>
+            <title><![CDATA[W0053-03 Q2 2022 Fass Leachate]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519c.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:26 GMT</pubDate>
+            <description><![CDATA[W0053-03 Q2 2022 Fass Leachate]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: W0053-03 Q2 2022 Fass Leachate]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Web Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808449e1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808449e1.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 11:41:04 GMT</pubDate>
-            <description><![CDATA[Web Notice]]></description>
-            <content:encoded><![CDATA[P1153-01 -- James Jordan: Web Notice]]></content:encoded>
+            <title><![CDATA[W0053-03 Q2 2022 Fassaroe surface water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519d.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:26 GMT</pubDate>
+            <description><![CDATA[W0053-03 Q2 2022 Fassaroe surface water]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: W0053-03 Q2 2022 Fassaroe surface water]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV24192 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd1.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:10 GMT</pubDate>
-            <description><![CDATA[SV24192 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0727-02 -- Kerry Pig Producers Limited: SV24192 - Licensee Report]]></content:encoded>
+            <title><![CDATA[W0116-02 Q2 2022 SW Waterford]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519e.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:26 GMT</pubDate>
+            <description><![CDATA[W0116-02 Q2 2022 SW Waterford]]></description>
+            <content:encoded><![CDATA[W0116-02 -- Starrus Eco Holding Limited: W0116-02 Q2 2022 SW Waterford]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23144 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ccd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ccd.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:10 GMT</pubDate>
-            <description><![CDATA[SV23144 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0082-03 -- Micro Bio (Ireland) Limited: SV23144 - Licensee Report]]></content:encoded>
+            <title><![CDATA[W0177-03 GES Waterford Q2 2022 Wastewater]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084519f.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:26 GMT</pubDate>
+            <description><![CDATA[W0177-03 GES Waterford Q2 2022 Wastewater]]></description>
+            <content:encoded><![CDATA[W0177-03 -- Starrus Eco Holding Limited: W0177-03 GES Waterford Q2 2022 Wastewater]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Request for Further Information - LACT]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b12.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b12.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 15:20:18 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Request for Further Information - LACT]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Notification to Applicant Request for Further Information - LACT]]></content:encoded>
+            <title><![CDATA[W0177-03 Q2 2022 Surface water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a0.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:26 GMT</pubDate>
+            <description><![CDATA[W0177-03 Q2 2022 Surface water]]></description>
+            <content:encoded><![CDATA[W0177-03 -- Starrus Eco Holding Limited: W0177-03 Q2 2022 Surface water]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A-App-RFI ADMIN Reg.10(2)(b)(ii) or Art14(2)(b)(ii)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ba1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ba1.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 17:01:04 GMT</pubDate>
-            <description><![CDATA[A-App-RFI ADMIN Reg.10(2)(b)(ii) or Art14(2)(b)(ii)]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: A-App-RFI ADMIN Reg.10(2)(b)(ii) or Art14(2)(b)(ii)]]></content:encoded>
+            <title><![CDATA[W0220-01 Q2 2022 wastewater Gorey]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808451a1.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:27 GMT</pubDate>
+            <description><![CDATA[W0220-01 Q2 2022 wastewater Gorey]]></description>
+            <content:encoded><![CDATA[W0220-01 -- Starrus Eco Holding Limited: W0220-01 Q2 2022 wastewater Gorey]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00011643]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084499c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084499c.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 10:41:01 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00011643]]></description>
-            <content:encoded><![CDATA[P1158-01 -- Millrace Poultry  Limited: Notification to Applicant Extension Request - LACT00011643]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant re Proposed Determination]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ad0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ad0.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 14:50:14 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant re Proposed Determination]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: Notification to Applicant re Proposed Determination]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[PD Issued � Notification - Specified Bodies - P1141-01]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ad1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ad1.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 14:50:14 GMT</pubDate>
-            <description><![CDATA[PD Issued � Notification - Specified Bodies - P1141-01]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: PD Issued � Notification - Specified Bodies - P1141-01]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[PD Issued � Notification - Submitters - P1141-01]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ad2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ad2.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 14:50:14 GMT</pubDate>
-            <description><![CDATA[PD Issued � Notification - Submitters - P1141-01]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: PD Issued � Notification - Submitters - P1141-01]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Postal Submitter]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b23.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b23.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 15:30:48 GMT</pubDate>
-            <description><![CDATA[Notification to Postal Submitter]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: Notification to Postal Submitter]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b7b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b7b.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:30:49 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Planning Authority re Register - Letter - LACT00011663]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b7c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b7c.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:30:50 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority re Register - Letter - LACT00011663]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: Notification to Planning Authority re Register - Letter - LACT00011663]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notifification to Planning Authority re Register - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b7d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b7d.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:30:50 GMT</pubDate>
-            <description><![CDATA[Notifification to Planning Authority re Register - Register]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: Notifification to Planning Authority re Register - Register]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Directors Decision]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b7e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b7e.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:30:50 GMT</pubDate>
-            <description><![CDATA[Directors Decision]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: Directors Decision]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[IR-LA001474]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd6.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:11 GMT</pubDate>
-            <description><![CDATA[IR-LA001474]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: IR-LA001474]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[RD-LA001474]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844cd7.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:11 GMT</pubDate>
-            <description><![CDATA[RD-LA001474]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: RD-LA001474]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[PD-LA001474]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce3.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:31:36 GMT</pubDate>
-            <description><![CDATA[PD-LA001474]]></description>
-            <content:encoded><![CDATA[P1141-01 -- Ortec Ncw Limited: PD-LA001474]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Q2 2022 water monitoring report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844c87.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844c87.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:01:48 GMT</pubDate>
-            <description><![CDATA[Q2 2022 water monitoring report]]></description>
-            <content:encoded><![CDATA[W0039-02 -- Starrus Eco Holdings Limited: Q2 2022 water monitoring report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23675 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce9.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:31:38 GMT</pubDate>
-            <description><![CDATA[SV23675 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0136-03 -- Starrus Eco Holdings Limited: SV23675 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV25761 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ccf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ccf.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:21:10 GMT</pubDate>
-            <description><![CDATA[SV25761 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0486-02 -- Synergen Power Limited: SV25761 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ballaghveny Groundwater Flow Direction]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce7.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:31:37 GMT</pubDate>
-            <description><![CDATA[Ballaghveny Groundwater Flow Direction]]></description>
-            <content:encoded><![CDATA[W0078-03 -- North Tipperary County Council: Ballaghveny Groundwater Flow Direction]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00011652]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844aa1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844aa1.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 14:20:41 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00011652]]></description>
-            <content:encoded><![CDATA[P0091-03 -- Wexport Limited: Notification to Applicant Extension Request - LACT00011652]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 03 Oct 2022  Request for extension]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b48.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b48.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:00:49 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 03 Oct 2022  Request for extension]]></description>
-            <content:encoded><![CDATA[P0091-03 -- Wexport Limited: Letter from Applicant - 03 Oct 2022  Request for extension]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23652 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844ce6.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 21:31:37 GMT</pubDate>
-            <description><![CDATA[SV23652 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: SV23652 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Withdrawal Request -LACT00011660]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b4a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b4a.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:00:51 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Withdrawal Request -LACT00011660]]></description>
-            <content:encoded><![CDATA[P0583-02 -- Xtratherm Limited: Notification to Applicant Withdrawal Request -LACT00011660]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Withdrawn Application - Notification - Specified Bodies - P0583-]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b4b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b4b.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:00:51 GMT</pubDate>
-            <description><![CDATA[Withdrawn Application - Notification - Specified Bodies - P0583-]]></description>
-            <content:encoded><![CDATA[P0583-02 -- Xtratherm Limited: Withdrawn Application - Notification - Specified Bodies - P0583-]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Withdrawn Application - Notification - Submitters - P0583-02]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b4c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b4c.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:00:51 GMT</pubDate>
-            <description><![CDATA[Withdrawn Application - Notification - Submitters - P0583-02]]></description>
-            <content:encoded><![CDATA[P0583-02 -- Xtratherm Limited: Withdrawn Application - Notification - Submitters - P0583-02]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Licence Register - P0583]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b59.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b59.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:10:21 GMT</pubDate>
-            <description><![CDATA[Licence Register - P0583]]></description>
-            <content:encoded><![CDATA[P0583-02 -- Xtratherm Limited: Licence Register - P0583]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Planning Authority - Register - LACT00011661]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b5a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b5a.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:10:21 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register - LACT00011661]]></description>
-            <content:encoded><![CDATA[P0583-02 -- Xtratherm Limited: Notification to Planning Authority - Register - LACT00011661]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b6b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b6b.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:20:20 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
-            <content:encoded><![CDATA[P0583-02 -- Xtratherm Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Programme Manager Decision - Recommendation to deem application]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b6c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b6c.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:20:21 GMT</pubDate>
-            <description><![CDATA[Programme Manager Decision - Recommendation to deem application]]></description>
-            <content:encoded><![CDATA[P0583-02 -- Xtratherm Limited: Programme Manager Decision - Recommendation to deem application]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Withdrawal Recommendation - P0583-02 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b6d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280844b6d.pdf</guid>
-            <pubDate>Mon, 03 Oct 2022 16:20:21 GMT</pubDate>
-            <description><![CDATA[Withdrawal Recommendation - P0583-02 1]]></description>
-            <content:encoded><![CDATA[P0583-02 -- Xtratherm Limited: Withdrawal Recommendation - P0583-02 1]]></content:encoded>
+            <title><![CDATA[SV25798 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084518b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084518b.pdf</guid>
+            <pubDate>Tue, 04 Oct 2022 21:20:22 GMT</pubDate>
+            <description><![CDATA[SV25798 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0801-03 -- Tipperary Co-operative Creamery Limited: SV25798 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
