@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sun, 09 Oct 2022 02:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 02:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -16,264 +16,84 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV23199 - Licensee Public Response]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808463fc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808463fc.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:01:21 GMT</pubDate>
-            <description><![CDATA[SV23199 - Licensee Public Response]]></description>
-            <content:encoded><![CDATA[P0687-02 -- Abbott Ireland: SV23199 - Licensee Public Response]]></content:encoded>
+            <title><![CDATA[BnM Portlaoise Dust 1 of 3 2022 Rpt]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846741.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846741.pdf</guid>
+            <pubDate>Sun, 09 Oct 2022 21:02:26 GMT</pubDate>
+            <description><![CDATA[BnM Portlaoise Dust 1 of 3 2022 Rpt]]></description>
+            <content:encoded><![CDATA[W0194-02 -- Advanced Environmental Solutions (Ireland) Limited: BnM Portlaoise Dust 1 of 3 2022 Rpt]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23199 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846421.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846421.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:49 GMT</pubDate>
-            <description><![CDATA[SV23199 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0687-02 -- Abbott Ireland: SV23199 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV24199 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673a.pdf</guid>
+            <pubDate>Sun, 09 Oct 2022 21:02:20 GMT</pubDate>
+            <description><![CDATA[SV24199 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0973-01 -- Cook Ireland Limited: SV24199 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23701 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846426.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846426.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:49 GMT</pubDate>
-            <description><![CDATA[SV23701 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0194-02 -- Advanced Environmental Solutions (Ireland) Limited: SV23701 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Site Office Gas Monitoring - Week 31 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673e.pdf</guid>
+            <pubDate>Sun, 09 Oct 2022 21:02:24 GMT</pubDate>
+            <description><![CDATA[Site Office Gas Monitoring - Week 31 2022]]></description>
+            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Site Office Gas Monitoring - Week 31 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[07.  Cover letter to EPA July 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640f.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:47 GMT</pubDate>
-            <description><![CDATA[07.  Cover letter to EPA July 2022]]></description>
-            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 07.  Cover letter to EPA July 2022]]></content:encoded>
+            <title><![CDATA[Site Office Gas Monitoring - Week 32 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673f.pdf</guid>
+            <pubDate>Sun, 09 Oct 2022 21:02:25 GMT</pubDate>
+            <description><![CDATA[Site Office Gas Monitoring - Week 32 2022]]></description>
+            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Site Office Gas Monitoring - Week 32 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[07. Monthly Report to EPA July 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846410.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846410.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:47 GMT</pubDate>
-            <description><![CDATA[07. Monthly Report to EPA July 2022]]></description>
-            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 07. Monthly Report to EPA July 2022]]></content:encoded>
+            <title><![CDATA[SV25793 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846742.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846742.pdf</guid>
+            <pubDate>Sun, 09 Oct 2022 21:02:26 GMT</pubDate>
+            <description><![CDATA[SV25793 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: SV25793 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[07. SW1 River Sampling July 22]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846411.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846411.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:47 GMT</pubDate>
-            <description><![CDATA[07. SW1 River Sampling July 22]]></description>
-            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 07. SW1 River Sampling July 22]]></content:encoded>
+            <title><![CDATA[SV25725 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846739.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846739.pdf</guid>
+            <pubDate>Sun, 09 Oct 2022 21:02:19 GMT</pubDate>
+            <description><![CDATA[SV25725 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0855-01 -- Kiernan Structural Steel Limited: SV25725 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[07. SW2  Ammonia July 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846412.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846412.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:47 GMT</pubDate>
-            <description><![CDATA[07. SW2  Ammonia July 2022]]></description>
-            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 07. SW2  Ammonia July 2022]]></content:encoded>
+            <title><![CDATA[SV25697 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846738.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846738.pdf</guid>
+            <pubDate>Sun, 09 Oct 2022 21:02:18 GMT</pubDate>
+            <description><![CDATA[SV25697 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0809-01 -- Cadbury Ireland Limited: SV25697 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[07. SW2 July 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846413.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846413.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:47 GMT</pubDate>
-            <description><![CDATA[07. SW2 July 2022]]></description>
-            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 07. SW2 July 2022]]></content:encoded>
+            <title><![CDATA[ERF 6.2A EMR NCC July 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673b.pdf</guid>
+            <pubDate>Sun, 09 Oct 2022 21:02:21 GMT</pubDate>
+            <description><![CDATA[ERF 6.2A EMR NCC July 2022]]></description>
+            <content:encoded><![CDATA[P1051-01 -- North Cork Co Operative Limited: ERF 6.2A EMR NCC July 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[07. SW3  July 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846414.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846414.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:47 GMT</pubDate>
-            <description><![CDATA[07. SW3  July 2022]]></description>
-            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 07. SW3  July 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23274 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640c.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:46 GMT</pubDate>
-            <description><![CDATA[SV23274 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0031-02 -- Crag Arklow Limited: SV23274 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23274 - Licensee Public Response]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640d.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:46 GMT</pubDate>
-            <description><![CDATA[SV23274 - Licensee Public Response]]></description>
-            <content:encoded><![CDATA[P0031-02 -- Crag Arklow Limited: SV23274 - Licensee Public Response]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23264 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640b.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:45 GMT</pubDate>
-            <description><![CDATA[SV23264 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0022-03 -- Fair Green Environmental Limited: SV23264 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23211 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846422.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846422.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:49 GMT</pubDate>
-            <description><![CDATA[SV23211 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0815-02 -- Lacpatrick Dairies Limited: SV23211 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV25657 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846423.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846423.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:49 GMT</pubDate>
-            <description><![CDATA[SV25657 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Co Operative Limited: SV25657 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[22-20981 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846424.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846424.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:49 GMT</pubDate>
-            <description><![CDATA[22-20981 1]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Co Operative Limited: 22-20981 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ERF 6.2A EMR NCC August 8th 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846425.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846425.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:49 GMT</pubDate>
-            <description><![CDATA[ERF 6.2A EMR NCC August 8th 2022]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Co Operative Limited: ERF 6.2A EMR NCC August 8th 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23319 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084640e.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:46 GMT</pubDate>
-            <description><![CDATA[SV23319 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0153-06 -- Pfizer Ireland Pharmaceuticals: SV23319 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Apr 22 SW1 weekly results]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846415.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846415.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:47 GMT</pubDate>
-            <description><![CDATA[Apr 22 SW1 weekly results]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Apr 22 SW1 weekly results]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[April 2022 Surface Water pH1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846416.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846416.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:47 GMT</pubDate>
-            <description><![CDATA[April 2022 Surface Water pH1]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: April 2022 Surface Water pH1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[April 2022 Surface Water TOC mg-l]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846417.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846417.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:47 GMT</pubDate>
-            <description><![CDATA[April 2022 Surface Water TOC mg-l]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: April 2022 Surface Water TOC mg-l]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[April 2022 SW1 logbook]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846418.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846418.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:48 GMT</pubDate>
-            <description><![CDATA[April 2022 SW1 logbook]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: April 2022 SW1 logbook]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Jun 22 SW1 weekly results]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846419.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846419.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:48 GMT</pubDate>
-            <description><![CDATA[Jun 22 SW1 weekly results]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Jun 22 SW1 weekly results]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[June 2022 Surface Water pH1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641a.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:48 GMT</pubDate>
-            <description><![CDATA[June 2022 Surface Water pH1]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: June 2022 Surface Water pH1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[June 2022 Surface Water TOC mg-l]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641b.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:48 GMT</pubDate>
-            <description><![CDATA[June 2022 Surface Water TOC mg-l]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: June 2022 Surface Water TOC mg-l]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[June 2022 SW1 logbook]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641c.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:48 GMT</pubDate>
-            <description><![CDATA[June 2022 SW1 logbook]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: June 2022 SW1 logbook]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[May 2022 Surface Water pH1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641d.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:48 GMT</pubDate>
-            <description><![CDATA[May 2022 Surface Water pH1]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: May 2022 Surface Water pH1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[May 2022 Surface Water TOC mg-l]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641e.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:48 GMT</pubDate>
-            <description><![CDATA[May 2022 Surface Water TOC mg-l]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: May 2022 Surface Water TOC mg-l]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[May 2022 SW1 logbook]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084641f.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:48 GMT</pubDate>
-            <description><![CDATA[May 2022 SW1 logbook]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: May 2022 SW1 logbook]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[May 22 SW1 weekly results]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846420.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280846420.pdf</guid>
-            <pubDate>Sat, 08 Oct 2022 21:10:49 GMT</pubDate>
-            <description><![CDATA[May 22 SW1 weekly results]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: May 22 SW1 weekly results]]></content:encoded>
+            <title><![CDATA[W0058-01 Sligo 2022 GroundWater]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084673d.pdf</guid>
+            <pubDate>Sun, 09 Oct 2022 21:02:22 GMT</pubDate>
+            <description><![CDATA[W0058-01 Sligo 2022 GroundWater]]></description>
+            <content:encoded><![CDATA[W0058-01 -- Starrus Eco Holding Limited: W0058-01 Sligo 2022 GroundWater]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
