@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Thu, 13 Oct 2022 02:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 03:00:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -16,219 +16,66 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Notification to Applicant Request for Further Information]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808472b2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808472b2.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 15:30:12 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Request for Further Information]]></description>
-            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Notification to Applicant Request for Further Information]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011746]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808476b6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808476b6.pdf</guid>
+            <pubDate>Thu, 13 Oct 2022 12:30:17 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011746]]></description>
+            <content:encoded><![CDATA[P0035-08 -- Aughinish Alumina Limited: Notification to Applicant Extension Request - LACT00011746]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 29]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847181.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847181.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 08:10:19 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 29]]></description>
-            <content:encoded><![CDATA[P1169-01 -- Chemoran Limited: Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 29]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - PD Extension Date Consent 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847712.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847712.pdf</guid>
+            <pubDate>Thu, 13 Oct 2022 14:40:24 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - PD Extension Date Consent 1]]></description>
+            <content:encoded><![CDATA[P0035-08 -- Aughinish Alumina Limited: Letter from Applicant - PD Extension Date Consent 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00011743]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808472f2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808472f2.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 16:50:45 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00011743]]></description>
-            <content:encoded><![CDATA[W0232-02 -- Dublin Waste to Energy Limited: Notification to Applicant Extension Request - LACT00011743]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011749]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847724.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847724.pdf</guid>
+            <pubDate>Thu, 13 Oct 2022 14:50:24 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011749]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Notification to Applicant Extension Request - LACT00011749]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084726e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084726e.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 13:51:07 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></description>
-            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - LetEPA131022 Extension approval]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084765f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084765f.pdf</guid>
+            <pubDate>Thu, 13 Oct 2022 10:10:08 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - LetEPA131022 Extension approval]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Letter from Applicant - LetEPA131022 Extension approval]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Bodies Request for Information Observat]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084726f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084726f.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 13:51:08 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Bodies Request for Information Observat]]></description>
-            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: Notification to Planning Bodies Request for Information Observat]]></content:encoded>
+            <title><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847609.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847609.pdf</guid>
+            <pubDate>Thu, 13 Oct 2022 08:11:03 GMT</pubDate>
+            <description><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2)]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Reminder Email (RFI Overdue)  - Reg 14(2)]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Newspaper Notice - Final Determination 9]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808471e0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808471e0.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 10:30:57 GMT</pubDate>
-            <description><![CDATA[Newspaper Notice - Final Determination 9]]></description>
-            <content:encoded><![CDATA[P1070-02 -- Errigal Farms Limited: Newspaper Notice - Final Determination 9]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011748]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847725.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847725.pdf</guid>
+            <pubDate>Thu, 13 Oct 2022 14:50:25 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011748]]></description>
+            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Notification to Applicant Extension Request - LACT00011748]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1140-01 Newspaper Notice FD]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808472d1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808472d1.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 16:10:15 GMT</pubDate>
-            <description><![CDATA[P1140-01 Newspaper Notice FD]]></description>
-            <content:encoded><![CDATA[P1140-01 -- Glanbia Ireland DAC & Nutricia Infant Nutrition Lt: P1140-01 Newspaper Notice FD]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P0010-05 Newspaper Notice FD - Examiner Redacted]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808472d0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808472d0.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 16:10:14 GMT</pubDate>
-            <description><![CDATA[P0010-05 Newspaper Notice FD - Examiner Redacted]]></description>
-            <content:encoded><![CDATA[P0010-05 -- Hovione Limited: P0010-05 Newspaper Notice FD - Examiner Redacted]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00011741]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084723d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084723d.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 13:01:17 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00011741]]></description>
-            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Notification to Applicant Extension Request - LACT00011741]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Clerical Amendment A]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084740b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084740b.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 21:02:22 GMT</pubDate>
-            <description><![CDATA[Clerical Amendment A]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Ltd: Clerical Amendment A]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 4 4]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473d8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473d8.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:57 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 4 4]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 4 4]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.1 Tankered Waste Water Agreements TWA-10266-01]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473d9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473d9.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:57 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.1 Tankered Waste Water Agreements TWA-10266-01]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.1 Tankered Waste Water Agreements TWA-10266-01]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.1-1-WCD app Emissions-Overview 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473da.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473da.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:58 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.1-1-WCD app Emissions-Overview 1]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.1-1-WCD app Emissions-Overview 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.3-1 WCD Sewer 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473db.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473db.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:58 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.3-1 WCD Sewer 1]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.3-1 WCD Sewer 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.4-1 WCD -Air-Main 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473dc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473dc.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:58 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.4-1 WCD -Air-Main 1]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.4-1 WCD -Air-Main 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.4-2 WCD -Air-Minor-Potential 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473dd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473dd.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:58 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.4-2 WCD -Air-Minor-Potential 1]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.4-2 WCD -Air-Minor-Potential 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.4-2-WCD Air Quality Model]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473de.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473de.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:58 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.4-2-WCD Air Quality Model]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.4-2-WCD Air Quality Model]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.4-3- WCD Odour Assessment]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473df.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473df.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:59 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.4-3- WCD Odour Assessment]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.4-3- WCD Odour Assessment]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.4 4]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e0.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:59 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.4 4]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.4 4]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.5 WCD Noise]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e1.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:59 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.5 WCD Noise]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.5 WCD Noise]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.5-1 Acoustic Compliance Report WCD 2022 Rev01]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e2.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:50:59 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.5-1 Acoustic Compliance Report WCD 2022 Rev01]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.5-1 Acoustic Compliance Report WCD 2022 Rev01]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7.7-1  WCD Storm Water Updated]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e3.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:51:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7.7-1  WCD Storm Water Updated]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7.7-1  WCD Storm Water Updated]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7 5]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e4.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:51:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7 5]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7 5]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 7 6]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808473e5.pdf</guid>
-            <pubDate>Wed, 12 Oct 2022 20:51:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 7 6]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Letter from Applicant - 7 6]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - 221003 - E1901 - Response to the EPA]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847650.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280847650.pdf</guid>
+            <pubDate>Thu, 13 Oct 2022 10:00:38 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 221003 - E1901 - Response to the EPA]]></description>
+            <content:encoded><![CDATA[P0638-02 -- Zoetis Belgium S.A.: Letter from Applicant - 221003 - E1901 - Response to the EPA]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
