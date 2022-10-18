@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 17 Oct 2022 02:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 02:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -16,120 +16,327 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Alexion Groundwater Monitoring - Final Aug 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848234.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848234.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:14 GMT</pubDate>
-            <description><![CDATA[Alexion Groundwater Monitoring - Final Aug 2022]]></description>
-            <content:encoded><![CDATA[P1030-01 -- Alexion Pharma Internations Trading: Alexion Groundwater Monitoring - Final Aug 2022]]></content:encoded>
+            <title><![CDATA[SV25799 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848668.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848668.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:02:24 GMT</pubDate>
+            <description><![CDATA[SV25799 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0275-01 -- Lufthansa Airmotive Ireland Limited: SV25799 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - 217501 1055NL01 Extension Duration Approval]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808481f1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808481f1.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 19:40:15 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 217501 1055NL01 Extension Duration Approval]]></description>
-            <content:encoded><![CDATA[P1186-01 -- Amazon Data Services Ireland Limited: Letter from Applicant - 217501 1055NL01 Extension Duration Approval]]></content:encoded>
+            <title><![CDATA[Final Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848568.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848568.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 16:28:05 GMT</pubDate>
+            <description><![CDATA[Final Determination]]></description>
+            <content:encoded><![CDATA[P0685-01 -- Bogue Pigs: Final Determination]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25741 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848232.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848232.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:12 GMT</pubDate>
-            <description><![CDATA[SV25741 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: SV25741 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Specified Body Notification - FD Issued - Licence Granted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808484ed.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808484ed.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 14:50:48 GMT</pubDate>
+            <description><![CDATA[Specified Body Notification - FD Issued - Licence Granted]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Specified Body Notification - FD Issued - Licence Granted]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25830 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848236.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848236.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:17 GMT</pubDate>
-            <description><![CDATA[SV25830 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0194-02 -- Advanced Environmental Solutions (Ireland) Limited: SV25830 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Letter to Applicant - Final Determination LACT00011763]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808484ee.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808484ee.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 14:50:49 GMT</pubDate>
+            <description><![CDATA[Letter to Applicant - Final Determination LACT00011763]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Letter to Applicant - Final Determination LACT00011763]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23875 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084822e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084822e.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:06 GMT</pubDate>
-            <description><![CDATA[SV23875 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0075-03 -- Burgess Galvin & Company Limited: SV23875 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Notification to Third Parties - FD Issued - Licence Granted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808484ef.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808484ef.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 14:50:49 GMT</pubDate>
+            <description><![CDATA[Notification to Third Parties - FD Issued - Licence Granted]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Notification to Third Parties - FD Issued - Licence Granted]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25853 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848231.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848231.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:10 GMT</pubDate>
-            <description><![CDATA[SV25853 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0777-02 -- Viridian Power Limited: SV25853 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Final Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848500.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848500.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 15:01:02 GMT</pubDate>
+            <description><![CDATA[Final Determination]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Final Determination]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[30274 Ballycoolin Noise 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084822f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084822f.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:08 GMT</pubDate>
-            <description><![CDATA[30274 Ballycoolin Noise 2022]]></description>
-            <content:encoded><![CDATA[P0081-02 -- Irish Asphalt Limited: 30274 Ballycoolin Noise 2022]]></content:encoded>
+            <title><![CDATA[Technical Committee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084852c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084852c.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 15:40:21 GMT</pubDate>
+            <description><![CDATA[Technical Committee Report]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Technical Committee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0227-0122AQ12 Annual Noise Monitoring Letter]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848249.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848249.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:10:50 GMT</pubDate>
-            <description><![CDATA[W0227-0122AQ12 Annual Noise Monitoring Letter]]></description>
-            <content:encoded><![CDATA[W0227-01 -- Lawlor Brothers Waste Disposal Ltd t/a Access Skip Hire: W0227-0122AQ12 Annual Noise Monitoring Letter]]></content:encoded>
+            <title><![CDATA[Board Minutes]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084852d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084852d.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 15:40:22 GMT</pubDate>
+            <description><![CDATA[Board Minutes]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Board Minutes]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0227-0122AQ12 Annual Noise Monitoring Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084824a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084824a.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:10:51 GMT</pubDate>
-            <description><![CDATA[W0227-0122AQ12 Annual Noise Monitoring Report]]></description>
-            <content:encoded><![CDATA[W0227-01 -- Lawlor Brothers Waste Disposal Ltd t/a Access Skip Hire: W0227-0122AQ12 Annual Noise Monitoring Report]]></content:encoded>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848558.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848558.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 16:20:52 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV24157 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848237.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848237.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:18 GMT</pubDate>
-            <description><![CDATA[SV24157 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0220-01 -- Starrus Eco Holding Limited: SV24157 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority - Register - LACT00011767]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848559.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848559.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 16:20:53 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register - LACT00011767]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Notification to Planning Authority - Register - LACT00011767]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Complaints Log - 08-08-2022 to 15-08-2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848233.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848233.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:13 GMT</pubDate>
-            <description><![CDATA[Complaints Log - 08-08-2022 to 15-08-2022]]></description>
-            <content:encoded><![CDATA[P0947-02 -- Staunton Foods Limited: Complaints Log - 08-08-2022 to 15-08-2022]]></content:encoded>
+            <title><![CDATA[Register of Licence]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084855a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084855a.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 16:20:53 GMT</pubDate>
+            <description><![CDATA[Register of Licence]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Register of Licence]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Tipperary Councty Council Donohill F1 1 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848235.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848235.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:16 GMT</pubDate>
-            <description><![CDATA[Tipperary Councty Council Donohill F1 1 2022 Report]]></description>
-            <content:encoded><![CDATA[W0074-03 -- South Tipperary County Council: Tipperary Councty Council Donohill F1 1 2022 Report]]></content:encoded>
+            <title><![CDATA[Letter to Applicant  - Return of Confidential Information -]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808484c7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808484c7.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 14:20:47 GMT</pubDate>
+            <description><![CDATA[Letter to Applicant  - Return of Confidential Information -]]></description>
+            <content:encoded><![CDATA[P1169-01 -- Chemoran Limited: Letter to Applicant  - Return of Confidential Information -]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Woodfab SW and GW Report 2021 V5]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848230.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848230.pdf</guid>
-            <pubDate>Sun, 16 Oct 2022 21:02:09 GMT</pubDate>
-            <description><![CDATA[Woodfab SW and GW Report 2021 V5]]></description>
-            <content:encoded><![CDATA[P0358-01 -- Woodfab Timber Limited: Woodfab SW and GW Report 2021 V5]]></content:encoded>
+            <title><![CDATA[Ballyduff Beg Report Jul 2022 monitoring]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084868b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084868b.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:38 GMT</pubDate>
+            <description><![CDATA[Ballyduff Beg Report Jul 2022 monitoring]]></description>
+            <content:encoded><![CDATA[W0109-02 -- Clare County Council: Ballyduff Beg Report Jul 2022 monitoring]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Site Office Gas Monitoring - Week 33 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084866d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084866d.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:02:29 GMT</pubDate>
+            <description><![CDATA[Site Office Gas Monitoring - Week 33 2022]]></description>
+            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Site Office Gas Monitoring - Week 33 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Response to request for extension]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848433.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848433.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 11:10:38 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Response to request for extension]]></description>
+            <content:encoded><![CDATA[W0232-02 -- Dublin Waste to Energy Limited: Letter from Applicant - Response to request for extension]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[LEK 13233 Galco Waterford 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084866a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084866a.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:02:26 GMT</pubDate>
+            <description><![CDATA[LEK 13233 Galco Waterford 2022]]></description>
+            <content:encoded><![CDATA[P0385-01 -- Waterford Metal Industries Limited: LEK 13233 Galco Waterford 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25742 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848667.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848667.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:02:24 GMT</pubDate>
+            <description><![CDATA[SV25742 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0172-01 -- Cabglove Limited: SV25742 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Apr 2022 Waste Water Results]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084867f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084867f.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:37 GMT</pubDate>
+            <description><![CDATA[Apr 2022 Waste Water Results]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Apr 2022 Waste Water Results]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[April 2022 Trade Effluent Flow]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848680.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848680.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:37 GMT</pubDate>
+            <description><![CDATA[April 2022 Trade Effluent Flow]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: April 2022 Trade Effluent Flow]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[April 2022 Trade Effluent pH1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848681.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848681.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:37 GMT</pubDate>
+            <description><![CDATA[April 2022 Trade Effluent pH1]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: April 2022 Trade Effluent pH1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[April 2022 Trade Effluent Temperature]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848682.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848682.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:37 GMT</pubDate>
+            <description><![CDATA[April 2022 Trade Effluent Temperature]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: April 2022 Trade Effluent Temperature]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Daily Totals Q2 2022 TE1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848683.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848683.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:37 GMT</pubDate>
+            <description><![CDATA[Daily Totals Q2 2022 TE1]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Daily Totals Q2 2022 TE1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Jun 2022 Waste Water Results]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848684.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848684.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:37 GMT</pubDate>
+            <description><![CDATA[Jun 2022 Waste Water Results]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Jun 2022 Waste Water Results]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[June 2022 Temperature Flow  TE1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848685.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848685.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:37 GMT</pubDate>
+            <description><![CDATA[June 2022 Temperature Flow  TE1]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: June 2022 Temperature Flow  TE1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[June 2022 Trade Effluent Flow]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848686.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848686.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:38 GMT</pubDate>
+            <description><![CDATA[June 2022 Trade Effluent Flow]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: June 2022 Trade Effluent Flow]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[May 2022 Trade Effluent Flow]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848687.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848687.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:38 GMT</pubDate>
+            <description><![CDATA[May 2022 Trade Effluent Flow]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: May 2022 Trade Effluent Flow]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[May 2022 Trade Effluent pH1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848688.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848688.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:38 GMT</pubDate>
+            <description><![CDATA[May 2022 Trade Effluent pH1]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: May 2022 Trade Effluent pH1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[May 2022 Trade Effluent Temperature]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848689.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848689.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:38 GMT</pubDate>
+            <description><![CDATA[May 2022 Trade Effluent Temperature]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: May 2022 Trade Effluent Temperature]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[May 2022 Waste Water Results]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084868a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084868a.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:10:38 GMT</pubDate>
+            <description><![CDATA[May 2022 Waste Water Results]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: May 2022 Waste Water Results]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25749 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848669.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848669.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:02:25 GMT</pubDate>
+            <description><![CDATA[SV25749 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0376-02 -- Premier Periclase Limited: SV25749 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV24157 - Licensee Public Response]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084866f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084866f.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 21:02:30 GMT</pubDate>
+            <description><![CDATA[SV24157 - Licensee Public Response]]></description>
+            <content:encoded><![CDATA[W0220-01 -- Starrus Eco Holding Limited: SV24157 - Licensee Public Response]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment 6-7-1 Evidence of Notices]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483cf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483cf.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 08:40:58 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment 6-7-1 Evidence of Notices]]></description>
+            <content:encoded><![CDATA[P0693-03 -- Takeda Ireland Limited: Letter from Applicant - Attachment 6-7-1 Evidence of Notices]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment 6-7-2 Evidence of Noitce Newspaper]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483d0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483d0.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 08:40:58 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment 6-7-2 Evidence of Noitce Newspaper]]></description>
+            <content:encoded><![CDATA[P0693-03 -- Takeda Ireland Limited: Letter from Applicant - Attachment 6-7-2 Evidence of Noitce Newspaper]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Site Notice 13 Oct 2022 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483d1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483d1.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 08:40:59 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Site Notice 13 Oct 2022 1]]></description>
+            <content:encoded><![CDATA[P0693-03 -- Takeda Ireland Limited: Letter from Applicant - Site Notice 13 Oct 2022 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Site Notice 13 Oct 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483d2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483d2.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 08:40:59 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Site Notice 13 Oct 2022]]></description>
+            <content:encoded><![CDATA[P0693-03 -- Takeda Ireland Limited: Letter from Applicant - Site Notice 13 Oct 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Final Determination and Notification]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483eb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808483eb.pdf</guid>
+            <pubDate>Mon, 17 Oct 2022 09:08:09 GMT</pubDate>
+            <description><![CDATA[Final Determination and Notification]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Ltd: Final Determination and Notification]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
