@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Thu, 20 Oct 2022 02:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 02:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -16,246 +16,129 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Newspaper Notice - FD]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848ed5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848ed5.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 11:30:26 GMT</pubDate>
-            <description><![CDATA[Newspaper Notice - FD]]></description>
-            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: Newspaper Notice - FD]]></content:encoded>
+            <title><![CDATA[Submission - Snapshot - Submission No S010644  - P0040-03 - Tom�s  Breathnach]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849687.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849687.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 22:50:10 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010644  - P0040-03 - Tom�s  Breathnach]]></description>
+            <content:encoded><![CDATA[P0040-03 -- Anglo Beef Processors Ireland Unlimited Company: Submission - Snapshot - Submission No S010644  - P0040-03 - Tom�s  Breathnach]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Reg 10 response]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849006.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849006.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 15:30:10 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Reg 10 response]]></description>
-            <content:encoded><![CDATA[P1169-01 -- Chemoran Limited: Letter from Applicant - Reg 10 response]]></content:encoded>
+            <title><![CDATA[S010644 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849688.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849688.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 22:50:11 GMT</pubDate>
+            <description><![CDATA[S010644 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0040-03 -- Anglo Beef Processors Ireland Unlimited Company: S010644 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P01187-01 A-App-RFI ADMIN Reg.10(2)(b)(ii) Reminder]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848f1e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848f1e.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 13:10:31 GMT</pubDate>
-            <description><![CDATA[P01187-01 A-App-RFI ADMIN Reg.10(2)(b)(ii) Reminder]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: P01187-01 A-App-RFI ADMIN Reg.10(2)(b)(ii) Reminder]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011801]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808494b3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808494b3.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 14:10:38 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011801]]></description>
+            <content:encoded><![CDATA[P0065-02 -- Kingspan Limited: Notification to Applicant Extension Request - LACT00011801]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1187-01 Request for Further Information Reg7 reminder - LACT000]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848f37.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848f37.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 13:30:33 GMT</pubDate>
-            <description><![CDATA[P1187-01 Request for Further Information Reg7 reminder - LACT000]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: P1187-01 Request for Further Information Reg7 reminder - LACT000]]></content:encoded>
+            <title><![CDATA[Recommended Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084905b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084905b.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 14:59:50 GMT</pubDate>
+            <description><![CDATA[Recommended Determination]]></description>
+            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: Recommended Determination]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Attachment 6-7-4- Evidence of Notices - PA 9]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848fcf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848fcf.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 15:10:38 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Attachment 6-7-4- Evidence of Notices - PA 9]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Letter from Applicant - Attachment 6-7-4- Evidence of Notices - PA 9]]></content:encoded>
+            <title><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 16]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849378.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849378.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 08:10:48 GMT</pubDate>
+            <description><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 16]]></description>
+            <content:encoded><![CDATA[P1162-01 -- Mr. Brendan Duffy: Reminder Email (RFI Overdue)  - Reg 14(2) Notice 16]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Attachment 6-7-1-Evidence of Notices - Site 9]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848fe2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848fe2.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 15:20:38 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Attachment 6-7-1-Evidence of Notices - Site 9]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Letter from Applicant - Attachment 6-7-1-Evidence of Notices - Site 9]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Agreeing to extend PD due date]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808493e1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808493e1.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 10:40:55 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Agreeing to extend PD due date]]></description>
+            <content:encoded><![CDATA[P1162-01 -- Mr. Brendan Duffy: Letter from Applicant - Agreeing to extend PD due date]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Attachment 6-7-2 Evidence of Notice Newpaper 2]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848fe3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848fe3.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 15:20:39 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Attachment 6-7-2 Evidence of Notice Newpaper 2]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Letter from Applicant - Attachment 6-7-2 Evidence of Notice Newpaper 2]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011803]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084953a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084953a.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 16:40:46 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011803]]></description>
+            <content:encoded><![CDATA[P0020-03 -- Oled Material Manufacturing Limited: Notification to Applicant Extension Request - LACT00011803]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Attachment 6-7-2 Evidence of Notice Newpaper 3]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848fe4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848fe4.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 15:20:39 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Attachment 6-7-2 Evidence of Notice Newpaper 3]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Letter from Applicant - Attachment 6-7-2 Evidence of Notice Newpaper 3]]></content:encoded>
+            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 14(2) Notice 8]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849379.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849379.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 08:10:49 GMT</pubDate>
+            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 14(2) Notice 8]]></description>
+            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Reminder Email (upcoming due date)  - Reg 14(2) Notice 8]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant - Proposed Determination issued]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848eea.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848eea.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 11:50:57 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Proposed Determination issued]]></description>
-            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: Notification to Applicant - Proposed Determination issued]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - EPA Ormonde Deferral letter Oct 22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808493b0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808493b0.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 09:30:54 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - EPA Ormonde Deferral letter Oct 22]]></description>
+            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Letter from Applicant - EPA Ormonde Deferral letter Oct 22]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[PD Issued to Notification to Specified Bodies]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848eeb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848eeb.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 11:50:58 GMT</pubDate>
-            <description><![CDATA[PD Issued to Notification to Specified Bodies]]></description>
-            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: PD Issued to Notification to Specified Bodies]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00011795]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084941f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084941f.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 11:50:30 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00011795]]></description>
+            <content:encoded><![CDATA[P0012-06 -- Roche Ireland Limited: Notification to Applicant Compliance Notice EIA - LACT00011795]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[PD Issued to Notification to Submitter]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848eec.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848eec.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 11:50:58 GMT</pubDate>
-            <description><![CDATA[PD Issued to Notification to Submitter]]></description>
-            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: PD Issued to Notification to Submitter]]></content:encoded>
+            <title><![CDATA[Notification to Submitters Proposed Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084905a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084905a.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 12:58:50 GMT</pubDate>
+            <description><![CDATA[Notification to Submitters Proposed Determination]]></description>
+            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: Notification to Submitters Proposed Determination]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808490ad.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808490ad.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 17:00:14 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
-            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084945e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084945e.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 12:41:03 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register]]></description>
+            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: Notification to Planning Authority - Register]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register - LACT00011788]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808490ae.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808490ae.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 17:00:15 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register - LACT00011788]]></description>
-            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: Notification to Planning Authority - Register - LACT00011788]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084945f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084945f.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 12:41:04 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register]]></description>
+            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: Notification to Planning Authority - Register]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Directors Decision Re Recommended Determination 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808490af.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808490af.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 17:00:15 GMT</pubDate>
-            <description><![CDATA[Directors Decision Re Recommended Determination 1]]></description>
-            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: Directors Decision Re Recommended Determination 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P0215-02 Register of Licence 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808490b0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808490b0.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 17:00:17 GMT</pubDate>
-            <description><![CDATA[P0215-02 Register of Licence 1]]></description>
-            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: P0215-02 Register of Licence 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[IR-LA007017]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849190.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849190.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 21:02:16 GMT</pubDate>
-            <description><![CDATA[IR-LA007017]]></description>
-            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: IR-LA007017]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[PD-LA007017]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808491a1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808491a1.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[PD-LA007017]]></description>
-            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: PD-LA007017]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00011787]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849069.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849069.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 16:01:13 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00011787]]></description>
-            <content:encoded><![CDATA[P1162-01 -- Mr. Brendan Duffy: Notification to Applicant Extension Request - LACT00011787]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[A-App-RFI ADMIN Reg.10(2)(b)(ii) or Art14(2)(b)(ii)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849068.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849068.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 16:01:12 GMT</pubDate>
-            <description><![CDATA[A-App-RFI ADMIN Reg.10(2)(b)(ii) or Art14(2)(b)(ii)]]></description>
-            <content:encoded><![CDATA[P1132-02 -- S. Wilkin And Sons Limited: A-App-RFI ADMIN Reg.10(2)(b)(ii) or Art14(2)(b)(ii)]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant - Proposed Determination]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849023.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849023.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 15:40:11 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Proposed Determination]]></description>
-            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: Notification to Applicant - Proposed Determination]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[PD Issued � Notification - Specified Bodies]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849024.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849024.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 15:40:12 GMT</pubDate>
-            <description><![CDATA[PD Issued � Notification - Specified Bodies]]></description>
-            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: PD Issued � Notification - Specified Bodies]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[PD Issued � Notification - Submitters]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849025.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849025.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 15:40:12 GMT</pubDate>
-            <description><![CDATA[PD Issued � Notification - Submitters]]></description>
-            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: PD Issued � Notification - Submitters]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Proposed Determination - Director Decision]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849033.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849033.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 15:50:40 GMT</pubDate>
-            <description><![CDATA[Proposed Determination - Director Decision]]></description>
-            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: Proposed Determination - Director Decision]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[IR-LA001443]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849191.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849191.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 21:02:17 GMT</pubDate>
-            <description><![CDATA[IR-LA001443]]></description>
-            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: IR-LA001443]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[RD-LA001443]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849192.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849192.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 21:02:17 GMT</pubDate>
-            <description><![CDATA[RD-LA001443]]></description>
-            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: RD-LA001443]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[PD-LA001443]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808491a2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808491a2.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 21:10:28 GMT</pubDate>
-            <description><![CDATA[PD-LA001443]]></description>
-            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: PD-LA001443]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant - Extension of Final Determination due date]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848f6e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280848f6e.pdf</guid>
-            <pubDate>Wed, 19 Oct 2022 14:30:35 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Extension of Final Determination due date]]></description>
-            <content:encoded><![CDATA[P1146-01 -- Wuxi Vaccines Ireland Limited: Notification to Applicant - Extension of Final Determination due date]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849460.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280849460.pdf</guid>
+            <pubDate>Thu, 20 Oct 2022 12:41:04 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register]]></description>
+            <content:encoded><![CDATA[P1069-01 -- William Connolly & Sons Unlimited Company: Notification to Planning Authority - Register]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
