@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 24 Oct 2022 02:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 02:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -16,93 +16,300 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV25873 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2da.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2da.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:01:34 GMT</pubDate>
-            <description><![CDATA[SV25873 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0913-02 -- Greenfield Foods Limited: SV25873 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV23277 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a718.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a718.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:02:31 GMT</pubDate>
+            <description><![CDATA[SV23277 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0035-07 -- Aughinish Alumina Limited: SV23277 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Dawn CX Ambient River Monitoring]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2e5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2e5.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:10:51 GMT</pubDate>
-            <description><![CDATA[Dawn CX Ambient River Monitoring]]></description>
-            <content:encoded><![CDATA[P1088-01 -- Dawn Meats Ireland Unlimited Company: Dawn CX Ambient River Monitoring]]></content:encoded>
+            <title><![CDATA[SV25866 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a778.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a778.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:40 GMT</pubDate>
+            <description><![CDATA[SV25866 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: SV25866 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25862 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d6.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:01:30 GMT</pubDate>
-            <description><![CDATA[SV25862 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0172-01 -- Cabglove Limited: SV25862 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV23552 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a779.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a779.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:40 GMT</pubDate>
+            <description><![CDATA[SV23552 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0864-01 -- BioMarin Manufacturing Ireland Limited: SV23552 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[water results]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d9.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:01:33 GMT</pubDate>
-            <description><![CDATA[water results]]></description>
-            <content:encoded><![CDATA[P0859-01 -- Martin Jennings Wholesale l;imited: water results]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - 4. 6. 2 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a622.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a622.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 16:50:51 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 4. 6. 2 1]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Letter from Applicant - 4. 6. 2 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25790 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2e3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2e3.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:10:50 GMT</pubDate>
-            <description><![CDATA[SV25790 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0924-01 -- Mr. Frank Brady: SV25790 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - 4.6.1 72]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a623.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a623.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 16:50:51 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 4.6.1 72]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Letter from Applicant - 4.6.1 72]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25794 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2e4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2e4.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:10:51 GMT</pubDate>
-            <description><![CDATA[SV25794 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0924-01 -- Mr. Frank Brady: SV25794 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Dimensioningplan BWL 2005.01 poultry 70 chem.]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a624.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a624.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 16:50:52 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Dimensioningplan BWL 2005.01 poultry 70 chem.]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Letter from Applicant - Dimensioningplan BWL 2005.01 poultry 70 chem.]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23970 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2db.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2db.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:01:35 GMT</pubDate>
-            <description><![CDATA[SV23970 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P1050-01 -- Mr Fergal McEntee: SV23970 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Let EPA 24102022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a625.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a625.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 16:50:52 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Let EPA 24102022]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Letter from Applicant - Let EPA 24102022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV24060 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d5.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:01:29 GMT</pubDate>
-            <description><![CDATA[SV24060 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0011-06 -- MSD International GMBH: SV24060 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Raymond Brady-scrubber-Option 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a626.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a626.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 16:50:52 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Raymond Brady-scrubber-Option 1]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Letter from Applicant - Raymond Brady-scrubber-Option 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23215 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d8.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:01:32 GMT</pubDate>
-            <description><![CDATA[SV23215 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0836-01 -- Suretank Limited: SV23215 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Raymond Brady-scrubber-Option 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a627.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a627.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 16:50:52 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Raymond Brady-scrubber-Option 2]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Letter from Applicant - Raymond Brady-scrubber-Option 2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25796 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a2d7.pdf</guid>
-            <pubDate>Sun, 23 Oct 2022 21:01:31 GMT</pubDate>
-            <description><![CDATA[SV25796 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0236-02 -- WellMan International Limited: SV25796 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - SDS-Sulphuric-Acid]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a628.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a628.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 16:50:52 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - SDS-Sulphuric-Acid]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Letter from Applicant - SDS-Sulphuric-Acid]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV23727 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a783.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a783.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:41 GMT</pubDate>
+            <description><![CDATA[SV23727 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0253-01 -- Clean (Irl) Refuse and Recycling Limited: SV23727 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25699 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a771.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a771.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:38 GMT</pubDate>
+            <description><![CDATA[SV25699 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0048-03 -- Dawn Meats Ireland t/a Western Proteins: SV25699 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011816]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a50d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a50d.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 12:20:37 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011816]]></description>
+            <content:encoded><![CDATA[P0355-02 -- Earrai Coillte Chonnacht Teoranta: Notification to Applicant Extension Request - LACT00011816]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25776 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a784.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a784.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:41 GMT</pubDate>
+            <description><![CDATA[SV25776 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0291-02 -- Forge Hill Recycling Unlimited Company: SV25776 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV23473 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a777.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a777.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:39 GMT</pubDate>
+            <description><![CDATA[SV23473 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SV23473 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[100622 Greyhound Recycling R1 2022 Dust Ver 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a780.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a780.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:41 GMT</pubDate>
+            <description><![CDATA[100622 Greyhound Recycling R1 2022 Dust Ver 1]]></description>
+            <content:encoded><![CDATA[W0205-01 -- Greyhound Recycling & Recovery Limited: 100622 Greyhound Recycling R1 2022 Dust Ver 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[120822 Greyhound Recycling R2 2022 Dust Ver 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a781.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a781.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:41 GMT</pubDate>
+            <description><![CDATA[120822 Greyhound Recycling R2 2022 Dust Ver 1]]></description>
+            <content:encoded><![CDATA[W0205-01 -- Greyhound Recycling & Recovery Limited: 120822 Greyhound Recycling R2 2022 Dust Ver 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[230522 Qtr 2 2022 Greyhound Odour Audit Ver1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a782.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a782.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:41 GMT</pubDate>
+            <description><![CDATA[230522 Qtr 2 2022 Greyhound Odour Audit Ver1]]></description>
+            <content:encoded><![CDATA[W0205-01 -- Greyhound Recycling & Recovery Limited: 230522 Qtr 2 2022 Greyhound Odour Audit Ver1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25700 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a772.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a772.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:39 GMT</pubDate>
+            <description><![CDATA[SV25700 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0168-02 -- Kepak Athleague: SV25700 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25700 - Licensee Public Response]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a773.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a773.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:39 GMT</pubDate>
+            <description><![CDATA[SV25700 - Licensee Public Response]]></description>
+            <content:encoded><![CDATA[P0168-02 -- Kepak Athleague: SV25700 - Licensee Public Response]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Standard Report 22-22258-20220617 131142]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a77a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a77a.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:40 GMT</pubDate>
+            <description><![CDATA[Standard Report 22-22258-20220617 131142]]></description>
+            <content:encoded><![CDATA[P0977-01 -- Magh nAla Limited: Standard Report 22-22258-20220617 131142]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Standard Report 22-29859-20220810 170235]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a77b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a77b.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:40 GMT</pubDate>
+            <description><![CDATA[Standard Report 22-29859-20220810 170235]]></description>
+            <content:encoded><![CDATA[P0977-01 -- Magh nAla Limited: Standard Report 22-29859-20220810 170235]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment 6-7-2 Evidence of Notice Newpaper]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084905c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084905c.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 16:03:25 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment 6-7-2 Evidence of Notice Newpaper]]></description>
+            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Letter from Applicant - Attachment 6-7-2 Evidence of Notice Newpaper]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV23895 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a774.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a774.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:39 GMT</pubDate>
+            <description><![CDATA[SV23895 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0411-01 -- Mr James and Ms Nuala Gleeson: SV23895 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00011821]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a53a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a53a.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 12:50:10 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00011821]]></description>
+            <content:encoded><![CDATA[P1045-02 -- Niall Mc Meel: Notification to Applicant Extension Request - LACT00011821]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV23262 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a770.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a770.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:38 GMT</pubDate>
+            <description><![CDATA[SV23262 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0020-02 -- Oled Material Manufacturing Limited: SV23262 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - 141022 Ormonde Organic AD Dispersion Model Ver1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a4de.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a4de.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 11:31:36 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - 141022 Ormonde Organic AD Dispersion Model Ver1]]></description>
+            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Unsolicited Additional Information - 141022 Ormonde Organic AD Dispersion Model Ver1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Air Dispersion Model Cover Letter]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a4df.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a4df.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 11:31:36 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Air Dispersion Model Cover Letter]]></description>
+            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Unsolicited Additional Information - Air Dispersion Model Cover Letter]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2022-036  GCU0152062 Q2 2022 IEL report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a717.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a717.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:02:30 GMT</pubDate>
+            <description><![CDATA[2022-036  GCU0152062 Q2 2022 IEL report]]></description>
+            <content:encoded><![CDATA[P0014-04 -- Sk Biotek Ireland Limited: 2022-036  GCU0152062 Q2 2022 IEL report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV23572 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a77c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a77c.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:40 GMT</pubDate>
+            <description><![CDATA[SV23572 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: SV23572 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV23572 - Licensee Public Response]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a77d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a77d.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:40 GMT</pubDate>
+            <description><![CDATA[SV23572 - Licensee Public Response]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: SV23572 - Licensee Public Response]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2022 Groundwater monitoring July 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a775.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a775.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:39 GMT</pubDate>
+            <description><![CDATA[2022 Groundwater monitoring July 2022]]></description>
+            <content:encoded><![CDATA[P0583-01 -- Xtratherm Limited: 2022 Groundwater monitoring July 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Surface Water Q3 Report 2022 Version 1 App]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a776.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084a776.pdf</guid>
+            <pubDate>Mon, 24 Oct 2022 21:31:39 GMT</pubDate>
+            <description><![CDATA[Surface Water Q3 Report 2022 Version 1 App]]></description>
+            <content:encoded><![CDATA[P0583-01 -- Xtratherm Limited: Surface Water Q3 Report 2022 Version 1 App]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
