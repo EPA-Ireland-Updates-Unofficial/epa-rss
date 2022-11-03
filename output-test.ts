@@ -15,7 +15,7 @@ async function dailyRSSCSV() {
 
   const db = await open({
     filename: 'epa-rss-test.sqlite',
-    driver: sqlite3.cached.Database
+    driver: sqlite3.Database
   })
 
   // Update Daily RSS
@@ -95,7 +95,7 @@ async function dailyRSSCSV() {
 
   // Save this to an XML file
   fs.writeFileSync('output/daily.xml', feed.rss2());
-  
+
   // Save the CSV file
   stringifier.pipe(writableStream);
 

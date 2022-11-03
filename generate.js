@@ -73,13 +73,15 @@ function scrapeNews(urlbase) {
                     _a.label = 3;
                 case 3:
                     if (!(i < RSSLinks.length)) return [3 /*break*/, 13];
-                    eachRSSURL = "https://epawebapp.epa.ie/licences/lic_eDMS/rss/" + $(RSSLinks[i]).text() + ".xml";
+                    eachRSSURL = "https://epawebapp.epa.ie/licences/lic_eDMS/rss/" +
+                        $(RSSLinks[i]).text() +
+                        ".xml";
                     console.log(eachRSSURL);
                     return [4 /*yield*/, limiter.removeTokens(1)];
                 case 4:
                     remainingMessages = _a.sent();
                     parser = new Parser({
-                        headers: { 'Accept': 'application/rss+xml, text/xml; q=0.1' }
+                        headers: { Accept: "application/rss+xml, text/xml; q=0.1" }
                     });
                     _a.label = 5;
                 case 5:
@@ -94,7 +96,7 @@ function scrapeNews(urlbase) {
                     if (!(j < RSSContent.items.length)) return [3 /*break*/, 10];
                     item = RSSContent.items[j];
                     isoDate = new Date(item.pubDate);
-                    return [4 /*yield*/, db.run('INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?, ?, ?, ?, ?, ?)', url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString())];
+                    return [4 /*yield*/, db.run("INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?, ?, ?, ?, ?, ?)", url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString())];
                 case 8:
                     result = _a.sent();
                     _a.label = 9;
@@ -146,10 +148,10 @@ function dailyRSSCSV() {
                     d = new Date();
                     d.setDate(d.getDate() - 1);
                     month = ("0" + (d.getMonth() + 1)).slice(-2);
-                    day = ("0" + (d.getDate())).slice(-2);
+                    day = ("0" + d.getDate()).slice(-2);
                     year = d.getFullYear();
                     yesterday = year + "-" + month + "-" + day;
-                    return [4 /*yield*/, db.all('select * from allsubmissions where DATE(itemdate) = ?', [yesterday])];
+                    return [4 /*yield*/, db.all("select * from allsubmissions where DATE(itemdate) = ?", [yesterday])];
                 case 1:
                     result = _a.sent();
                     dailycsv = "output/csv/daily/" + yesterday + ".csv";
@@ -164,12 +166,19 @@ function dailyRSSCSV() {
                     ];
                     stringifier = (0, csv_stringify_1.stringify)({ header: true, columns: columns });
                     for (i = 0; i < result.length; i++) {
-                        stringifier.write([result[i].itemdate, result[i].rsspagetitle, result[i].itemtitle, result[i].itemurl, result[i].rsspageurl, result[i].mainpageurl]);
+                        stringifier.write([
+                            result[i].itemdate,
+                            result[i].rsspagetitle,
+                            result[i].itemtitle,
+                            result[i].itemurl,
+                            result[i].rsspageurl,
+                            result[i].mainpageurl,
+                        ]);
                         publishDateTime = new Date(result[i].itemdate);
                         feed.addItem({
                             title: result[i].itemtitle,
                             id: result[i].itemurl,
-                            link: result[i].itemurl || '',
+                            link: result[i].itemurl || "",
                             description: result[i].itemtitle,
                             content: result[i].rsspagetitle + ": " + result[i].itemtitle,
                             author: [
@@ -177,13 +186,13 @@ function dailyRSSCSV() {
                                     name: "EPA Ireland",
                                     email: "info@epa.ie",
                                     link: "https://www.epa.ie/who-we-are/contact-us/"
-                                }
+                                },
                             ],
                             date: publishDateTime
                         });
                     }
                     // Save this to an XML file
-                    fs.writeFileSync('./output/daily.xml', feed.rss2());
+                    fs.writeFileSync("./output/daily.xml", feed.rss2());
                     console.log("wrote output/daily.xml");
                     // Save the CSV file
                     stringifier.pipe(writableStream);
@@ -198,11 +207,9 @@ function main() {
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0: return [4 /*yield*/, (0, sqlite_1.open)({
-                        filename: 'sqlite/epa-rss.sqlite',
-                        driver: sqlite3.cached.Database
-                    })
-                    // Scrape all the RSS feeds on the EPA site and update SQLite
-                ];
+                        filename: "sqlite/epa-rss.sqlite",
+                        driver: sqlite3.Database
+                    })];
                 case 1:
                     db = _a.sent();
                     // Scrape all the RSS feeds on the EPA site and update SQLite

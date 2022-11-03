@@ -164,7 +164,7 @@ async function dailyRSSCSV() {
 async function main() {
   db = await open({
     filename: "sqlite/epa-rss.sqlite",
-    driver: sqlite3.cached.Database,
+    driver: sqlite3.Database,
   });
 
   // Scrape all the RSS feeds on the EPA site and update SQLite
