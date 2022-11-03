@@ -14,7 +14,7 @@ import { stringify } from 'csv-stringify';
 async function dailyRSSCSV() {
 
   const db = await open({
-    filename: 'epa-rss.sqlite',
+    filename: 'epa-rss-test.sqlite',
     driver: sqlite3.cached.Database
   })
 
@@ -42,10 +42,12 @@ async function dailyRSSCSV() {
 
   // Get all the results for yesterday
   let d = new Date();
+  d.setDate(d.getDate() - 3);
   let month = ("0" + (d.getMonth() + 1)).slice(-2);
-  let day = ("0" + (d.getDate() - 1)).slice(-2);
+  let day = ("0" + d.getDate()).slice(-2);
   let year = d.getFullYear();
   let yesterday = year+"-"+month+"-"+day;
+  console.log("Yesterday was " + yesterday);
   const result = await db.all('select * from allsubmissions where DATE(itemdate) = ?', [yesterday]);
 
   const dailycsv = "output/csv/daily/"+yesterday+".csv";
@@ -66,6 +68,12 @@ async function dailyRSSCSV() {
 
   //console.log(result[i]);
   let publishDateTime = new Date(result[i].itemdate);
+  console.log(publishDateTime);
+  console.log(result[i].itemtitle);
+  console.log(result[i].itemurl);
+  console.log(result[i].rsspagetitle + ": " + result[i].itemtitle);
+
+  /*
   feed.addItem({
       title: result[i].itemtitle,
       id: result[i].itemurl,
@@ -81,11 +89,13 @@ async function dailyRSSCSV() {
       ],
       date: publishDateTime
     });
+*/
+
 }
 
   // Save this to an XML file
   fs.writeFileSync('output/daily.xml', feed.rss2());
-
+  
   // Save the CSV file
   stringifier.pipe(writableStream);
 

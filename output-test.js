@@ -43,13 +43,13 @@ var sqlite3 = require("sqlite3");
 var sqlite_1 = require("sqlite");
 var fs = require("fs");
 var csv_stringify_1 = require("csv-stringify");
-function dailyRSS() {
+function dailyRSSCSV() {
     return __awaiter(this, void 0, void 0, function () {
         var db, feed, d, month, day, year, yesterday, result, dailycsv, writableStream, columns, stringifier, i, publishDateTime;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0: return [4 /*yield*/, (0, sqlite_1.open)({
-                        filename: 'epa-rss.sqlite',
+                        filename: 'epa-rss-test.sqlite',
                         driver: sqlite3.cached.Database
                     })
                     // Update Daily RSS
@@ -77,10 +77,12 @@ function dailyRSS() {
                         }
                     });
                     d = new Date();
+                    d.setDate(d.getDate() - 3);
                     month = ("0" + (d.getMonth() + 1)).slice(-2);
-                    day = ("0" + (d.getDate() - 1)).slice(-2);
+                    day = ("0" + d.getDate()).slice(-2);
                     year = d.getFullYear();
                     yesterday = year + "-" + month + "-" + day;
+                    console.log("Yesterday was " + yesterday);
                     return [4 /*yield*/, db.all('select * from allsubmissions where DATE(itemdate) = ?', [yesterday])];
                 case 2:
                     result = _a.sent();
@@ -98,6 +100,11 @@ function dailyRSS() {
                     for (i = 0; i < result.length; i++) {
                         stringifier.write([result[i].itemdate, result[i].rsspagetitle, result[i].itemtitle, result[i].itemurl, result[i].rsspageurl, result[i].mainpageurl]);
                         publishDateTime = new Date(result[i].itemdate);
+                        console.log(publishDateTime);
+                        console.log(result[i].itemtitle);
+                        console.log(result[i].itemurl);
+                        console.log(result[i].rsspagetitle + ": " + result[i].itemtitle);
+                        /*
                         feed.addItem({
                             title: result[i].itemtitle,
                             id: result[i].itemurl,
@@ -105,14 +112,15 @@ function dailyRSS() {
                             description: result[i].itemtitle,
                             content: result[i].rsspagetitle + ": " + result[i].itemtitle,
                             author: [
-                                {
-                                    name: "EPA Ireland",
-                                    email: "info@epa.ie",
-                                    link: "https://www.epa.ie/who-we-are/contact-us/"
-                                }
+                              {
+                                name: "EPA Ireland",
+                                email: "info@epa.ie",
+                                link: "https://www.epa.ie/who-we-are/contact-us/"
+                              }
                             ],
                             date: publishDateTime
-                        });
+                          });
+                      */
                     }
                     // Save this to an XML file
                     fs.writeFileSync('output/daily.xml', feed.rss2());
@@ -127,7 +135,7 @@ function main() {
     return __awaiter(this, void 0, void 0, function () {
         return __generator(this, function (_a) {
             switch (_a.label) {
-                case 0: return [4 /*yield*/, dailyRSS()];
+                case 0: return [4 /*yield*/, dailyRSSCSV()];
                 case 1:
                     _a.sent();
                     return [2 /*return*/];

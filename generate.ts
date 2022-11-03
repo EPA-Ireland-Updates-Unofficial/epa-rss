@@ -1,15 +1,15 @@
 // EPA Ireland RSS and CSV - Copyright Conor O'Neill 2022, conor@conoroneill.com
 // LICENSE Apache-2.0
 
-import axios from 'axios';
-import cheerio from 'cheerio';
-import { Feed } from 'feed';
-import * as Parser from 'rss-parser';
-import { RateLimiter } from 'limiter';
-import * as sqlite3 from 'sqlite3';
-import { open } from 'sqlite'
-import * as fs from 'fs';
-import { stringify } from 'csv-stringify';
+import axios from "axios";
+import cheerio from "cheerio";
+import { Feed } from "feed";
+import * as Parser from "rss-parser";
+import { RateLimiter } from "limiter";
+import * as sqlite3 from "sqlite3";
+import { open } from "sqlite";
+import * as fs from "fs";
+import { stringify } from "csv-stringify";
 
 let db;
 
@@ -17,9 +17,8 @@ let db;
 const limiter = new RateLimiter({ tokensPerInterval: 1, interval: 250 });
 
 async function scrapeNews(urlbase: string) {
-
   for (let alphabet = 0; alphabet < 26; alphabet++) {
-  //for (let alphabet = 0; alphabet < 1; alphabet++) {
+    //for (let alphabet = 0; alphabet < 1; alphabet++) {
 
     // Do every letter in alphabet. This is a *lot* of requests overall. 26 * number of companies per letter
     var chr = String.fromCharCode(65 + alphabet);
@@ -38,14 +37,17 @@ async function scrapeNews(urlbase: string) {
       // Giving an RSS URL like:    https://epawebapp.epa.ie/licences/lic_eDMS/rss/P1115-01.xml
 
       //console.log($(link).text(), $(link).attr('href'));
-      let eachRSSURL = "https://epawebapp.epa.ie/licences/lic_eDMS/rss/" + $(RSSLinks[i]).text() + ".xml";
+      let eachRSSURL =
+        "https://epawebapp.epa.ie/licences/lic_eDMS/rss/" +
+        $(RSSLinks[i]).text() +
+        ".xml";
       console.log(eachRSSURL);
 
       // Rate Limit
       const remainingMessages = await limiter.removeTokens(1);
 
       let parser = new Parser({
-        headers: { 'Accept': 'application/rss+xml, text/xml; q=0.1' },
+        headers: { Accept: "application/rss+xml, text/xml; q=0.1" },
       });
 
       try {
@@ -56,9 +58,14 @@ async function scrapeNews(urlbase: string) {
           //console.log(item.pubDate + ' : ' + item.title + ' : ' + item.link);
           let isoDate = new Date(item.pubDate!);
           const result = await db.run(
-            'INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?, ?, ?, ?, ?, ?)',
-            url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString()
-          )
+            "INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?, ?, ?, ?, ?, ?)",
+            url,
+            eachRSSURL,
+            RSSContent.title,
+            item.link,
+            item.title,
+            isoDate.toISOString()
+          );
         }
       } catch (e) {
         console.log("Error: " + e);
@@ -75,29 +82,34 @@ async function dailyRSSCSV() {
     id: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
     link: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
     language: "en",
-    image: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
-    favicon: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
+    image:
+      "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
+    favicon:
+      "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
     copyright: "2022 © EPA. All Rights Reserved.",
     updated: new Date(),
     generator: "AWS Lambda",
     feedLinks: {
-      rss: "https://example.com/rss"
+      rss: "https://example.com/rss",
     },
     author: {
       name: "EPA",
       email: "info@epa.ie",
-      link: "https://www.epa.ie/who-we-are/contact-us/"
-    }
+      link: "https://www.epa.ie/who-we-are/contact-us/",
+    },
   });
 
   // Get all the results for yesterday
   let d = new Date();
   d.setDate(d.getDate() - 1);
   let month = ("0" + (d.getMonth() + 1)).slice(-2);
-  let day = ("0" + (d.getDate())).slice(-2);
+  let day = ("0" + d.getDate()).slice(-2);
   let year = d.getFullYear();
   let yesterday = year + "-" + month + "-" + day;
-  const result = await db.all('select * from allsubmissions where DATE(itemdate) = ?', [yesterday]);
+  const result = await db.all(
+    "select * from allsubmissions where DATE(itemdate) = ?",
+    [yesterday]
+  );
 
   const dailycsv = "output/csv/daily/" + yesterday + ".csv";
   const writableStream = fs.createWriteStream(dailycsv);
@@ -112,30 +124,36 @@ async function dailyRSSCSV() {
   const stringifier = stringify({ header: true, columns: columns });
 
   for (let i = 0; i < result.length; i++) {
-
-    stringifier.write([result[i].itemdate, result[i].rsspagetitle, result[i].itemtitle, result[i].itemurl, result[i].rsspageurl, result[i].mainpageurl]);
+    stringifier.write([
+      result[i].itemdate,
+      result[i].rsspagetitle,
+      result[i].itemtitle,
+      result[i].itemurl,
+      result[i].rsspageurl,
+      result[i].mainpageurl,
+    ]);
 
     //console.log(result[i]);
     let publishDateTime = new Date(result[i].itemdate);
     feed.addItem({
       title: result[i].itemtitle,
       id: result[i].itemurl,
-      link: result[i].itemurl || '',
+      link: result[i].itemurl || "",
       description: result[i].itemtitle,
       content: result[i].rsspagetitle + ": " + result[i].itemtitle,
       author: [
         {
           name: "EPA Ireland",
           email: "info@epa.ie",
-          link: "https://www.epa.ie/who-we-are/contact-us/"
-        }
+          link: "https://www.epa.ie/who-we-are/contact-us/",
+        },
       ],
-      date: publishDateTime
+      date: publishDateTime,
     });
   }
 
   // Save this to an XML file
-  fs.writeFileSync('./output/daily.xml', feed.rss2());
+  fs.writeFileSync("./output/daily.xml", feed.rss2());
   console.log("wrote output/daily.xml");
 
   // Save the CSV file
@@ -145,19 +163,19 @@ async function dailyRSSCSV() {
 
 async function main() {
   db = await open({
-    filename: 'sqlite/epa-rss.sqlite',
-    driver: sqlite3.cached.Database
-  })
+    filename: "sqlite/epa-rss.sqlite",
+    driver: sqlite3.cached.Database,
+  });
 
   // Scrape all the RSS feeds on the EPA site and update SQLite
-  await scrapeNews("https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=");
+  await scrapeNews(
+    "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name="
+  );
 
   // Generate daily RSS and CSV for yesterday's updates
   await dailyRSSCSV();
 
   await db.close();
-
 }
 
 main();
-
