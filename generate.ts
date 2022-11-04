@@ -99,9 +99,9 @@ async function dailyRSSCSV() {
     },
   });
 
-  // Get all the results for yesterday
+  // Get all the results for the day before yesterday
   let d = new Date();
-  d.setDate(d.getDate() - 1);
+  d.setDate(d.getDate() - 2);
   let month = ("0" + (d.getMonth() + 1)).slice(-2);
   let day = ("0" + d.getDate()).slice(-2);
   let year = d.getFullYear();

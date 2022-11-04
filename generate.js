@@ -146,7 +146,7 @@ function dailyRSSCSV() {
                         }
                     });
                     d = new Date();
-                    d.setDate(d.getDate() - 1);
+                    d.setDate(d.getDate() - 2);
                     month = ("0" + (d.getMonth() + 1)).slice(-2);
                     day = ("0" + d.getDate()).slice(-2);
                     year = d.getFullYear();

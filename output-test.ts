@@ -42,7 +42,7 @@ async function dailyRSSCSV() {
 
   // Get all the results for yesterday
   let d = new Date();
-  d.setDate(d.getDate() - 3);
+  d.setDate(d.getDate() - 2);
   let month = ("0" + (d.getMonth() + 1)).slice(-2);
   let day = ("0" + d.getDate()).slice(-2);
   let year = d.getFullYear();
@@ -73,8 +73,7 @@ async function dailyRSSCSV() {
   console.log(result[i].itemurl);
   console.log(result[i].rsspagetitle + ": " + result[i].itemtitle);
 
-  /*
-  feed.addItem({
+    feed.addItem({
       title: result[i].itemtitle,
       id: result[i].itemurl,
       link: result[i].itemurl || '',
@@ -89,7 +88,6 @@ async function dailyRSSCSV() {
       ],
       date: publishDateTime
     });
-*/
 
 }
 

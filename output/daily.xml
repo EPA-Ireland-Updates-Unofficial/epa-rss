@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Thu, 03 Nov 2022 06:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 06:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -15,5 +15,536 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-6-3-1-Planning Report-Sep-2020 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cc5f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cc5f.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 20:11:04 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-6-3-1-Planning Report-Sep-2020 2]]></description>
+            <content:encoded><![CDATA[P1170-01 -- Amazon Data Services Ireland Limited: Letter from Applicant - Attachment-6-3-1-Planning Report-Sep-2020 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Response to Item 7]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cc60.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cc60.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 20:11:04 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Response to Item 7]]></description>
+            <content:encoded><![CDATA[P1170-01 -- Amazon Data Services Ireland Limited: Letter from Applicant - Response to Item 7]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 32]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084c9b5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084c9b5.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 08:10:57 GMT</pubDate>
+            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 32]]></description>
+            <content:encoded><![CDATA[P1170-01 -- Amazon Data Services Ireland Limited: Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 32]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00009023  01-11-2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ca4c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ca4c.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 11:10:07 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00009023  01-11-2022]]></description>
+            <content:encoded><![CDATA[P0040-03 -- Anglo Beef Processors Ireland Unlimited Company: Notification to Applicant RFI Reminder  LACT00009023  01-11-2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Application Form - LA007342]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cccd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cccd.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:11 GMT</pubDate>
+            <description><![CDATA[Application Form - Application Form - LA007342]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Application Form - LA007342]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fit and Proper Declaration - 2-5 Aurivo - Financial Commitments Declaration]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccce.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccce.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:11 GMT</pubDate>
+            <description><![CDATA[Application Form - Fit and Proper Declaration - 2-5 Aurivo - Financial Commitments Declaration]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Fit and Proper Declaration - 2-5 Aurivo - Financial Commitments Declaration]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Technical Knowledge - Technical Knowledge]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cccf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cccf.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Technical Knowledge - Technical Knowledge]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Technical Knowledge - Technical Knowledge]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - Site Plan Map]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd0.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Plan Map]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Site Plan - Site Plan Map]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Map - Site Plan Map a]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd1.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - Site Plan Map a]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Site Map - Site Plan Map a]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Activity Capacity Information - Production Capacity]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd2.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Activity Capacity Information - Production Capacity]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Activity Capacity Information - Production Capacity]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Water and Energy Usage - Copy of Table G.1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd3.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Water and Energy Usage - Copy of Table G.1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Water and Energy Usage - Copy of Table G.1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Materials Used or Generated - 4.6-2-Raw-Material-Interm-Products 28]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd4.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Materials Used or Generated - 4.6-2-Raw-Material-Interm-Products 28]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Materials Used or Generated - 4.6-2-Raw-Material-Interm-Products 28]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - BAT Assessment For Energy Efficiency]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd5.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:12 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - BAT Assessment For Energy Efficiency]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - BREF Assessment - BAT Assessment For Energy Efficiency]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - Emissions from Storage BAT]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd6.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:12 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Emissions from Storage BAT]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - BREF Assessment - Emissions from Storage BAT]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Operational Report - Site Operational Report Version 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd7.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - Site Operational Report Version 1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Operational Report - Site Operational Report Version 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Baseline Screening - Baseline Report Version 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd8.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Baseline Screening - Baseline Report Version 1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Baseline Screening - Baseline Report Version 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Condition Report - Site Condition Report Version 1 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccd9.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Condition Report - Site Condition Report Version 1 1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Site Condition Report - Site Condition Report Version 1 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Signature and Company Stamp - Signature and Company Stamp 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccda.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccda.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Signature and Company Stamp - Signature and Company Stamp 2]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Signature and Company Stamp - Signature and Company Stamp 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Financial Application Section - 5-1-Financial (5)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccdb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccdb.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Financial Application Section - 5-1-Financial (5)]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Financial Application Section - 5-1-Financial (5)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fee Payment Evidence - Aurivo Fee Payment Evidence]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccdc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccdc.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:10:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Fee Payment Evidence - Aurivo Fee Payment Evidence]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Fee Payment Evidence - Aurivo Fee Payment Evidence]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Stakeholder Engagement Section - 6-1-Stakeholder-Engagement  2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cce6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cce6.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:09 GMT</pubDate>
+            <description><![CDATA[Application Form - Stakeholder Engagement Section - 6-1-Stakeholder-Engagement  2]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Stakeholder Engagement Section - 6-1-Stakeholder-Engagement  2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Effluent Discharge Licence - TE-10685-01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cce7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cce7.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:10 GMT</pubDate>
+            <description><![CDATA[Application Form - Effluent Discharge Licence - TE-10685-01]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Effluent Discharge Licence - TE-10685-01]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA Screening - Aurivo Co-Op AA Screening]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cce8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cce8.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:10 GMT</pubDate>
+            <description><![CDATA[Application Form - AA Screening - Aurivo Co-Op AA Screening]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - AA Screening - Aurivo Co-Op AA Screening]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 071129 Decision and Planners Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cce9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cce9.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:10 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 071129 Decision and Planners Report]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Planning Decision - 071129 Decision and Planners Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 13138 Decision and Planners Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccea.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccea.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:10 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 13138 Decision and Planners Report]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Planning Decision - 13138 Decision and Planners Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 18130 Decision and Planners Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cceb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cceb.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:10 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 18130 Decision and Planners Report]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Planning Decision - 18130 Decision and Planners Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 20540 Decision and Planners Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccec.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccec.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:10 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 20540 Decision and Planners Report]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Planning Decision - 20540 Decision and Planners Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIA Confirmation - Planning - Letter from CoCo re EIA]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cced.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cced.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:10 GMT</pubDate>
+            <description><![CDATA[Application Form - EIA Confirmation - Planning - Letter from CoCo re EIA]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - EIA Confirmation - Planning - Letter from CoCo re EIA]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Location site notice map]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccee.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccee.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:11 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Location site notice map]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Evidence of Notices - Location site notice map]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Newspaper Notice 63]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccef.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccef.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:11 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Newspaper Notice 63]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Evidence of Notices - Newspaper Notice 63]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Notice to Planning Authority 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf0.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:11 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Notice to Planning Authority 2]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Evidence of Notices - Notice to Planning Authority 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Site Text Notice Aurivo]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf1.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:11 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Site Text Notice Aurivo]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Evidence of Notices - Site Text Notice Aurivo]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Overview Section - 7.1-1-Emissions-Overview (1)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf2.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:11 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Overview Section - 7.1-1-Emissions-Overview (1)]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions Overview Section - 7.1-1-Emissions-Overview (1)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - 4110-22-01 Env Noise Survey 2022 Version 1 App]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf3.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:11 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - 4110-22-01 Env Noise Survey 2022 Version 1 App]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions Compliance Report - 4110-22-01 Env Noise Survey 2022 Version 1 App]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Accepted Application - LACT00011901]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cabd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cabd.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 12:40:42 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Accepted Application - LACT00011901]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Notification to Applicant Accepted Application - LACT00011901]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SpecifiedBodies-LA007342]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cabe.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cabe.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 12:40:43 GMT</pubDate>
+            <description><![CDATA[SpecifiedBodies-LA007342]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: SpecifiedBodies-LA007342]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Section 99E Notice 70]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cad1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cad1.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 12:50:43 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Section 99E Notice 70]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Letter to Third Party - Section 99E Notice 70]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cad2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cad2.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 12:50:44 GMT</pubDate>
+            <description><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Notification to Water Services Authority - Discharge to Sewer LA]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cae4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cae4.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 13:00:57 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority Register - LACT00011906]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cae5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cae5.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 13:01:05 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority Register - LACT00011906]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Notification to Planning Authority Register - LACT00011906]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1188-01 Register of Licence]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cae6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cae6.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 13:01:08 GMT</pubDate>
+            <description><![CDATA[P1188-01 Register of Licence]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: P1188-01 Register of Licence]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - AUMITL12260721 Air Emissions Report Version 1 App]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf4.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - AUMITL12260721 Air Emissions Report Version 1 App]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions Compliance Report - AUMITL12260721 Air Emissions Report Version 1 App]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - SE1 Results 1 Aurivo]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf5.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - SE1 Results 1 Aurivo]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions Compliance Report - SE1 Results 1 Aurivo]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - SE1 Results 2 Aurivo]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf6.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - SE1 Results 2 Aurivo]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions Compliance Report - SE1 Results 2 Aurivo]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - SE1 Results 3 Aurivo]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf7.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - SE1 Results 3 Aurivo]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions Compliance Report - SE1 Results 3 Aurivo]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - 4110-21-01 Noise Management Plan Version 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf8.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - 4110-21-01 Noise Management Plan Version 1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions Impact Assessment - 4110-21-01 Noise Management Plan Version 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - 4110-22-03 Boiler ADM 2022 Version 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccf9.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - 4110-22-03 Boiler ADM 2022 Version 1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions Impact Assessment - 4110-22-03 Boiler ADM 2022 Version 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - 4110-22-04 Particulate ADM 2022 Version 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfa.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - 4110-22-04 Particulate ADM 2022 Version 1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions Impact Assessment - 4110-22-04 Particulate ADM 2022 Version 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Sewer Section - 7.3-1-Sewer (2)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfb.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:12 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Sewer Section - 7.3-1-Sewer (2)]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions - Sewer Section - 7.3-1-Sewer (2)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Sewer Discharge Consent - TE-10685-01 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfc.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Sewer Discharge Consent - TE-10685-01 1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Sewer Discharge Consent - TE-10685-01 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Air Section - 7.4-1-Air-Main 32]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfd.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Air Section - 7.4-1-Air-Main 32]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions - Air Section - 7.4-1-Air-Main 32]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Minor - Potenial Emissions - 7.4-2-Air-Minor-Potential 17]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfe.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccfe.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Minor - Potenial Emissions - 7.4-2-Air-Minor-Potential 17]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Minor - Potenial Emissions - 7.4-2-Air-Minor-Potential 17]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Noise Section - 7.5-Noise 16]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccff.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ccff.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Noise Section - 7.5-Noise 16]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Emissions - Noise Section - 7.5-Noise 16]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Strorm Water Section - 7.7-1-Storm-Water (2)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd00.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd00.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Strorm Water Section - 7.7-1-Storm-Water (2)]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Strorm Water Section - 7.7-1-Storm-Water (2)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Generated Section - 8.1 Waste 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd01.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd01.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Generated Section - 8.1 Waste 2]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Waste Generated Section - 8.1 Waste 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy - Aurivo Waste Hierarchy]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd02.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd02.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy - Aurivo Waste Hierarchy]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Waste Hierarchy - Aurivo Waste Hierarchy]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EMT Section - 9-1-EMT (3) 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd03.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd03.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:20:13 GMT</pubDate>
+            <description><![CDATA[Application Form - EMT Section - 9-1-EMT (3) 1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - EMT Section - 9-1-EMT (3) 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - 0388 - 1.2 Non Technical Summary Version 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd0b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cd0b.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 21:31:10 GMT</pubDate>
+            <description><![CDATA[Application Form - 0388 - 1.2 Non Technical Summary Version 1]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - 0388 - 1.2 Non Technical Summary Version 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Mallinckrodt Memo- EPA Nov 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cb34.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cb34.pdf</guid>
+            <pubDate>Wed, 02 Nov 2022 14:30:49 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Mallinckrodt Memo- EPA Nov 2022]]></description>
+            <content:encoded><![CDATA[P1060-02 -- Mallinckrodt Pharmaceuticals Ireland Limited: Letter from Applicant - Mallinckrodt Memo- EPA Nov 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>

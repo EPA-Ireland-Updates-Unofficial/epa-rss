@@ -50,7 +50,7 @@ function dailyRSSCSV() {
             switch (_a.label) {
                 case 0: return [4 /*yield*/, (0, sqlite_1.open)({
                         filename: 'epa-rss-test.sqlite',
-                        driver: sqlite3.cached.Database
+                        driver: sqlite3.Database
                     })
                     // Update Daily RSS
                 ];
@@ -77,7 +77,7 @@ function dailyRSSCSV() {
                         }
                     });
                     d = new Date();
-                    d.setDate(d.getDate() - 3);
+                    d.setDate(d.getDate() - 2);
                     month = ("0" + (d.getMonth() + 1)).slice(-2);
                     day = ("0" + d.getDate()).slice(-2);
                     year = d.getFullYear();
@@ -104,7 +104,6 @@ function dailyRSSCSV() {
                         console.log(result[i].itemtitle);
                         console.log(result[i].itemurl);
                         console.log(result[i].rsspagetitle + ": " + result[i].itemtitle);
-                        /*
                         feed.addItem({
                             title: result[i].itemtitle,
                             id: result[i].itemurl,
@@ -112,15 +111,14 @@ function dailyRSSCSV() {
                             description: result[i].itemtitle,
                             content: result[i].rsspagetitle + ": " + result[i].itemtitle,
                             author: [
-                              {
-                                name: "EPA Ireland",
-                                email: "info@epa.ie",
-                                link: "https://www.epa.ie/who-we-are/contact-us/"
-                              }
+                                {
+                                    name: "EPA Ireland",
+                                    email: "info@epa.ie",
+                                    link: "https://www.epa.ie/who-we-are/contact-us/"
+                                }
                             ],
                             date: publishDateTime
-                          });
-                      */
+                        });
                     }
                     // Save this to an XML file
                     fs.writeFileSync('output/daily.xml', feed.rss2());
