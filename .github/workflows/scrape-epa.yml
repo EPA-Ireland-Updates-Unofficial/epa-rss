@@ -37,17 +37,17 @@ jobs:
           aws_bucket: ${{ secrets.AWS_BUCKET }}
           source_dir: 'sqlite'
           destination_dir: 'latest'
-      - name: Get yesterday's date
+      - name: Get two days ago date
         id: date
         run: |
-          echo "::set-output name=yesterday::$(date  --date="yesterday" +"%Y-%m-%d")"   
+          echo "::set-output name=twodaysago::$(date  --date="2 day ago" +"%Y-%m-%d")"   
       - name: Create an issue
         uses: actions-ecosystem/action-create-issue@v1
         with:
           github_token: ${{ secrets.github_token }}
-          title:  EPA Submissions for ${{ steps.date.outputs.yesterday }}
+          title:  EPA Submissions for ${{ steps.date.outputs.twodaysago }}
           body: |
-            * If any submissions, they will be here: https://github.com/conoro/epa-rss/blob/main/output/csv/daily/${{ steps.date.outputs.yesterday }}.csv 
+            * If any submissions, they will be here: https://github.com/conoro/epa-rss/blob/main/output/csv/daily/${{ steps.date.outputs.twodaysago }}.csv 
           labels: |
             closeme
       - name: Close those automatic issues

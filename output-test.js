@@ -45,7 +45,7 @@ var fs = require("fs");
 var csv_stringify_1 = require("csv-stringify");
 function dailyRSSCSV() {
     return __awaiter(this, void 0, void 0, function () {
-        var db, feed, d, month, day, year, yesterday, result, dailycsv, writableStream, columns, stringifier, i, publishDateTime;
+        var db, feed, d, month, day, year, twodaysago, result, dailycsv, writableStream, columns, stringifier, i, publishDateTime;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0: return [4 /*yield*/, (0, sqlite_1.open)({
@@ -81,12 +81,12 @@ function dailyRSSCSV() {
                     month = ("0" + (d.getMonth() + 1)).slice(-2);
                     day = ("0" + d.getDate()).slice(-2);
                     year = d.getFullYear();
-                    yesterday = year + "-" + month + "-" + day;
-                    console.log("Yesterday was " + yesterday);
-                    return [4 /*yield*/, db.all('select * from allsubmissions where DATE(itemdate) = ?', [yesterday])];
+                    twodaysago = year + "-" + month + "-" + day;
+                    console.log("two days ago was " + twodaysago);
+                    return [4 /*yield*/, db.all('select * from allsubmissions where DATE(itemdate) = ?', [twodaysago])];
                 case 2:
                     result = _a.sent();
-                    dailycsv = "output/csv/daily/" + yesterday + ".csv";
+                    dailycsv = "output/csv/daily/" + twodaysago + ".csv";
                     writableStream = fs.createWriteStream(dailycsv);
                     columns = [
                         "Item Date",

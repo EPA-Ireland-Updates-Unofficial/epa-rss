@@ -40,17 +40,17 @@ async function dailyRSSCSV() {
     }
   });
 
-  // Get all the results for yesterday
+  // Get all the results for two-days-ago
   let d = new Date();
   d.setDate(d.getDate() - 2);
   let month = ("0" + (d.getMonth() + 1)).slice(-2);
   let day = ("0" + d.getDate()).slice(-2);
   let year = d.getFullYear();
-  let yesterday = year+"-"+month+"-"+day;
-  console.log("Yesterday was " + yesterday);
-  const result = await db.all('select * from allsubmissions where DATE(itemdate) = ?', [yesterday]);
+  let twodaysago = year+"-"+month+"-"+day;
+  console.log("two days ago was " + twodaysago);
+  const result = await db.all('select * from allsubmissions where DATE(itemdate) = ?', [twodaysago]);
 
-  const dailycsv = "output/csv/daily/"+yesterday+".csv";
+  const dailycsv = "output/csv/daily/"+twodaysago+".csv";
   const writableStream = fs.createWriteStream(dailycsv);
   const columns = [
     "Item Date",

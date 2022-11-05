@@ -121,7 +121,7 @@ function scrapeNews(urlbase) {
 }
 function dailyRSSCSV() {
     return __awaiter(this, void 0, void 0, function () {
-        var feed, d, month, day, year, yesterday, result, dailycsv, writableStream, columns, stringifier, i, publishDateTime;
+        var feed, d, month, day, year, twodaysago, result, dailycsv, writableStream, columns, stringifier, i, publishDateTime;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0:
@@ -150,11 +150,11 @@ function dailyRSSCSV() {
                     month = ("0" + (d.getMonth() + 1)).slice(-2);
                     day = ("0" + d.getDate()).slice(-2);
                     year = d.getFullYear();
-                    yesterday = year + "-" + month + "-" + day;
-                    return [4 /*yield*/, db.all("select * from allsubmissions where DATE(itemdate) = ?", [yesterday])];
+                    twodaysago = year + "-" + month + "-" + day;
+                    return [4 /*yield*/, db.all("select * from allsubmissions where DATE(itemdate) = ?", [twodaysago])];
                 case 1:
                     result = _a.sent();
-                    dailycsv = "output/csv/daily/" + yesterday + ".csv";
+                    dailycsv = "output/csv/daily/" + twodaysago + ".csv";
                     writableStream = fs.createWriteStream(dailycsv);
                     columns = [
                         "Item Date",
@@ -217,10 +217,10 @@ function main() {
                 case 2:
                     // Scrape all the RSS feeds on the EPA site and update SQLite
                     _a.sent();
-                    // Generate daily RSS and CSV for yesterday's updates
+                    // Generate daily RSS and CSV for two day ago's updates
                     return [4 /*yield*/, dailyRSSCSV()];
                 case 3:
-                    // Generate daily RSS and CSV for yesterday's updates
+                    // Generate daily RSS and CSV for two day ago's updates
                     _a.sent();
                     return [4 /*yield*/, db.close()];
                 case 4:

@@ -99,19 +99,19 @@ async function dailyRSSCSV() {
     },
   });
 
-  // Get all the results for the day before yesterday
+  // Get all the results for two days ago as the EPA now seems to be delaying by 2 hours and we run early in the morning
   let d = new Date();
   d.setDate(d.getDate() - 2);
   let month = ("0" + (d.getMonth() + 1)).slice(-2);
   let day = ("0" + d.getDate()).slice(-2);
   let year = d.getFullYear();
-  let yesterday = year + "-" + month + "-" + day;
+  let twodaysago = year + "-" + month + "-" + day;
   const result = await db.all(
     "select * from allsubmissions where DATE(itemdate) = ?",
-    [yesterday]
+    [twodaysago]
   );
 
-  const dailycsv = "output/csv/daily/" + yesterday + ".csv";
+  const dailycsv = "output/csv/daily/" + twodaysago + ".csv";
   const writableStream = fs.createWriteStream(dailycsv);
   const columns = [
     "Item Date",
@@ -172,7 +172,7 @@ async function main() {
     "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name="
   );
 
-  // Generate daily RSS and CSV for yesterday's updates
+  // Generate daily RSS and CSV for two day ago's updates
   await dailyRSSCSV();
 
   await db.close();
