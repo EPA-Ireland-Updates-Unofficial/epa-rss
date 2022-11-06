@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sat, 05 Nov 2022 05:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 02:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -16,66 +16,147 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Letter from Applicant - P1013 02- Notification of Hard Copy Submitted]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d0b7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d0b7.pdf</guid>
-            <pubDate>Thu, 03 Nov 2022 19:50:48 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - P1013 02- Notification of Hard Copy Submitted]]></description>
-            <content:encoded><![CDATA[P1013-02 -- Enrich Environmental Limited: Letter from Applicant - P1013 02- Notification of Hard Copy Submitted]]></content:encoded>
+            <title><![CDATA[Application Form - LA007342]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084aef6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084aef6.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 09:42:03 GMT</pubDate>
+            <description><![CDATA[Application Form - LA007342]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - LA007342]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Specified Body Notification - FD Issued - Licence Granted 230]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cfe7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cfe7.pdf</guid>
-            <pubDate>Thu, 03 Nov 2022 14:10:59 GMT</pubDate>
-            <description><![CDATA[Specified Body Notification - FD Issued - Licence Granted 230]]></description>
-            <content:encoded><![CDATA[P1168-01 -- Equinix: Specified Body Notification - FD Issued - Licence Granted 230]]></content:encoded>
+            <title><![CDATA[Application Form - Application Form - Application Form - LA007342]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d444.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d444.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:01:39 GMT</pubDate>
+            <description><![CDATA[Application Form - Application Form - Application Form - LA007342]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Application Form - Application Form - Application Form - LA007342]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1168-01 signed FD 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cfe8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cfe8.pdf</guid>
-            <pubDate>Thu, 03 Nov 2022 14:11:00 GMT</pubDate>
-            <description><![CDATA[P1168-01 signed FD 1]]></description>
-            <content:encoded><![CDATA[P1168-01 -- Equinix: P1168-01 signed FD 1]]></content:encoded>
+            <title><![CDATA[Monitoring Results]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d454.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d454.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:11:05 GMT</pubDate>
+            <description><![CDATA[Monitoring Results]]></description>
+            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: Monitoring Results]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant - Final DeterminationDecision - LACT00]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cfe9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cfe9.pdf</guid>
-            <pubDate>Thu, 03 Nov 2022 14:11:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Final DeterminationDecision - LACT00]]></description>
-            <content:encoded><![CDATA[P1168-01 -- Equinix: Notification to Applicant - Final DeterminationDecision - LACT00]]></content:encoded>
+            <title><![CDATA[60654701 ACM RP ENV 005 1 CZVI GWM R1 2022 Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d446.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d446.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:01:45 GMT</pubDate>
+            <description><![CDATA[60654701 ACM RP ENV 005 1 CZVI GWM R1 2022 Final]]></description>
+            <content:encoded><![CDATA[P0062-02 -- Carl Zeiss Vision Ireland Limited: 60654701 ACM RP ENV 005 1 CZVI GWM R1 2022 Final]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Third Party - FD Issued - Licence Granted 164]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cfea.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084cfea.pdf</guid>
-            <pubDate>Thu, 03 Nov 2022 14:11:00 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - FD Issued - Licence Granted 164]]></description>
-            <content:encoded><![CDATA[P1168-01 -- Equinix: Letter to Third Party - FD Issued - Licence Granted 164]]></content:encoded>
+            <title><![CDATA[60654701 ACM RP ENV 006 1 CZVI GWM R2 2022 Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d453.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d453.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:11:04 GMT</pubDate>
+            <description><![CDATA[60654701 ACM RP ENV 006 1 CZVI GWM R2 2022 Final]]></description>
+            <content:encoded><![CDATA[P0062-02 -- Carl Zeiss Vision Ireland Limited: 60654701 ACM RP ENV 006 1 CZVI GWM R2 2022 Final]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Applicant - Extension of Final Determination]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d012.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d012.pdf</guid>
-            <pubDate>Thu, 03 Nov 2022 15:01:14 GMT</pubDate>
-            <description><![CDATA[Letter to Applicant - Extension of Final Determination]]></description>
-            <content:encoded><![CDATA[P0170-02 -- Kildare Chilling Company: Letter to Applicant - Extension of Final Determination]]></content:encoded>
+            <title><![CDATA[SV25783 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d449.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d449.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:01:49 GMT</pubDate>
+            <description><![CDATA[SV25783 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0480-02 -- SR Technics Ireland Limited: SV25783 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P0909-01 Lyons Poultry Farm Closure Audit]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d0f3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d0f3.pdf</guid>
-            <pubDate>Thu, 03 Nov 2022 21:01:26 GMT</pubDate>
-            <description><![CDATA[P0909-01 Lyons Poultry Farm Closure Audit]]></description>
-            <content:encoded><![CDATA[P0909-01 -- Lyons Poultry Farm Limited: P0909-01 Lyons Poultry Farm Closure Audit]]></content:encoded>
+            <title><![CDATA[Notification to Applicant - Compliance Notice - LACT00011924]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d350.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d350.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 14:50:13 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant - Compliance Notice - LACT00011924]]></description>
+            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: Notification to Applicant - Compliance Notice - LACT00011924]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Request for Further Information - LACT]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d351.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d351.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 14:50:14 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information - LACT]]></description>
+            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: Notification to Applicant Request for Further Information - LACT]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25922 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d44a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d44a.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:01:50 GMT</pubDate>
+            <description><![CDATA[SV25922 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0963-02 -- Glanbia Ireland Designated Activity Company: SV25922 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Week of 29th August 2022 - Odour Run]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d456.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d456.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:11:05 GMT</pubDate>
+            <description><![CDATA[Week of 29th August 2022 - Odour Run]]></description>
+            <content:encoded><![CDATA[P1004-02 -- Glenmore Generation Limitd: Week of 29th August 2022 - Odour Run]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ground-and-surface-water-report-July 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d44b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d44b.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:01:51 GMT</pubDate>
+            <description><![CDATA[Ground-and-surface-water-report-July 2022]]></description>
+            <content:encoded><![CDATA[W0267-01 -- Hi Volt Ireland Limited: Ground-and-surface-water-report-July 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV24136 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d447.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d447.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:01:46 GMT</pubDate>
+            <description><![CDATA[SV24136 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0177-03 -- Irish Country Meats (Sheepmeat) Limited: SV24136 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[08.23.08.22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d455.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d455.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:11:05 GMT</pubDate>
+            <description><![CDATA[08.23.08.22]]></description>
+            <content:encoded><![CDATA[P0988-01 -- McHale Engineering: 08.23.08.22]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25889 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d448.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d448.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 21:01:48 GMT</pubDate>
+            <description><![CDATA[SV25889 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0320-02 -- T. & J. Standish (Roscrea) Ltd.: SV25889 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission - Snapshot - Submission No S010679  - P0693-03 - Eve Smith]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d2db.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d2db.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 11:31:05 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010679  - P0693-03 - Eve Smith]]></description>
+            <content:encoded><![CDATA[P0693-03 -- Takeda Ireland Limited: Submission - Snapshot - Submission No S010679  - P0693-03 - Eve Smith]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010679 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d2dc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084d2dc.pdf</guid>
+            <pubDate>Fri, 04 Nov 2022 11:31:05 GMT</pubDate>
+            <description><![CDATA[S010679 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0693-03 -- Takeda Ireland Limited: S010679 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
