@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>EPA Ireland RSS Feed</title>
+        <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
+        <description>RSS feed for EPA website</description>
+        <lastBuildDate>Thu, 10 Nov 2022 06:56:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>GitHub Actions</generator>
+        <language>en</language>
+        <image>
+            <title>EPA Ireland RSS Feed</title>
+            <url>https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg</url>
+            <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
+        </image>
+        <copyright>2022 © EPA. All Rights Reserved.</copyright>
+        <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Latest submissions to EPA Ireland]]></title>
+            <link>https://github.com/conoro/epa-rss/blob/main/output/csv/daily/2022-11-08.csv</link>
+            <guid>https://github.com/conoro/epa-rss/blob/main/output/csv/daily/2022-11-08.csv</guid>
+            <pubDate>Thu, 10 Nov 2022 06:56:53 GMT</pubDate>
+            <description><![CDATA[All of the submissions from two days ago]]></description>
+            <content:encoded><![CDATA[On GitHub as a CSV file here]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+    </channel>
+</rss>

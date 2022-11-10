@@ -119,6 +119,60 @@ function scrapeNews(urlbase) {
         });
     });
 }
+function TwitterRSS() {
+    return __awaiter(this, void 0, void 0, function () {
+        var feed, d, month, day, year, twodaysago, dailycsvurl, publishDateTime;
+        return __generator(this, function (_a) {
+            feed = new feed_1.Feed({
+                title: "EPA Ireland RSS Feed",
+                description: "RSS feed for EPA website",
+                id: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
+                link: "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse",
+                language: "en",
+                image: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
+                favicon: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
+                copyright: "2022 © EPA. All Rights Reserved.",
+                updated: new Date(),
+                generator: "GitHub Actions",
+                feedLinks: {
+                    rss: "https://example.com/rss"
+                },
+                author: {
+                    name: "EPA",
+                    email: "info@epa.ie",
+                    link: "https://www.epa.ie/who-we-are/contact-us/"
+                }
+            });
+            d = new Date();
+            d.setDate(d.getDate() - 2);
+            month = ("0" + (d.getMonth() + 1)).slice(-2);
+            day = ("0" + d.getDate()).slice(-2);
+            year = d.getFullYear();
+            twodaysago = year + "-" + month + "-" + day;
+            dailycsvurl = "https://github.com/conoro/epa-rss/blob/main/" + "output/csv/daily/" + twodaysago + ".csv";
+            publishDateTime = new Date();
+            feed.addItem({
+                title: "Latest submissions to EPA Ireland",
+                id: dailycsvurl,
+                link: dailycsvurl || "",
+                description: "All of the submissions from two days ago",
+                content: "On GitHub as a CSV file here",
+                author: [
+                    {
+                        name: "EPA Ireland",
+                        email: "info@epa.ie",
+                        link: "https://www.epa.ie/who-we-are/contact-us/"
+                    },
+                ],
+                date: publishDateTime
+            });
+            // Save this to an XML file
+            fs.writeFileSync("./output/rsstwitter.xml", feed.rss2());
+            console.log("wrote output/rsstwitter.xml");
+            return [2 /*return*/];
+        });
+    });
+}
 function dailyRSSCSV() {
     return __awaiter(this, void 0, void 0, function () {
         var feed, d, month, day, year, twodaysago, result, dailycsv, writableStream, columns, stringifier, i, publishDateTime;
@@ -135,7 +189,7 @@ function dailyRSSCSV() {
                         favicon: "https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg",
                         copyright: "2022 © EPA. All Rights Reserved.",
                         updated: new Date(),
-                        generator: "AWS Lambda",
+                        generator: "GitHub Actions",
                         feedLinks: {
                             rss: "https://example.com/rss"
                         },
@@ -222,8 +276,11 @@ function main() {
                 case 3:
                     // Generate daily RSS and CSV for two day ago's updates
                     _a.sent();
-                    return [4 /*yield*/, db.close()];
+                    return [4 /*yield*/, TwitterRSS()];
                 case 4:
+                    _a.sent();
+                    return [4 /*yield*/, db.close()];
+                case 5:
                     _a.sent();
                     return [2 /*return*/];
             }
