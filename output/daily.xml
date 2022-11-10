@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 09 Nov 2022 02:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 02:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>AWS Lambda</generator>
         <language>en</language>
@@ -16,318 +16,273 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV25773 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee0.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:33 GMT</pubDate>
-            <description><![CDATA[SV25773 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0687-02 -- Abbott Ireland: SV25773 - Licensee Report]]></content:encoded>
+            <title><![CDATA[05-08 sept]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3be.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3be.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:31 GMT</pubDate>
+            <description><![CDATA[05-08 sept]]></description>
+            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: 05-08 sept]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25773 - Licensee Public Response]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee1.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:33 GMT</pubDate>
-            <description><![CDATA[SV25773 - Licensee Public Response]]></description>
-            <content:encoded><![CDATA[P0687-02 -- Abbott Ireland: SV25773 - Licensee Public Response]]></content:encoded>
+            <title><![CDATA[Submission No. S010681 - Kunal Solanky]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e0a4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e0a4.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 07:11:07 GMT</pubDate>
+            <description><![CDATA[Submission No. S010681 - Kunal Solanky]]></description>
+            <content:encoded><![CDATA[P0915-02 -- Ballyfaskin Enterprises Ltd: Submission No. S010681 - Kunal Solanky]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - appendix ii]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dccf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dccf.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 11:50:32 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - appendix ii]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - appendix ii]]></content:encoded>
+            <title><![CDATA[S010681 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e0a5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e0a5.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 07:11:07 GMT</pubDate>
+            <description><![CDATA[S010681 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0915-02 -- Ballyfaskin Enterprises Ltd: S010681 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - appendix i 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd0.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 11:50:33 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - appendix i 1]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - appendix i 1]]></content:encoded>
+            <title><![CDATA[Unsolicited Additional Information - 080822 Ballytherm Modelling Report Rev 1 (3)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e29d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e29d.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 17:20:44 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - 080822 Ballytherm Modelling Report Rev 1 (3)]]></description>
+            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - 080822 Ballytherm Modelling Report Rev 1 (3)]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - appropriate assessment 3]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd1.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 11:50:33 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - appropriate assessment 3]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - appropriate assessment 3]]></content:encoded>
+            <title><![CDATA[Tonnage Report 010122-310822 W0131-02]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e372.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e372.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:02:26 GMT</pubDate>
+            <description><![CDATA[Tonnage Report 010122-310822 W0131-02]]></description>
+            <content:encoded><![CDATA[W0131-02 -- Midland Waste Disposal Company Ltd: Tonnage Report 010122-310822 W0131-02]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - BAT common waste water]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd2.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 11:50:33 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - BAT common waste water]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - BAT common waste water]]></content:encoded>
+            <title><![CDATA[Tonnage Report 010122-310822 W0222-01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e373.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e373.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:02:27 GMT</pubDate>
+            <description><![CDATA[Tonnage Report 010122-310822 W0222-01]]></description>
+            <content:encoded><![CDATA[W0222-01 -- Advamced Environmental Solutions (IRL) Limited: Tonnage Report 010122-310822 W0222-01]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - BAT from the Emissions from Storage]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd3.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 11:50:33 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - BAT from the Emissions from Storage]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - BAT from the Emissions from Storage]]></content:encoded>
+            <title><![CDATA[04. July August Organic Sludge Register 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b5.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:30 GMT</pubDate>
+            <description><![CDATA[04. July August Organic Sludge Register 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 04. July August Organic Sludge Register 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - BAT in the Energy Efficiency]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd4.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 11:50:34 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - BAT in the Energy Efficiency]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - BAT in the Energy Efficiency]]></content:encoded>
+            <title><![CDATA[08.  Cover letter to EPA August 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b6.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:30 GMT</pubDate>
+            <description><![CDATA[08.  Cover letter to EPA August 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 08.  Cover letter to EPA August 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - BAT organic chemicals]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd5.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 11:50:34 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - BAT organic chemicals]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - BAT organic chemicals]]></content:encoded>
+            <title><![CDATA[08. Monthly Report to EPA Aug 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b7.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:30 GMT</pubDate>
+            <description><![CDATA[08. Monthly Report to EPA Aug 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 08. Monthly Report to EPA Aug 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - process heat exchange boiler]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd6.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 11:50:34 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - process heat exchange boiler]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - process heat exchange boiler]]></content:encoded>
+            <title><![CDATA[08. SW1 River Sampling August 22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b8.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:31 GMT</pubDate>
+            <description><![CDATA[08. SW1 River Sampling August 22]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 08. SW1 River Sampling August 22]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - Xtratherm Site Drainage03-10-2022 (1)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcd7.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 11:50:34 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Xtratherm Site Drainage03-10-2022 (1)]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - Xtratherm Site Drainage03-10-2022 (1)]]></content:encoded>
+            <title><![CDATA[08. SW2  Ammonia August 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b9.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:31 GMT</pubDate>
+            <description><![CDATA[08. SW2  Ammonia August 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 08. SW2  Ammonia August 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Barclay (A3-6)Q3 and (A1-1 A1-2) B2 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dedf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dedf.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:33 GMT</pubDate>
-            <description><![CDATA[Barclay (A3-6)Q3 and (A1-1 A1-2) B2 2022]]></description>
-            <content:encoded><![CDATA[P0522-01 -- Barclay Chemicals Manufacturing Limited: Barclay (A3-6)Q3 and (A1-1 A1-2) B2 2022]]></content:encoded>
+            <title><![CDATA[08. SW3 August 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3ba.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3ba.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:31 GMT</pubDate>
+            <description><![CDATA[08. SW3 August 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 08. SW3 August 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Annual Noise Monitoring Report 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084def6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084def6.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:20:30 GMT</pubDate>
-            <description><![CDATA[Annual Noise Monitoring Report 2022]]></description>
-            <content:encoded><![CDATA[W0194-02 -- Advanced Environmental Solutions (Ireland) Limited: Annual Noise Monitoring Report 2022]]></content:encoded>
+            <title><![CDATA[SV25913 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e36d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e36d.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:02:22 GMT</pubDate>
+            <description><![CDATA[SV25913 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0076-01 -- Chemifloc Ltd.: SV25913 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Q2 2022 Annual SW Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee9.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:34 GMT</pubDate>
-            <description><![CDATA[Q2 2022 Annual SW Report]]></description>
-            <content:encoded><![CDATA[W0025-04 -- Carlow County Council: Q2 2022 Annual SW Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Site Office Gas Monitoring - Week 36 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dec1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dec1.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:01:44 GMT</pubDate>
-            <description><![CDATA[Site Office Gas Monitoring - Week 36 2022]]></description>
-            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Site Office Gas Monitoring - Week 36 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Web Notice 23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcfd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dcfd.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 12:31:04 GMT</pubDate>
-            <description><![CDATA[Web Notice 23]]></description>
-            <content:encoded><![CDATA[P1168-01 -- Equinix: Web Notice 23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dd16.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dd16.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 12:51:04 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
-            <content:encoded><![CDATA[P1168-01 -- Equinix: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Planning Authority re Register - Letter - LACT00011935]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dd17.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dd17.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 12:51:05 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority re Register - Letter - LACT00011935]]></description>
-            <content:encoded><![CDATA[P1168-01 -- Equinix: Notification to Planning Authority re Register - Letter - LACT00011935]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Planning Authority re Register - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dd18.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dd18.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 12:51:05 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority re Register - Register]]></description>
-            <content:encoded><![CDATA[P1168-01 -- Equinix: Notification to Planning Authority re Register - Register]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Analysis of Aqeous Water  August 22 GW1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debb.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:01:37 GMT</pubDate>
-            <description><![CDATA[Analysis of Aqeous Water  August 22 GW1]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: Analysis of Aqeous Water  August 22 GW1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[August 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debc.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:01:38 GMT</pubDate>
-            <description><![CDATA[August 2022]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: August 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[GW1 August 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debd.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:01:39 GMT</pubDate>
-            <description><![CDATA[GW1 August 2022]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: GW1 August 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Standard Report 22-32635-20220906 165218]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debe.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debe.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:01:40 GMT</pubDate>
-            <description><![CDATA[Standard Report 22-32635-20220906 165218]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: Standard Report 22-32635-20220906 165218]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SW1 Trend Graphs August 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084debf.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:01:42 GMT</pubDate>
-            <description><![CDATA[SW1 Trend Graphs August 2022]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: SW1 Trend Graphs August 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[VOC Chromatograph SW1 Aug 22]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dec0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dec0.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:01:43 GMT</pubDate>
-            <description><![CDATA[VOC Chromatograph SW1 Aug 22]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: VOC Chromatograph SW1 Aug 22]]></content:encoded>
+            <title><![CDATA[W0253-01 - 2022 YTD Waste Quantity - Aug 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e375.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e375.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:02:29 GMT</pubDate>
+            <description><![CDATA[W0253-01 - 2022 YTD Waste Quantity - Aug 2022]]></description>
+            <content:encoded><![CDATA[W0253-01 -- Clean (Irl) Refuse and Recycling Limited: W0253-01 - 2022 YTD Waste Quantity - Aug 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
             <title><![CDATA[Analysis of Aqueous Water Aug 22- SW1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ded9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084ded9.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:32 GMT</pubDate>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e36e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e36e.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:02:23 GMT</pubDate>
             <description><![CDATA[Analysis of Aqueous Water Aug 22- SW1]]></description>
             <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: Analysis of Aqueous Water Aug 22- SW1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[GW3  August 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084deda.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084deda.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:32 GMT</pubDate>
-            <description><![CDATA[GW3  August 2022]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: GW3  August 2022]]></content:encoded>
+            <title><![CDATA[SV24175 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3bf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3bf.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:32 GMT</pubDate>
+            <description><![CDATA[SV24175 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: SV24175 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Standard Report 22-32635-20220906 165218]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dedb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dedb.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:32 GMT</pubDate>
-            <description><![CDATA[Standard Report 22-32635-20220906 165218]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: Standard Report 22-32635-20220906 165218]]></content:encoded>
+            <title><![CDATA[SV25750 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3bb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3bb.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:31 GMT</pubDate>
+            <description><![CDATA[SV25750 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0781-02 -- Kepak Kilbeggan: SV25750 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Standard Report 22-32635-20220906 165218]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dedc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dedc.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:32 GMT</pubDate>
-            <description><![CDATA[Standard Report 22-32635-20220906 165218]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: Standard Report 22-32635-20220906 165218]]></content:encoded>
+            <title><![CDATA[SV25750 - Licensee Public Response 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3bc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3bc.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:31 GMT</pubDate>
+            <description><![CDATA[SV25750 - Licensee Public Response 2]]></description>
+            <content:encoded><![CDATA[P0781-02 -- Kepak Kilbeggan: SV25750 - Licensee Public Response 2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[VOC Chromatograph Aug 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dedd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dedd.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:32 GMT</pubDate>
-            <description><![CDATA[VOC Chromatograph Aug 2022]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: VOC Chromatograph Aug 2022]]></content:encoded>
+            <title><![CDATA[SV25750 - Licensee Public Response]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3bd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3bd.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:31 GMT</pubDate>
+            <description><![CDATA[SV25750 - Licensee Public Response]]></description>
+            <content:encoded><![CDATA[P0781-02 -- Kepak Kilbeggan: SV25750 - Licensee Public Response]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[VOC Chromatograph GW 3 August 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dede.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dede.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:32 GMT</pubDate>
-            <description><![CDATA[VOC Chromatograph GW 3 August 2022]]></description>
-            <content:encoded><![CDATA[P0244-01 -- FSW Coatings Limited: VOC Chromatograph GW 3 August 2022]]></content:encoded>
+            <title><![CDATA[SV24057 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3c0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3c0.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:32 GMT</pubDate>
+            <description><![CDATA[SV24057 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P1076-01 -- KMK Metals Recycling Limited: SV24057 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3. Sludge Register (Period May - June 2022)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee2.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:33 GMT</pubDate>
-            <description><![CDATA[3. Sludge Register (Period May - June 2022)]]></description>
-            <content:encoded><![CDATA[P0806-01 -- Rye Valley Foods Limited: 3. Sludge Register (Period May - June 2022)]]></content:encoded>
+            <title><![CDATA[KLL Landfill Capacity  07092022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3c2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3c2.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:32 GMT</pubDate>
+            <description><![CDATA[KLL Landfill Capacity  07092022]]></description>
+            <content:encoded><![CDATA[W0146-02 -- Knockharley Landfill Limited: KLL Landfill Capacity  07092022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[4. Sludge Register (Period July - August 2022)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee3.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:33 GMT</pubDate>
-            <description><![CDATA[4. Sludge Register (Period July - August 2022)]]></description>
-            <content:encoded><![CDATA[P0806-01 -- Rye Valley Foods Limited: 4. Sludge Register (Period July - August 2022)]]></content:encoded>
+            <title><![CDATA[Kyte Powertech A21 Boiler 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3af.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3af.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:29 GMT</pubDate>
+            <description><![CDATA[Kyte Powertech A21 Boiler 2022]]></description>
+            <content:encoded><![CDATA[P0106-02 -- Pauwels Trafo Ireland Limited: Kyte Powertech A21 Boiler 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0003-03 Baling Centre Q3 Tonnages]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee5.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:33 GMT</pubDate>
-            <description><![CDATA[W0003-03 Baling Centre Q3 Tonnages]]></description>
-            <content:encoded><![CDATA[W0003-03 -- South Dublin County Council: W0003-03 Baling Centre Q3 Tonnages]]></content:encoded>
+            <title><![CDATA[Kyte Powertech A22 Boiler 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b0.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:29 GMT</pubDate>
+            <description><![CDATA[Kyte Powertech A22 Boiler 2022]]></description>
+            <content:encoded><![CDATA[P0106-02 -- Pauwels Trafo Ireland Limited: Kyte Powertech A22 Boiler 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0003-03 Civic Amenity Q3 Tonnages]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084dee6.pdf</guid>
-            <pubDate>Mon, 07 Nov 2022 21:10:33 GMT</pubDate>
-            <description><![CDATA[W0003-03 Civic Amenity Q3 Tonnages]]></description>
-            <content:encoded><![CDATA[W0003-03 -- South Dublin County Council: W0003-03 Civic Amenity Q3 Tonnages]]></content:encoded>
+            <title><![CDATA[Kyte Powertech A28 Burn off Oven 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b1.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:30 GMT</pubDate>
+            <description><![CDATA[Kyte Powertech A28 Burn off Oven 2022]]></description>
+            <content:encoded><![CDATA[P0106-02 -- Pauwels Trafo Ireland Limited: Kyte Powertech A28 Burn off Oven 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Kyte Powertech A30 Boiler 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b2.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:30 GMT</pubDate>
+            <description><![CDATA[Kyte Powertech A30 Boiler 2022]]></description>
+            <content:encoded><![CDATA[P0106-02 -- Pauwels Trafo Ireland Limited: Kyte Powertech A30 Boiler 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Kyte Powertech A4A Shot blast 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b3.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:30 GMT</pubDate>
+            <description><![CDATA[Kyte Powertech A4A Shot blast 2022]]></description>
+            <content:encoded><![CDATA[P0106-02 -- Pauwels Trafo Ireland Limited: Kyte Powertech A4A Shot blast 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Kyte Powertech A4B Shot blast 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3b4.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:30 GMT</pubDate>
+            <description><![CDATA[Kyte Powertech A4B Shot blast 2022]]></description>
+            <content:encoded><![CDATA[P0106-02 -- Pauwels Trafo Ireland Limited: Kyte Powertech A4B Shot blast 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Env4222.epa]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3c3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3c3.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:32 GMT</pubDate>
+            <description><![CDATA[Env4222.epa]]></description>
+            <content:encoded><![CDATA[W0192-03 -- Rilta Environmental Ltd: Env4222.epa]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[GW Q2 Report 2022 (W0192-03)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3c4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e3c4.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 21:20:32 GMT</pubDate>
+            <description><![CDATA[GW Q2 Report 2022 (W0192-03)]]></description>
+            <content:encoded><![CDATA[W0192-03 -- Rilta Environmental Ltd: GW Q2 Report 2022 (W0192-03)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Third Party - Invalid Objection]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e207.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28084e207.pdf</guid>
+            <pubDate>Tue, 08 Nov 2022 15:11:08 GMT</pubDate>
+            <description><![CDATA[Notification to Third Party - Invalid Objection]]></description>
+            <content:encoded><![CDATA[P0606-04 -- SSE Generation Ireland Limited: Notification to Third Party - Invalid Objection]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
