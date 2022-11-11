@@ -4,10 +4,10 @@ This code scrapes all of the RSS feeds for submissions on the [EPA Ireland websi
 It all runs under GitHub Actions around 01:30AM UTC every day and takes about 20 minutes to complete due to the number of RSS feeds that need to be downloaded and parsed.
 
 ## Subscribing to the RSS Feed
-Use this URL in [Feedly](https://feedly.com) or similar: https://raw.githubusercontent.com/conoro/epa-rss/main/output/daily.xml
+Use this URL in [Feedly](https://feedly.com) or similar: https://raw.githubusercontent.com/EPA-Ireland-Updates-Unofficial/epa-rss/main/output/daily.xml
 
 ## Viewing the daily CSV files.
-They are all here in the repo starting on Sep 22nd 2022: https://github.com/conoro/epa-rss/tree/main/output/csv/daily
+They are all here in the repo starting on Sep 22nd 2022: https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/tree/main/output/csv/daily
 
 ## Getting notified by email (experimental)
 If you'd like to receive email with a link to the latest CSV each day:
