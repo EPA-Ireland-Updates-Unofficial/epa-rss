@@ -152,11 +152,11 @@ function TwitterRSS() {
             dailycsvurl = "https://github.com/conoro/epa-rss/blob/main/" + "output/csv/daily/" + twodaysago + ".csv";
             publishDateTime = new Date();
             feed.addItem({
-                title: "Latest submissions to EPA Ireland",
+                title: "Daily summary of all updates to EPA licences",
                 id: dailycsvurl,
                 link: dailycsvurl || "",
-                description: "All of the submissions from two days ago",
-                content: "On GitHub as a CSV file here",
+                description: "All updates on " + twodaysago,
+                content: "EPA warning letters, inspectors reports, 3rd party submissions on licenses etc on " + twodaysago,
                 author: [
                     {
                         name: "EPA Ireland",
