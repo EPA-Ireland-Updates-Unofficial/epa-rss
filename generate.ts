@@ -107,12 +107,12 @@ async function TwitterRSS() {
   let year = d.getFullYear();
   let twodaysago = year + "-" + month + "-" + day;
 
-  const dailycsvurl = "https://github.com/conoro/epa-rss/blob/main/" + "output/csv/daily/" + twodaysago + ".csv";
+  const dailycsvurl = "https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/" + twodaysago + ".csv";
 
   let publishDateTime = new Date();
 
   feed.addItem({
-    title: "Daily summary of all updates to EPA licences",
+    title: twodaysago + " summary of all updates to EPA licences: ",
     id: dailycsvurl,
     link: dailycsvurl || "",
     description: "All updates on " + twodaysago,
