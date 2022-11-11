@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Thu, 10 Nov 2022 08:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 02:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -17,9 +17,9 @@
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Latest submissions to EPA Ireland]]></title>
-            <link>https://github.com/conoro/epa-rss/blob/main/output/csv/daily/2022-11-08.csv</link>
-            <guid>https://github.com/conoro/epa-rss/blob/main/output/csv/daily/2022-11-08.csv</guid>
-            <pubDate>Thu, 10 Nov 2022 08:14:47 GMT</pubDate>
+            <link>https://github.com/conoro/epa-rss/blob/main/output/csv/daily/2022-11-09.csv</link>
+            <guid>https://github.com/conoro/epa-rss/blob/main/output/csv/daily/2022-11-09.csv</guid>
+            <pubDate>Fri, 11 Nov 2022 02:10:56 GMT</pubDate>
             <description><![CDATA[All of the submissions from two days ago]]></description>
             <content:encoded><![CDATA[On GitHub as a CSV file here]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
