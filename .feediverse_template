@@ -1,0 +1,9 @@
+access_token: MASTODON_ACCESS_TOKEN
+client_id: MASTODON_CLIENT_ID
+client_secret: MASTODON_CLIENT_SECRET
+feeds:
+- template: '{title} {url}'
+  url: https://raw.githubusercontent.com/EPA-Ireland-Updates-Unofficial/epa-rss/main/output/rsstwitter.xml
+name: RSS2Mastodon
+updated: '2022-11-16T03:19:07+00:00'
+url: https://climatejustice.social/

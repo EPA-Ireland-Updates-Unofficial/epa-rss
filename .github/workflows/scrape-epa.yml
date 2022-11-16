@@ -16,11 +16,13 @@ jobs:
         with:
           node-version: '16.x'
           cache: 'npm'
-      - name: npm install, build, and run code
+      - name: npm install and build
         run: |
           npm install
           cp sqlite/epa-rss-template.sqlite sqlite/epa-rss.sqlite
           npm run build
+      - name: run code
+        run: |
           npm run generate          
       - name: commit files
         run: |
@@ -29,6 +31,20 @@ jobs:
           git add -A
           git commit -m "update EPS data" -a
           git push
+      - name: install and run feediverse for Mastodon
+        run: |
+          pip install feediverse
+          sed 's/MASTODON_ACCESS_TOKEN/'$MASTODON_ACCESS_TOKEN'/' .feediverse_template > .feediverse
+          sed -i 's/MASTODON_CLIENT_ID/'$MASTODON_CLIENT_ID'/' .feediverse
+          sed -i 's/MASTODON_CLIENT_SECRET/'$MASTODON_CLIENT_SECRET'/' .feediverse
+          feediverse -c .feediverse
+          rm .feediverse
+        shell: bash
+        env:
+          env:
+            MASTODON_ACCESS_TOKEN: ${{secrets.MASTODON_ACCESS_TOKEN}}
+            MASTODON_CLIENT_ID: ${{secrets.MASTODON_CLIENT_ID}}
+            MASTODON_CLIENT_SECRET: ${{secrets.MASTODON_CLIENT_SECRET}}
       - name: upload sqlite3 to s3
         uses: shallwefootball/s3-upload-action@master
         with:
