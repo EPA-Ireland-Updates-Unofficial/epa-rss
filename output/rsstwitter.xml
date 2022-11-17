@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Thu, 17 Nov 2022 04:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 06:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -19,7 +19,7 @@
             <title><![CDATA[2022-11-15 summary of all updates to EPA licences: ]]></title>
             <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/2022-11-15.csv</link>
             <guid>https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/2022-11-15.csv</guid>
-            <pubDate>Thu, 17 Nov 2022 04:52:28 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 06:33:00 GMT</pubDate>
             <description><![CDATA[All updates on 2022-11-15]]></description>
             <content:encoded><![CDATA[EPA warning letters, inspectors reports, 3rd party submissions on licenses etc on 2022-11-15]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
