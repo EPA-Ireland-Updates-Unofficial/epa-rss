@@ -38,7 +38,7 @@ jobs:
           sed -i 's/MASTODON_CLIENT_ID/'$MASTODON_CLIENT_ID'/' /home/runner/.feediverse
           sed -i 's/MASTODON_CLIENT_SECRET/'$MASTODON_CLIENT_SECRET'/' /home/runner/.feediverse
           /home/runner/.local/bin/feediverse --verbose -c /home/runner/.feediverse
-          rm .feediverse
+          rm /home/runner/.feediverse
         shell: bash
         env:
           MASTODON_ACCESS_TOKEN: ${{secrets.MASTODON_ACCESS_TOKEN}}
