@@ -37,7 +37,7 @@ jobs:
           sed 's/MASTODON_ACCESS_TOKEN/'$MASTODON_ACCESS_TOKEN'/' .feediverse_template > .feediverse
           sed -i 's/MASTODON_CLIENT_ID/'$MASTODON_CLIENT_ID'/' .feediverse
           sed -i 's/MASTODON_CLIENT_SECRET/'$MASTODON_CLIENT_SECRET'/' .feediverse
-          feediverse -c .feediverse
+          /home/runner/.local/bin/feediverse --verbose -c /home/runner/.feediverse
           rm .feediverse
         shell: bash
         env:
