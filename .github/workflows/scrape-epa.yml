@@ -34,9 +34,9 @@ jobs:
       - name: install and run feediverse for Mastodon
         run: |
           pip install feediverse
-          sed 's/MASTODON_ACCESS_TOKEN/'$MASTODON_ACCESS_TOKEN'/' .feediverse_template > .feediverse
-          sed -i 's/MASTODON_CLIENT_ID/'$MASTODON_CLIENT_ID'/' .feediverse
-          sed -i 's/MASTODON_CLIENT_SECRET/'$MASTODON_CLIENT_SECRET'/' .feediverse
+          sed 's/MASTODON_ACCESS_TOKEN/'$MASTODON_ACCESS_TOKEN'/' .feediverse_template > /home/runner/.feediverse
+          sed -i 's/MASTODON_CLIENT_ID/'$MASTODON_CLIENT_ID'/' /home/runner/.feediverse
+          sed -i 's/MASTODON_CLIENT_SECRET/'$MASTODON_CLIENT_SECRET'/' /home/runner/.feediverse
           /home/runner/.local/bin/feediverse --verbose -c /home/runner/.feediverse
           rm .feediverse
         shell: bash
