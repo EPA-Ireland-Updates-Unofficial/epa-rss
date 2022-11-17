@@ -41,10 +41,9 @@ jobs:
           rm .feediverse
         shell: bash
         env:
-          env:
-            MASTODON_ACCESS_TOKEN: ${{secrets.MASTODON_ACCESS_TOKEN}}
-            MASTODON_CLIENT_ID: ${{secrets.MASTODON_CLIENT_ID}}
-            MASTODON_CLIENT_SECRET: ${{secrets.MASTODON_CLIENT_SECRET}}
+          MASTODON_ACCESS_TOKEN: ${{secrets.MASTODON_ACCESS_TOKEN}}
+          MASTODON_CLIENT_ID: ${{secrets.MASTODON_CLIENT_ID}}
+          MASTODON_CLIENT_SECRET: ${{secrets.MASTODON_CLIENT_SECRET}}
       - name: upload sqlite3 to s3
         uses: shallwefootball/s3-upload-action@master
         with:
