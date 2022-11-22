@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 21 Nov 2022 03:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 03:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,75 +16,48 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV25916 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513d7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513d7.pdf</guid>
-            <pubDate>Sat, 19 Nov 2022 21:01:37 GMT</pubDate>
-            <description><![CDATA[SV25916 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: SV25916 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV25924 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fb.pdf</guid>
+            <pubDate>Sun, 20 Nov 2022 21:01:25 GMT</pubDate>
+            <description><![CDATA[SV25924 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0035-07 -- Aughinish Alumina Limited: SV25924 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25906 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e4.pdf</guid>
-            <pubDate>Sat, 19 Nov 2022 21:10:58 GMT</pubDate>
-            <description><![CDATA[SV25906 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: SV25906 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV25923 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fc.pdf</guid>
+            <pubDate>Sun, 20 Nov 2022 21:01:27 GMT</pubDate>
+            <description><![CDATA[SV25923 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0561-05 -- ESB (Aghada): SV25923 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Monitoring Results]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e5.pdf</guid>
-            <pubDate>Sat, 19 Nov 2022 21:10:58 GMT</pubDate>
-            <description><![CDATA[Monitoring Results]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: Monitoring Results]]></content:encoded>
+            <title><![CDATA[SV25715 - Licensee Public Response]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fe.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fe.pdf</guid>
+            <pubDate>Sun, 20 Nov 2022 21:01:30 GMT</pubDate>
+            <description><![CDATA[SV25715 - Licensee Public Response]]></description>
+            <content:encoded><![CDATA[P0799-01 -- Glanbia Food Limited: SV25715 - Licensee Public Response]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25983 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e7.pdf</guid>
-            <pubDate>Sat, 19 Nov 2022 21:10:58 GMT</pubDate>
-            <description><![CDATA[SV25983 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: SV25983 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV23919 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fd.pdf</guid>
+            <pubDate>Sun, 20 Nov 2022 21:01:28 GMT</pubDate>
+            <description><![CDATA[SV23919 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0660-01 -- Mr Tom O"Brien: SV23919 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23433 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e3.pdf</guid>
-            <pubDate>Sat, 19 Nov 2022 21:10:57 GMT</pubDate>
-            <description><![CDATA[SV23433 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0465-02 -- G. Bruss GmbH, DICHTUNGSTECHNIK: SV23433 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23322 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513d6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513d6.pdf</guid>
-            <pubDate>Sat, 19 Nov 2022 21:01:35 GMT</pubDate>
-            <description><![CDATA[SV23322 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0168-02 -- Kepak Athleague: SV23322 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23973 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513e6.pdf</guid>
-            <pubDate>Sat, 19 Nov 2022 21:10:58 GMT</pubDate>
-            <description><![CDATA[SV23973 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0923-01 -- Paraig Kiely: SV23973 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[W0183-01 Q3FW1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513d8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808513d8.pdf</guid>
-            <pubDate>Sat, 19 Nov 2022 21:01:38 GMT</pubDate>
-            <description><![CDATA[W0183-01 Q3FW1]]></description>
-            <content:encoded><![CDATA[W0183-01 -- Starrus Eco Holding Limited: W0183-01 Q3FW1]]></content:encoded>
+            <title><![CDATA[ERF 6.2A EMR NCC August 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516ff.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516ff.pdf</guid>
+            <pubDate>Sun, 20 Nov 2022 21:01:31 GMT</pubDate>
+            <description><![CDATA[ERF 6.2A EMR NCC August 2022]]></description>
+            <content:encoded><![CDATA[P1051-01 -- North Cork Co Operative Limited: ERF 6.2A EMR NCC August 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
