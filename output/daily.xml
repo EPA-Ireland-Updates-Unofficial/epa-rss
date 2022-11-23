@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 22 Nov 2022 03:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,48 +16,192 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV25924 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fb.pdf</guid>
-            <pubDate>Sun, 20 Nov 2022 21:01:25 GMT</pubDate>
-            <description><![CDATA[SV25924 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0035-07 -- Aughinish Alumina Limited: SV25924 - Licensee Report]]></content:encoded>
+            <title><![CDATA[GCU0291001 letter 220922]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b66.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b66.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:10:51 GMT</pubDate>
+            <description><![CDATA[GCU0291001 letter 220922]]></description>
+            <content:encoded><![CDATA[P0275-01 -- Lufthansa Airmotive Ireland Limited: GCU0291001 letter 220922]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25923 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fc.pdf</guid>
-            <pubDate>Sun, 20 Nov 2022 21:01:27 GMT</pubDate>
-            <description><![CDATA[SV25923 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0561-05 -- ESB (Aghada): SV25923 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Site Office Gas Monitoring - Week 38 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b4a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b4a.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:01:21 GMT</pubDate>
+            <description><![CDATA[Site Office Gas Monitoring - Week 38 2022]]></description>
+            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Site Office Gas Monitoring - Week 38 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25715 - Licensee Public Response]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fe.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fe.pdf</guid>
-            <pubDate>Sun, 20 Nov 2022 21:01:30 GMT</pubDate>
-            <description><![CDATA[SV25715 - Licensee Public Response]]></description>
-            <content:encoded><![CDATA[P0799-01 -- Glanbia Food Limited: SV25715 - Licensee Public Response]]></content:encoded>
+            <title><![CDATA[P0207-05 Newspaper Notice - FD]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a39.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a39.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 16:30:31 GMT</pubDate>
+            <description><![CDATA[P0207-05 Newspaper Notice - FD]]></description>
+            <content:encoded><![CDATA[P0207-05 -- Intel Ireland Limited: P0207-05 Newspaper Notice - FD]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23919 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516fd.pdf</guid>
-            <pubDate>Sun, 20 Nov 2022 21:01:28 GMT</pubDate>
-            <description><![CDATA[SV23919 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0660-01 -- Mr Tom O"Brien: SV23919 - Licensee Report]]></content:encoded>
+            <title><![CDATA[P0207-05 Web Notice - LACT00012051]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a5f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a5f.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 17:00:46 GMT</pubDate>
+            <description><![CDATA[P0207-05 Web Notice - LACT00012051]]></description>
+            <content:encoded><![CDATA[P0207-05 -- Intel Ireland Limited: P0207-05 Web Notice - LACT00012051]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[ERF 6.2A EMR NCC August 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516ff.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808516ff.pdf</guid>
-            <pubDate>Sun, 20 Nov 2022 21:01:31 GMT</pubDate>
-            <description><![CDATA[ERF 6.2A EMR NCC August 2022]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Co Operative Limited: ERF 6.2A EMR NCC August 2022]]></content:encoded>
+            <title><![CDATA[Letter to Applicant re. Proposed Determination LACT0012066]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851993.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851993.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 14:00:22 GMT</pubDate>
+            <description><![CDATA[Letter to Applicant re. Proposed Determination LACT0012066]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: Letter to Applicant re. Proposed Determination LACT0012066]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued � Notification to Specified Bodies]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851994.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851994.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 14:00:23 GMT</pubDate>
+            <description><![CDATA[PD Issued � Notification to Specified Bodies]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: PD Issued � Notification to Specified Bodies]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued � Notification to Submitters]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851995.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851995.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 14:00:23 GMT</pubDate>
+            <description><![CDATA[PD Issued � Notification to Submitters]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: PD Issued � Notification to Submitters]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Circulation of Register to Local Authority]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a20.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a20.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 16:11:00 GMT</pubDate>
+            <description><![CDATA[Circulation of Register to Local Authority]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: Circulation of Register to Local Authority]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Planning Authority re. Register - LACT00012078]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a21.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a21.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 16:11:02 GMT</pubDate>
+            <description><![CDATA[Letter to Planning Authority re. Register - LACT00012078]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: Letter to Planning Authority re. Register - LACT00012078]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Register of Licence]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a22.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851a22.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 16:11:02 GMT</pubDate>
+            <description><![CDATA[Register of Licence]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: Register of Licence]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IR-LA003516]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b6a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b6a.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:10:52 GMT</pubDate>
+            <description><![CDATA[IR-LA003516]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: IR-LA003516]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[RD-LA003516]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b6b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b6b.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:10:52 GMT</pubDate>
+            <description><![CDATA[RD-LA003516]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: RD-LA003516]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD-LA003516]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b7b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b7b.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:20:50 GMT</pubDate>
+            <description><![CDATA[PD-LA003516]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: PD-LA003516]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - PlanningLetters (Final Grant)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808519db.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808519db.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 15:01:10 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - PlanningLetters (Final Grant)]]></description>
+            <content:encoded><![CDATA[P0571-05 -- Merck Millipore Limited: Letter from Applicant - PlanningLetters (Final Grant)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Dust Q1 2022 Ormonde Organics]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b7c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b7c.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:20:50 GMT</pubDate>
+            <description><![CDATA[Dust Q1 2022 Ormonde Organics]]></description>
+            <content:encoded><![CDATA[W0287-01 -- Ormonde Organics Limited: Dust Q1 2022 Ormonde Organics]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Dust Q2 2022 Ormonde Organics]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b7d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b7d.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:20:50 GMT</pubDate>
+            <description><![CDATA[Dust Q2 2022 Ormonde Organics]]></description>
+            <content:encoded><![CDATA[W0287-01 -- Ormonde Organics Limited: Dust Q2 2022 Ormonde Organics]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Dust Q3 2022 Ormonde Organics]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b7e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b7e.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:20:50 GMT</pubDate>
+            <description><![CDATA[Dust Q3 2022 Ormonde Organics]]></description>
+            <content:encoded><![CDATA[W0287-01 -- Ormonde Organics Limited: Dust Q3 2022 Ormonde Organics]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25961 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b67.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b67.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:10:51 GMT</pubDate>
+            <description><![CDATA[SV25961 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0606-03 -- SSE Generation Ireland Limited: SV25961 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV23556 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b47.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b47.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:01:21 GMT</pubDate>
+            <description><![CDATA[SV23556 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0947-01 -- Staunton Foods Ltd: SV23556 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25994 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b68.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b68.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:10:52 GMT</pubDate>
+            <description><![CDATA[SV25994 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0947-02 -- Staunton Foods Limited: SV25994 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2022 Q2 Dust HLM Ringaskiddy]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b69.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280851b69.pdf</guid>
+            <pubDate>Mon, 21 Nov 2022 21:10:52 GMT</pubDate>
+            <description><![CDATA[2022 Q2 Dust HLM Ringaskiddy]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: 2022 Q2 Dust HLM Ringaskiddy]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
