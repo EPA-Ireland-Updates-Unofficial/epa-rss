@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 06 Dec 2022 02:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 02:54:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,93 +16,237 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Arrabawn A2-2 TPM PM10 2 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085581b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085581b.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:01:31 GMT</pubDate>
-            <description><![CDATA[Arrabawn A2-2 TPM PM10 2 2022]]></description>
-            <content:encoded><![CDATA[P0791-03 -- Arrabawn Co-opreative Society Ltd: Arrabawn A2-2 TPM PM10 2 2022]]></content:encoded>
+            <title><![CDATA[Arrabawn A2-1 TPM PM10 2 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bec.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bec.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:23 GMT</pubDate>
+            <description><![CDATA[Arrabawn A2-1 TPM PM10 2 2022]]></description>
+            <content:encoded><![CDATA[P0791-03 -- Arrabawn Co-opreative Society Ltd: Arrabawn A2-1 TPM PM10 2 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Arrabawn A2-4 2 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085581c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085581c.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:01:32 GMT</pubDate>
-            <description><![CDATA[Arrabawn A2-4 2 2022]]></description>
-            <content:encoded><![CDATA[P0791-03 -- Arrabawn Co-opreative Society Ltd: Arrabawn A2-4 2 2022]]></content:encoded>
+            <title><![CDATA[BNM Navan Rem GW Results Q3 Aug.22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bfb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bfb.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:25 GMT</pubDate>
+            <description><![CDATA[BNM Navan Rem GW Results Q3 Aug.22]]></description>
+            <content:encoded><![CDATA[W0131-02 -- Midland Waste Disposal Company Ltd: BNM Navan Rem GW Results Q3 Aug.22]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Arrabawn A2-6 TPM PM10 2 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085581d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085581d.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:01:33 GMT</pubDate>
-            <description><![CDATA[Arrabawn A2-6 TPM PM10 2 2022]]></description>
-            <content:encoded><![CDATA[P0791-03 -- Arrabawn Co-opreative Society Ltd: Arrabawn A2-6 TPM PM10 2 2022]]></content:encoded>
+            <title><![CDATA[BnM Navan EMS Q3 2022 Rpt]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855c04.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855c04.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:20:22 GMT</pubDate>
+            <description><![CDATA[BnM Navan EMS Q3 2022 Rpt]]></description>
+            <content:encoded><![CDATA[W0131-02 -- Midland Waste Disposal Company Ltd: BnM Navan EMS Q3 2022 Rpt]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[BnM Navan Dust 2 of 3 2022 Rpt]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855832.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855832.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:11:25 GMT</pubDate>
-            <description><![CDATA[BnM Navan Dust 2 of 3 2022 Rpt]]></description>
-            <content:encoded><![CDATA[W0131-02 -- Midland Waste Disposal Company Ltd: BnM Navan Dust 2 of 3 2022 Rpt]]></content:encoded>
+            <title><![CDATA[BnM Lusk GW Rem. Report Q3 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855c07.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855c07.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:20:23 GMT</pubDate>
+            <description><![CDATA[BnM Lusk GW Rem. Report Q3 2022]]></description>
+            <content:encoded><![CDATA[W0222-01 -- Advamced Environmental Solutions (IRL) Limited: BnM Lusk GW Rem. Report Q3 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[BnM Navan GW (Licence)  Biannual 1 of 2 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855833.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855833.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:11:25 GMT</pubDate>
-            <description><![CDATA[BnM Navan GW (Licence)  Biannual 1 of 2 2022]]></description>
-            <content:encoded><![CDATA[W0131-02 -- Midland Waste Disposal Company Ltd: BnM Navan GW (Licence)  Biannual 1 of 2 2022]]></content:encoded>
+            <title><![CDATA[Lusk Rem Monitoring Results Q3.22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855c08.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855c08.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:20:23 GMT</pubDate>
+            <description><![CDATA[Lusk Rem Monitoring Results Q3.22]]></description>
+            <content:encoded><![CDATA[W0222-01 -- Advamced Environmental Solutions (IRL) Limited: Lusk Rem Monitoring Results Q3.22]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Q3 2022 Groundwater Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085582f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085582f.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:11:25 GMT</pubDate>
-            <description><![CDATA[Q3 2022 Groundwater Report]]></description>
-            <content:encoded><![CDATA[W0025-04 -- Carlow County Council: Q3 2022 Groundwater Report]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00012217]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855a00.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855a00.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 10:30:42 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00012217]]></description>
+            <content:encoded><![CDATA[P1169-01 -- Chemoran Limited: Notification to Applicant Extension Request - LACT00012217]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Corby Rock 1st Period Ambient Dust Report 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085582d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085582d.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:11:24 GMT</pubDate>
-            <description><![CDATA[Corby Rock 1st Period Ambient Dust Report 2022]]></description>
-            <content:encoded><![CDATA[P1039-01 -- Corby Rock Mill Limited: Corby Rock 1st Period Ambient Dust Report 2022]]></content:encoded>
+            <title><![CDATA[Odour Test Aug.2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855be9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855be9.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:23 GMT</pubDate>
+            <description><![CDATA[Odour Test Aug.2022]]></description>
+            <content:encoded><![CDATA[P0037-04 -- College Proteins: Odour Test Aug.2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Corby SW 2nd Period 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085582e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085582e.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:11:24 GMT</pubDate>
-            <description><![CDATA[Corby SW 2nd Period 2022]]></description>
-            <content:encoded><![CDATA[P1039-01 -- Corby Rock Mill Limited: Corby SW 2nd Period 2022]]></content:encoded>
+            <title><![CDATA[Site Office Gas Monitoring - Week 40 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf8.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:25 GMT</pubDate>
+            <description><![CDATA[Site Office Gas Monitoring - Week 40 2022]]></description>
+            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Site Office Gas Monitoring - Week 40 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Week of 26th September 2022 - Odour Run]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085582c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085582c.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:11:24 GMT</pubDate>
-            <description><![CDATA[Week of 26th September 2022 - Odour Run]]></description>
-            <content:encoded><![CDATA[P1004-02 -- Glenmore Generation Limitd: Week of 26th September 2022 - Odour Run]]></content:encoded>
+            <title><![CDATA[YLF-perimGas(Q3-2022)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf9.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:25 GMT</pubDate>
+            <description><![CDATA[YLF-perimGas(Q3-2022)]]></description>
+            <content:encoded><![CDATA[W0068-03 -- Cork County Council: YLF-perimGas(Q3-2022)]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2022-090 Pfizer CHP Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085581a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085581a.pdf</guid>
-            <pubDate>Sun, 04 Dec 2022 21:01:29 GMT</pubDate>
-            <description><![CDATA[2022-090 Pfizer CHP Q3 2022]]></description>
-            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: 2022-090 Pfizer CHP Q3 2022]]></content:encoded>
+            <title><![CDATA[Youghal Monitoring Q3 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bfa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bfa.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:25 GMT</pubDate>
+            <description><![CDATA[Youghal Monitoring Q3 2022]]></description>
+            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Youghal Monitoring Q3 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 7.7.1 05122022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855b3e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855b3e.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 17:50:38 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 7.7.1 05122022]]></description>
+            <content:encoded><![CDATA[P1155-01 -- Dernahesco Poultry Limited: Letter from Applicant - 7.7.1 05122022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Let EPA 05122022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855b3f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855b3f.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 17:50:38 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Let EPA 05122022]]></description>
+            <content:encoded><![CDATA[P1155-01 -- Dernahesco Poultry Limited: Letter from Applicant - Let EPA 05122022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Site Plan Revised 05022022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855b40.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855b40.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 17:50:38 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Site Plan Revised 05022022]]></description>
+            <content:encoded><![CDATA[P1155-01 -- Dernahesco Poultry Limited: Letter from Applicant - Site Plan Revised 05022022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Effluent Report May 2022 revised]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf7.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:25 GMT</pubDate>
+            <description><![CDATA[Monthly Effluent Report May 2022 revised]]></description>
+            <content:encoded><![CDATA[W0041-01 -- Shannon Environmental Services Ltd: Monthly Effluent Report May 2022 revised]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Acknowledgement to Applicant re Confidential Information -LACT00012219]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855a37.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855a37.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 11:30:46 GMT</pubDate>
+            <description><![CDATA[Acknowledgement to Applicant re Confidential Information -LACT00012219]]></description>
+            <content:encoded><![CDATA[P1189-01 -- Google Ireland Limited: Acknowledgement to Applicant re Confidential Information -LACT00012219]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Groundwater Q3 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf5.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:24 GMT</pubDate>
+            <description><![CDATA[Groundwater Q3 2022]]></description>
+            <content:encoded><![CDATA[W0036-02 -- Indaver Ireland Limited: Groundwater Q3 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SW Q3 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf6.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:25 GMT</pubDate>
+            <description><![CDATA[SW Q3 2022]]></description>
+            <content:encoded><![CDATA[W0036-02 -- Indaver Ireland Limited: SW Q3 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00012220]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855aa0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855aa0.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 14:30:55 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00012220]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Notification to Applicant Extension Request - LACT00012220]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25995 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bea.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bea.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:23 GMT</pubDate>
+            <description><![CDATA[SV25995 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0168-02 -- Kepak Athleague: SV25995 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Perimeter Gas Wells - Aug 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bee.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bee.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:24 GMT</pubDate>
+            <description><![CDATA[Perimeter Gas Wells - Aug 2022]]></description>
+            <content:encoded><![CDATA[W0001-04 -- Kerry County Council: Perimeter Gas Wells - Aug 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Perimeter Gas Wells - Jul 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bef.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bef.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:24 GMT</pubDate>
+            <description><![CDATA[Perimeter Gas Wells - Jul 2022]]></description>
+            <content:encoded><![CDATA[W0001-04 -- Kerry County Council: Perimeter Gas Wells - Jul 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Perimeter Gas Wells - Sept 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bf0.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:24 GMT</pubDate>
+            <description><![CDATA[Perimeter Gas Wells - Sept 2022]]></description>
+            <content:encoded><![CDATA[W0001-04 -- Kerry County Council: Perimeter Gas Wells - Sept 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[09.05.09.22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bed.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855bed.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:24 GMT</pubDate>
+            <description><![CDATA[09.05.09.22]]></description>
+            <content:encoded><![CDATA[P0988-01 -- McHale Engineering: 09.05.09.22]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 28.11.22 - P0476-03 RFI Update Letter]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855ab7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855ab7.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 14:40:26 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 28.11.22 - P0476-03 RFI Update Letter]]></description>
+            <content:encoded><![CDATA[P0476-03 -- Recordati Ireland Limited: Letter from Applicant - 28.11.22 - P0476-03 RFI Update Letter]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Woodfab Timber Environmental Noise 2022 v1.0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855beb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855beb.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 21:10:23 GMT</pubDate>
+            <description><![CDATA[Woodfab Timber Environmental Noise 2022 v1.0]]></description>
+            <content:encoded><![CDATA[P0358-01 -- Woodfab Timber Limited: Woodfab Timber Environmental Noise 2022 v1.0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Regulation 14(2) Notice Response Letter  05-12-22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808559d5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808559d5.pdf</guid>
+            <pubDate>Mon, 05 Dec 2022 09:30:38 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Regulation 14(2) Notice Response Letter  05-12-22]]></description>
+            <content:encoded><![CDATA[P0467-03 -- Woodville Pig Farms Limited: Letter from Applicant - Regulation 14(2) Notice Response Letter  05-12-22]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
