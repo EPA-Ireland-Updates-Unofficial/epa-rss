@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Thu, 08 Dec 2022 02:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 02:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,453 +16,282 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[AER P0018-02 for 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856078.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856078.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:24 GMT</pubDate>
-            <description><![CDATA[AER P0018-02 for 2021]]></description>
-            <content:encoded><![CDATA[P0018-02 -- Astellas Ireland Company Limited: AER P0018-02 for 2021]]></content:encoded>
+            <title><![CDATA[P-0864-01 AER-2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f2.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:37 GMT</pubDate>
+            <description><![CDATA[P-0864-01 AER-2021]]></description>
+            <content:encoded><![CDATA[P0864-01 -- BioMarin Manufacturing Ireland Limited: P-0864-01 AER-2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[DMP Annual Update 11 Jan 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f0.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:36 GMT</pubDate>
+            <description><![CDATA[DMP Annual Update 11 Jan 2022]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Eireann: DMP Annual Update 11 Jan 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Whitegate AER 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f1.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:36 GMT</pubDate>
+            <description><![CDATA[Whitegate AER 2021]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Eireann: Whitegate AER 2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[08. SW2   August 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e3.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:34 GMT</pubDate>
+            <description><![CDATA[08. SW2   August 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 08. SW2   August 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[09.  Cover letter to EPA September 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e4.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:35 GMT</pubDate>
+            <description><![CDATA[09.  Cover letter to EPA September 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 09.  Cover letter to EPA September 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[09. Monthly Monitoring EPA Sept 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e5.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:35 GMT</pubDate>
+            <description><![CDATA[09. Monthly Monitoring EPA Sept 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 09. Monthly Monitoring EPA Sept 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[09. SW1 River Sampling September 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e6.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:35 GMT</pubDate>
+            <description><![CDATA[09. SW1 River Sampling September 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 09. SW1 River Sampling September 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[09. SW2  Ammonia September 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e7.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:35 GMT</pubDate>
+            <description><![CDATA[09. SW2  Ammonia September 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 09. SW2  Ammonia September 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[09. SW2  September  2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e8.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:35 GMT</pubDate>
+            <description><![CDATA[09. SW2  September  2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 09. SW2  September  2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[09. SW3  September 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e9.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:35 GMT</pubDate>
+            <description><![CDATA[09. SW3  September 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 09. SW3  September 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
             <title><![CDATA[AER 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607b.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:24 GMT</pubDate>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565fb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565fb.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:38 GMT</pubDate>
             <description><![CDATA[AER 2021]]></description>
-            <content:encoded><![CDATA[P0035-07 -- Aughinish Alumina Limited: AER 2021]]></content:encoded>
+            <content:encoded><![CDATA[W0257-01 -- Country Clean Recycling Ltd: AER 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Submission - Snapshot - Submission No S010742  - P1188-01 - Carmel Lynch]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855f4a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855f4a.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 16:41:04 GMT</pubDate>
-            <description><![CDATA[Submission - Snapshot - Submission No S010742  - P1188-01 - Carmel Lynch]]></description>
-            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: Submission - Snapshot - Submission No S010742  - P1188-01 - Carmel Lynch]]></content:encoded>
+            <title><![CDATA[AER P0396 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ea.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ea.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:35 GMT</pubDate>
+            <description><![CDATA[AER P0396 2021]]></description>
+            <content:encoded><![CDATA[P0396-01 -- Mr Maurice O"Brien: AER P0396 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[S010742 Submission Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855f4b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855f4b.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 16:41:05 GMT</pubDate>
-            <description><![CDATA[S010742 Submission Notice]]></description>
-            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: S010742 Submission Notice]]></content:encoded>
+            <title><![CDATA[AER P0396 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565eb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565eb.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:36 GMT</pubDate>
+            <description><![CDATA[AER P0396 2021]]></description>
+            <content:encoded><![CDATA[P0396-01 -- Mr Maurice O"Brien: AER P0396 2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER P0494-01 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ec.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ec.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:36 GMT</pubDate>
+            <description><![CDATA[AER P0494-01 2021]]></description>
+            <content:encoded><![CDATA[P0494-01 -- Mr Maurice O"Brien: AER P0494-01 2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from ABP - Observations]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808563ef.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808563ef.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 14:30:24 GMT</pubDate>
+            <description><![CDATA[Letter from ABP - Observations]]></description>
+            <content:encoded><![CDATA[P0579-04 -- Electricity Supply Board: Letter from ABP - Observations]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
             <title><![CDATA[AER 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607c.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:24 GMT</pubDate>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565fa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565fa.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:38 GMT</pubDate>
             <description><![CDATA[AER 2021]]></description>
-            <content:encoded><![CDATA[P0052-02 -- Cognis Ireland Limited: AER 2021]]></content:encoded>
+            <content:encoded><![CDATA[W0041-01 -- Shannon Environmental Services Ltd: AER 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Q3 SW1 and SW2]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608a.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:27 GMT</pubDate>
-            <description><![CDATA[Q3 SW1 and SW2]]></description>
-            <content:encoded><![CDATA[P0528-01 -- Kingscourt Bricks Limited: Q3 SW1 and SW2]]></content:encoded>
+            <title><![CDATA[AER 2021 Report (P0308)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565e2.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:34 GMT</pubDate>
+            <description><![CDATA[AER 2021 Report (P0308)]]></description>
+            <content:encoded><![CDATA[P0308-01 -- Mr Tom Horan: AER 2021 Report (P0308)]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Quarterly Surface Water Report Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608b.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:28 GMT</pubDate>
-            <description><![CDATA[Quarterly Surface Water Report Q3 2022]]></description>
-            <content:encoded><![CDATA[P0528-01 -- Kingscourt Bricks Limited: Quarterly Surface Water Report Q3 2022]]></content:encoded>
+            <title><![CDATA[20220331-AER Report 2021-Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565d8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565d8.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:10:39 GMT</pubDate>
+            <description><![CDATA[20220331-AER Report 2021-Final]]></description>
+            <content:encoded><![CDATA[P0146-02 -- Liebherr Container Cranes Ltd: 20220331-AER Report 2021-Final]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W1-1 Aug 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608c.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:28 GMT</pubDate>
-            <description><![CDATA[W1-1 Aug 2022]]></description>
-            <content:encoded><![CDATA[P0528-01 -- Kingscourt Bricks Limited: W1-1 Aug 2022]]></content:encoded>
+            <title><![CDATA[Reminder Email (upcoming due date) - Reg 14(2) Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856291.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856291.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 08:11:02 GMT</pubDate>
+            <description><![CDATA[Reminder Email (upcoming due date) - Reg 14(2) Notice]]></description>
+            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Reminder Email (upcoming due date) - Reg 14(2) Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W1-1 July 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608d.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:28 GMT</pubDate>
-            <description><![CDATA[W1-1 July 2022]]></description>
-            <content:encoded><![CDATA[P0528-01 -- Kingscourt Bricks Limited: W1-1 July 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[W1-1 September 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608e.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:28 GMT</pubDate>
-            <description><![CDATA[W1-1 September 2022]]></description>
-            <content:encoded><![CDATA[P0528-01 -- Kingscourt Bricks Limited: W1-1 September 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Annual Environmental Report 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856077.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856077.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:24 GMT</pubDate>
-            <description><![CDATA[Annual Environmental Report 2021]]></description>
-            <content:encoded><![CDATA[P0017-02 -- Cara Partners: Annual Environmental Report 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AER 2021 W0077-04]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a1.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:27 GMT</pubDate>
-            <description><![CDATA[AER 2021 W0077-04]]></description>
-            <content:encoded><![CDATA[W0077-04 -- Cavan County Council (Corranure Landfill): AER 2021 W0077-04]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Letter to EPA 7th December 22  P1187-01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808562b2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808562b2.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 08:50:32 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Letter to EPA 7th December 22  P1187-01]]></description>
+            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Letter from Applicant - Letter to EPA 7th December 22  P1187-01]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
             <title><![CDATA[AER 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856081.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856081.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:26 GMT</pubDate>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f3.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:37 GMT</pubDate>
             <description><![CDATA[AER 2021]]></description>
-            <content:encoded><![CDATA[P0076-01 -- Chemifloc Ltd.: AER 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV25946 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856091.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856091.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:28 GMT</pubDate>
-            <description><![CDATA[SV25946 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0826-02 -- Cooley Distillery PLC: SV25946 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AER 2021 Youghal Landfill W0068]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085609f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085609f.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:27 GMT</pubDate>
-            <description><![CDATA[AER 2021 Youghal Landfill W0068]]></description>
-            <content:encoded><![CDATA[W0068-03 -- Cork County Council: AER 2021 Youghal Landfill W0068]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P1052 Equipment containing ODS and F-gas]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856040.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856040.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:02:12 GMT</pubDate>
-            <description><![CDATA[P1052 Equipment containing ODS and F-gas]]></description>
-            <content:encoded><![CDATA[P1052-01 -- Dairygold Agri Business Limited: P1052 Equipment containing ODS and F-gas]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV26033 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856084.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856084.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:26 GMT</pubDate>
-            <description><![CDATA[SV26033 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0179-01 -- North Tipperary County Council - Ballinclough: SV26033 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P0811-02 Annual Environmental Report 2021 updated]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856090.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856090.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:28 GMT</pubDate>
-            <description><![CDATA[P0811-02 Annual Environmental Report 2021 updated]]></description>
-            <content:encoded><![CDATA[P0811-02 -- Dunbia (Slane): P0811-02 Annual Environmental Report 2021 updated]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Final AER Dulux 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856085.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856085.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:26 GMT</pubDate>
-            <description><![CDATA[Final AER Dulux 2021]]></description>
-            <content:encoded><![CDATA[P0218-01 -- Dulux Paints Ireland Ltd.: Final AER Dulux 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AER-2021-P0009-Final]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856068.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856068.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[AER-2021-P0009-Final]]></description>
-            <content:encoded><![CDATA[P0009-04 -- Eli Lilly S.A. - Irish Branch: AER-2021-P0009-Final]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV26002 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085608f.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:28 GMT</pubDate>
-            <description><![CDATA[SV26002 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0777-02 -- Viridian Power Limited: SV26002 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[EPA 275 A1 Daily Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607d.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[EPA 275 A1 Daily Q3 2022]]></description>
-            <content:encoded><![CDATA[P0061-03 -- Essidev S.A. Trading As Organic Lens Manufacturing: EPA 275 A1 Daily Q3 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[EPA 275 A2 Monthly Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607e.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[EPA 275 A2 Monthly Q3 2022]]></description>
-            <content:encoded><![CDATA[P0061-03 -- Essidev S.A. Trading As Organic Lens Manufacturing: EPA 275 A2 Monthly Q3 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[EPA 275 B Q3 2022 SW]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607f.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[EPA 275 B Q3 2022 SW]]></description>
-            <content:encoded><![CDATA[P0061-03 -- Essidev S.A. Trading As Organic Lens Manufacturing: EPA 275 B Q3 2022 SW]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Forge Hill Recycling AER 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560aa.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560aa.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:29 GMT</pubDate>
-            <description><![CDATA[Forge Hill Recycling AER 2021]]></description>
-            <content:encoded><![CDATA[W0291-02 -- Forge Hill Recycling Unlimited Company: Forge Hill Recycling AER 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P0391-01 2021 AER]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856088.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856088.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:27 GMT</pubDate>
-            <description><![CDATA[P0391-01 2021 AER]]></description>
-            <content:encoded><![CDATA[P0391-01 -- Galco (Cork) Limited: P0391-01 2021 AER]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[PO292-01 Galvotech AER 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856087.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856087.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:26 GMT</pubDate>
-            <description><![CDATA[PO292-01 Galvotech AER 2021]]></description>
-            <content:encoded><![CDATA[P0292-01 -- Galvotech (International) Limited: PO292-01 Galvotech AER 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Quarterly Groundwater Monitoring Report - Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a4.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:28 GMT</pubDate>
-            <description><![CDATA[Quarterly Groundwater Monitoring Report - Q3 2022]]></description>
-            <content:encoded><![CDATA[W0178-02 -- Galway County Council: Quarterly Groundwater Monitoring Report - Q3 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Landfill Gas Monitoring Report - Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a5.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:28 GMT</pubDate>
-            <description><![CDATA[Landfill Gas Monitoring Report - Q3 2022]]></description>
-            <content:encoded><![CDATA[W0178-02 -- Galway County Council: Landfill Gas Monitoring Report - Q3 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Quarterly Surface Water Monitoring Report - Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a6.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:28 GMT</pubDate>
-            <description><![CDATA[Quarterly Surface Water Monitoring Report - Q3 2022]]></description>
-            <content:encoded><![CDATA[W0178-02 -- Galway County Council: Quarterly Surface Water Monitoring Report - Q3 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV24087 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856082.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856082.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:26 GMT</pubDate>
-            <description><![CDATA[SV24087 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0078-01 -- Loctite (Ireland) Ltd.(Ballyfermot): SV24087 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Annual Environmental Report 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856069.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856069.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[Annual Environmental Report 2021]]></description>
-            <content:encoded><![CDATA[P0010-04 -- Pfizer Ireland Pharmaceuticals: Annual Environmental Report 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Stryker P0023-03 AER 2021 V2]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856079.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856079.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:24 GMT</pubDate>
-            <description><![CDATA[Stryker P0023-03 AER 2021 V2]]></description>
-            <content:encoded><![CDATA[P0023-03 -- Howmedica International S. de R.L. T/A Stryker Orthopaedics: Stryker P0023-03 AER 2021 V2]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV26034 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856089.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856089.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:27 GMT</pubDate>
-            <description><![CDATA[SV26034 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0483-04 -- Huntstown Power Company Limited: SV26034 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AER 2021 Final 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085607a.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:24 GMT</pubDate>
-            <description><![CDATA[AER 2021 Final 1]]></description>
-            <content:encoded><![CDATA[P0029-06 -- Irish Cement Limited: AER 2021 Final 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AER P0072-04 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856080.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856080.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:26 GMT</pubDate>
-            <description><![CDATA[AER P0072-04 2021]]></description>
-            <content:encoded><![CDATA[P0072-04 -- : AER P0072-04 2021]]></content:encoded>
+            <content:encoded><![CDATA[P0891-01 -- Mr. Kevin Ahern: AER 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
             <title><![CDATA[AER 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085606c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085606c.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:10:27 GMT</pubDate>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f4.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:37 GMT</pubDate>
             <description><![CDATA[AER 2021]]></description>
-            <content:encoded><![CDATA[P0016-02 -- Janssen Pharmaceutical Sciences UC: AER 2021]]></content:encoded>
+            <content:encoded><![CDATA[P0891-01 -- Mr. Kevin Ahern: AER 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AER 2021 rev1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856076.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856076.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:23 GMT</pubDate>
-            <description><![CDATA[AER 2021 rev1]]></description>
-            <content:encoded><![CDATA[P0016-02 -- Janssen Pharmaceutical Sciences UC: AER 2021 rev1]]></content:encoded>
+            <title><![CDATA[AER 2021 Report (P0896)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f5.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:37 GMT</pubDate>
+            <description><![CDATA[AER 2021 Report (P0896)]]></description>
+            <content:encoded><![CDATA[P0896-01 -- Mr Liam O Connell: AER 2021 Report (P0896)]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1000 2021 AER]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856093.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856093.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:29 GMT</pubDate>
-            <description><![CDATA[P1000 2021 AER]]></description>
-            <content:encoded><![CDATA[P1000-01 -- Magh nAla Limited: P1000 2021 AER]]></content:encoded>
+            <title><![CDATA[AER 2021 (P0899-01)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f6.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:37 GMT</pubDate>
+            <description><![CDATA[AER 2021 (P0899-01)]]></description>
+            <content:encoded><![CDATA[P0899-01 -- Mr Tom O"Sullivan: AER 2021 (P0899-01)]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV24125 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856086.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856086.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:26 GMT</pubDate>
-            <description><![CDATA[SV24125 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0247-02 -- Micam Limited: SV24125 - Licensee Report]]></content:encoded>
+            <title><![CDATA[North Cork Creameries AER 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f9.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:38 GMT</pubDate>
+            <description><![CDATA[North Cork Creameries AER 2021]]></description>
+            <content:encoded><![CDATA[P1051-01 -- North Cork Co Operative Limited: North Cork Creameries AER 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AER-W0197-02-2021 V4-Final]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a7.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:28 GMT</pubDate>
-            <description><![CDATA[AER-W0197-02-2021 V4-Final]]></description>
-            <content:encoded><![CDATA[W0197-02 -- Mulleadys Limited: AER-W0197-02-2021 V4-Final]]></content:encoded>
+            <title><![CDATA[AER 2021 Report (P0661)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ee.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ee.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:36 GMT</pubDate>
+            <description><![CDATA[AER 2021 Report (P0661)]]></description>
+            <content:encoded><![CDATA[P0661-01 -- Oldpark Pigs Limited: AER 2021 Report (P0661)]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0287-01 AER 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a9.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:29 GMT</pubDate>
-            <description><![CDATA[W0287-01 AER 2021]]></description>
-            <content:encoded><![CDATA[W0287-01 -- Ormonde Organics Limited: W0287-01 AER 2021]]></content:encoded>
+            <title><![CDATA[AER 2021 Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ed.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ed.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:36 GMT</pubDate>
+            <description><![CDATA[AER 2021 Report]]></description>
+            <content:encoded><![CDATA[P0598-03 -- Parknageragh Pig Breeders Company Limited: AER 2021 Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2021 AER FINAL]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085606b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085606b.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[2021 AER FINAL]]></description>
-            <content:encoded><![CDATA[P0013-05 -- Pfizer Ireland Pharmaceuticals: 2021 AER FINAL]]></content:encoded>
+            <title><![CDATA[Reminder Email (upcoming due date) - Reg 10(2)(b)(ii) notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856290.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856290.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 08:11:00 GMT</pubDate>
+            <description><![CDATA[Reminder Email (upcoming due date) - Reg 10(2)(b)(ii) notice]]></description>
+            <content:encoded><![CDATA[P0013-06 -- Pfizer Ireland Pharmaceuticals: Reminder Email (upcoming due date) - Reg 10(2)(b)(ii) notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AER-Roche 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085606a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085606a.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[AER-Roche 2021]]></description>
-            <content:encoded><![CDATA[P0012-05 -- Roche Ireland Limited: AER-Roche 2021]]></content:encoded>
+            <title><![CDATA[AER 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ef.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565ef.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:36 GMT</pubDate>
+            <description><![CDATA[AER 2021]]></description>
+            <content:encoded><![CDATA[P0708-02 -- Roughty Valley Co-op Society Ltd (Pig Farm): AER 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SG AER-2021 Final]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856083.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856083.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:26 GMT</pubDate>
-            <description><![CDATA[SG AER-2021 Final]]></description>
-            <content:encoded><![CDATA[P0096-03 -- Saint-Gobain Performance Plastics Ireland: SG AER-2021 Final]]></content:encoded>
+            <title><![CDATA[AER-template-2021 V4-Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f7.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:37 GMT</pubDate>
+            <description><![CDATA[AER-template-2021 V4-Final]]></description>
+            <content:encoded><![CDATA[P0947-02 -- Staunton Foods Limited: AER-template-2021 V4-Final]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0053-03 Q1 2022 Fass Groundwater Rev A]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085609e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085609e.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:27 GMT</pubDate>
-            <description><![CDATA[W0053-03 Q1 2022 Fass Groundwater Rev A]]></description>
-            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: W0053-03 Q1 2022 Fass Groundwater Rev A]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AER-2021 W0082]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a2.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:27 GMT</pubDate>
-            <description><![CDATA[AER-2021 W0082]]></description>
-            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: AER-2021 W0082]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AER-2021 W0136]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808560a3.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:31:27 GMT</pubDate>
-            <description><![CDATA[AER-2021 W0136]]></description>
-            <content:encoded><![CDATA[W0136-03 -- Starrus Eco Holdings Limited: AER-2021 W0136]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P0986-01 AER 2020 (Amended 2)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856092.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280856092.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 21:20:28 GMT</pubDate>
-            <description><![CDATA[P0986-01 AER 2020 (Amended 2)]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Ltd: P0986-01 AER 2020 (Amended 2)]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant - Request for Information]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855e57.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280855e57.pdf</guid>
-            <pubDate>Tue, 06 Dec 2022 12:50:51 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Request for Information]]></description>
-            <content:encoded><![CDATA[P1174-01 -- West Cork Distillers Limited: Notification to Applicant - Request for Information]]></content:encoded>
+            <title><![CDATA[AER 2021 (P0986-01)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808565f8.pdf</guid>
+            <pubDate>Wed, 07 Dec 2022 21:20:38 GMT</pubDate>
+            <description><![CDATA[AER 2021 (P0986-01)]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Ltd: AER 2021 (P0986-01)]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
