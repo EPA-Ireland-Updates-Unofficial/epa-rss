@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 20 Dec 2022 02:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 02:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,435 +16,1695 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Alexion Pharmaceuticals DublinReport Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b4.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:02:33 GMT</pubDate>
-            <description><![CDATA[Alexion Pharmaceuticals DublinReport Q3 2022]]></description>
-            <content:encoded><![CDATA[P1030-01 -- Alexion Pharma Internations Trading: Alexion Pharmaceuticals DublinReport Q3 2022]]></content:encoded>
+            <title><![CDATA[Director Decision]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858781.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858781.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 11:56:19 GMT</pubDate>
+            <description><![CDATA[Director Decision]]></description>
+            <content:encoded><![CDATA[P0847-01 -- Abbott Ireland: Director Decision]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25987 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b2.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:02:25 GMT</pubDate>
-            <description><![CDATA[SV25987 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: SV25987 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Transfer Letter]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858782.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858782.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 11:56:19 GMT</pubDate>
+            <description><![CDATA[Transfer Letter]]></description>
+            <content:encoded><![CDATA[P0847-01 -- Abbott Ireland: Transfer Letter]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26067 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d8.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:28 GMT</pubDate>
-            <description><![CDATA[SV26067 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: SV26067 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Transfer Memorandum to Director]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858783.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858783.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 11:56:19 GMT</pubDate>
+            <description><![CDATA[Transfer Memorandum to Director]]></description>
+            <content:encoded><![CDATA[P0847-01 -- Abbott Ireland: Transfer Memorandum to Director]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Dust Monitoring Results 2019-2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594e8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594e8.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:24 GMT</pubDate>
-            <description><![CDATA[Dust Monitoring Results 2019-2021]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Dust Monitoring Results 2019-2021]]></content:encoded>
+            <title><![CDATA[Transfer Notification]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858784.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858784.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 11:56:19 GMT</pubDate>
+            <description><![CDATA[Transfer Notification]]></description>
+            <content:encoded><![CDATA[P0847-01 -- Abbott Ireland: Transfer Notification]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Groundwater Results 2019]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594e9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594e9.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:24 GMT</pubDate>
-            <description><![CDATA[Groundwater Results 2019]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Groundwater Results 2019]]></content:encoded>
+            <title><![CDATA[Email to local authority re transfer]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858785.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858785.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:05:31 GMT</pubDate>
+            <description><![CDATA[Email to local authority re transfer]]></description>
+            <content:encoded><![CDATA[P0847-01 -- Abbott Ireland: Email to local authority re transfer]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Groundwater Results 2020]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ea.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ea.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:24 GMT</pubDate>
-            <description><![CDATA[Groundwater Results 2020]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Groundwater Results 2020]]></content:encoded>
+            <title><![CDATA[ Response to Reg 14 request]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858780.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858780.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 11:13:28 GMT</pubDate>
+            <description><![CDATA[ Response to Reg 14 request]]></description>
+            <content:encoded><![CDATA[P1182-01 -- Amazon Data Services Ireland Limited:  Response to Reg 14 request]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Groundwater Results 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594eb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594eb.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[Groundwater Results 2021]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Groundwater Results 2021]]></content:encoded>
+            <title><![CDATA[S010826 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597bb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597bb.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:50 GMT</pubDate>
+            <description><![CDATA[S010826 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1156-01 -- Andrew and Gladys Keating: S010826 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Leachate Results 2019]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ec.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ec.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[Leachate Results 2019]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Leachate Results 2019]]></content:encoded>
+            <title><![CDATA[Submission No S010826  - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b4.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:49 GMT</pubDate>
+            <description><![CDATA[Submission No S010826  - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1156-01 -- Andrew and Gladys Keating: Submission No S010826  - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Leachate Results 2020]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ed.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ed.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[Leachate Results 2020]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Leachate Results 2020]]></content:encoded>
+            <title><![CDATA[S010806 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e3.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:20:11 GMT</pubDate>
+            <description><![CDATA[S010806 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1161-01 -- Annaglough Farm Limited: S010806 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Leachate Results 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ee.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ee.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[Leachate Results 2021]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Leachate Results 2021]]></content:encoded>
+            <title><![CDATA[Submission No S010806 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e0.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:20:10 GMT</pubDate>
+            <description><![CDATA[Submission No S010806 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1161-01 -- Annaglough Farm Limited: Submission No S010806 - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Surface Water Results 2020]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ef.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ef.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[Surface Water Results 2020]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Surface Water Results 2020]]></content:encoded>
+            <title><![CDATA[Submission - Snapshot - Submission No S010813  - P0447-02 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859785.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859785.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:30:18 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010813  - P0447-02 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0447-02 -- Ashleigh Farms (Waterford) Limited: Submission - Snapshot - Submission No S010813  - P0447-02 - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Surface Water Results 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594f0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594f0.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[Surface Water Results 2021]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Surface Water Results 2021]]></content:encoded>
+            <title><![CDATA[S010813 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859787.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859787.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:30:19 GMT</pubDate>
+            <description><![CDATA[S010813 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0447-02 -- Ashleigh Farms (Waterford) Limited: S010813 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Surfacewater Results 2019]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594f1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594f1.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:25 GMT</pubDate>
-            <description><![CDATA[Surfacewater Results 2019]]></description>
-            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Surfacewater Results 2019]]></content:encoded>
+            <title><![CDATA[Submission - Snapshot - Submission No S010817  - P0915-02 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979b.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:19 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010817  - P0915-02 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0915-02 -- Ballyfaskin Enterprises Ltd: Submission - Snapshot - Submission No S010817  - P0915-02 - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[6210 M22 Boylan Print P0784-01 March 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d7.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:28 GMT</pubDate>
-            <description><![CDATA[6210 M22 Boylan Print P0784-01 March 2022]]></description>
-            <content:encoded><![CDATA[P0784-01 -- Boylan Print Limited: 6210 M22 Boylan Print P0784-01 March 2022]]></content:encoded>
+            <title><![CDATA[S010817 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597a1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597a1.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:20 GMT</pubDate>
+            <description><![CDATA[S010817 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0915-02 -- Ballyfaskin Enterprises Ltd: S010817 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A1 CF1 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c5.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:25 GMT</pubDate>
-            <description><![CDATA[A1 CF1 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: A1 CF1 1 2022]]></content:encoded>
+            <title><![CDATA[SV26036 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c9.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:02:02 GMT</pubDate>
+            <description><![CDATA[SV26036 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0165-02 -- Ballynagran Landfill Limited: SV26036 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A1 CF11 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c6.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:25 GMT</pubDate>
-            <description><![CDATA[A1 CF11 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: A1 CF11 1 2022]]></content:encoded>
+            <title><![CDATA[SV25724 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a62.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a62.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:49 GMT</pubDate>
+            <description><![CDATA[SV25724 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0504-01 -- Bord Na Mona Energy Limited: SV25724 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A1 CR1 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c7.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:25 GMT</pubDate>
-            <description><![CDATA[A1 CR1 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: A1 CR1 1 2022]]></content:encoded>
+            <title><![CDATA[Tullamore AER 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a79.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a79.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:50:47 GMT</pubDate>
+            <description><![CDATA[Tullamore AER 2021]]></description>
+            <content:encoded><![CDATA[W0104-04 -- Advanced Environmental Solutions (Ireland) Limited: Tullamore AER 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A1 CR2 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c8.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:25 GMT</pubDate>
-            <description><![CDATA[A1 CR2 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: A1 CR2 1 2022]]></content:encoded>
+            <title><![CDATA[Portlaoise AER 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a83.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a83.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:50:49 GMT</pubDate>
+            <description><![CDATA[Portlaoise AER 2021]]></description>
+            <content:encoded><![CDATA[W0194-02 -- Advanced Environmental Solutions (Ireland) Limited: Portlaoise AER 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A1CF2 B02 BioGas 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c9.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:26 GMT</pubDate>
-            <description><![CDATA[A1CF2 B02 BioGas 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: A1CF2 B02 BioGas 1 2022]]></content:encoded>
+            <title><![CDATA[Submission - Snapshot - Submission No S010809  - P1135-01 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859758.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859758.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:00:47 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010809  - P1135-01 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Submission - Snapshot - Submission No S010809  - P1135-01 - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A1CF2 B02 NatGas 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ca.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ca.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:26 GMT</pubDate>
-            <description><![CDATA[A1CF2 B02 NatGas 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: A1CF2 B02 NatGas 1 2022]]></content:encoded>
+            <title><![CDATA[S010809 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859759.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859759.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:00:47 GMT</pubDate>
+            <description><![CDATA[S010809 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: S010809 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2 CF1  3 2022 TPM PM10 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594cb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594cb.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:26 GMT</pubDate>
-            <description><![CDATA[A2 CF1  3 2022 TPM PM10 Report]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: A2 CF1  3 2022 TPM PM10 Report]]></content:encoded>
+            <title><![CDATA[W0253-01 Noise - Q3 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a85.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a85.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:50:49 GMT</pubDate>
+            <description><![CDATA[W0253-01 Noise - Q3 2022]]></description>
+            <content:encoded><![CDATA[W0253-01 -- Clean (Irl) Refuse and Recycling Limited: W0253-01 Noise - Q3 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2 CF2  3 2022 TPM  PM10 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594cc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594cc.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:26 GMT</pubDate>
-            <description><![CDATA[A2 CF2  3 2022 TPM  PM10 Report]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: A2 CF2  3 2022 TPM  PM10 Report]]></content:encoded>
+            <title><![CDATA[W0253-01 Surface Water - Q3 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a86.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a86.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:50:49 GMT</pubDate>
+            <description><![CDATA[W0253-01 Surface Water - Q3 2022]]></description>
+            <content:encoded><![CDATA[W0253-01 -- Clean (Irl) Refuse and Recycling Limited: W0253-01 Surface Water - Q3 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2 CF3  3 2022 TPM Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594cd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594cd.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:26 GMT</pubDate>
-            <description><![CDATA[A2 CF3  3 2022 TPM Report]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: A2 CF3  3 2022 TPM Report]]></content:encoded>
+            <title><![CDATA[Submission No S010798 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859686.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859686.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:21:10 GMT</pubDate>
+            <description><![CDATA[Submission No S010798 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0975-02 -- : Submission No S010798 - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[B5 Afterburner Off A1 CF5 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ce.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594ce.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:26 GMT</pubDate>
-            <description><![CDATA[B5 Afterburner Off A1 CF5 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: B5 Afterburner Off A1 CF5 1 2022]]></content:encoded>
+            <title><![CDATA[S010798 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859689.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859689.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:21:11 GMT</pubDate>
+            <description><![CDATA[S010798 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0975-02 -- : S010798 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[B5 Afterburner On A1 CF5 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594cf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594cf.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:26 GMT</pubDate>
-            <description><![CDATA[B5 Afterburner On A1 CF5 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: B5 Afterburner On A1 CF5 1 2022]]></content:encoded>
+            <title><![CDATA[Site Office Gas Monitoring - Week 42 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c7.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:01:56 GMT</pubDate>
+            <description><![CDATA[Site Office Gas Monitoring - Week 42 2022]]></description>
+            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Site Office Gas Monitoring - Week 42 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[B6 Afterburner Off A1 CF6 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d0.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[B6 Afterburner Off A1 CF6 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: B6 Afterburner Off A1 CF6 1 2022]]></content:encoded>
+            <title><![CDATA[S010815 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979d.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:19 GMT</pubDate>
+            <description><![CDATA[S010815 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0408-02 -- DDS BRADY FARMS LIMITED: S010815 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[B6 Afterburner On A1 CF6 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d1.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[B6 Afterburner On A1 CF6 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: B6 Afterburner On A1 CF6 1 2022]]></content:encoded>
+            <title><![CDATA[Submission No S010815  - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859797.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859797.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:18 GMT</pubDate>
+            <description><![CDATA[Submission No S010815  - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0408-02 -- DDS BRADY FARMS LIMITED: Submission No S010815  - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Cover letter Dryer air emissions 2022  Q3]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d2.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[Cover letter Dryer air emissions 2022  Q3]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: Cover letter Dryer air emissions 2022  Q3]]></content:encoded>
+            <title><![CDATA[Submission - Snapshot - Submission No S010821  - P1155-01 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b3.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:49 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010821  - P1155-01 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1155-01 -- Dernahesco Poultry Limited: Submission - Snapshot - Submission No S010821  - P1155-01 - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Cover letter R1 Boiler Air emissions 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d3.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[Cover letter R1 Boiler Air emissions 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: Cover letter R1 Boiler Air emissions 2022]]></content:encoded>
+            <title><![CDATA[S010821 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597ba.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597ba.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:50 GMT</pubDate>
+            <description><![CDATA[S010821 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1155-01 -- Dernahesco Poultry Limited: S010821 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Ornua (A1 CF14) 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d4.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[Ornua (A1 CF14) 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: Ornua (A1 CF14) 1 2022]]></content:encoded>
+            <title><![CDATA[Final Determination and Notification]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858786.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280858786.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:53:35 GMT</pubDate>
+            <description><![CDATA[Final Determination and Notification]]></description>
+            <content:encoded><![CDATA[P0577-04 -- Electricity Supply Board: Final Determination and Notification]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Ornua (A1 CF15) 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d5.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:27 GMT</pubDate>
-            <description><![CDATA[Ornua (A1 CF15) 1 2022]]></description>
-            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-operative Society Limited: Ornua (A1 CF15) 1 2022]]></content:encoded>
+            <title><![CDATA[Inspector Report - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a63.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a63.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:49 GMT</pubDate>
+            <description><![CDATA[Inspector Report - Licence Amendment]]></description>
+            <content:encoded><![CDATA[P0577-04 -- Electricity Supply Board: Inspector Report - Licence Amendment]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Panda RDF Waste Stock TRP Q3 22]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594da.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594da.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:28 GMT</pubDate>
-            <description><![CDATA[Panda RDF Waste Stock TRP Q3 22]]></description>
-            <content:encoded><![CDATA[P1011-01 -- Drogheda Port Company: Panda RDF Waste Stock TRP Q3 22]]></content:encoded>
+            <title><![CDATA[Recommended Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a64.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a64.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:49 GMT</pubDate>
+            <description><![CDATA[Recommended Licence Amendment]]></description>
+            <content:encoded><![CDATA[P0577-04 -- Electricity Supply Board: Recommended Licence Amendment]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Panda SRF Waste Stock TRP Q3 22]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594db.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594db.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:28 GMT</pubDate>
-            <description><![CDATA[Panda SRF Waste Stock TRP Q3 22]]></description>
-            <content:encoded><![CDATA[P1011-01 -- Drogheda Port Company: Panda SRF Waste Stock TRP Q3 22]]></content:encoded>
+            <title><![CDATA[CA letter Issue to Licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a65.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a65.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:50 GMT</pubDate>
+            <description><![CDATA[CA letter Issue to Licensee]]></description>
+            <content:encoded><![CDATA[P0577-04 -- Electricity Supply Board: CA letter Issue to Licensee]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Thorntons SRF Waste Stock TRP Q3 22]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594dc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594dc.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:28 GMT</pubDate>
-            <description><![CDATA[Thorntons SRF Waste Stock TRP Q3 22]]></description>
-            <content:encoded><![CDATA[P1011-01 -- Drogheda Port Company: Thorntons SRF Waste Stock TRP Q3 22]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596f9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596f9.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:40:13 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
+            <content:encoded><![CDATA[P1013-02 -- Enrich Environmental Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[TRP IED TA proposed storage - Oct 2020 RevB]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594e5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594e5.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:23 GMT</pubDate>
-            <description><![CDATA[TRP IED TA proposed storage - Oct 2020 RevB]]></description>
-            <content:encoded><![CDATA[P1011-01 -- Drogheda Port Company: TRP IED TA proposed storage - Oct 2020 RevB]]></content:encoded>
+            <title><![CDATA[Balleally Dust Report Q3 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a66.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a66.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:50 GMT</pubDate>
+            <description><![CDATA[Balleally Dust Report Q3 2022]]></description>
+            <content:encoded><![CDATA[W0009-03 -- Fingal County Council: Balleally Dust Report Q3 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Balleally Landfill Gas Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594e7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594e7.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:20:24 GMT</pubDate>
-            <description><![CDATA[Balleally Landfill Gas Q3 2022]]></description>
-            <content:encoded><![CDATA[W0009-03 -- Fingal County Council: Balleally Landfill Gas Q3 2022]]></content:encoded>
+            <title><![CDATA[Balleally Annual Leachate Report Q3 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a67.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a67.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:50 GMT</pubDate>
+            <description><![CDATA[Balleally Annual Leachate Report Q3 2022]]></description>
+            <content:encoded><![CDATA[W0009-03 -- Fingal County Council: Balleally Annual Leachate Report Q3 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Grant  Process Water  May 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b1.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:02:21 GMT</pubDate>
-            <description><![CDATA[Grant  Process Water  May 2022]]></description>
-            <content:encoded><![CDATA[P0294-01 -- Grant Engineering (Ireland): Grant  Process Water  May 2022]]></content:encoded>
+            <title><![CDATA[Balleally Surface Water Report Q3 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a68.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a68.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:50 GMT</pubDate>
+            <description><![CDATA[Balleally Surface Water Report Q3 2022]]></description>
+            <content:encoded><![CDATA[W0009-03 -- Fingal County Council: Balleally Surface Water Report Q3 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26031 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c1.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:24 GMT</pubDate>
-            <description><![CDATA[SV26031 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0207-04 -- Intel Ireland Limited: SV26031 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV23575 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c5.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:01:54 GMT</pubDate>
+            <description><![CDATA[SV23575 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P1006-02 -- Galway Metal Company Limited: SV23575 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26031 - Licensee Public Response]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c2.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:24 GMT</pubDate>
-            <description><![CDATA[SV26031 - Licensee Public Response]]></description>
-            <content:encoded><![CDATA[P0207-04 -- Intel Ireland Limited: SV26031 - Licensee Public Response]]></content:encoded>
+            <title><![CDATA[Submission No S010797 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859685.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859685.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:21:10 GMT</pubDate>
+            <description><![CDATA[Submission No S010797 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0412-02 -- Harvest Lodge Pigs Limited: Submission No S010797 - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[IE Sept 2022 Janssen Sciences UC Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d6.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:28 GMT</pubDate>
-            <description><![CDATA[IE Sept 2022 Janssen Sciences UC Report]]></description>
-            <content:encoded><![CDATA[P0778-02 -- JANSSEN SCIENCES IRELAND: IE Sept 2022 Janssen Sciences UC Report]]></content:encoded>
+            <title><![CDATA[S010797 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859688.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859688.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:21:11 GMT</pubDate>
+            <description><![CDATA[S010797 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0412-02 -- Harvest Lodge Pigs Limited: S010797 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1767-43v2.00 Magh Nala Q3 2022 (Stack A2-1)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b3.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:02:30 GMT</pubDate>
-            <description><![CDATA[1767-43v2.00 Magh Nala Q3 2022 (Stack A2-1)]]></description>
-            <content:encoded><![CDATA[P1000-01 -- Magh nAla Limited: 1767-43v2.00 Magh Nala Q3 2022 (Stack A2-1)]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - P0818-05 Extension Letter Dec 22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859757.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859757.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:00:46 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - P0818-05 Extension Letter Dec 22]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Letter from Applicant - P0818-05 Extension Letter Dec 22]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[60676743 ACM RP ENV 010 1 (SWM 2022-07)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c3.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:24 GMT</pubDate>
-            <description><![CDATA[60676743 ACM RP ENV 010 1 (SWM 2022-07)]]></description>
-            <content:encoded><![CDATA[P0325-02 -- Saint-Gobain Building Distribution (ROI) Limited: 60676743 ACM RP ENV 010 1 (SWM 2022-07)]]></content:encoded>
+            <title><![CDATA[Submission - Snapshot - Submission No S010820  - P1031-02 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979c.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:19 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010820  - P1031-02 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: Submission - Snapshot - Submission No S010820  - P1031-02 - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[60676743 ACM RP ENV 011 1 SWM 2022-08)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594c4.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:24 GMT</pubDate>
-            <description><![CDATA[60676743 ACM RP ENV 011 1 SWM 2022-08)]]></description>
-            <content:encoded><![CDATA[P0325-02 -- Saint-Gobain Building Distribution (ROI) Limited: 60676743 ACM RP ENV 011 1 SWM 2022-08)]]></content:encoded>
+            <title><![CDATA[S010820 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597a2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597a2.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:20 GMT</pubDate>
+            <description><![CDATA[S010820 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1031-02 -- Kilfilum Limited: S010820 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0140-05 Dust Monitoring  Round 3 report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b5.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:02:37 GMT</pubDate>
-            <description><![CDATA[W0140-05 Dust Monitoring  Round 3 report]]></description>
-            <content:encoded><![CDATA[W0140-05 -- Starrus Eco Holdings Limited: W0140-05 Dust Monitoring  Round 3 report]]></content:encoded>
+            <title><![CDATA[S010827 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597bc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597bc.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:50 GMT</pubDate>
+            <description><![CDATA[S010827 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1160-01 -- Knockronaghan Farm Limited: S010827 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0140 Noise report Q3]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b6.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:02:39 GMT</pubDate>
-            <description><![CDATA[W0140 Noise report Q3]]></description>
-            <content:encoded><![CDATA[W0140-05 -- Starrus Eco Holdings Limited: W0140 Noise report Q3]]></content:encoded>
+            <title><![CDATA[Submission No S010827  - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b5.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:49 GMT</pubDate>
+            <description><![CDATA[Submission No S010827  - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1160-01 -- Knockronaghan Farm Limited: Submission No S010827  - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0140 SW Q3 report 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b7.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:02:40 GMT</pubDate>
-            <description><![CDATA[W0140 SW Q3 report 2022]]></description>
-            <content:encoded><![CDATA[W0140-05 -- Starrus Eco Holdings Limited: W0140 SW Q3 report 2022]]></content:encoded>
+            <title><![CDATA[S010816 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979f.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:19 GMT</pubDate>
+            <description><![CDATA[S010816 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0515-02 -- Laragan Farms Limited: S010816 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0183-01 Dust Monitoring  Round 3 report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594b8.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:02:41 GMT</pubDate>
-            <description><![CDATA[W0183-01 Dust Monitoring  Round 3 report]]></description>
-            <content:encoded><![CDATA[W0183-01 -- Starrus Eco Holding Limited: W0183-01 Dust Monitoring  Round 3 report]]></content:encoded>
+            <title><![CDATA[Submission - Snapshot - Submission No S010816  - P0515-02 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859799.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859799.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:19 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010816  - P0515-02 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0515-02 -- Laragan Farms Limited: Submission - Snapshot - Submission No S010816  - P0515-02 - National Animal Rights Assoc]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Complaints Log  10-10-2022 - 17-10-2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808594d9.pdf</guid>
-            <pubDate>Sun, 18 Dec 2022 21:10:28 GMT</pubDate>
-            <description><![CDATA[Complaints Log  10-10-2022 - 17-10-2022]]></description>
-            <content:encoded><![CDATA[P0947-02 -- Staunton Foods Limited: Complaints Log  10-10-2022 - 17-10-2022]]></content:encoded>
+            <title><![CDATA[Submission No S010800 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085969e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085969e.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:41:09 GMT</pubDate>
+            <description><![CDATA[Submission No S010800 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1142-01 -- Laragh House Farms Limited: Submission No S010800 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010800 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596a1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596a1.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:41:10 GMT</pubDate>
+            <description><![CDATA[S010800 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1142-01 -- Laragh House Farms Limited: S010800 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010802 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596a0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596a0.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:41:10 GMT</pubDate>
+            <description><![CDATA[Submission No S010802 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1152-01 -- Lisgillan Farm Ltd.: Submission No S010802 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010802 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596a3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596a3.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:41:10 GMT</pubDate>
+            <description><![CDATA[S010802 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1152-01 -- Lisgillan Farm Ltd.: S010802 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010825  - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b2.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:49 GMT</pubDate>
+            <description><![CDATA[Submission No S010825  - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1150-01 -- Longfield Poultry Unlimited Company: Submission No S010825  - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010825 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b9.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:50 GMT</pubDate>
+            <description><![CDATA[S010825 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1150-01 -- Longfield Poultry Unlimited Company: S010825 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010805 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596c0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596c0.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:00:45 GMT</pubDate>
+            <description><![CDATA[Submission No S010805 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1159-01 -- Longfield Poultry Unlimited Company: Submission No S010805 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010805 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596ce.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596ce.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:10:10 GMT</pubDate>
+            <description><![CDATA[S010805 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1159-01 -- Longfield Poultry Unlimited Company: S010805 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[ Submission No S010811  -  National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859774.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859774.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:20:49 GMT</pubDate>
+            <description><![CDATA[ Submission No S010811  -  National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited:  Submission No S010811  -  National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010811 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859776.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859776.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:20:50 GMT</pubDate>
+            <description><![CDATA[S010811 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited: S010811 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission - Snapshot - Submission No S010801  - P1148-01 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085969f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085969f.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:41:09 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010801  - P1148-01 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1148-01 -- M.A.G. World Limited: Submission - Snapshot - Submission No S010801  - P1148-01 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010801 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596a2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596a2.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:41:10 GMT</pubDate>
+            <description><![CDATA[S010801 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1148-01 -- M.A.G. World Limited: S010801 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Application Form - LA010454]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599eb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599eb.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:10:53 GMT</pubDate>
+            <description><![CDATA[Application Form - Application Form - LA010454]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Application Form - LA010454]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1011-A1011-2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ec.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ec.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:10:53 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1011-A1011-2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1011-A1011-2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1011-A1011-5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ed.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ed.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:10:55 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1011-A1011-5]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1011-A1011-5]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Map - A1001-Site Notice Locations-1001]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ee.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ee.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:10:57 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - A1001-Site Notice Locations-1001]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Map - A1001-Site Notice Locations-1001]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Activity Capacity Information - Attachment 4-4-1 Capacity Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ef.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ef.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:10:58 GMT</pubDate>
+            <description><![CDATA[Application Form - Activity Capacity Information - Attachment 4-4-1 Capacity Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Activity Capacity Information - Attachment 4-4-1 Capacity Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Water and Energy Usage - Attachment 4-6-1 Water Energy Usage Final R 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599f0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599f0.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:10:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Water and Energy Usage - Attachment 4-6-1 Water Energy Usage Final R 1]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Water and Energy Usage - Attachment 4-6-1 Water Energy Usage Final R 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fit and Proper Declaration - Attachment-2-5 Financial-Commitments- Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fa.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:30 GMT</pubDate>
+            <description><![CDATA[Application Form - Fit and Proper Declaration - Attachment-2-5 Financial-Commitments- Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Fit and Proper Declaration - Attachment-2-5 Financial-Commitments- Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Technical Knowledge - Attachment-2-5-3-Technical Knowledge Final 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fb.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:31 GMT</pubDate>
+            <description><![CDATA[Application Form - Technical Knowledge - Attachment-2-5-3-Technical Knowledge Final 1]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Technical Knowledge - Attachment-2-5-3-Technical Knowledge Final 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1002-Site Plan-1002]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fc.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:31 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1002-Site Plan-1002]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1002-Site Plan-1002]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1011-A1011-4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fd.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:37 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1011-A1011-4]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1011-A1011-4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1011-A1011-6]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fe.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599fe.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:37 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1011-A1011-6]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1011-A1011-6]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1011-A1011-7]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ff.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599ff.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:37 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1011-A1011-7]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1011-A1011-7]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1011-A1011-8]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a00.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a00.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:37 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1011-A1011-8]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1011-A1011-8]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1011-A1011]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a01.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a01.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:38 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1011-A1011]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1011-A1011]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-A0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a02.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a02.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:39 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-A0]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1021-Minor Air Emissions-A0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-DUB06]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a03.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a03.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:40 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-DUB06]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1021-Minor Air Emissions-DUB06]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-DUB07-08]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a04.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a04.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:41 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-DUB07-08]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1021-Minor Air Emissions-DUB07-08]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-DUB09-10]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a05.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a05.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:42 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-DUB09-10]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1021-Minor Air Emissions-DUB09-10]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-DUB12-13]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a06.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a06.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:42 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1021-Minor Air Emissions-DUB12-13]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1021-Minor Air Emissions-DUB12-13]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1221-Fuel Tank Storage Locations-A0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a07.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a07.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:43 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1221-Fuel Tank Storage Locations-A0]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1221-Fuel Tank Storage Locations-A0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-A0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a08.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a08.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:44 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-A0]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1300-Noise Monitoring Locations-A0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-N1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a09.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a09.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:45 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-N1]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1300-Noise Monitoring Locations-N1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-N2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0a.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:45 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-N2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1300-Noise Monitoring Locations-N2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-N3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0b.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:46 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-N3]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1300-Noise Monitoring Locations-N3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-N4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0c.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:47 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1300-Noise Monitoring Locations-N4]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1300-Noise Monitoring Locations-N4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Map - A1000-Site Location Plan-1000]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0d.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:49 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - A1000-Site Location Plan-1000]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Map - A1000-Site Location Plan-1000]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Applicable Regulations - Attachment 4-5-1 Applicable Regulations Final 4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0e.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:50 GMT</pubDate>
+            <description><![CDATA[Application Form - Applicable Regulations - Attachment 4-5-1 Applicable Regulations Final 4]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Applicable Regulations - Attachment 4-5-1 Applicable Regulations Final 4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Materials Used or Generated - Attachment 4-6-2  Raw Material Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a0f.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:50 GMT</pubDate>
+            <description><![CDATA[Application Form - Materials Used or Generated - Attachment 4-6-2  Raw Material Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Materials Used or Generated - Attachment 4-6-2  Raw Material Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - 4-7-1-BREF - Large Combustion Plants Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a10.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a10.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:50 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - 4-7-1-BREF - Large Combustion Plants Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - BREF Assessment - 4-7-1-BREF - Large Combustion Plants Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - 4-7-2-BREF - Energy Efficiency-Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a11.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a11.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:51 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - 4-7-2-BREF - Energy Efficiency-Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - BREF Assessment - 4-7-2-BREF - Energy Efficiency-Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - 4-7-4-BREF-Industrial Cooling Systems-Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a12.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a12.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:51 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - 4-7-4-BREF-Industrial Cooling Systems-Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - BREF Assessment - 4-7-4-BREF-Industrial Cooling Systems-Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Operational Report - Attachment 4-8-1-Operational Report-Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a13.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a13.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:52 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - Attachment 4-8-1-Operational Report-Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Operational Report - Attachment 4-8-1-Operational Report-Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Baseline Screening - Attachment 4-8-3 Soil  Water Baseline Report Final 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a14.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a14.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:52 GMT</pubDate>
+            <description><![CDATA[Application Form - Baseline Screening - Attachment 4-8-3 Soil  Water Baseline Report Final 1]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Baseline Screening - Attachment 4-8-3 Soil  Water Baseline Report Final 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Baseline Report - Attachment 4-8-3 Soil  Water Baseline Report Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a15.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a15.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:52 GMT</pubDate>
+            <description><![CDATA[Application Form - Baseline Report - Attachment 4-8-3 Soil  Water Baseline Report Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Baseline Report - Attachment 4-8-3 Soil  Water Baseline Report Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - IED Chapter III Applicability - Attachment-4-10-7-IED Chapter III Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a16.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a16.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:53 GMT</pubDate>
+            <description><![CDATA[Application Form - IED Chapter III Applicability - Attachment-4-10-7-IED Chapter III Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - IED Chapter III Applicability - Attachment-4-10-7-IED Chapter III Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - LCP Abatement Methods - Attachment-4-10-2-LCP-Abatement Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a17.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a17.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:20:53 GMT</pubDate>
+            <description><![CDATA[Application Form - LCP Abatement Methods - Attachment-4-10-2-LCP-Abatement Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - LCP Abatement Methods - Attachment-4-10-2-LCP-Abatement Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1011-A1011-1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a23.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a23.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:44 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1011-A1011-1]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1011-A1011-1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - A1011-A1011-3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a24.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a24.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:44 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - A1011-A1011-3]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Plan - A1011-A1011-3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - 4-7-3-BREF-Emissions from Storage-Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a25.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a25.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:45 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - 4-7-3-BREF-Emissions from Storage-Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - BREF Assessment - 4-7-3-BREF-Emissions from Storage-Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Condition Report - Attachment 4-8-4 Site Condition Report Final 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a26.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a26.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:45 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Condition Report - Attachment 4-8-4 Site Condition Report Final 3]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Condition Report - Attachment 4-8-4 Site Condition Report Final 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Signature and Company Stamp - Attachment-10-1-Signature-Stamp Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a27.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a27.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:45 GMT</pubDate>
+            <description><![CDATA[Application Form - Signature and Company Stamp - Attachment-10-1-Signature-Stamp Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Signature and Company Stamp - Attachment-10-1-Signature-Stamp Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a28.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a28.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:45 GMT</pubDate>
+            <description><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Financial Application Section - Attachment-5-1-Financial Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement Final 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a29.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a29.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:45 GMT</pubDate>
+            <description><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement Final 3]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement Final 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA Screening - Attachment 6-3-16 AA Screening Planning Nov 2015]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2a.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:45 GMT</pubDate>
+            <description><![CDATA[Application Form - AA Screening - Attachment 6-3-16 AA Screening Planning Nov 2015]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - AA Screening - Attachment 6-3-16 AA Screening Planning Nov 2015]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA Screening - Attachment 6-3-17 AA Screening Planning March 2016]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2b.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:46 GMT</pubDate>
+            <description><![CDATA[Application Form - AA Screening - Attachment 6-3-17 AA Screening Planning March 2016]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - AA Screening - Attachment 6-3-17 AA Screening Planning March 2016]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-7 Planning Decision January 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2c.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:46 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-7 Planning Decision January 2022]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Planning Decision - Attachment 6-3-7 Planning Decision January 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-10 EIS Planning September 2014(1)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2d.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:46 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-10 EIS Planning September 2014(1)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-10 EIS Planning September 2014(1)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-10 EIS Planning September 2014(2)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2e.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:47 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-10 EIS Planning September 2014(2)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-10 EIS Planning September 2014(2)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(1)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a2f.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:49 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(1)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(1)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(2)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a30.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a30.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:49 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(2)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(2)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(3)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a31.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a31.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:52 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(3)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(3)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(4)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a32.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a32.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:53 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(4)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-11 EIS Planning November 2015(4)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-12 EIS Planning March 2016(1)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a33.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a33.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:55 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-12 EIS Planning March 2016(1)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-12 EIS Planning March 2016(1)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-12 EIS Planning March 2016(2)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a34.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a34.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:57 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-12 EIS Planning March 2016(2)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-12 EIS Planning March 2016(2)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-12 EIS Planning March 2016(3)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a35.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a35.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:59 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-12 EIS Planning March 2016(3)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-12 EIS Planning March 2016(3)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-8 EIS Planning July 2013(1)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a36.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a36.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:30:59 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-8 EIS Planning July 2013(1)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-8 EIS Planning July 2013(1)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-8 EIS Planning July 2013(2)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a37.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a37.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:01 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-8 EIS Planning July 2013(2)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-8 EIS Planning July 2013(2)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-9 EIS Planning December 2013(1)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a38.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a38.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:03 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-9 EIS Planning December 2013(1)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-9 EIS Planning December 2013(1)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-9 EIS Planning December 2013(2)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a39.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a39.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:04 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-9 EIS Planning December 2013(2)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-9 EIS Planning December 2013(2)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-9 EIS Planning December 2013(3)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3a.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:05 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-9 EIS Planning December 2013(3)]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EIS - Planning - Attachment 6-3-9 EIS Planning December 2013(3)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Project and Threshold - Planning - Attachment 6-3-18-Project and Threshold Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3b.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:06 GMT</pubDate>
+            <description><![CDATA[Application Form - Project and Threshold - Planning - Attachment 6-3-18-Project and Threshold Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Project and Threshold - Planning - Attachment 6-3-18-Project and Threshold Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-1-Evidence of Notices - Site Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3c.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:06 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-1-Evidence of Notices - Site Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Evidence of Notices - Attachment 6-7-1-Evidence of Notices - Site Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Accepted Application - LACT00012376]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859875.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859875.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:00:55 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Accepted Application - LACT00012376]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Notification to Applicant Accepted Application - LACT00012376]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SpecifiedBodies-LA010454]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859876.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859876.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:00:56 GMT</pubDate>
+            <description><![CDATA[SpecifiedBodies-LA010454]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: SpecifiedBodies-LA010454]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859885.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859885.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:10:26 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Section 99E Notice 73]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859886.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859886.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:10:26 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Section 99E Notice 73]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Letter to Third Party - Section 99E Notice 73]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority Register - LACT00012378]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859887.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859887.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:10:27 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority Register - LACT00012378]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Notification to Planning Authority Register - LACT00012378]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859888.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859888.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:10:27 GMT</pubDate>
+            <description><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Notification to Water Services Authority - Discharge to Sewer LA]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1191-01 Register of Licence]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859889.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859889.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:10:27 GMT</pubDate>
+            <description><![CDATA[P1191-01 Register of Licence]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: P1191-01 Register of Licence]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859898.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859898.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:20:25 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Bodies Request for Information Observat]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859899.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859899.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:20:26 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Bodies Request for Information Observat]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Notification to Planning Bodies Request for Information Observat]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-3 Site Notice map]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3d.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:07 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-3 Site Notice map]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Evidence of Notices - Attachment 6-7-3 Site Notice map]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-4- Evidence of Notices - PA Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3e.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:07 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-4- Evidence of Notices - PA Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Evidence of Notices - Attachment 6-7-4- Evidence of Notices - PA Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Overview Section - Attachment 7-1 Emissions Overview Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a3f.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:09 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Overview Section - Attachment 7-1 Emissions Overview Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Emissions Overview Section - Attachment 7-1 Emissions Overview Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Final 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a40.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a40.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:31:13 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Final 1]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Final 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment 7-1-3-2 Noise Impact Assessment Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a4c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a4c.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:45 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment 7-1-3-2 Noise Impact Assessment Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Emissions Impact Assessment - Attachment 7-1-3-2 Noise Impact Assessment Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2 Air Emissions Impact Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a4d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a4d.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:46 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2 Air Emissions Impact Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Emissions Impact Assessment - Attachment-7-1-3-2 Air Emissions Impact Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Water  Emissions Impact Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a4e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a4e.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:46 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Water  Emissions Impact Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Water  Emissions Impact Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Sewer Section - Attachment 7-3-1 Emissions to Sewer Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a4f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a4f.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:46 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Sewer Section - Attachment 7-3-1 Emissions to Sewer Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Emissions - Sewer Section - Attachment 7-3-1 Emissions to Sewer Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Equivalent Protection - Sewer - Attachment 7-3-2 Equivalent Protection Sewer Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a50.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a50.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:46 GMT</pubDate>
+            <description><![CDATA[Application Form - Equivalent Protection - Sewer - Attachment 7-3-2 Equivalent Protection Sewer Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Equivalent Protection - Sewer - Attachment 7-3-2 Equivalent Protection Sewer Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main Final 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a51.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a51.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:46 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main Final 1]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main Final 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a52.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a52.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:46 GMT</pubDate>
+            <description><![CDATA[Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a53.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a53.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:47 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Strorm Water Section - Attachment 7-7 Storm Water Discharges Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a54.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a54.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:47 GMT</pubDate>
+            <description><![CDATA[Application Form - Strorm Water Section - Attachment 7-7 Storm Water Discharges Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Strorm Water Section - Attachment 7-7 Storm Water Discharges Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Storm Water Monitoring - Attachment 7-7-1 Stormwater Monitoring Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a55.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a55.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:47 GMT</pubDate>
+            <description><![CDATA[Application Form - Storm Water Monitoring - Attachment 7-7-1 Stormwater Monitoring Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Storm Water Monitoring - Attachment 7-7-1 Stormwater Monitoring Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-Generated Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a56.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a56.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:47 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-Generated Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Waste Generated Section - Attachment-8-1-Waste-Generated Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy - Attachment-8-2-1-Waste Hierarchy Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a57.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a57.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:47 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy - Attachment-8-2-1-Waste Hierarchy Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Waste Hierarchy - Attachment-8-2-1-Waste Hierarchy Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EMT Section - Attachment-9-1-Environmental-Management Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a58.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a58.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:47 GMT</pubDate>
+            <description><![CDATA[Application Form - EMT Section - Attachment-9-1-Environmental-Management Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - EMT Section - Attachment-9-1-Environmental-Management Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Closure - Attachment 9-2-3 Site Closure Plan Final 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a59.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a59.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:47 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Closure - Attachment 9-2-3 Site Closure Plan Final 1]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - Site Closure - Attachment 9-2-3 Site Closure Plan Final 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP - Plant Information Final 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a5a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a5a.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:47 GMT</pubDate>
+            <description><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP - Plant Information Final 2]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - LCP Section - Attachment-4-10-1-LCP - Plant Information Final 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - 0388 - Attachment 1-2 Non Technical Summary - Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a5b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a5b.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:48 GMT</pubDate>
+            <description><![CDATA[Application Form - 0388 - Attachment 1-2 Non Technical Summary - Final]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Application Form - 0388 - Attachment 1-2 Non Technical Summary - Final]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010804 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596c1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596c1.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:00:45 GMT</pubDate>
+            <description><![CDATA[S010804 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1158-01 -- Millrace Poultry  Limited: S010804 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010804 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596bf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596bf.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:00:44 GMT</pubDate>
+            <description><![CDATA[Submission No S010804 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1158-01 -- Millrace Poultry  Limited: Submission No S010804 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission - Snapshot - Submission No S010812  - P0446-02 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859784.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859784.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:30:18 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010812  - P0446-02 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0446-02 -- Mr Michael Monagle: Submission - Snapshot - Submission No S010812  - P0446-02 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010812 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859786.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859786.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:30:18 GMT</pubDate>
+            <description><![CDATA[S010812 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0446-02 -- Mr Michael Monagle: S010812 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010822 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b8.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:50 GMT</pubDate>
+            <description><![CDATA[S010822 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0871-03 -- Mr Vincent Quinn: S010822 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010822  - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b1.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:48 GMT</pubDate>
+            <description><![CDATA[Submission No S010822  - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0871-03 -- Mr Vincent Quinn: Submission No S010822  - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010823 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597bd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597bd.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:50 GMT</pubDate>
+            <description><![CDATA[S010823 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1164-01 -- Mr. Aidan Brady: S010823 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission - Snapshot - Submission No S010823  - P1164-01 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b6.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:49 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010823  - P1164-01 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1164-01 -- Mr. Aidan Brady: Submission - Snapshot - Submission No S010823  - P1164-01 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010807 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e4.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:20:11 GMT</pubDate>
+            <description><![CDATA[S010807 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1162-01 -- Mr. Brendan Duffy: S010807 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010807 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e1.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:20:11 GMT</pubDate>
+            <description><![CDATA[Submission No S010807 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1162-01 -- Mr. Brendan Duffy: Submission No S010807 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00012366]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859743.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859743.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 11:50:46 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00012366]]></description>
+            <content:encoded><![CDATA[P0790-03 -- Mr Eoin O"Brien: Notification to Applicant Extension Request - LACT00012366]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010818  - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979a.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:19 GMT</pubDate>
+            <description><![CDATA[Submission No S010818  - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0790-03 -- Mr Eoin O"Brien: Submission No S010818  - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010818 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597a0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597a0.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:19 GMT</pubDate>
+            <description><![CDATA[S010818 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0790-03 -- Mr Eoin O"Brien: S010818 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission - Snapshot - Submission No S010824  - P1167-01 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597b7.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:49 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010824  - P1167-01 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1167-01 -- Mr. Kevin Keenan: Submission - Snapshot - Submission No S010824  - P1167-01 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010824 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597be.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597be.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:50:50 GMT</pubDate>
+            <description><![CDATA[S010824 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1167-01 -- Mr. Kevin Keenan: S010824 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010808 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e5.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:20:12 GMT</pubDate>
+            <description><![CDATA[S010808 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1176-01 -- Mr. Killian Smith: S010808 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010808 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596e2.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 10:20:11 GMT</pubDate>
+            <description><![CDATA[Submission No S010808 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1176-01 -- Mr. Killian Smith: Submission No S010808 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission - Snapshot - Submission No S010810  - P1149-01 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859775.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859775.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:20:50 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010810  - P1149-01 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Submission - Snapshot - Submission No S010810  - P1149-01 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010810 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859777.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859777.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:20:50 GMT</pubDate>
+            <description><![CDATA[S010810 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: S010810 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010803 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596ae.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596ae.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:50:40 GMT</pubDate>
+            <description><![CDATA[S010803 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1154-01 -- Mr. Stephen Moffett: S010803 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010803 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596ad.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808596ad.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:50:39 GMT</pubDate>
+            <description><![CDATA[Submission No S010803 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1154-01 -- Mr. Stephen Moffett: Submission No S010803 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010829  - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597cf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597cf.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 13:00:50 GMT</pubDate>
+            <description><![CDATA[Submission No S010829  - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1183-01 -- O�Connell Poultry Farms Limited: Submission No S010829  - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010829 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597d1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597d1.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 13:00:50 GMT</pubDate>
+            <description><![CDATA[S010829 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1183-01 -- O�Connell Poultry Farms Limited: S010829 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[W0044-0222DD04 Quarter 4 Foul Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c6.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:01:55 GMT</pubDate>
+            <description><![CDATA[W0044-0222DD04 Quarter 4 Foul Water]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig  Thornton Waste Disposal Limited: W0044-0222DD04 Quarter 4 Foul Water]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010799 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859687.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859687.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:21:11 GMT</pubDate>
+            <description><![CDATA[Submission No S010799 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1132-02 -- S. Wilkin And Sons Limited: Submission No S010799 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010799 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085968a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085968a.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 09:21:11 GMT</pubDate>
+            <description><![CDATA[S010799 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1132-02 -- S. Wilkin And Sons Limited: S010799 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[60676743 ACM RP ENV 001 1 (SWM 2022-01)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a60.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a60.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:48 GMT</pubDate>
+            <description><![CDATA[60676743 ACM RP ENV 001 1 (SWM 2022-01)]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint-Gobain Building Distribution (ROI) Limited: 60676743 ACM RP ENV 001 1 (SWM 2022-01)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[60676743 ACM RP ENV 006 1 (SWM 2022-04)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a61.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a61.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:40:49 GMT</pubDate>
+            <description><![CDATA[60676743 ACM RP ENV 006 1 (SWM 2022-04)]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint-Gobain Building Distribution (ROI) Limited: 60676743 ACM RP ENV 006 1 (SWM 2022-04)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER-2021 W0116]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a7a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a7a.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:50:47 GMT</pubDate>
+            <description><![CDATA[AER-2021 W0116]]></description>
+            <content:encoded><![CDATA[W0116-02 -- Starrus Eco Holding Limited: AER-2021 W0116]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[W0140 Q3 Trade effluent report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c8.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:01:58 GMT</pubDate>
+            <description><![CDATA[W0140 Q3 Trade effluent report]]></description>
+            <content:encoded><![CDATA[W0140-05 -- Starrus Eco Holdings Limited: W0140 Q3 Trade effluent report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER-2021 W0177]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a82.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a82.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:50:49 GMT</pubDate>
+            <description><![CDATA[AER-2021 W0177]]></description>
+            <content:encoded><![CDATA[W0177-03 -- Starrus Eco Holding Limited: AER-2021 W0177]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859877.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859877.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 15:00:56 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
+            <content:encoded><![CDATA[W0261-03 -- Starrus Eco Holdings Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[221019 Noise Compliance Report 2022 Final Rev01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808599c4.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:01:52 GMT</pubDate>
+            <description><![CDATA[221019 Noise Compliance Report 2022 Final Rev01]]></description>
+            <content:encoded><![CDATA[P0994-01 -- Ingersoll-Rand International Limited: 221019 Noise Compliance Report 2022 Final Rev01]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Rampere 2021 AER]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a74.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859a74.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 21:50:46 GMT</pubDate>
+            <description><![CDATA[Rampere 2021 AER]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: Rampere 2021 AER]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010828 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597d0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597d0.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 13:00:50 GMT</pubDate>
+            <description><![CDATA[S010828 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1175-01 -- Woodburn Farms Limited: S010828 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No S010828  - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597ce.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808597ce.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 13:00:49 GMT</pubDate>
+            <description><![CDATA[Submission No S010828  - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P1175-01 -- Woodburn Farms Limited: Submission No S010828  - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission - Snapshot - Submission No S010814  - P0467-03 - National Animal Rights Assoc]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859798.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280859798.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:19 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S010814  - P0467-03 - National Animal Rights Assoc]]></description>
+            <content:encoded><![CDATA[P0467-03 -- Woodville Pig Farms Limited: Submission - Snapshot - Submission No S010814  - P0467-03 - National Animal Rights Assoc]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S010814 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085979e.pdf</guid>
+            <pubDate>Mon, 19 Dec 2022 12:40:19 GMT</pubDate>
+            <description><![CDATA[S010814 Submission Notice]]></description>
+            <content:encoded><![CDATA[P0467-03 -- Woodville Pig Farms Limited: S010814 Submission Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
