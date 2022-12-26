@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sun, 25 Dec 2022 02:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 02:34:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,140 +15,5 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 14(2) Notice 15]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085aafe.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085aafe.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 08:10:22 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 14(2) Notice 15]]></description>
-            <content:encoded><![CDATA[P1177-01 -- Amazon Data Services Ireland Limited: Reminder Email (upcoming due date)  - Reg 14(2) Notice 15]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - P1177-01 - Impact Ass. of Discharge to Stormwater]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085abef.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085abef.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 15:00:38 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - P1177-01 - Impact Ass. of Discharge to Stormwater]]></description>
-            <content:encoded><![CDATA[P1177-01 -- Amazon Data Services Ireland Limited: Unsolicited Additional Information - P1177-01 - Impact Ass. of Discharge to Stormwater]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - P1177-01 Bulk Tank Fuel Delivery SOP]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085abf0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085abf0.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 15:00:39 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - P1177-01 Bulk Tank Fuel Delivery SOP]]></description>
-            <content:encoded><![CDATA[P1177-01 -- Amazon Data Services Ireland Limited: Unsolicited Additional Information - P1177-01 Bulk Tank Fuel Delivery SOP]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - P1177-01 Unsolicited Information-Greenhills]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085abf1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085abf1.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 15:00:39 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - P1177-01 Unsolicited Information-Greenhills]]></description>
-            <content:encoded><![CDATA[P1177-01 -- Amazon Data Services Ireland Limited: Unsolicited Additional Information - P1177-01 Unsolicited Information-Greenhills]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV26071 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb4.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:08 GMT</pubDate>
-            <description><![CDATA[SV26071 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: SV26071 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[BnM Drehid GW Q3 2022 Rpt]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acba.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acba.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:10 GMT</pubDate>
-            <description><![CDATA[BnM Drehid GW Q3 2022 Rpt]]></description>
-            <content:encoded><![CDATA[W0201-03 -- Bord na Mona Plc: BnM Drehid GW Q3 2022 Rpt]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[BnM Drehid Leachate Q3 2022 Rpt]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acbb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acbb.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:10 GMT</pubDate>
-            <description><![CDATA[BnM Drehid Leachate Q3 2022 Rpt]]></description>
-            <content:encoded><![CDATA[W0201-03 -- Bord na Mona Plc: BnM Drehid Leachate Q3 2022 Rpt]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[BnM Drehid SW Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acbc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acbc.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:10 GMT</pubDate>
-            <description><![CDATA[BnM Drehid SW Q3 2022]]></description>
-            <content:encoded><![CDATA[W0201-03 -- Bord na Mona Plc: BnM Drehid SW Q3 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Bulmers Environmental Noise Survey Report 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb1.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:08 GMT</pubDate>
-            <description><![CDATA[Bulmers Environmental Noise Survey Report 2022]]></description>
-            <content:encoded><![CDATA[P0443-02 -- Bulmers Limited: Bulmers Environmental Noise Survey Report 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23878 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb0.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:07 GMT</pubDate>
-            <description><![CDATA[SV23878 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0215-01 -- Mr John Kiernan: SV23878 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P0011-06 Air Emission Abatement Bypass Log Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acaf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acaf.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:07 GMT</pubDate>
-            <description><![CDATA[P0011-06 Air Emission Abatement Bypass Log Q3 2022]]></description>
-            <content:encoded><![CDATA[P0011-06 -- MSD International GMBH: P0011-06 Air Emission Abatement Bypass Log Q3 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - Preliminary Response to I-App-RFI Reg.10(2)(b)(ii)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ac11.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ac11.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 15:40:09 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Preliminary Response to I-App-RFI Reg.10(2)(b)(ii)]]></description>
-            <content:encoded><![CDATA[P0013-06 -- Pfizer Ireland Pharmaceuticals: Letter from Applicant - Preliminary Response to I-App-RFI Reg.10(2)(b)(ii)]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ballaghveny Landfill Dust Report Round 4 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb9.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:09 GMT</pubDate>
-            <description><![CDATA[Ballaghveny Landfill Dust Report Round 4 2022]]></description>
-            <content:encoded><![CDATA[W0078-03 -- North Tipperary County Council: Ballaghveny Landfill Dust Report Round 4 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV24227 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb2.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:08 GMT</pubDate>
-            <description><![CDATA[SV24227 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0510-01 -- Waterford Carpets Limited: SV24227 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23478 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085acb3.pdf</guid>
-            <pubDate>Fri, 23 Dec 2022 22:09:08 GMT</pubDate>
-            <description><![CDATA[SV23478 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0650-03 -- Zinc Processors Limited t/a Shannonside Galvanizing: SV23478 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
     </channel>
 </rss>
