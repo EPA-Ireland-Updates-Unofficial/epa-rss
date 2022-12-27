@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 26 Dec 2022 02:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 02:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,50 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SV23135 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa3.pdf</guid>
+            <pubDate>Sun, 25 Dec 2022 08:15:01 GMT</pubDate>
+            <description><![CDATA[SV23135 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0040-02 -- Munster Proteins Limited t/a Waterford Proteins: SV23135 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV25991 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa4.pdf</guid>
+            <pubDate>Sun, 25 Dec 2022 08:15:01 GMT</pubDate>
+            <description><![CDATA[SV25991 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0172-01 -- Cabglove Limited: SV25991 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[W0227-0122AQ17 Quarter 4 Foul Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa7.pdf</guid>
+            <pubDate>Sun, 25 Dec 2022 08:15:03 GMT</pubDate>
+            <description><![CDATA[W0227-0122AQ17 Quarter 4 Foul Water]]></description>
+            <content:encoded><![CDATA[W0227-01 -- Lawlor Brothers Waste Disposal Ltd t/a Access Skip Hire: W0227-0122AQ17 Quarter 4 Foul Water]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[W0227-0122AQ16 Quarter 4 Surface Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa8.pdf</guid>
+            <pubDate>Sun, 25 Dec 2022 08:15:03 GMT</pubDate>
+            <description><![CDATA[W0227-0122AQ16 Quarter 4 Surface Water]]></description>
+            <content:encoded><![CDATA[W0227-01 -- Lawlor Brothers Waste Disposal Ltd t/a Access Skip Hire: W0227-0122AQ16 Quarter 4 Surface Water]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV26014 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085afa6.pdf</guid>
+            <pubDate>Sun, 25 Dec 2022 08:15:02 GMT</pubDate>
+            <description><![CDATA[SV26014 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0078-03 -- North Tipperary County Council: SV26014 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
