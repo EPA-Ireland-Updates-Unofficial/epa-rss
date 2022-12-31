@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Fri, 30 Dec 2022 02:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 02:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,210 +16,30 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV26097 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba44.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba44.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:10 GMT</pubDate>
-            <description><![CDATA[SV26097 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0040-02 -- Munster Proteins Limited t/a Waterford Proteins: SV26097 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV25911 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085bbd6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085bbd6.pdf</guid>
+            <pubDate>Thu, 29 Dec 2022 08:50:17 GMT</pubDate>
+            <description><![CDATA[SV25911 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: SV25911 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Site Office Gas Monitoring - Week 43 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba40.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba40.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:09 GMT</pubDate>
-            <description><![CDATA[Site Office Gas Monitoring - Week 43 2022]]></description>
-            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Site Office Gas Monitoring - Week 43 2022]]></content:encoded>
+            <title><![CDATA[SV25911 - Licensee Public Response]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085bbd7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085bbd7.pdf</guid>
+            <pubDate>Thu, 29 Dec 2022 08:50:17 GMT</pubDate>
+            <description><![CDATA[SV25911 - Licensee Public Response]]></description>
+            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: SV25911 - Licensee Public Response]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23242 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba42.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba42.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:09 GMT</pubDate>
-            <description><![CDATA[SV23242 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0232-01 -- Dublin Waste to Energy Limited: SV23242 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Full Report Weekly Trade Waste 235816-1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba3c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba3c.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:08 GMT</pubDate>
-            <description><![CDATA[Full Report Weekly Trade Waste 235816-1]]></description>
-            <content:encoded><![CDATA[W0041-01 -- Shannon Environmental Services Ltd: Full Report Weekly Trade Waste 235816-1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Monthly Effluent Report August 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba3d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba3d.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:09 GMT</pubDate>
-            <description><![CDATA[Monthly Effluent Report August 2022]]></description>
-            <content:encoded><![CDATA[W0041-01 -- Shannon Environmental Services Ltd: Monthly Effluent Report August 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ballitore Boiler Conbustion Eff Report 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4c.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:11 GMT</pubDate>
-            <description><![CDATA[Ballitore Boiler Conbustion Eff Report 2021]]></description>
-            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: Ballitore Boiler Conbustion Eff Report 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ballitore Groundwater Cert of Analysis May 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4d.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:11 GMT</pubDate>
-            <description><![CDATA[Ballitore Groundwater Cert of Analysis May 2022]]></description>
-            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: Ballitore Groundwater Cert of Analysis May 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ballitore Groundwater November 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4e.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:11 GMT</pubDate>
-            <description><![CDATA[Ballitore Groundwater November 2021]]></description>
-            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: Ballitore Groundwater November 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ballitore Noise Monitoring Report 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4f.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:11 GMT</pubDate>
-            <description><![CDATA[Ballitore Noise Monitoring Report 2021]]></description>
-            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: Ballitore Noise Monitoring Report 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Wastewater - SW04 for July.August  September 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba50.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba50.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:12 GMT</pubDate>
-            <description><![CDATA[Wastewater - SW04 for July.August  September 2022]]></description>
-            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: Wastewater - SW04 for July.August  September 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ballitore Storm water Jul Aug Sept]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba51.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba51.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:12 GMT</pubDate>
-            <description><![CDATA[Ballitore Storm water Jul Aug Sept]]></description>
-            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: Ballitore Storm water Jul Aug Sept]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[45002201 Enviromental Noise Survey October 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba52.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba52.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:12 GMT</pubDate>
-            <description><![CDATA[45002201 Enviromental Noise Survey October 2022]]></description>
-            <content:encoded><![CDATA[P0918-01 -- Hollister ULC: 45002201 Enviromental Noise Survey October 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Q3 2022 Report Part 1 Air]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba45.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba45.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:10 GMT</pubDate>
-            <description><![CDATA[Q3 2022 Report Part 1 Air]]></description>
-            <content:encoded><![CDATA[P0266-03 -- Irving Oil Whitegate Refinery Limited: Q3 2022 Report Part 1 Air]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Q3 2022 Report Part 2 Water]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba46.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba46.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:10 GMT</pubDate>
-            <description><![CDATA[Q3 2022 Report Part 2 Water]]></description>
-            <content:encoded><![CDATA[P0266-03 -- Irving Oil Whitegate Refinery Limited: Q3 2022 Report Part 2 Water]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Macroinvertebrate Survey 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba49.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba49.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:10 GMT</pubDate>
-            <description><![CDATA[Macroinvertebrate Survey 2022]]></description>
-            <content:encoded><![CDATA[P0800-03 -- Lakeland Dairies: Macroinvertebrate Survey 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Q2 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4a.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:10 GMT</pubDate>
-            <description><![CDATA[Q2 2022]]></description>
-            <content:encoded><![CDATA[P0800-03 -- Lakeland Dairies: Q2 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Q3 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba4b.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:10 GMT</pubDate>
-            <description><![CDATA[Q3 2022]]></description>
-            <content:encoded><![CDATA[P0800-03 -- Lakeland Dairies: Q3 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Gas Utilisation-Emissions to Air -Event 1 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba56.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba56.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:13 GMT</pubDate>
-            <description><![CDATA[Gas Utilisation-Emissions to Air -Event 1 2022]]></description>
-            <content:encoded><![CDATA[W0017-04 -- Limerick County Council: Gas Utilisation-Emissions to Air -Event 1 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Treated Leachate Discharge September 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba57.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba57.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:13 GMT</pubDate>
-            <description><![CDATA[Treated Leachate Discharge September 2022]]></description>
-            <content:encoded><![CDATA[W0017-04 -- Limerick County Council: Treated Leachate Discharge September 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23917 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba48.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba48.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:10 GMT</pubDate>
-            <description><![CDATA[SV23917 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0640-01 -- Mr John Kiernan: SV23917 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV26040 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba3e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba3e.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:09 GMT</pubDate>
-            <description><![CDATA[SV26040 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0044-02 -- Padraig  Thornton Waste Disposal Limited: SV26040 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV26084 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba3f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba3f.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:09 GMT</pubDate>
-            <description><![CDATA[SV26084 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0044-02 -- Padraig  Thornton Waste Disposal Limited: SV26084 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ENV-7043 - Pelagia Feed PPC Noise Report 04-2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba47.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085ba47.pdf</guid>
-            <pubDate>Wed, 28 Dec 2022 08:51:10 GMT</pubDate>
-            <description><![CDATA[ENV-7043 - Pelagia Feed PPC Noise Report 04-2022]]></description>
-            <content:encoded><![CDATA[P0416-04 -- United Fish Industries: ENV-7043 - Pelagia Feed PPC Noise Report 04-2022]]></content:encoded>
+            <title><![CDATA[Biological Report River Greese 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085bbd5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085bbd5.pdf</guid>
+            <pubDate>Thu, 29 Dec 2022 08:50:16 GMT</pubDate>
+            <description><![CDATA[Biological Report River Greese 2021]]></description>
+            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: Biological Report River Greese 2021]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
