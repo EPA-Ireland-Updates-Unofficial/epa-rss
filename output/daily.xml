@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 03 Jan 2023 02:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 02:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,111 +16,39 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Aug 2022 to Oct 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c362.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c362.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:45 GMT</pubDate>
-            <description><![CDATA[Aug 2022 to Oct 2022]]></description>
-            <content:encoded><![CDATA[P0452-01 -- Adhesives Research Ireland Limited: Aug 2022 to Oct 2022]]></content:encoded>
+            <title><![CDATA[SV26099 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c56b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c56b.pdf</guid>
+            <pubDate>Mon, 02 Jan 2023 21:50:49 GMT</pubDate>
+            <description><![CDATA[SV26099 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0812-01 -- Arrow Group Limited: SV26099 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Alexion Noise Monitoring Report Summary 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c369.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c369.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:46 GMT</pubDate>
-            <description><![CDATA[Alexion Noise Monitoring Report Summary 2022]]></description>
-            <content:encoded><![CDATA[P1030-01 -- Alexion Pharma Internations Trading: Alexion Noise Monitoring Report Summary 2022]]></content:encoded>
+            <title><![CDATA[SV23870 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c56c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c56c.pdf</guid>
+            <pubDate>Mon, 02 Jan 2023 21:50:49 GMT</pubDate>
+            <description><![CDATA[SV23870 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0981-01 -- DINO Trading Company Ltd: SV23870 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23131 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c360.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c360.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:45 GMT</pubDate>
-            <description><![CDATA[SV23131 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0035-07 -- Aughinish Alumina Limited: SV23131 - Licensee Report]]></content:encoded>
+            <title><![CDATA[JN1720 DWTE Ecological Survey 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c56e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c56e.pdf</guid>
+            <pubDate>Mon, 02 Jan 2023 21:50:49 GMT</pubDate>
+            <description><![CDATA[JN1720 DWTE Ecological Survey 2022]]></description>
+            <content:encoded><![CDATA[W0232-01 -- Dublin Waste to Energy Limited: JN1720 DWTE Ecological Survey 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23164 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c361.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c361.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:45 GMT</pubDate>
-            <description><![CDATA[SV23164 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0292-01 -- Galvotech (International) Limited: SV23164 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[010922GLANWAY020922 Odour cert]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c367.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c367.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:46 GMT</pubDate>
-            <description><![CDATA[010922GLANWAY020922 Odour cert]]></description>
-            <content:encoded><![CDATA[P1015-03 -- Glanway Limited: 010922GLANWAY020922 Odour cert]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[270922GLANWAY280922 Odour cert]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c368.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c368.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:46 GMT</pubDate>
-            <description><![CDATA[270922GLANWAY280922 Odour cert]]></description>
-            <content:encoded><![CDATA[P1015-03 -- Glanway Limited: 270922GLANWAY280922 Odour cert]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Week of 24th of October 2022 - Odour Run]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c366.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c366.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:46 GMT</pubDate>
-            <description><![CDATA[Week of 24th of October 2022 - Odour Run]]></description>
-            <content:encoded><![CDATA[P1004-02 -- Glenmore Generation Limitd: Week of 24th of October 2022 - Odour Run]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[McHale Engineering Resp 271022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c365.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c365.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:45 GMT</pubDate>
-            <description><![CDATA[McHale Engineering Resp 271022]]></description>
-            <content:encoded><![CDATA[P0988-01 -- McHale Engineering: McHale Engineering Resp 271022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23982 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c364.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c364.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:45 GMT</pubDate>
-            <description><![CDATA[SV23982 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0851-01 -- Mr Gabriel McAree: SV23982 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23981 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c363.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c363.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:45 GMT</pubDate>
-            <description><![CDATA[SV23981 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0850-01 -- Mr. Martin McAree: SV23981 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV23249 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c35f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c35f.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:44 GMT</pubDate>
-            <description><![CDATA[SV23249 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0006-04 -- Novartis Ringaskiddy Limited: SV23249 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Organics Noise Report 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c36f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c36f.pdf</guid>
-            <pubDate>Sun, 01 Jan 2023 21:50:47 GMT</pubDate>
-            <description><![CDATA[Ormonde Organics Noise Report 2022]]></description>
-            <content:encoded><![CDATA[W0287-01 -- Ormonde Organics Limited: Ormonde Organics Noise Report 2022]]></content:encoded>
+            <title><![CDATA[SV23336 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c56a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28085c56a.pdf</guid>
+            <pubDate>Mon, 02 Jan 2023 21:50:48 GMT</pubDate>
+            <description><![CDATA[SV23336 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0180-02 -- Glanbia Fresh Pork Limited: SV23336 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
