@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Fri, 03 Feb 2023 03:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 02:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,111 +16,318 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Unsol.Info. 21_123-CSE-00-XX-DR-C-4205 Foul Sewer Layout]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086231a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086231a.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:24:49 GMT</pubDate>
+            <description><![CDATA[Unsol.Info. 21_123-CSE-00-XX-DR-C-4205 Foul Sewer Layout]]></description>
+            <content:encoded><![CDATA[P1171-01 -- Amazon Data Services Ireland Limited: Unsol.Info. 21_123-CSE-00-XX-DR-C-4205 Foul Sewer Layout]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsol.Info. 2123-CSE-00-XX-DR-C-4206 Surface Water Layout_1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086231b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086231b.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:24:49 GMT</pubDate>
+            <description><![CDATA[Unsol.Info. 2123-CSE-00-XX-DR-C-4206 Surface Water Layout_1]]></description>
+            <content:encoded><![CDATA[P1171-01 -- Amazon Data Services Ireland Limited: Unsol.Info. 2123-CSE-00-XX-DR-C-4206 Surface Water Layout_1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsol.Info. Attachment-7-1-3-2-Air Emissions Impact-Revised]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086231c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086231c.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:24:49 GMT</pubDate>
+            <description><![CDATA[Unsol.Info. Attachment-7-1-3-2-Air Emissions Impact-Revised]]></description>
+            <content:encoded><![CDATA[P1171-01 -- Amazon Data Services Ireland Limited: Unsol.Info. Attachment-7-1-3-2-Air Emissions Impact-Revised]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsol.Info. Building C_D_E_F Fuel Delivery SOP_Redacted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086231d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086231d.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:24:49 GMT</pubDate>
+            <description><![CDATA[Unsol.Info. Building C_D_E_F Fuel Delivery SOP_Redacted]]></description>
+            <content:encoded><![CDATA[P1171-01 -- Amazon Data Services Ireland Limited: Unsol.Info. Building C_D_E_F Fuel Delivery SOP_Redacted]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsol.Info. BUILDINGS A_B Fuel Delivery SOP_Redacted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862389.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862389.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:24:49 GMT</pubDate>
+            <description><![CDATA[Unsol.Info. BUILDINGS A_B Fuel Delivery SOP_Redacted]]></description>
+            <content:encoded><![CDATA[P1171-01 -- Amazon Data Services Ireland Limited: Unsol.Info. BUILDINGS A_B Fuel Delivery SOP_Redacted]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsol.Info. - Stormwater Impact Assessment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086238a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086238a.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:24:49 GMT</pubDate>
+            <description><![CDATA[Unsol.Info. - Stormwater Impact Assessment]]></description>
+            <content:encoded><![CDATA[P1171-01 -- Amazon Data Services Ireland Limited: Unsol.Info. - Stormwater Impact Assessment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Information]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086238b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086238b.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:24:50 GMT</pubDate>
+            <description><![CDATA[Unsolicited Information]]></description>
+            <content:encoded><![CDATA[P1171-01 -- Amazon Data Services Ireland Limited: Unsolicited Information]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00012719]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622d1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622d1.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:40 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00012719]]></description>
+            <content:encoded><![CDATA[P1186-01 -- Amazon Data Services Ireland Limited: Notification to Applicant Extension Request - LACT00012719]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Web Notice - FD Issued 17]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086230e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086230e.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 14:10:13 GMT</pubDate>
+            <description><![CDATA[Web Notice - FD Issued 17]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Web Notice - FD Issued 17]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
             <title><![CDATA[Specified Body Notification - FD Issued - Licence Granted]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f58.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f58.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 14:10:52 GMT</pubDate>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862324.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862324.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 14:19:46 GMT</pubDate>
             <description><![CDATA[Specified Body Notification - FD Issued - Licence Granted]]></description>
             <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Specified Body Notification - FD Issued - Licence Granted]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
+            <title><![CDATA[Unsolicited Additional Information - Attachment-1-2-Non-Technical Summary B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622c8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622c8.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:37 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Attachment-1-2-Non-Technical Summary B]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Unsolicited Additional Information - Attachment-1-2-Non-Technical Summary B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Attachment-4-7-1v-National BAT-Solvent Use B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622c9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622c9.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:38 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Attachment-4-7-1v-National BAT-Solvent Use B]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Unsolicited Additional Information - Attachment-4-7-1v-National BAT-Solvent Use B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Attachment-4-8-1-Operational Report B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622ca.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622ca.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:38 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Attachment-4-8-1-Operational Report B]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Unsolicited Additional Information - Attachment-4-8-1-Operational Report B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Attachment-4-9-4-IED-Art 59(7) Precautions B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622cb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622cb.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:38 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Attachment-4-9-4-IED-Art 59(7) Precautions B]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Unsolicited Additional Information - Attachment-4-9-4-IED-Art 59(7) Precautions B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Attachment-7-1-3-2-Emissions Impact Assessment B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622cc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622cc.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:39 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Attachment-7-1-3-2-Emissions Impact Assessment B]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Unsolicited Additional Information - Attachment-7-1-3-2-Emissions Impact Assessment B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Attachment-7-4-1-Emissions-to-Air-Main Fugitive B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622cd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622cd.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:40 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Attachment-7-4-1-Emissions-to-Air-Main Fugitive B]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Unsolicited Additional Information - Attachment-7-4-1-Emissions-to-Air-Main Fugitive B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Attachment-7-4-2-Emissions to Air-Minor  Pot B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622ce.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622ce.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:40 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Attachment-7-4-2-Emissions to Air-Minor  Pot B]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Unsolicited Additional Information - Attachment-7-4-2-Emissions to Air-Minor  Pot B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - IEL App P0818-05 Unsolicited Info Cover Letter]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622cf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622cf.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:40 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - IEL App P0818-05 Unsolicited Info Cover Letter]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Unsolicited Additional Information - IEL App P0818-05 Unsolicited Info Cover Letter]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Minor Pot AirEmissionPoints(Sheet 4 of 9) B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622d0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622d0.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 13:10:40 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Minor Pot AirEmissionPoints(Sheet 4 of 9) B]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson & Johnson Vision Care Ireland Unlimited Co: Unsolicited Additional Information - Minor Pot AirEmissionPoints(Sheet 4 of 9) B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1053-01 Final Determination.pdf]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862314.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862314.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 14:12:03 GMT</pubDate>
+            <description><![CDATA[P1053-01 Final Determination.pdf]]></description>
+            <content:encoded><![CDATA[P1053-01 -- M.A.G. World Limited: P1053-01 Final Determination.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Specified Body Notification - FD Issued - Licence Granted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086229a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086229a.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 12:31:06 GMT</pubDate>
+            <description><![CDATA[Specified Body Notification - FD Issued - Licence Granted]]></description>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited: Specified Body Notification - FD Issued - Licence Granted]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
             <title><![CDATA[Final Determination]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f59.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f59.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 14:10:52 GMT</pubDate>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086229b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086229b.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 12:31:07 GMT</pubDate>
             <description><![CDATA[Final Determination]]></description>
-            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Final Determination]]></content:encoded>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited: Final Determination]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant - Final Determination]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f5a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f5a.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 14:10:53 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Final Determination]]></description>
-            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Notification to Applicant - Final Determination]]></content:encoded>
+            <title><![CDATA[Notification to Applicant re Final Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086229c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086229c.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 12:31:07 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant re Final Determination]]></description>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited: Notification to Applicant re Final Determination]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Third Party - FD Issued]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f5b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f5b.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 14:10:53 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - FD Issued]]></description>
-            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Letter to Third Party - FD Issued]]></content:encoded>
+            <title><![CDATA[Letter to Third Party - FD Issued - Licence Granted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086229d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086229d.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 12:31:07 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - FD Issued - Licence Granted]]></description>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited: Letter to Third Party - FD Issued - Licence Granted]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f94.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f94.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 15:30:56 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register]]></description>
-            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Notification to Planning Authority - Register]]></content:encoded>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086230b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086230b.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 14:10:13 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f95.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f95.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 15:30:56 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register]]></description>
-            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Notification to Planning Authority - Register]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority re Register - Letter]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086230c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086230c.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 14:10:13 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority re Register - Letter]]></description>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited: Notification to Planning Authority re Register - Letter]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f96.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861f96.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 15:30:57 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register]]></description>
-            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Notification to Planning Authority - Register]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority re Register - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086230d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086230d.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 14:10:13 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority re Register - Register]]></description>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited: Notification to Planning Authority re Register - Register]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV24177 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808620ae.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808620ae.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 21:30:49 GMT</pubDate>
-            <description><![CDATA[SV24177 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0771-02 -- Clogrennane Lime Limited - Clare: SV24177 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Specified Body Notification - FD Issued - Licence Granted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622b0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622b0.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 12:50:07 GMT</pubDate>
+            <description><![CDATA[Specified Body Notification - FD Issued - Licence Granted]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Specified Body Notification - FD Issued - Licence Granted]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Letter to EPA 1st Feb 23  P1190-01]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861e64.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861e64.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 09:10:36 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Letter to EPA 1st Feb 23  P1190-01]]></description>
-            <content:encoded><![CDATA[P1190-01 -- Microsoft Ireland Operations Limited: Letter from Applicant - Letter to EPA 1st Feb 23  P1190-01]]></content:encoded>
+            <title><![CDATA[Final Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622b1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622b1.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 12:50:08 GMT</pubDate>
+            <description><![CDATA[Final Determination]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Final Determination]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AA Screening Determination - LACT00012685]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861fd2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861fd2.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 16:50:59 GMT</pubDate>
-            <description><![CDATA[AA Screening Determination - LACT00012685]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: AA Screening Determination - LACT00012685]]></content:encoded>
+            <title><![CDATA[Letter to Applicant - FD issued LACT0012712]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622b2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622b2.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 12:50:08 GMT</pubDate>
+            <description><![CDATA[Letter to Applicant - FD issued LACT0012712]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Letter to Applicant - FD issued LACT0012712]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00012683]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861e82.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861e82.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 09:50:08 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00012683]]></description>
-            <content:encoded><![CDATA[P0013-06 -- Pfizer Ireland Pharmaceuticals: Notification to Applicant Compliance Notice EIA - LACT00012683]]></content:encoded>
+            <title><![CDATA[Notification to Third Parties - FD Issued - Licence Granted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622b3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808622b3.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 12:50:08 GMT</pubDate>
+            <description><![CDATA[Notification to Third Parties - FD Issued - Licence Granted]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Notification to Third Parties - FD Issued - Licence Granted]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Reminder Email (upcoming due date) - Reg 14(2) Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861e3e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280861e3e.pdf</guid>
-            <pubDate>Wed, 01 Feb 2023 08:11:03 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date) - Reg 14(2) Notice]]></description>
-            <content:encoded><![CDATA[P0467-03 -- Woodville Pig Farms Limited: Reminder Email (upcoming due date) - Reg 14(2) Notice]]></content:encoded>
+            <title><![CDATA[Circulation of Register to Local Authority]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862372.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862372.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:10:21 GMT</pubDate>
+            <description><![CDATA[Circulation of Register to Local Authority]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Circulation of Register to Local Authority]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Planning Authority re. Register - LACT00012726]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862373.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862373.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:10:22 GMT</pubDate>
+            <description><![CDATA[Letter to Planning Authority re. Register - LACT00012726]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Letter to Planning Authority re. Register - LACT00012726]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Register of Licence - FD]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862374.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862374.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:10:22 GMT</pubDate>
+            <description><![CDATA[Register of Licence - FD]]></description>
+            <content:encoded><![CDATA[P1149-01 -- Mr. Raymond Brady: Register of Licence - FD]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Information - Air Quality Impact Assessment-RFI Update 2023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862319.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280862319.pdf</guid>
+            <pubDate>Thu, 02 Feb 2023 17:08:30 GMT</pubDate>
+            <description><![CDATA[Unsolicited Information - Air Quality Impact Assessment-RFI Update 2023]]></description>
+            <content:encoded><![CDATA[P0089-06 -- Sigma-Aldrich Ireland Limited: Unsolicited Information - Air Quality Impact Assessment-RFI Update 2023]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
