@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Thu, 09 Mar 2023 02:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 02:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,219 +16,732 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868cf9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868cf9.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 09:10:34 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
-            <content:encoded><![CDATA[P1172-01 -- Amazon Data Services Ireland Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <title><![CDATA[Notification to Applicant for Further Information - LACT00013011]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869085.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869085.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 11:30:53 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant for Further Information - LACT00013011]]></description>
+            <content:encoded><![CDATA[P1177-01 -- Amazon Data Services Ireland Limited: Notification to Applicant for Further Information - LACT00013011]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment-7-1-3-2-Air Emissions Impact 11]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7b.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 12:10:44 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment-7-1-3-2-Air Emissions Impact 11]]></description>
-            <content:encoded><![CDATA[P1181-01 -- Amazon Data Services Ireland Limited: Unsolicited Additional Information - Attachment-7-1-3-2-Air Emissions Impact 11]]></content:encoded>
+            <title><![CDATA[12.  Cover letter to EPA December 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692cc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692cc.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 22:10:58 GMT</pubDate>
+            <description><![CDATA[12.  Cover letter to EPA December 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 12.  Cover letter to EPA December 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - P1181-01 - Discharge to Stormwater]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7c.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 12:10:45 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - P1181-01 - Discharge to Stormwater]]></description>
-            <content:encoded><![CDATA[P1181-01 -- Amazon Data Services Ireland Limited: Unsolicited Additional Information - P1181-01 - Discharge to Stormwater]]></content:encoded>
+            <title><![CDATA[12. SW1 Monthly Monitoring EPA Dec 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692cd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692cd.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 22:10:58 GMT</pubDate>
+            <description><![CDATA[12. SW1 Monthly Monitoring EPA Dec 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 12. SW1 Monthly Monitoring EPA Dec 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - P1181-01 - Fuel Delivery SOP]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7d.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 12:10:45 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - P1181-01 - Fuel Delivery SOP]]></description>
-            <content:encoded><![CDATA[P1181-01 -- Amazon Data Services Ireland Limited: Unsolicited Additional Information - P1181-01 - Fuel Delivery SOP]]></content:encoded>
+            <title><![CDATA[12. SW1 River Sampling December  2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ce.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ce.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 22:10:58 GMT</pubDate>
+            <description><![CDATA[12. SW1 River Sampling December  2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 12. SW1 River Sampling December  2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - P1181-01 Unsolicited Information-Drogheda]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7e.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 12:10:45 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - P1181-01 Unsolicited Information-Drogheda]]></description>
-            <content:encoded><![CDATA[P1181-01 -- Amazon Data Services Ireland Limited: Unsolicited Additional Information - P1181-01 Unsolicited Information-Drogheda]]></content:encoded>
+            <title><![CDATA[12. SW2  Ammonia December 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692cf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692cf.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 22:10:58 GMT</pubDate>
+            <description><![CDATA[12. SW2  Ammonia December 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 12. SW2  Ammonia December 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Regulation 10 Reply - Natura Impact Statement]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d7f.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 12:10:45 GMT</pubDate>
-            <description><![CDATA[Regulation 10 Reply - Natura Impact Statement]]></description>
-            <content:encoded><![CDATA[P1181-01 -- Amazon Data Services Ireland Limited: Regulation 10 Reply - Natura Impact Statement]]></content:encoded>
+            <title><![CDATA[12. SW2  December  2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692d0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692d0.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 22:10:58 GMT</pubDate>
+            <description><![CDATA[12. SW2  December  2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 12. SW2  December  2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26914 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec8.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[SV26914 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P1052-01 -- Dairygold Agri Business Limited: SV26914 - Licensee Report]]></content:encoded>
+            <title><![CDATA[12. SW3  December 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692d1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692d1.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 22:10:58 GMT</pubDate>
+            <description><![CDATA[12. SW3  December 2022]]></description>
+            <content:encoded><![CDATA[P0390-04 -- Carbery Milk Products Limited: 12. SW3  December 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23238 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ee3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ee3.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:31:38 GMT</pubDate>
-            <description><![CDATA[SV23238 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0184-02 -- Enva Ireland Limited: SV23238 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - ECC CN License Review Extension Letter 08-03-2023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868fee.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868fee.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 08:10:45 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - ECC CN License Review Extension Letter 08-03-2023]]></description>
+            <content:encoded><![CDATA[P0355-02 -- Earrai Coillte Chonnacht Teoranta: Letter from Applicant - ECC CN License Review Extension Letter 08-03-2023]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[JMR  Second Biannual Ground Water Report 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec3.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:37 GMT</pubDate>
-            <description><![CDATA[JMR  Second Biannual Ground Water Report 2022]]></description>
-            <content:encoded><![CDATA[P0392-01 -- Jamestown Metal Resources Limited: JMR  Second Biannual Ground Water Report 2022]]></content:encoded>
+            <title><![CDATA[Newspaper Notice Re Proposed Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808690b2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808690b2.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 12:30:26 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice Re Proposed Determination]]></description>
+            <content:encoded><![CDATA[P1147-01 -- Fiojo Limited: Newspaper Notice Re Proposed Determination]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Perimeter Gas Wells - Dec 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec9.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[Perimeter Gas Wells - Dec 2022]]></description>
-            <content:encoded><![CDATA[W0001-04 -- Kerry County Council: Perimeter Gas Wells - Dec 2022]]></content:encoded>
+            <title><![CDATA[Application Form - Application Form - LA010609]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086924f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086924f.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:10:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Application Form - LA010609]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Application Form - LA010609]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Perimeter Gas Wells - Nov 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868eca.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868eca.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[Perimeter Gas Wells - Nov 2022]]></description>
-            <content:encoded><![CDATA[W0001-04 -- Kerry County Council: Perimeter Gas Wells - Nov 2022]]></content:encoded>
+            <title><![CDATA[Application Form - Fit and Proper Declaration - Attachmnet 2-5 Financial Commitment Declaration]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869250.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869250.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:10:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Fit and Proper Declaration - Attachmnet 2-5 Financial Commitment Declaration]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Fit and Proper Declaration - Attachmnet 2-5 Financial Commitment Declaration]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Perimeter Gas Wells - Oct 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ecb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ecb.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[Perimeter Gas Wells - Oct 2022]]></description>
-            <content:encoded><![CDATA[W0001-04 -- Kerry County Council: Perimeter Gas Wells - Oct 2022]]></content:encoded>
+            <title><![CDATA[Application Form - Technical Knowledge - Attachment-2-5-3-Technical Knowledge 24]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869251.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869251.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:10:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Technical Knowledge - Attachment-2-5-3-Technical Knowledge 24]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Technical Knowledge - Attachment-2-5-3-Technical Knowledge 24]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26163 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec1.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:36 GMT</pubDate>
-            <description><![CDATA[SV26163 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0106-02 -- Pauwels Trafo Ireland Limited: SV26163 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Air Emissions 3.6]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869252.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869252.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Air Emissions 3.6]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Site Plan - Air Emissions 3.6]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant - Confidential Information - LACT00013]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868e1e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868e1e.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 15:50:23 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Confidential Information - LACT00013]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Notification to Applicant - Confidential Information - LACT00013]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Chemical and Waste Storage Plan 3.7]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869253.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869253.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Chemical and Waste Storage Plan 3.7]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Site Plan - Chemical and Waste Storage Plan 3.7]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Confidential Information - Director Decision]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868e1f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868e1f.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 15:50:23 GMT</pubDate>
-            <description><![CDATA[Confidential Information - Director Decision]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Confidential Information - Director Decision]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Proposed Site Plan 3.3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869254.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869254.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Proposed Site Plan 3.3]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Site Plan - Proposed Site Plan 3.3]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Confidential Information Recommendation - P1191-01 (1)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868e20.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868e20.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 15:50:23 GMT</pubDate>
-            <description><![CDATA[Confidential Information Recommendation - P1191-01 (1)]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Confidential Information Recommendation - P1191-01 (1)]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Ownership Plan 3.2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869255.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869255.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Ownership Plan 3.2]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Site Plan - Site Ownership Plan 3.2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00013012]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d80.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d80.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 12:10:45 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00013012]]></description>
-            <content:encoded><![CDATA[P0790-03 -- Mr Eoin O"Brien: Notification to Applicant Extension Request - LACT00013012]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Services 3.5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869256.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869256.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Services 3.5]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Site Plan - Site Services 3.5]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26913 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec0.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:36 GMT</pubDate>
-            <description><![CDATA[SV26913 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0005-03 -- MSD International GmbH, trading as MSD Ireland (Br: SV26913 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Application Form - Site Map - Site Location Plan 3.1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869257.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869257.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - Site Location Plan 3.1]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Site Map - Site Location Plan 3.1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AER Dawn Pork and Bacon 2022 (P0175-02)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec2.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:37 GMT</pubDate>
-            <description><![CDATA[AER Dawn Pork and Bacon 2022 (P0175-02)]]></description>
-            <content:encoded><![CDATA[P0175-02 -- Queally Pig Slaughtering Limited: AER Dawn Pork and Bacon 2022 (P0175-02)]]></content:encoded>
+            <title><![CDATA[Application Form - Activity Capacity Information - Attachment 4-4-1 Capacity 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926b.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:28 GMT</pubDate>
+            <description><![CDATA[Application Form - Activity Capacity Information - Attachment 4-4-1 Capacity 3]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Activity Capacity Information - Attachment 4-4-1 Capacity 3]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[6. Sludge Register (Period Nov - Dec 2022)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec6.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[6. Sludge Register (Period Nov - Dec 2022)]]></description>
-            <content:encoded><![CDATA[P0806-01 -- Rye Valley Foods Limited: 6. Sludge Register (Period Nov - Dec 2022)]]></content:encoded>
+            <title><![CDATA[Application Form - Applicable Regulations - Attachment 4-4-1 Capacity 4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926c.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:28 GMT</pubDate>
+            <description><![CDATA[Application Form - Applicable Regulations - Attachment 4-4-1 Capacity 4]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Applicable Regulations - Attachment 4-4-1 Capacity 4]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00012948  07-03-2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d5d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868d5d.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 11:30:12 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00012948  07-03-2023]]></description>
-            <content:encoded><![CDATA[W0136-04 -- Starrus Eco Holdings Limited: Notification to Applicant RFI Reminder  LACT00012948  07-03-2023]]></content:encoded>
+            <title><![CDATA[Application Form - Water and Energy Usage - Attachment 4-6-1 Water Energy Usage 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926d.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:28 GMT</pubDate>
+            <description><![CDATA[Application Form - Water and Energy Usage - Attachment 4-6-1 Water Energy Usage 1]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Water and Energy Usage - Attachment 4-6-1 Water Energy Usage 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Q4 Ringsend Dust Monitoring]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec7.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[Q4 Ringsend Dust Monitoring]]></description>
-            <content:encoded><![CDATA[P1002-01 -- The Hammond  Lane Metal Company Ltd. (HLM): Q4 Ringsend Dust Monitoring]]></content:encoded>
+            <title><![CDATA[Application Form - Materials Used or Generated - Attachment 4-6-2 Raw Material Interm Products 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926e.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[Application Form - Materials Used or Generated - Attachment 4-6-2 Raw Material Interm Products 2]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Materials Used or Generated - Attachment 4-6-2 Raw Material Interm Products 2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Air Emissions Report Version 1 App 2022 Nov]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec4.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:37 GMT</pubDate>
-            <description><![CDATA[Air Emissions Report Version 1 App 2022 Nov]]></description>
-            <content:encoded><![CDATA[P0583-01 -- Xtratherm Limited: Air Emissions Report Version 1 App 2022 Nov]]></content:encoded>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-1-BREF-Large Combustion Plants 9]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086926f.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-1-BREF-Large Combustion Plants 9]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - BREF Assessment - Attachment-4-7-1-BREF-Large Combustion Plants 9]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Xtratherm 6-12-22 Q4]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280868ec5.pdf</guid>
-            <pubDate>Tue, 07 Mar 2023 21:10:37 GMT</pubDate>
-            <description><![CDATA[Xtratherm 6-12-22 Q4]]></description>
-            <content:encoded><![CDATA[P0583-01 -- Xtratherm Limited: Xtratherm 6-12-22 Q4]]></content:encoded>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-Energy Efficiency 10]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869270.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869270.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-Energy Efficiency 10]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - BREF Assessment - Attachment-4-7-2-BREF-Energy Efficiency 10]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Operational Report - Attachment-4-8-1 Operational Report 17]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869271.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869271.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - Attachment-4-8-1 Operational Report 17]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Operational Report - Attachment-4-8-1 Operational Report 17]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Baseline Screening - Attachment 4-8-2 Baseline Report 11]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869272.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869272.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[Application Form - Baseline Screening - Attachment 4-8-2 Baseline Report 11]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Baseline Screening - Attachment 4-8-2 Baseline Report 11]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Baseline Report - Attachment 4-8-3 Complete Baseline Report 6]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869273.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869273.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[Application Form - Baseline Report - Attachment 4-8-3 Complete Baseline Report 6]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Baseline Report - Attachment 4-8-3 Complete Baseline Report 6]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Condition Report - Attachment 4-8-4 Site Condition Report 10]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869274.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869274.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:30 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Condition Report - Attachment 4-8-4 Site Condition Report 10]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Site Condition Report - Attachment 4-8-4 Site Condition Report 10]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - IED Chapter III Applicability - Attachment-4-10-7-IED Chapter III 11]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869275.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869275.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:30 GMT</pubDate>
+            <description><![CDATA[Application Form - IED Chapter III Applicability - Attachment-4-10-7-IED Chapter III 11]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - IED Chapter III Applicability - Attachment-4-10-7-IED Chapter III 11]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - LCP Abatement Methods - Attachment-4-10-2-LCP-Abatement 17]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869276.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869276.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:30 GMT</pubDate>
+            <description><![CDATA[Application Form - LCP Abatement Methods - Attachment-4-10-2-LCP-Abatement 17]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - LCP Abatement Methods - Attachment-4-10-2-LCP-Abatement 17]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Signature and Company Stamp - 10-1-Signature-Stamp LA010609]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869277.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869277.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:30 GMT</pubDate>
+            <description><![CDATA[Application Form - Signature and Company Stamp - 10-1-Signature-Stamp LA010609]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Signature and Company Stamp - 10-1-Signature-Stamp LA010609]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 78]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869278.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869278.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:31 GMT</pubDate>
+            <description><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 78]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Financial Application Section - Attachment-5-1-Financial 78]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fee Payment Evidence - Attachment 5-2- Fee Payment Evidence 4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869279.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869279.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:31 GMT</pubDate>
+            <description><![CDATA[Application Form - Fee Payment Evidence - Attachment 5-2- Fee Payment Evidence 4]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Fee Payment Evidence - Attachment 5-2- Fee Payment Evidence 4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 58]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927a.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:31 GMT</pubDate>
+            <description><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 58]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 58]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision Dec 2001]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927b.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:31 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision Dec 2001]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Decision - Attachment 6-3-1 Planning Decision Dec 2001]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision July 2004]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927c.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:31 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision July 2004]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Decision - Attachment 6-3-1 Planning Decision July 2004]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision July 2005]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927d.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:32 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision July 2005]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Decision - Attachment 6-3-1 Planning Decision July 2005]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision June 2003]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927e.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:32 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision June 2003]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Decision - Attachment 6-3-1 Planning Decision June 2003]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision June 2004]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086927f.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:32 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision June 2004]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Decision - Attachment 6-3-1 Planning Decision June 2004]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision Mar 1999]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869280.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869280.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:32 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision Mar 1999]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Decision - Attachment 6-3-1 Planning Decision Mar 1999]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision Oct 2000]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869281.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869281.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:32 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 Planning Decision Oct 2000]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Decision - Attachment 6-3-1 Planning Decision Oct 2000]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 S.I 694 2023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869282.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869282.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:32 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1 S.I 694 2023]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Decision - Attachment 6-3-1 S.I 694 2023]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA Screening - Planning - Attachment 6-3-4-AA Screening Planning Sept 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869283.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869283.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:31:33 GMT</pubDate>
+            <description><![CDATA[Application Form - AA Screening - Planning - Attachment 6-3-4-AA Screening Planning Sept 2022]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - AA Screening - Planning - Attachment 6-3-4-AA Screening Planning Sept 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - PA/ABP Determination - Attachment 6-3-1 Appeal Decision Jan 2000]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869296.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869296.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:57 GMT</pubDate>
+            <description><![CDATA[Application Form - PA/ABP Determination - Attachment 6-3-1 Appeal Decision Jan 2000]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - PA/ABP Determination - Attachment 6-3-1 Appeal Decision Jan 2000]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-6 EIA Screening Planning Pt.1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869297.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869297.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:57 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-6 EIA Screening Planning Pt.1]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - EIS - Planning - Attachment 6-3-6 EIA Screening Planning Pt.1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6-3-6 EIA Screening Planning Pt.2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869298.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869298.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:57 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6-3-6 EIA Screening Planning Pt.2]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - EIS - Planning - Attachment 6-3-6 EIA Screening Planning Pt.2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Project and Threshold - Planning - Attachment 6-3-7 Project and Threshold-Planning]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869299.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869299.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Project and Threshold - Planning - Attachment 6-3-7 Project and Threshold-Planning]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Project and Threshold - Planning - Attachment 6-3-7 Project and Threshold-Planning]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - Attachment 6-3-1 Planners Report Apr 2003]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929a.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - Attachment 6-3-1 Planners Report Apr 2003]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Determination - Attachment 6-3-1 Planners Report Apr 2003]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - Attachment 6-3-1 Planners Report May 2004]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929b.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - Attachment 6-3-1 Planners Report May 2004]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Determination - Attachment 6-3-1 Planners Report May 2004]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - Attachment 6-3-1 Planners Report May 2005]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929c.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - Attachment 6-3-1 Planners Report May 2005]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Determination - Attachment 6-3-1 Planners Report May 2005]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - Attachment 6-3-1 Planners Report Oct 2001]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929d.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - Attachment 6-3-1 Planners Report Oct 2001]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Planning Determination - Attachment 6-3-1 Planners Report Oct 2001]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-1 Evidence of Notices-Site]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929e.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-1 Evidence of Notices-Site]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Evidence of Notices - Attachment 6-7-1 Evidence of Notices-Site]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-2 Evidence of Notices-Newspaper 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086929f.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:50:59 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-2 Evidence of Notices-Newspaper 1]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Evidence of Notices - Attachment 6-7-2 Evidence of Notices-Newspaper 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-3 Evidence of Notices-Map 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a0.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-3 Evidence of Notices-Map 1]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Evidence of Notices - Attachment 6-7-3 Evidence of Notices-Map 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-4 Evidence of Notices-PA FCC]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a1.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6-7-4 Evidence of Notices-PA FCC]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Evidence of Notices - Attachment 6-7-4 Evidence of Notices-PA FCC]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Overview Section - Attachment 7-1 Emissions Overview 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a2.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Overview Section - Attachment 7-1 Emissions Overview 2]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Emissions Overview Section - Attachment 7-1 Emissions Overview 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 35]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a3.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 35]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 35]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment 7-1-3-2 Air Emission Impact]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a4.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment 7-1-3-2 Air Emission Impact]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Emissions Impact Assessment - Attachment 7-1-3-2 Air Emission Impact]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment 7-1-3-2 Noise Emission Impact]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a5.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment 7-1-3-2 Noise Emission Impact]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Emissions Impact Assessment - Attachment 7-1-3-2 Noise Emission Impact]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Soil and Water Impact]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a6.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Soil and Water Impact]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Soil and Water Impact]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 64]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a7.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 64]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 64]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 54]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a8.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:01 GMT</pubDate>
+            <description><![CDATA[Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 54]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 54]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions 64]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692a9.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:01 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions 64]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions 64]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Strorm Water Section - Attachment-7-7-1 Storm-Water-Discharges]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692aa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692aa.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:01 GMT</pubDate>
+            <description><![CDATA[Application Form - Strorm Water Section - Attachment-7-7-1 Storm-Water-Discharges]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Strorm Water Section - Attachment-7-7-1 Storm-Water-Discharges]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Storm Water Monitoring - Attachment 7-7-2 Stormwater Monitoring]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ab.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ab.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:01 GMT</pubDate>
+            <description><![CDATA[Application Form - Storm Water Monitoring - Attachment 7-7-2 Stormwater Monitoring]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Storm Water Monitoring - Attachment 7-7-2 Stormwater Monitoring]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-Generated 4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ac.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ac.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:01 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-Generated 4]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Waste Generated Section - Attachment-8-1-Waste-Generated 4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy - Attachment-8-1-2-Waste-Mgt-and-Hierarchy 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ad.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ad.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:01 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy - Attachment-8-1-2-Waste-Mgt-and-Hierarchy 2]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Waste Hierarchy - Attachment-8-1-2-Waste-Mgt-and-Hierarchy 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EMT Section - Attachment-9-1-Environmental-Management-Techniques 59]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ae.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692ae.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:01 GMT</pubDate>
+            <description><![CDATA[Application Form - EMT Section - Attachment-9-1-Environmental-Management-Techniques 59]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - EMT Section - Attachment-9-1-Environmental-Management-Techniques 59]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Closure - Attachment 9-2-3 Site Closure Plan 14]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692af.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692af.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:01 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Closure - Attachment 9-2-3 Site Closure Plan 14]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Site Closure - Attachment 9-2-3 Site Closure Plan 14]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP-Plant Information 9]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692b0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692b0.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:02 GMT</pubDate>
+            <description><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP-Plant Information 9]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - LCP Section - Attachment-4-10-1-LCP-Plant Information 9]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Certificate of Incorporation - Attachment 2-1 Certificate of Incorporation 6]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692b1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692b1.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:02 GMT</pubDate>
+            <description><![CDATA[Application Form - Certificate of Incorporation - Attachment 2-1 Certificate of Incorporation 6]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - Certificate of Incorporation - Attachment 2-1 Certificate of Incorporation 6]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Accepted Application - LACT00013027]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869026.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869026.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 09:50:50 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Accepted Application - LACT00013027]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Notification to Applicant Accepted Application - LACT00013027]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869027.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869027.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 09:50:50 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority Register - LACT00013029]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869028.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869028.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 09:50:50 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority Register - LACT00013029]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Notification to Planning Authority Register - LACT00013029]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1194-01 Register of Licence]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869029.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869029.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 09:50:50 GMT</pubDate>
+            <description><![CDATA[P1194-01 Register of Licence]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: P1194-01 Register of Licence]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SpecifiedBodies-LA010609]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086902a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086902a.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 09:50:51 GMT</pubDate>
+            <description><![CDATA[SpecifiedBodies-LA010609]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: SpecifiedBodies-LA010609]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - 0388 - Attachment 1-2 Non Technical Summary 5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692b2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808692b2.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 21:51:02 GMT</pubDate>
+            <description><![CDATA[Application Form - 0388 - Attachment 1-2 Non Technical Summary 5]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Application Form - 0388 - Attachment 1-2 Non Technical Summary 5]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - agreeing to extend PD due date]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869043.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869043.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 10:10:20 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - agreeing to extend PD due date]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Letter from Applicant - agreeing to extend PD due date]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Let EPA 08032023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086905a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086905a.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 10:30:21 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Let EPA 08032023]]></description>
+            <content:encoded><![CDATA[P1148-01 -- M.A.G. World Limited: Letter from Applicant - Let EPA 08032023]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Updated 7.7 08032023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086905b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086905b.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 10:30:22 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Updated 7.7 08032023]]></description>
+            <content:encoded><![CDATA[P1148-01 -- M.A.G. World Limited: Letter from Applicant - Updated 7.7 08032023]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Updated site plan 08032023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086905c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086905c.pdf</guid>
+            <pubDate>Wed, 08 Mar 2023 10:30:22 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Updated site plan 08032023]]></description>
+            <content:encoded><![CDATA[P1148-01 -- M.A.G. World Limited: Letter from Applicant - Updated site plan 08032023]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
