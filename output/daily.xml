@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 14 Mar 2023 02:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 02:34:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,176 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-6-3-6-EIAR]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d05.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d05.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:22 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-6-3-6-EIAR]]></description>
+            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: Letter from Applicant - Attachment-6-3-6-EIAR]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-6-7-4-Notices-PA (EIAR)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d06.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d06.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:24 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-6-7-4-Notices-PA (EIAR)]]></description>
+            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: Letter from Applicant - Attachment-6-7-4-Notices-PA (EIAR)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Letter (09.03.23) P0076-02 - Revised Site Boundary]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d07.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d07.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:24 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Letter (09.03.23) P0076-02 - Revised Site Boundary]]></description>
+            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: Letter from Applicant - Letter (09.03.23) P0076-02 - Revised Site Boundary]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Revised Site Location Plan]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d08.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d08.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:24 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Revised Site Location Plan]]></description>
+            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: Letter from Applicant - Revised Site Location Plan]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Revised Site Plan 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d09.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d09.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:24 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Revised Site Plan 1]]></description>
+            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: Letter from Applicant - Revised Site Plan 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EPA 276A2 Q4 2022 Monthly]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1b.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:27 GMT</pubDate>
+            <description><![CDATA[EPA 276A2 Q4 2022 Monthly]]></description>
+            <content:encoded><![CDATA[P0061-03 -- Essidev S.A. Trading As Organic Lens Manufacturing: EPA 276A2 Q4 2022 Monthly]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[07 EPA Monthly July 2022 Effluent]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1c.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:27 GMT</pubDate>
+            <description><![CDATA[07 EPA Monthly July 2022 Effluent]]></description>
+            <content:encoded><![CDATA[P0445-01 -- Heineken Ireland Limited: 07 EPA Monthly July 2022 Effluent]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[08 EPA Monthly August 2022 Effluent]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1d.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:27 GMT</pubDate>
+            <description><![CDATA[08 EPA Monthly August 2022 Effluent]]></description>
+            <content:encoded><![CDATA[P0445-01 -- Heineken Ireland Limited: 08 EPA Monthly August 2022 Effluent]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[09 EPA Monthly September 2022 Effluent]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1e.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:27 GMT</pubDate>
+            <description><![CDATA[09 EPA Monthly September 2022 Effluent]]></description>
+            <content:encoded><![CDATA[P0445-01 -- Heineken Ireland Limited: 09 EPA Monthly September 2022 Effluent]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[10 EPA Monthly October 2022 Effluent]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d1f.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:28 GMT</pubDate>
+            <description><![CDATA[10 EPA Monthly October 2022 Effluent]]></description>
+            <content:encoded><![CDATA[P0445-01 -- Heineken Ireland Limited: 10 EPA Monthly October 2022 Effluent]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[11 EPA Monthly November 2022 Effluent]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d20.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d20.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:28 GMT</pubDate>
+            <description><![CDATA[11 EPA Monthly November 2022 Effluent]]></description>
+            <content:encoded><![CDATA[P0445-01 -- Heineken Ireland Limited: 11 EPA Monthly November 2022 Effluent]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[12 EPA Monthly December 2022 Effluent]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d21.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d21.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:28 GMT</pubDate>
+            <description><![CDATA[12 EPA Monthly December 2022 Effluent]]></description>
+            <content:encoded><![CDATA[P0445-01 -- Heineken Ireland Limited: 12 EPA Monthly December 2022 Effluent]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d5c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d5c.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:22:22 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1150-01 -- Longfield Poultry Unlimited Company: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority re Register - Letter - LACT00013095]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d5d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d5d.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:22:23 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority re Register - Letter - LACT00013095]]></description>
+            <content:encoded><![CDATA[P1150-01 -- Longfield Poultry Unlimited Company: Notification to Planning Authority re Register - Letter - LACT00013095]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority re Register - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d5e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d5e.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:22:23 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority re Register - Register]]></description>
+            <content:encoded><![CDATA[P1150-01 -- Longfield Poultry Unlimited Company: Notification to Planning Authority re Register - Register]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued � Notification - Specified Bodies - P1150-01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d5f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d5f.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:22:23 GMT</pubDate>
+            <description><![CDATA[PD Issued � Notification - Specified Bodies - P1150-01]]></description>
+            <content:encoded><![CDATA[P1150-01 -- Longfield Poultry Unlimited Company: PD Issued � Notification - Specified Bodies - P1150-01]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued � Notification - Submitters - P1150-01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d60.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d60.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:22:23 GMT</pubDate>
+            <description><![CDATA[PD Issued � Notification - Submitters - P1150-01]]></description>
+            <content:encoded><![CDATA[P1150-01 -- Longfield Poultry Unlimited Company: PD Issued � Notification - Submitters - P1150-01]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Director Decision]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d61.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d61.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:22:23 GMT</pubDate>
+            <description><![CDATA[Director Decision]]></description>
+            <content:encoded><![CDATA[P1150-01 -- Longfield Poultry Unlimited Company: Director Decision]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - KCC final grant of planning permission]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d0a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280869d0a.pdf</guid>
+            <pubDate>Mon, 13 Mar 2023 16:10:25 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - KCC final grant of planning permission]]></description>
+            <content:encoded><![CDATA[P1166-01 -- Shanoon Resources Limited: Letter from Applicant - KCC final grant of planning permission]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
