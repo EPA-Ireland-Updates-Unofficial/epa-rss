@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 27 Mar 2023 02:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 02:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,75 +16,102 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV26504 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1ac.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1ac.pdf</guid>
-            <pubDate>Sat, 25 Mar 2023 21:10:15 GMT</pubDate>
-            <description><![CDATA[SV26504 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0357-01 -- Cross Vetpharm Group Limited: SV26504 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV23501 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e5.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:18 GMT</pubDate>
+            <description><![CDATA[SV23501 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0784-01 -- Boylan Print Limited: SV23501 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26407 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1ab.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1ab.pdf</guid>
-            <pubDate>Sat, 25 Mar 2023 21:10:15 GMT</pubDate>
-            <description><![CDATA[SV26407 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0080-01 -- Colfix (Dublin) Ltd.: SV26407 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV26485 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e3.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:17 GMT</pubDate>
+            <description><![CDATA[SV26485 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0301-04 -- Diageo Ireland: SV26485 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26577 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1ad.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1ad.pdf</guid>
-            <pubDate>Sat, 25 Mar 2023 21:10:15 GMT</pubDate>
-            <description><![CDATA[SV26577 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0577-04 -- Electricity Supply Board: SV26577 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SV26840 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3f5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3f5.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:20 GMT</pubDate>
+            <description><![CDATA[SV26840 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0232-01 -- Dublin Waste to Energy Limited: SV26840 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[LEK 13442 Kingsapn C Emissions 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1a8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1a8.pdf</guid>
-            <pubDate>Sat, 25 Mar 2023 21:10:14 GMT</pubDate>
-            <description><![CDATA[LEK 13442 Kingsapn C Emissions 2022 Report]]></description>
-            <content:encoded><![CDATA[P0065-01 -- Kingspan Building Products Ltd.: LEK 13442 Kingsapn C Emissions 2022 Report]]></content:encoded>
+            <title><![CDATA[E02 Dec 22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3df.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3df.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:17 GMT</pubDate>
+            <description><![CDATA[E02 Dec 22]]></description>
+            <content:encoded><![CDATA[P0021-02 -- Masonite Ireland: E02 Dec 22]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[LEK 13442 Kingspan Kingscourt EP D Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1a9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1a9.pdf</guid>
-            <pubDate>Sat, 25 Mar 2023 21:10:14 GMT</pubDate>
-            <description><![CDATA[LEK 13442 Kingspan Kingscourt EP D Report]]></description>
-            <content:encoded><![CDATA[P0065-01 -- Kingspan Building Products Ltd.: LEK 13442 Kingspan Kingscourt EP D Report]]></content:encoded>
+            <title><![CDATA[Maonite E01 Nov 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e0.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:17 GMT</pubDate>
+            <description><![CDATA[Maonite E01 Nov 2022]]></description>
+            <content:encoded><![CDATA[P0021-02 -- Masonite Ireland: Maonite E01 Nov 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[LEK 13600 Kingspan D Iscocynate Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1aa.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1aa.pdf</guid>
-            <pubDate>Sat, 25 Mar 2023 21:10:14 GMT</pubDate>
-            <description><![CDATA[LEK 13600 Kingspan D Iscocynate Report]]></description>
-            <content:encoded><![CDATA[P0065-01 -- Kingspan Building Products Ltd.: LEK 13600 Kingspan D Iscocynate Report]]></content:encoded>
+            <title><![CDATA[Masonite E01 Dec 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e1.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:17 GMT</pubDate>
+            <description><![CDATA[Masonite E01 Dec 2022]]></description>
+            <content:encoded><![CDATA[P0021-02 -- Masonite Ireland: Masonite E01 Dec 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23749 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1b3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1b3.pdf</guid>
-            <pubDate>Sat, 25 Mar 2023 21:10:16 GMT</pubDate>
-            <description><![CDATA[SV23749 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0287-01 -- Ormonde Organics Limited: SV23749 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Masonite E01 Ouct 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e2.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:17 GMT</pubDate>
+            <description><![CDATA[Masonite E01 Ouct 2022]]></description>
+            <content:encoded><![CDATA[P0021-02 -- Masonite Ireland: Masonite E01 Ouct 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[LEK 13579 Sherwin Williams Site Report 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1ae.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c1ae.pdf</guid>
-            <pubDate>Sat, 25 Mar 2023 21:10:15 GMT</pubDate>
-            <description><![CDATA[LEK 13579 Sherwin Williams Site Report 2022]]></description>
-            <content:encoded><![CDATA[P0711-01 -- Becker Acroma: LEK 13579 Sherwin Williams Site Report 2022]]></content:encoded>
+            <title><![CDATA[SV26756 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e9.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:19 GMT</pubDate>
+            <description><![CDATA[SV26756 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig  Thornton Waste Disposal Limited: SV26756 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV23378 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e4.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:18 GMT</pubDate>
+            <description><![CDATA[SV23378 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0319-01 -- Shannonside Building Supplies Limited: SV23378 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV26765 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3ea.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3ea.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:19 GMT</pubDate>
+            <description><![CDATA[SV26765 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0055-02 -- Sterile Technologies Ireland Ltd.: SV26765 - Licensee Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV26752 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086c3e8.pdf</guid>
+            <pubDate>Sun, 26 Mar 2023 21:10:18 GMT</pubDate>
+            <description><![CDATA[SV26752 - Licensee Report]]></description>
+            <content:encoded><![CDATA[W0039-02 -- Starrus Eco Holdings Limited: SV26752 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
