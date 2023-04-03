@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sun, 02 Apr 2023 02:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 02:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,318 +16,570 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[BnM Drehid Dust Q4 2022 Rpt]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d487.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d487.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:04 GMT</pubDate>
-            <description><![CDATA[BnM Drehid Dust Q4 2022 Rpt]]></description>
-            <content:encoded><![CDATA[W0201-03 -- Bord na Mona Plc: BnM Drehid Dust Q4 2022 Rpt]]></content:encoded>
+            <title><![CDATA[Copy of EMR Nenagh 2022 S and P]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6cd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6cd.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:42 GMT</pubDate>
+            <description><![CDATA[Copy of EMR Nenagh 2022 S and P]]></description>
+            <content:encoded><![CDATA[P0184-01 -- AIBP Limited T/A AIBP Nenagh: Copy of EMR Nenagh 2022 S and P]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[BnM Drehid GW Q4.Annual 2022 Rpt]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d488.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d488.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:04 GMT</pubDate>
-            <description><![CDATA[BnM Drehid GW Q4.Annual 2022 Rpt]]></description>
-            <content:encoded><![CDATA[W0201-03 -- Bord na Mona Plc: BnM Drehid GW Q4.Annual 2022 Rpt]]></content:encoded>
+            <title><![CDATA[Effluent EMR 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6ce.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6ce.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:43 GMT</pubDate>
+            <description><![CDATA[Effluent EMR 2022]]></description>
+            <content:encoded><![CDATA[P0184-01 -- AIBP Limited T/A AIBP Nenagh: Effluent EMR 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Director Decision - Licence Amendment]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d2d7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d2d7.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 08:50:28 GMT</pubDate>
-            <description><![CDATA[Director Decision - Licence Amendment]]></description>
-            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: Director Decision - Licence Amendment]]></content:encoded>
+            <title><![CDATA[Surface water 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6cf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6cf.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:43 GMT</pubDate>
+            <description><![CDATA[Surface water 2022]]></description>
+            <content:encoded><![CDATA[P0184-01 -- AIBP Limited T/A AIBP Nenagh: Surface water 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Dec 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d470.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d470.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:10:59 GMT</pubDate>
-            <description><![CDATA[Dec 2022]]></description>
-            <content:encoded><![CDATA[P0076-01 -- Chemifloc Ltd.: Dec 2022]]></content:encoded>
+            <title><![CDATA[Bandon S and P 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d0.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:43 GMT</pubDate>
+            <description><![CDATA[Bandon S and P 2022]]></description>
+            <content:encoded><![CDATA[P0188-02 -- AIBP Limited t/a AIBP Bandon: Bandon S and P 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[S1 December 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d471.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d471.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:00 GMT</pubDate>
-            <description><![CDATA[S1 December 2022]]></description>
-            <content:encoded><![CDATA[P0076-01 -- Chemifloc Ltd.: S1 December 2022]]></content:encoded>
+            <title><![CDATA[bandon surface water 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f2.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:12 GMT</pubDate>
+            <description><![CDATA[bandon surface water 2022]]></description>
+            <content:encoded><![CDATA[P0188-02 -- AIBP Limited t/a AIBP Bandon: bandon surface water 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AER  2022 submission 23 March 2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d472.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d472.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:00 GMT</pubDate>
-            <description><![CDATA[AER  2022 submission 23 March 2023]]></description>
-            <content:encoded><![CDATA[P0125-02 -- Helsinn Chemicals Ireland Limited: AER  2022 submission 23 March 2023]]></content:encoded>
+            <title><![CDATA[Bandon WWTP discharge 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f3.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:13 GMT</pubDate>
+            <description><![CDATA[Bandon WWTP discharge 2022]]></description>
+            <content:encoded><![CDATA[P0188-02 -- AIBP Limited t/a AIBP Bandon: Bandon WWTP discharge 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Technical Amendment A]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086b7ea.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086b7ea.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 13:00:12 GMT</pubDate>
-            <description><![CDATA[Technical Amendment A]]></description>
-            <content:encoded><![CDATA[P0826-02 -- Cooley Distillery PLC: Technical Amendment A]]></content:encoded>
+            <title><![CDATA[ERF 6.2A Clones S and P 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d1.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:44 GMT</pubDate>
+            <description><![CDATA[ERF 6.2A Clones S and P 2022]]></description>
+            <content:encoded><![CDATA[P0190-03 -- Anglo Beef Processors Ireland: ERF 6.2A Clones S and P 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Technical Amendment A - Letter to Licensee]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d36b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d36b.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 13:01:29 GMT</pubDate>
-            <description><![CDATA[Technical Amendment A - Letter to Licensee]]></description>
-            <content:encoded><![CDATA[P0826-02 -- Cooley Distillery PLC: Technical Amendment A - Letter to Licensee]]></content:encoded>
+            <title><![CDATA[Effluent emissions WEP 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f4.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:14 GMT</pubDate>
+            <description><![CDATA[Effluent emissions WEP 2]]></description>
+            <content:encoded><![CDATA[P0190-03 -- Anglo Beef Processors Ireland: Effluent emissions WEP 2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[DWTE Quarter 4 2022 Report Rev B]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d48a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d48a.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:05 GMT</pubDate>
-            <description><![CDATA[DWTE Quarter 4 2022 Report Rev B]]></description>
-            <content:encoded><![CDATA[W0232-01 -- Dublin Waste to Energy Limited: DWTE Quarter 4 2022 Report Rev B]]></content:encoded>
+            <title><![CDATA[Effluent emissions WEP3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f5.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:14 GMT</pubDate>
+            <description><![CDATA[Effluent emissions WEP3]]></description>
+            <content:encoded><![CDATA[P0190-03 -- Anglo Beef Processors Ireland: Effluent emissions WEP3]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23744 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d48b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d48b.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:05 GMT</pubDate>
-            <description><![CDATA[SV23744 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0281-01 -- Bord Gais Eireann: SV23744 - Licensee Report]]></content:encoded>
+            <title><![CDATA[surface water 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f6.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:15 GMT</pubDate>
+            <description><![CDATA[surface water 2022]]></description>
+            <content:encoded><![CDATA[P0190-03 -- Anglo Beef Processors Ireland: surface water 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Biannual 2 Surface Water Survey 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d478.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d478.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:01 GMT</pubDate>
-            <description><![CDATA[Biannual 2 Surface Water Survey 2022]]></description>
-            <content:encoded><![CDATA[P0594-02 -- Grainger Sawmills Limited: Biannual 2 Surface Water Survey 2022]]></content:encoded>
+            <title><![CDATA[EMR Rathkeale 2022 S and P]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d2.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:44 GMT</pubDate>
+            <description><![CDATA[EMR Rathkeale 2022 S and P]]></description>
+            <content:encoded><![CDATA[P0191-02 -- AIBP Limited t/a AIBP Rathkeale: EMR Rathkeale 2022 S and P]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV25861 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d476.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d476.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:00 GMT</pubDate>
-            <description><![CDATA[SV25861 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0442-02 -- Irish Distillers Limited: SV25861 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Final Effluent 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f7.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:15 GMT</pubDate>
+            <description><![CDATA[Final Effluent 2022]]></description>
+            <content:encoded><![CDATA[P0191-02 -- AIBP Limited t/a AIBP Rathkeale: Final Effluent 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d3fd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d3fd.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 17:10:47 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
-            <content:encoded><![CDATA[P0407-02 -- Irish Pioneer Works (Fabricators) Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <title><![CDATA[surface water 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f8.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:15 GMT</pubDate>
+            <description><![CDATA[surface water 2022]]></description>
+            <content:encoded><![CDATA[P0191-02 -- AIBP Limited t/a AIBP Rathkeale: surface water 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1025-01 A2-1 1 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d479.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d479.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:01 GMT</pubDate>
-            <description><![CDATA[P1025-01 A2-1 1 2022 Report]]></description>
-            <content:encoded><![CDATA[P1025-01 -- Kerry Agri Business Trading Limited: P1025-01 A2-1 1 2022 Report]]></content:encoded>
+            <title><![CDATA[ERF 6.2A New EMR Cahir s and p 2022 final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d3.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:44 GMT</pubDate>
+            <description><![CDATA[ERF 6.2A New EMR Cahir s and p 2022 final]]></description>
+            <content:encoded><![CDATA[P0204-01 -- AIBP Limited t/a AIBP Cahir: ERF 6.2A New EMR Cahir s and p 2022 final]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1025-01 A2-2 1 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47a.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:02 GMT</pubDate>
-            <description><![CDATA[P1025-01 A2-2 1 2022 Report]]></description>
-            <content:encoded><![CDATA[P1025-01 -- Kerry Agri Business Trading Limited: P1025-01 A2-2 1 2022 Report]]></content:encoded>
+            <title><![CDATA[Cahir Surface Waters 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d4.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:44 GMT</pubDate>
+            <description><![CDATA[Cahir Surface Waters 2022]]></description>
+            <content:encoded><![CDATA[P0204-01 -- AIBP Limited t/a AIBP Cahir: Cahir Surface Waters 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1025-01 A2-3 1 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47b.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:02 GMT</pubDate>
-            <description><![CDATA[P1025-01 A2-3 1 2022 Report]]></description>
-            <content:encoded><![CDATA[P1025-01 -- Kerry Agri Business Trading Limited: P1025-01 A2-3 1 2022 Report]]></content:encoded>
+            <title><![CDATA[Effluent emissions Jan to Dec 2022 final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d5.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:44 GMT</pubDate>
+            <description><![CDATA[Effluent emissions Jan to Dec 2022 final]]></description>
+            <content:encoded><![CDATA[P0204-01 -- AIBP Limited t/a AIBP Cahir: Effluent emissions Jan to Dec 2022 final]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1025-01 A2-4 1 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47c.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:02 GMT</pubDate>
-            <description><![CDATA[P1025-01 A2-4 1 2022 Report]]></description>
-            <content:encoded><![CDATA[P1025-01 -- Kerry Agri Business Trading Limited: P1025-01 A2-4 1 2022 Report]]></content:encoded>
+            <title><![CDATA[sludge and paunch 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d6.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[sludge and paunch 2022]]></description>
+            <content:encoded><![CDATA[P0205-02 -- Anglo Beef Processers Ireland t/a ABP Waterford: sludge and paunch 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1025-01 A2-5 1 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47d.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:02 GMT</pubDate>
-            <description><![CDATA[P1025-01 A2-5 1 2022 Report]]></description>
-            <content:encoded><![CDATA[P1025-01 -- Kerry Agri Business Trading Limited: P1025-01 A2-5 1 2022 Report]]></content:encoded>
+            <title><![CDATA[Effluent emissions 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6f9.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:15 GMT</pubDate>
+            <description><![CDATA[Effluent emissions 2022]]></description>
+            <content:encoded><![CDATA[P0205-02 -- Anglo Beef Processers Ireland t/a ABP Waterford: Effluent emissions 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1025-01 A2-6 1 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47e.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:02 GMT</pubDate>
-            <description><![CDATA[P1025-01 A2-6 1 2022 Report]]></description>
-            <content:encoded><![CDATA[P1025-01 -- Kerry Agri Business Trading Limited: P1025-01 A2-6 1 2022 Report]]></content:encoded>
+            <title><![CDATA[Barclay Noise Monitoring Report 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6db.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6db.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[Barclay Noise Monitoring Report 2022]]></description>
+            <content:encoded><![CDATA[P0522-01 -- Barclay Chemicals Manufacturing Limited: Barclay Noise Monitoring Report 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1025-01 A2-7 1 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d47f.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:03 GMT</pubDate>
-            <description><![CDATA[P1025-01 A2-7 1 2022 Report]]></description>
-            <content:encoded><![CDATA[P1025-01 -- Kerry Agri Business Trading Limited: P1025-01 A2-7 1 2022 Report]]></content:encoded>
+            <title><![CDATA[Feb 22 Air Emissions]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6df.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6df.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:46 GMT</pubDate>
+            <description><![CDATA[Feb 22 Air Emissions]]></description>
+            <content:encoded><![CDATA[P0819-01 -- Boran Plastic and Packaging Limited: Feb 22 Air Emissions]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1025-01 A2-8 1 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d480.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d480.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:03 GMT</pubDate>
-            <description><![CDATA[P1025-01 A2-8 1 2022 Report]]></description>
-            <content:encoded><![CDATA[P1025-01 -- Kerry Agri Business Trading Limited: P1025-01 A2-8 1 2022 Report]]></content:encoded>
+            <title><![CDATA[Nov 22 Air Emissions]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e0.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:46 GMT</pubDate>
+            <description><![CDATA[Nov 22 Air Emissions]]></description>
+            <content:encoded><![CDATA[P0819-01 -- Boran Plastic and Packaging Limited: Nov 22 Air Emissions]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SW1 Jan 2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d481.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d481.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:03 GMT</pubDate>
-            <description><![CDATA[SW1 Jan 2023]]></description>
-            <content:encoded><![CDATA[P1025-01 -- Kerry Agri Business Trading Limited: SW1 Jan 2023]]></content:encoded>
+            <title><![CDATA[Dust Monitoring Results 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6ff.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6ff.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:17 GMT</pubDate>
+            <description><![CDATA[Dust Monitoring Results 2022]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Dust Monitoring Results 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant - Compliance Notice - LACT00013246]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d3d5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d3d5.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 15:50:14 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Compliance Notice - LACT00013246]]></description>
-            <content:encoded><![CDATA[P1190-01 -- Microsoft Ireland Operations Limited: Notification to Applicant - Compliance Notice - LACT00013246]]></content:encoded>
+            <title><![CDATA[Annual Groundwater Pesticides 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d700.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d700.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:17 GMT</pubDate>
+            <description><![CDATA[Annual Groundwater Pesticides 2022]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Annual Groundwater Pesticides 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27282 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d482.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d482.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:03 GMT</pubDate>
-            <description><![CDATA[SV27282 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Co Operative Limited: SV27282 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Annual Groundwater Results 2022 A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d701.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d701.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:17 GMT</pubDate>
+            <description><![CDATA[Annual Groundwater Results 2022 A]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Annual Groundwater Results 2022 A]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Final Determination & Notification]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d33a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d33a.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 11:33:04 GMT</pubDate>
-            <description><![CDATA[Final Determination & Notification]]></description>
-            <content:encoded><![CDATA[W0287-01 -- Ormonde Organics Limited: Final Determination & Notification]]></content:encoded>
+            <title><![CDATA[Annual Groundwater Results 2022 B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d702.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d702.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:17 GMT</pubDate>
+            <description><![CDATA[Annual Groundwater Results 2022 B]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Annual Groundwater Results 2022 B]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Newspaper Notice 72]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d30f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d30f.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 10:50:32 GMT</pubDate>
-            <description><![CDATA[Newspaper Notice 72]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Newspaper Notice 72]]></content:encoded>
+            <title><![CDATA[Groundwater Results 2022 Graphs]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d703.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d703.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:17 GMT</pubDate>
+            <description><![CDATA[Groundwater Results 2022 Graphs]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Groundwater Results 2022 Graphs]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Web Notice - FD Issued 19]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d310.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d310.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 10:50:32 GMT</pubDate>
-            <description><![CDATA[Web Notice - FD Issued 19]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Web Notice - FD Issued 19]]></content:encoded>
+            <title><![CDATA[Annual Results Leachate 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d704.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d704.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:17 GMT</pubDate>
+            <description><![CDATA[Annual Results Leachate 2022]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Annual Results Leachate 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d32b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d32b.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 11:31:03 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <title><![CDATA[Leachate Lagoon and Sumps Pesticides 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d705.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d705.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:17 GMT</pubDate>
+            <description><![CDATA[Leachate Lagoon and Sumps Pesticides 2022]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Leachate Lagoon and Sumps Pesticides 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register - LACT00013243]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d32c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d32c.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 11:31:04 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register - LACT00013243]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Notification to Planning Authority - Register - LACT00013243]]></content:encoded>
+            <title><![CDATA[Leachate Results 2022 Graphs]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d706.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d706.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:18 GMT</pubDate>
+            <description><![CDATA[Leachate Results 2022 Graphs]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Leachate Results 2022 Graphs]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0287-02  Register of licence 2]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d32d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d32d.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 11:31:04 GMT</pubDate>
-            <description><![CDATA[W0287-02  Register of licence 2]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: W0287-02  Register of licence 2]]></content:encoded>
+            <title><![CDATA[Leachate Sumps Pesticides 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d707.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d707.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:18 GMT</pubDate>
+            <description><![CDATA[Leachate Sumps Pesticides 2022]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Leachate Sumps Pesticides 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Bennettsbridge Dust Monitoring Data Q4 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d477.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d477.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:01 GMT</pubDate>
-            <description><![CDATA[Bennettsbridge Dust Monitoring Data Q4 2022]]></description>
-            <content:encoded><![CDATA[P0521-03 -- : Bennettsbridge Dust Monitoring Data Q4 2022]]></content:encoded>
+            <title><![CDATA[Surface Water Results 2022 Graphs]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d708.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d708.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:18 GMT</pubDate>
+            <description><![CDATA[Surface Water Results 2022 Graphs]]></description>
+            <content:encoded><![CDATA[W0049-02 -- Bord na Mona: Surface Water Results 2022 Graphs]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[60676743 ACM RP ENV 012 1 1 (GWM Q3 2022)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d473.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d473.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:00 GMT</pubDate>
-            <description><![CDATA[60676743 ACM RP ENV 012 1 1 (GWM Q3 2022)]]></description>
-            <content:encoded><![CDATA[P0325-02 -- Saint-Gobain Building Distribution (ROI) Limited: 60676743 ACM RP ENV 012 1 1 (GWM Q3 2022)]]></content:encoded>
+            <title><![CDATA[BnM Drehid Leachate Q4.Annual 2022 Rpt]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d725.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d725.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:50:15 GMT</pubDate>
+            <description><![CDATA[BnM Drehid Leachate Q4.Annual 2022 Rpt]]></description>
+            <content:encoded><![CDATA[W0201-03 -- Bord na Mona Plc: BnM Drehid Leachate Q4.Annual 2022 Rpt]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P0350-01 Waterford Joinery AER 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d474.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d474.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:00 GMT</pubDate>
-            <description><![CDATA[P0350-01 Waterford Joinery AER 2022]]></description>
-            <content:encoded><![CDATA[P0350-01 -- Waterford Joinery Limited: P0350-01 Waterford Joinery AER 2022]]></content:encoded>
+            <title><![CDATA[The Recycling Village A1 2 2022 Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d72b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d72b.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:50:16 GMT</pubDate>
+            <description><![CDATA[The Recycling Village A1 2 2022 Report]]></description>
+            <content:encoded><![CDATA[W0286-01 -- Enva Ireland Limited: The Recycling Village A1 2 2022 Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Wexal AirEmissions Q4 2022 Final]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d475.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d475.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 21:11:00 GMT</pubDate>
-            <description><![CDATA[Wexal AirEmissions Q4 2022 Final]]></description>
-            <content:encoded><![CDATA[P0394-01 -- Wexal International: Wexal AirEmissions Q4 2022 Final]]></content:encoded>
+            <title><![CDATA[The Recycling Village Report A1 1 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d72c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d72c.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:50:16 GMT</pubDate>
+            <description><![CDATA[The Recycling Village Report A1 1 2022]]></description>
+            <content:encoded><![CDATA[W0286-01 -- Enva Ireland Limited: The Recycling Village Report A1 1 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 44]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d2bf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d2bf.pdf</guid>
-            <pubDate>Fri, 31 Mar 2023 08:11:26 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 44]]></description>
-            <content:encoded><![CDATA[P0638-02 -- Zoetis Belgium S.A.: Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 44]]></content:encoded>
+            <title><![CDATA[5760-22-03 Groundwater Monitoring Version 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d72d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d72d.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:50:16 GMT</pubDate>
+            <description><![CDATA[5760-22-03 Groundwater Monitoring Version 1]]></description>
+            <content:encoded><![CDATA[W0286-01 -- Enva Ireland Limited: 5760-22-03 Groundwater Monitoring Version 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2022 Noise Emissions v previous 3 years]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6dc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6dc.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:46 GMT</pubDate>
+            <description><![CDATA[2022 Noise Emissions v previous 3 years]]></description>
+            <content:encoded><![CDATA[P0698-01 -- Honeywell International Technologies Ltd T/A Honeywell Engines,S: 2022 Noise Emissions v previous 3 years]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Env Noise Monitoring Proposal 2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6dd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6dd.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:46 GMT</pubDate>
+            <description><![CDATA[Env Noise Monitoring Proposal 2021]]></description>
+            <content:encoded><![CDATA[P0698-01 -- Honeywell International Technologies Ltd T/A Honeywell Engines,S: Env Noise Monitoring Proposal 2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2022 Emissions to Sewer SE1 v previous 3 years]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6de.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6de.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:46 GMT</pubDate>
+            <description><![CDATA[2022 Emissions to Sewer SE1 v previous 3 years]]></description>
+            <content:encoded><![CDATA[P0698-01 -- Honeywell International Technologies Ltd T/A Honeywell Engines,S: 2022 Emissions to Sewer SE1 v previous 3 years]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IPPC Monitoring Return (signed by site leader)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6fa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6fa.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:16 GMT</pubDate>
+            <description><![CDATA[IPPC Monitoring Return (signed by site leader)]]></description>
+            <content:encoded><![CDATA[P0698-01 -- Honeywell International Technologies Ltd T/A Honeywell Engines,S: IPPC Monitoring Return (signed by site leader)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IPPC Monitoring Return (signed by site leader)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6fb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6fb.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:16 GMT</pubDate>
+            <description><![CDATA[IPPC Monitoring Return (signed by site leader)]]></description>
+            <content:encoded><![CDATA[P0698-01 -- Honeywell International Technologies Ltd T/A Honeywell Engines,S: IPPC Monitoring Return (signed by site leader)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Dust Monitoring Return 2020-2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e2.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:47 GMT</pubDate>
+            <description><![CDATA[Dust Monitoring Return 2020-2022]]></description>
+            <content:encoded><![CDATA[P0993-02 -- Huntstown Bioenergy Limited: Dust Monitoring Return 2020-2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Groundwater Return 2020-2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e3.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:47 GMT</pubDate>
+            <description><![CDATA[Groundwater Return 2020-2022]]></description>
+            <content:encoded><![CDATA[P0993-02 -- Huntstown Bioenergy Limited: Groundwater Return 2020-2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Noise Return 2020-2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e4.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:47 GMT</pubDate>
+            <description><![CDATA[Noise Return 2020-2022]]></description>
+            <content:encoded><![CDATA[P0993-02 -- Huntstown Bioenergy Limited: Noise Return 2020-2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Odour Monitoring 2020-2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e5.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:47 GMT</pubDate>
+            <description><![CDATA[Odour Monitoring 2020-2022]]></description>
+            <content:encoded><![CDATA[P0993-02 -- Huntstown Bioenergy Limited: Odour Monitoring 2020-2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Wastewater Monitoring Report 2020-2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e6.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:47 GMT</pubDate>
+            <description><![CDATA[Wastewater Monitoring Report 2020-2022]]></description>
+            <content:encoded><![CDATA[P0993-02 -- Huntstown Bioenergy Limited: Wastewater Monitoring Report 2020-2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Surfacewater 2020-2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e7.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:48 GMT</pubDate>
+            <description><![CDATA[Surfacewater 2020-2022]]></description>
+            <content:encoded><![CDATA[P0993-02 -- Huntstown Bioenergy Limited: Surfacewater 2020-2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Compressor Communication]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d8.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[Compressor Communication]]></description>
+            <content:encoded><![CDATA[P0266-03 -- Irving Oil Whitegate Refinery Limited: Compressor Communication]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Q4 2022 Report Part 1 Air and Cover Letter]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d9.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[Q4 2022 Report Part 1 Air and Cover Letter]]></description>
+            <content:encoded><![CDATA[P0266-03 -- Irving Oil Whitegate Refinery Limited: Q4 2022 Report Part 1 Air and Cover Letter]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Q4 2022 Report Part 2 Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6da.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6da.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[Q4 2022 Report Part 2 Water]]></description>
+            <content:encoded><![CDATA[P0266-03 -- Irving Oil Whitegate Refinery Limited: Q4 2022 Report Part 2 Water]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2294-09 v1.00 Magh nAla Env Noise 2022 B1 and 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e1.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:46 GMT</pubDate>
+            <description><![CDATA[2294-09 v1.00 Magh nAla Env Noise 2022 B1 and 2]]></description>
+            <content:encoded><![CDATA[P0977-01 -- Magh nAla Limited: 2294-09 v1.00 Magh nAla Env Noise 2022 B1 and 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2294-10 v2.00 Magh nAla Env Noise 2022 B 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6e8.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:48 GMT</pubDate>
+            <description><![CDATA[2294-10 v2.00 Magh nAla Env Noise 2022 B 3]]></description>
+            <content:encoded><![CDATA[P1000-01 -- Magh nAla Limited: 2294-10 v2.00 Magh nAla Env Noise 2022 B 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[MSD Brinny Env Noise Assessment Report H2 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6cc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6cc.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:42 GMT</pubDate>
+            <description><![CDATA[MSD Brinny Env Noise Assessment Report H2 2022]]></description>
+            <content:encoded><![CDATA[P0005-03 -- MSD International GmbH, trading as MSD Ireland (Br: MSD Brinny Env Noise Assessment Report H2 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Annual Dust Monitoring D1 D3 D4 Drumlish 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70a.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:18 GMT</pubDate>
+            <description><![CDATA[Annual Dust Monitoring D1 D3 D4 Drumlish 2022]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady"s Ltd: Annual Dust Monitoring D1 D3 D4 Drumlish 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Annual Report GW1 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70b.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:18 GMT</pubDate>
+            <description><![CDATA[Annual Report GW1 2022]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady"s Ltd: Annual Report GW1 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Annual Noise Monitoring Report 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70c.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:19 GMT</pubDate>
+            <description><![CDATA[Annual Noise Monitoring Report 2022]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady"s Ltd: Annual Noise Monitoring Report 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sewage Water Monitoring  SG 1  Annual Report 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70d.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:19 GMT</pubDate>
+            <description><![CDATA[Sewage Water Monitoring  SG 1  Annual Report 2022]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady"s Ltd: Sewage Water Monitoring  SG 1  Annual Report 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Annual Surface Water SD 1 Monitoring  2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70e.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:19 GMT</pubDate>
+            <description><![CDATA[Annual Surface Water SD 1 Monitoring  2022]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady"s Ltd: Annual Surface Water SD 1 Monitoring  2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Dust Monitoring D1  D2 D3 Annual Report 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d70f.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:31:19 GMT</pubDate>
+            <description><![CDATA[Dust Monitoring D1  D2 D3 Annual Report 2022]]></description>
+            <content:encoded><![CDATA[W0197-02 -- Mulleadys Limited: Dust Monitoring D1  D2 D3 Annual Report 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ground Water Annual 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d721.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d721.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:50:13 GMT</pubDate>
+            <description><![CDATA[Ground Water Annual 2022]]></description>
+            <content:encoded><![CDATA[W0197-02 -- Mulleadys Limited: Ground Water Annual 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Annual Noise Monitoring N1 N2 N3 Annual Report 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d722.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d722.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:50:14 GMT</pubDate>
+            <description><![CDATA[Annual Noise Monitoring N1 N2 N3 Annual Report 2022]]></description>
+            <content:encoded><![CDATA[W0197-02 -- Mulleadys Limited: Annual Noise Monitoring N1 N2 N3 Annual Report 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[FW 1 FW 2 Annual report 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d723.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d723.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:50:14 GMT</pubDate>
+            <description><![CDATA[FW 1 FW 2 Annual report 2022]]></description>
+            <content:encoded><![CDATA[W0197-02 -- Mulleadys Limited: FW 1 FW 2 Annual report 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Surface Water SW 1 Annual Report 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d724.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d724.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:50:15 GMT</pubDate>
+            <description><![CDATA[Surface Water SW 1 Annual Report 2022]]></description>
+            <content:encoded><![CDATA[W0197-02 -- Mulleadys Limited: Surface Water SW 1 Annual Report 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV26472 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d6d7.pdf</guid>
+            <pubDate>Sat, 01 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[SV26472 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0241-01 -- Coates of Ireland Limited t/a Coates Lorrilleux: SV26472 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
