@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 10 Apr 2023 02:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 02:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,246 +16,165 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Amgen Technology Toxicity Testing (002)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0b.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:10 GMT</pubDate>
-            <description><![CDATA[Amgen Technology Toxicity Testing (002)]]></description>
-            <content:encoded><![CDATA[P0019-02 -- Pfizer Ireland Pharmaceuticals: Amgen Technology Toxicity Testing (002)]]></content:encoded>
+            <title><![CDATA[Q4 2022 EPA report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6a.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[Q4 2022 EPA report]]></description>
+            <content:encoded><![CDATA[P1094-01 -- Alexion Pharma International Operations Unlimited: Q4 2022 EPA report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[M06-04c-Bund Register-Rev.1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0e.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:10 GMT</pubDate>
-            <description><![CDATA[M06-04c-Bund Register-Rev.1]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: M06-04c-Bund Register-Rev.1]]></content:encoded>
+            <title><![CDATA[A2-1-Caustic Scrubber PEMAC Maint Q4-2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6b.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:01 GMT</pubDate>
+            <description><![CDATA[A2-1-Caustic Scrubber PEMAC Maint Q4-2022]]></description>
+            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: A2-1-Caustic Scrubber PEMAC Maint Q4-2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[M06-04d-Tank Register-Rev.0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0f.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:10 GMT</pubDate>
-            <description><![CDATA[M06-04d-Tank Register-Rev.0]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: M06-04d-Tank Register-Rev.0]]></content:encoded>
+            <title><![CDATA[A2-1-Caustic Scrubber-Checks wks 27-51 of 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6c.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:01 GMT</pubDate>
+            <description><![CDATA[A2-1-Caustic Scrubber-Checks wks 27-51 of 2022]]></description>
+            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: A2-1-Caustic Scrubber-Checks wks 27-51 of 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AE-5490-22-04 Odour Management Plan-V.1 21.09.2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec10.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec10.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:10 GMT</pubDate>
-            <description><![CDATA[AE-5490-22-04 Odour Management Plan-V.1 21.09.2022]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: AE-5490-22-04 Odour Management Plan-V.1 21.09.2022]]></content:encoded>
+            <title><![CDATA[A2-1-Niteride Oven-Gas Service-Jul 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6d.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:01 GMT</pubDate>
+            <description><![CDATA[A2-1-Niteride Oven-Gas Service-Jul 2022]]></description>
+            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: A2-1-Niteride Oven-Gas Service-Jul 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Anodising Weekly Checklist Q3  Q4 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec11.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec11.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:11 GMT</pubDate>
-            <description><![CDATA[Anodising Weekly Checklist Q3  Q4 2022]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: Anodising Weekly Checklist Q3  Q4 2022]]></content:encoded>
+            <title><![CDATA[A2-1-Niteride Oven-Maint Checks-wks 26-50 of 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6e.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:01 GMT</pubDate>
+            <description><![CDATA[A2-1-Niteride Oven-Maint Checks-wks 26-50 of 2022]]></description>
+            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: A2-1-Niteride Oven-Maint Checks-wks 26-50 of 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Ground Water 1 December 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec12.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec12.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:11 GMT</pubDate>
-            <description><![CDATA[Ground Water 1 December 2022]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: Ground Water 1 December 2022]]></content:encoded>
+            <title><![CDATA[A2-1-Niteride Oven-Q4 PEMAC work history 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee6f.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:02 GMT</pubDate>
+            <description><![CDATA[A2-1-Niteride Oven-Q4 PEMAC work history 2022]]></description>
+            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: A2-1-Niteride Oven-Q4 PEMAC work history 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Leak Detection Checks 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec13.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec13.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:11 GMT</pubDate>
-            <description><![CDATA[Leak Detection Checks 2022]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: Leak Detection Checks 2022]]></content:encoded>
+            <title><![CDATA[A2-1-Niteride Oven-Service Report-Dec 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee70.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee70.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:02 GMT</pubDate>
+            <description><![CDATA[A2-1-Niteride Oven-Service Report-Dec 2022]]></description>
+            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: A2-1-Niteride Oven-Service Report-Dec 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[TE1 Lab Analysis Q3  Q4 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec14.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec14.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:12 GMT</pubDate>
-            <description><![CDATA[TE1 Lab Analysis Q3  Q4 2022]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: TE1 Lab Analysis Q3  Q4 2022]]></content:encoded>
+            <title><![CDATA[Air Emissions Report A2-1  A2-3-V.1 08.02.2023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee71.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee71.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:02 GMT</pubDate>
+            <description><![CDATA[Air Emissions Report A2-1  A2-3-V.1 08.02.2023]]></description>
+            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: Air Emissions Report A2-1  A2-3-V.1 08.02.2023]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Total Heavy Metals July 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec15.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec15.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:12 GMT</pubDate>
-            <description><![CDATA[Total Heavy Metals July 2022]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: Total Heavy Metals July 2022]]></content:encoded>
+            <title><![CDATA[Arrabawn - Nenagh - Jan 23]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee68.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee68.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[Arrabawn - Nenagh - Jan 23]]></description>
+            <content:encoded><![CDATA[P0791-03 -- Arrabawn Co-opreative Society Ltd: Arrabawn - Nenagh - Jan 23]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[09 Sep Enva-Waste Chemical collection 01]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2c.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:13 GMT</pubDate>
-            <description><![CDATA[09 Sep Enva-Waste Chemical collection 01]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: 09 Sep Enva-Waste Chemical collection 01]]></content:encoded>
+            <title><![CDATA[SV23136 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee64.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee64.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:10:59 GMT</pubDate>
+            <description><![CDATA[SV23136 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0041-03 -- Dublin Products Limited: SV23136 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[09 Sep Enva-Waste Chemical collection 02]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2d.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:13 GMT</pubDate>
-            <description><![CDATA[09 Sep Enva-Waste Chemical collection 02]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: 09 Sep Enva-Waste Chemical collection 02]]></content:encoded>
+            <title><![CDATA[Q4 Effluent Monitoring Results]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee65.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee65.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[Q4 Effluent Monitoring Results]]></description>
+            <content:encoded><![CDATA[P0145-01 -- Heraeus Metal Processing Limited: Q4 Effluent Monitoring Results]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[11 Nov Enva-Waste Chemical collection 01]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2e.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:14 GMT</pubDate>
-            <description><![CDATA[11 Nov Enva-Waste Chemical collection 01]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: 11 Nov Enva-Waste Chemical collection 01]]></content:encoded>
+            <title><![CDATA[SV27393 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee66.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee66.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[SV27393 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0314-01 -- Radley Engineering Limited: SV27393 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[11 Nov Enva-Waste Chemical collection 02]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2f.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:14 GMT</pubDate>
-            <description><![CDATA[11 Nov Enva-Waste Chemical collection 02]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: 11 Nov Enva-Waste Chemical collection 02]]></content:encoded>
+            <title><![CDATA[Roche Annual Noise Assessment 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee63.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee63.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:10:59 GMT</pubDate>
+            <description><![CDATA[Roche Annual Noise Assessment 2022]]></description>
+            <content:encoded><![CDATA[P0012-05 -- Roche Ireland Limited: Roche Annual Noise Assessment 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[12 Dec Enva-Waste Chemical collection 01]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec30.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec30.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:14 GMT</pubDate>
-            <description><![CDATA[12 Dec Enva-Waste Chemical collection 01]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: 12 Dec Enva-Waste Chemical collection 01]]></content:encoded>
+            <title><![CDATA[22-97124-1 Shannonside SHANNONSIDE.]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee67.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee67.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[22-97124-1 Shannonside SHANNONSIDE.]]></description>
+            <content:encoded><![CDATA[P0319-01 -- Shannonside Building Supplies Limited: 22-97124-1 Shannonside SHANNONSIDE.]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[12 Dec Enva-Waste Chemical collection 02]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec31.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec31.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:14 GMT</pubDate>
-            <description><![CDATA[12 Dec Enva-Waste Chemical collection 02]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: 12 Dec Enva-Waste Chemical collection 02]]></content:encoded>
+            <title><![CDATA[W0058-01 Sligo Q4 2022 waste water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee73.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee73.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:03 GMT</pubDate>
+            <description><![CDATA[W0058-01 Sligo Q4 2022 waste water]]></description>
+            <content:encoded><![CDATA[W0058-01 -- Starrus Eco Holding Limited: W0058-01 Sligo Q4 2022 waste water]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SW1 Daily Visual Checks 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec32.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec32.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:15 GMT</pubDate>
-            <description><![CDATA[SW1 Daily Visual Checks 2022]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural & Metal Systems Limited: SW1 Daily Visual Checks 2022]]></content:encoded>
+            <title><![CDATA[W0136-03 Dust Q2 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee74.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee74.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:03 GMT</pubDate>
+            <description><![CDATA[W0136-03 Dust Q2 2022]]></description>
+            <content:encoded><![CDATA[W0136-03 -- Starrus Eco Holdings Limited: W0136-03 Dust Q2 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Quarter 4 Annual 2022 CWMF Groundwater Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec16.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec16.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:12 GMT</pubDate>
-            <description><![CDATA[Quarter 4 Annual 2022 CWMF Groundwater Report]]></description>
-            <content:encoded><![CDATA[W0109-02 -- Clare County Council: Quarter 4 Annual 2022 CWMF Groundwater Report]]></content:encoded>
+            <title><![CDATA[W0136-03 Dust Q4 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee75.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee75.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:03 GMT</pubDate>
+            <description><![CDATA[W0136-03 Dust Q4 2022]]></description>
+            <content:encoded><![CDATA[W0136-03 -- Starrus Eco Holdings Limited: W0136-03 Dust Q4 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Clare County Council Inagh F1 2 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec17.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec17.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:13 GMT</pubDate>
-            <description><![CDATA[Clare County Council Inagh F1 2 2022 Report]]></description>
-            <content:encoded><![CDATA[W0109-02 -- Clare County Council: Clare County Council Inagh F1 2 2022 Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Quarter 4 Annual 2022 CWMF Surface Water Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec18.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec18.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:13 GMT</pubDate>
-            <description><![CDATA[Quarter 4 Annual 2022 CWMF Surface Water Report]]></description>
-            <content:encoded><![CDATA[W0109-02 -- Clare County Council: Quarter 4 Annual 2022 CWMF Surface Water Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV27498 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0d.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:10 GMT</pubDate>
-            <description><![CDATA[SV27498 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0400-03 -- Clogrennane Lime Limited - Carlow: SV27498 - Licensee Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[2022Hovione Environmental Noise Survey Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec09.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec09.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:08 GMT</pubDate>
-            <description><![CDATA[2022Hovione Environmental Noise Survey Report]]></description>
-            <content:encoded><![CDATA[P0010-05 -- Hovione Limited: 2022Hovione Environmental Noise Survey Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Qtr 4 Short term storm water diversions 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0a.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:09 GMT</pubDate>
-            <description><![CDATA[Qtr 4 Short term storm water diversions 2022]]></description>
-            <content:encoded><![CDATA[P0010-05 -- Hovione Limited: Qtr 4 Short term storm water diversions 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Effluent emissions 2022 resubmitted 07022023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2b.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:13 GMT</pubDate>
-            <description><![CDATA[Effluent emissions 2022 resubmitted 07022023]]></description>
-            <content:encoded><![CDATA[P0177-03 -- Irish Country Meats (Sheepmeat) Limited: Effluent emissions 2022 resubmitted 07022023]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Submission - Snapshot - Submission No S011068  - P1191-01 - Angela Deegan]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec2a.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:12 GMT</pubDate>
-            <description><![CDATA[Submission - Snapshot - Submission No S011068  - P1191-01 - Angela Deegan]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Submission - Snapshot - Submission No S011068  - P1191-01 - Angela Deegan]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[S011068 Submission Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec33.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec33.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:31:15 GMT</pubDate>
-            <description><![CDATA[S011068 Submission Notice]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: S011068 Submission Notice]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[22-85272-1 Shannonside.]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec0c.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:10 GMT</pubDate>
-            <description><![CDATA[22-85272-1 Shannonside.]]></description>
-            <content:encoded><![CDATA[P0319-01 -- Shannonside Building Supplies Limited: 22-85272-1 Shannonside.]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[W0177-03 Q4 2022 Surface water]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec19.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ec19.pdf</guid>
-            <pubDate>Sat, 08 Apr 2023 21:10:13 GMT</pubDate>
-            <description><![CDATA[W0177-03 Q4 2022 Surface water]]></description>
-            <content:encoded><![CDATA[W0177-03 -- Starrus Eco Holding Limited: W0177-03 Q4 2022 Surface water]]></content:encoded>
+            <title><![CDATA[SV27426 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee69.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086ee69.pdf</guid>
+            <pubDate>Sun, 09 Apr 2023 21:11:00 GMT</pubDate>
+            <description><![CDATA[SV27426 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0947-02 -- Staunton Foods Limited: SV27426 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
