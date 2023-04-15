@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Fri, 14 Apr 2023 02:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 02:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,156 +16,165 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00013290]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f575.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f575.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 14:10:54 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00013290]]></description>
-            <content:encoded><![CDATA[P0648-03 -- Becton Dickinson Penel Limited (Irish Branch): Notification to Applicant Extension Request - LACT00013290]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AER 2022 Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69b.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 21:10:13 GMT</pubDate>
-            <description><![CDATA[AER 2022 Report]]></description>
-            <content:encoded><![CDATA[P0833-01 -- Castle Paints (Tullamore) Limited: AER 2022 Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AER Dennison Trailers 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69a.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 21:10:13 GMT</pubDate>
-            <description><![CDATA[AER Dennison Trailers 2022]]></description>
-            <content:encoded><![CDATA[P0782-01 -- Dennison Trailers Limited: AER Dennison Trailers 2022]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00013293]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f5ab.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f5ab.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 15:10:56 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00013293]]></description>
-            <content:encoded><![CDATA[P1142-01 -- Laragh House Farms Limited: Notification to Applicant Extension Request - LACT00013293]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Submission No S011072 - P Sweetman]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f5c2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f5c2.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 15:30:27 GMT</pubDate>
-            <description><![CDATA[Submission No S011072 - P Sweetman]]></description>
-            <content:encoded><![CDATA[P1142-01 -- Laragh House Farms Limited: Submission No S011072 - P Sweetman]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[S011072 Submission Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f5c3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f5c3.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 15:30:27 GMT</pubDate>
-            <description><![CDATA[S011072 Submission Notice]]></description>
-            <content:encoded><![CDATA[P1142-01 -- Laragh House Farms Limited: S011072 Submission Notice]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant - Compliance Notice - LACT00013285]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f51a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f51a.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 12:10:50 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Compliance Notice - LACT00013285]]></description>
-            <content:encoded><![CDATA[P1152-01 -- Lisgillan Farm Ltd.: Notification to Applicant - Compliance Notice - LACT00013285]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00013283]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f51b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f51b.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 12:10:51 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00013283]]></description>
-            <content:encoded><![CDATA[P1152-01 -- Lisgillan Farm Ltd.: Notification to Applicant Compliance Notice EIA - LACT00013283]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f5c4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f5c4.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 15:30:27 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
-            <content:encoded><![CDATA[P1159-01 -- Longfield Poultry Unlimited Company: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P0849 2022 Aer Template]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69c.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 21:10:13 GMT</pubDate>
-            <description><![CDATA[P0849 2022 Aer Template]]></description>
-            <content:encoded><![CDATA[P0849-01 -- Mr Michael O"Shea: P0849 2022 Aer Template]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[20-036-L-003 15.03.2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f699.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f699.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 21:10:12 GMT</pubDate>
-            <description><![CDATA[20-036-L-003 15.03.2023]]></description>
-            <content:encoded><![CDATA[P0013-05 -- Pfizer Ireland Pharmaceuticals: 20-036-L-003 15.03.2023]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Reminder Email (upcoming due date)  - Section 90(7) Request for]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f4b6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f4b6.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 08:10:41 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date)  - Section 90(7) Request for]]></description>
-            <content:encoded><![CDATA[P0476-03 -- Recordati Ireland Limited: Reminder Email (upcoming due date)  - Section 90(7) Request for]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00013291]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f576.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f576.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 14:10:56 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00013291]]></description>
-            <content:encoded><![CDATA[P1132-02 -- S. Wilkin And Sons Limited: Notification to Applicant Extension Request - LACT00013291]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
             <title><![CDATA[AER 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69d.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 21:10:13 GMT</pubDate>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f934.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f934.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:45 GMT</pubDate>
             <description><![CDATA[AER 2022]]></description>
-            <content:encoded><![CDATA[P0938-02 -- Skeagh Farms: AER 2022]]></content:encoded>
+            <content:encoded><![CDATA[P0812-01 -- Arrow Group Limited: AER 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P0983-01 AER Socomore Ireland 2022]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69e.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 21:10:13 GMT</pubDate>
-            <description><![CDATA[P0983-01 AER Socomore Ireland 2022]]></description>
-            <content:encoded><![CDATA[P0983-01 -- Socomore Ireland Limited T/A PT Technologies Europe: P0983-01 AER Socomore Ireland 2022]]></content:encoded>
+            <title><![CDATA[DM CX AER 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f935.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f935.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[DM CX AER 2022]]></description>
+            <content:encoded><![CDATA[P1088-01 -- Dawn Meats Ireland Unlimited Company: DM CX AER 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AER 2022 Report (P0985)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f69f.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 21:10:13 GMT</pubDate>
-            <description><![CDATA[AER 2022 Report (P0985)]]></description>
-            <content:encoded><![CDATA[P0985-01 -- TC Farms Limited: AER 2022 Report (P0985)]]></content:encoded>
+            <title><![CDATA[P0025-05 AER 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f92f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f92f.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:44 GMT</pubDate>
+            <description><![CDATA[P0025-05 AER 2022]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins: P0025-05 AER 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AER 2022 (P0986-01)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f6a0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f6a0.pdf</guid>
-            <pubDate>Wed, 12 Apr 2023 21:10:13 GMT</pubDate>
-            <description><![CDATA[AER 2022 (P0986-01)]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Ltd: AER 2022 (P0986-01)]]></content:encoded>
+            <title><![CDATA[AER and  PRTR Cover Letter Reporting Year 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f932.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f932.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[AER and  PRTR Cover Letter Reporting Year 2022]]></description>
+            <content:encoded><![CDATA[P0698-01 -- Honeywell International Technologies Ltd T/A Honeywell Engines,S: AER and  PRTR Cover Letter Reporting Year 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0698 01 AER 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f933.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f933.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[P0698 01 AER 2022]]></description>
+            <content:encoded><![CDATA[P0698-01 -- Honeywell International Technologies Ltd T/A Honeywell Engines,S: P0698 01 AER 2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant - Proposed Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f849.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f849.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 12:30:54 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant - Proposed Determination]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Notification to Applicant - Proposed Determination]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84a.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 12:30:55 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Notification to Planning Authority - Register]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84b.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 12:30:55 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Notification to Planning Authority - Register]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued � Notification - Specified Bodies]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84c.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 12:30:55 GMT</pubDate>
+            <description><![CDATA[PD Issued � Notification - Specified Bodies]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: PD Issued � Notification - Specified Bodies]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued � Notification - Submitters]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84d.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 12:30:55 GMT</pubDate>
+            <description><![CDATA[PD Issued � Notification - Submitters]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: PD Issued � Notification - Submitters]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84e.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 12:30:55 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Notification to Planning Authority - Register]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Proposed Determination - Board Extract]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f84f.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 12:30:56 GMT</pubDate>
+            <description><![CDATA[Proposed Determination - Board Extract]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Proposed Determination - Board Extract]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Inspector"s Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f936.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f936.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[Inspector"s Report]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Inspector"s Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Recommended Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f937.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f937.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[Recommended Determination]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Recommended Determination]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Proposed Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f938.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f938.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[Proposed Determination]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Proposed Determination]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Final Determination & Notification]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d36e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086d36e.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 12:58:05 GMT</pubDate>
+            <description><![CDATA[Final Determination & Notification]]></description>
+            <content:encoded><![CDATA[P0879-02 -- Mr Mark Treanor: Final Determination & Notification]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Final South Slobbs 2022 AER]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f931.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f931.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:45 GMT</pubDate>
+            <description><![CDATA[Final South Slobbs 2022 AER]]></description>
+            <content:encoded><![CDATA[P0429-01 -- Rennard Pig Farms Limited: Final South Slobbs 2022 AER]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER 2022 P0359-03]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f930.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28086f930.pdf</guid>
+            <pubDate>Thu, 13 Apr 2023 21:10:44 GMT</pubDate>
+            <description><![CDATA[AER 2022 P0359-03]]></description>
+            <content:encoded><![CDATA[P0359-03 -- Glanbia Ingredients Ireland Limited: AER 2022 P0359-03]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
