@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 02 May 2023 02:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 02:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,84 +16,57 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[BTL- Annual 2022 Rpt 001-0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c84.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c84.pdf</guid>
-            <pubDate>Sun, 30 Apr 2023 21:10:39 GMT</pubDate>
-            <description><![CDATA[BTL- Annual 2022 Rpt 001-0]]></description>
-            <content:encoded><![CDATA[W0161-02 -- Cork County Council: BTL- Annual 2022 Rpt 001-0]]></content:encoded>
+            <title><![CDATA[SV27119 - Licensee Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb3.pdf</guid>
+            <pubDate>Mon, 01 May 2023 21:11:01 GMT</pubDate>
+            <description><![CDATA[SV27119 - Licensee Report]]></description>
+            <content:encoded><![CDATA[P0019-02 -- Pfizer Ireland Pharmaceuticals: SV27119 - Licensee Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27496 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c80.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c80.pdf</guid>
-            <pubDate>Sun, 30 Apr 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[SV27496 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0420-03 -- Future Pigs Ltd: SV27496 - Licensee Report]]></content:encoded>
+            <title><![CDATA[SEP-0309 BnM (Navan)) Noise 2022 v2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb6.pdf</guid>
+            <pubDate>Mon, 01 May 2023 21:11:03 GMT</pubDate>
+            <description><![CDATA[SEP-0309 BnM (Navan)) Noise 2022 v2]]></description>
+            <content:encoded><![CDATA[W0131-02 -- Midland Waste Disposal Company Ltd: SEP-0309 BnM (Navan)) Noise 2022 v2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV23224 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c82.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c82.pdf</guid>
-            <pubDate>Sun, 30 Apr 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[SV23224 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0988-01 -- McHale Engineering: SV23224 - Licensee Report]]></content:encoded>
+            <title><![CDATA[P0973-01 Solvent Management Plan 2022 Final]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb5.pdf</guid>
+            <pubDate>Mon, 01 May 2023 21:11:02 GMT</pubDate>
+            <description><![CDATA[P0973-01 Solvent Management Plan 2022 Final]]></description>
+            <content:encoded><![CDATA[P0973-01 -- Cook Ireland Limited: P0973-01 Solvent Management Plan 2022 Final]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27564 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c83.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c83.pdf</guid>
-            <pubDate>Sun, 30 Apr 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[SV27564 - Licensee Report]]></description>
-            <content:encoded><![CDATA[W0044-02 -- Padraig  Thornton Waste Disposal Limited: SV27564 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Ormonde Organics AEP1 Q4 2022 Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb8.pdf</guid>
+            <pubDate>Mon, 01 May 2023 21:11:04 GMT</pubDate>
+            <description><![CDATA[Ormonde Organics AEP1 Q4 2022 Report]]></description>
+            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: Ormonde Organics AEP1 Q4 2022 Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Env0523.epa]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c85.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c85.pdf</guid>
-            <pubDate>Sun, 30 Apr 2023 21:10:39 GMT</pubDate>
-            <description><![CDATA[Env0523.epa]]></description>
-            <content:encoded><![CDATA[W0185-01 -- Rilta Environmental Limited: Env0523.epa]]></content:encoded>
+            <title><![CDATA[PR-427468-ACM-EN-RP-008 1 HP Chemie GWM 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb4.pdf</guid>
+            <pubDate>Mon, 01 May 2023 21:11:02 GMT</pubDate>
+            <description><![CDATA[PR-427468-ACM-EN-RP-008 1 HP Chemie GWM 2022]]></description>
+            <content:encoded><![CDATA[P0066-02 -- HP Chemie Pelzer Limited: PR-427468-ACM-EN-RP-008 1 HP Chemie GWM 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Monitoring Report-Dust (Dec 2022) - W0185-01]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c86.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c86.pdf</guid>
-            <pubDate>Sun, 30 Apr 2023 21:10:40 GMT</pubDate>
-            <description><![CDATA[Monitoring Report-Dust (Dec 2022) - W0185-01]]></description>
-            <content:encoded><![CDATA[W0185-01 -- Rilta Environmental Limited: Monitoring Report-Dust (Dec 2022) - W0185-01]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Env0623.epa]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c87.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c87.pdf</guid>
-            <pubDate>Sun, 30 Apr 2023 21:10:40 GMT</pubDate>
-            <description><![CDATA[Env0623.epa]]></description>
-            <content:encoded><![CDATA[W0185-01 -- Rilta Environmental Limited: Env0623.epa]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[GW Q4 2022 Monitoring Report (W0185-01)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c88.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c88.pdf</guid>
-            <pubDate>Sun, 30 Apr 2023 21:10:40 GMT</pubDate>
-            <description><![CDATA[GW Q4 2022 Monitoring Report (W0185-01)]]></description>
-            <content:encoded><![CDATA[W0185-01 -- Rilta Environmental Limited: GW Q4 2022 Monitoring Report (W0185-01)]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV26942 - Licensee Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c81.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872c81.pdf</guid>
-            <pubDate>Sun, 30 Apr 2023 21:10:38 GMT</pubDate>
-            <description><![CDATA[SV26942 - Licensee Report]]></description>
-            <content:encoded><![CDATA[P0813-02 -- Temmler Ireland Limited: SV26942 - Licensee Report]]></content:encoded>
+            <title><![CDATA[Ormonde Organics AEP1 Q4 2022 Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280872eb9.pdf</guid>
+            <pubDate>Mon, 01 May 2023 21:11:04 GMT</pubDate>
+            <description><![CDATA[Ormonde Organics AEP1 Q4 2022 Report]]></description>
+            <content:encoded><![CDATA[W0287-01 -- Ormonde Organics Limited: Ormonde Organics AEP1 Q4 2022 Report]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
