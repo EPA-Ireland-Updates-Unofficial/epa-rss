@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 15 May 2023 02:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 02:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,14 +15,5 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Reminder Email (RFI Overdue)  - Reg 10(2)(b)(ii) notice 31]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087537b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087537b.pdf</guid>
-            <pubDate>Sat, 13 May 2023 08:10:22 GMT</pubDate>
-            <description><![CDATA[Reminder Email (RFI Overdue)  - Reg 10(2)(b)(ii) notice 31]]></description>
-            <content:encoded><![CDATA[P1060-02 -- Mallinckrodt Pharmaceuticals Ireland Limited: Reminder Email (RFI Overdue)  - Reg 10(2)(b)(ii) notice 31]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
     </channel>
 </rss>
