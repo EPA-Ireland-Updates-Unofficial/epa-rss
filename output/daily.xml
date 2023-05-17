@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 16 May 2023 02:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 02:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,104 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newspaper Notice - PD]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875962.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875962.pdf</guid>
+            <pubDate>Mon, 15 May 2023 14:10:59 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice - PD]]></description>
+            <content:encoded><![CDATA[P1171-01 -- Amazon Data Services Ireland Limited: Newspaper Notice - PD]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Proposed Determination - Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808758b5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808758b5.pdf</guid>
+            <pubDate>Mon, 15 May 2023 09:30:49 GMT</pubDate>
+            <description><![CDATA[Proposed Determination - Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P1173-01 -- Amazon Data Services Ireland Limited: Proposed Determination - Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice - PD]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875985.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875985.pdf</guid>
+            <pubDate>Mon, 15 May 2023 14:51:02 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice - PD]]></description>
+            <content:encoded><![CDATA[P1177-01 -- Amazon Data Services Ireland Limited: Newspaper Notice - PD]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087594f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087594f.pdf</guid>
+            <pubDate>Mon, 15 May 2023 13:50:59 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1186-01 -- Amazon Data Services Ireland Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority - Register - LACT00013577]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875950.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875950.pdf</guid>
+            <pubDate>Mon, 15 May 2023 13:51:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register - LACT00013577]]></description>
+            <content:encoded><![CDATA[P1186-01 -- Amazon Data Services Ireland Limited: Notification to Planning Authority - Register - LACT00013577]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1186-01 Register of Licence 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875951.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875951.pdf</guid>
+            <pubDate>Mon, 15 May 2023 13:51:00 GMT</pubDate>
+            <description><![CDATA[P1186-01 Register of Licence 1]]></description>
+            <content:encoded><![CDATA[P1186-01 -- Amazon Data Services Ireland Limited: P1186-01 Register of Licence 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1186-01 Newspaper Notice Redacted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875963.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875963.pdf</guid>
+            <pubDate>Mon, 15 May 2023 14:11:00 GMT</pubDate>
+            <description><![CDATA[P1186-01 Newspaper Notice Redacted]]></description>
+            <content:encoded><![CDATA[P1186-01 -- Amazon Data Services Ireland Limited: P1186-01 Newspaper Notice Redacted]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 2nd Letter RFI Mallinckrodt  15.05.23]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875a02.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875a02.pdf</guid>
+            <pubDate>Mon, 15 May 2023 17:30:41 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 2nd Letter RFI Mallinckrodt  15.05.23]]></description>
+            <content:encoded><![CDATA[P1060-02 -- Mallinckrodt Pharmaceuticals Ireland Limited: Letter from Applicant - 2nd Letter RFI Mallinckrodt  15.05.23]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-7-3-1-Emissions-to-Sewer 15.05.23]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875a03.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875a03.pdf</guid>
+            <pubDate>Mon, 15 May 2023 17:30:41 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-7-3-1-Emissions-to-Sewer 15.05.23]]></description>
+            <content:encoded><![CDATA[P1060-02 -- Mallinckrodt Pharmaceuticals Ireland Limited: Letter from Applicant - Attachment-7-3-1-Emissions-to-Sewer 15.05.23]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-8-1-Waste Generated 15]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875a04.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875a04.pdf</guid>
+            <pubDate>Mon, 15 May 2023 17:30:41 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-8-1-Waste Generated 15]]></description>
+            <content:encoded><![CDATA[P1060-02 -- Mallinckrodt Pharmaceuticals Ireland Limited: Letter from Applicant - Attachment-8-1-Waste Generated 15]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-8-1-Waste Generated 16]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875a05.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280875a05.pdf</guid>
+            <pubDate>Mon, 15 May 2023 17:30:41 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-8-1-Waste Generated 16]]></description>
+            <content:encoded><![CDATA[P1060-02 -- Mallinckrodt Pharmaceuticals Ireland Limited: Letter from Applicant - Attachment-8-1-Waste Generated 16]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
