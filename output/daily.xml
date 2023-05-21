@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sat, 20 May 2023 02:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 02:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,327 +16,39 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Proposed Determination Newspaper Notice 5]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808762dd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808762dd.pdf</guid>
-            <pubDate>Thu, 18 May 2023 10:10:38 GMT</pubDate>
-            <description><![CDATA[Proposed Determination Newspaper Notice 5]]></description>
-            <content:encoded><![CDATA[P1182-01 -- Amazon Data Services Ireland Limited: Proposed Determination Newspaper Notice 5]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876672.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876672.pdf</guid>
+            <pubDate>Fri, 19 May 2023 11:50:55 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register]]></description>
+            <content:encoded><![CDATA[P1039-02 -- Corby Rock Mill Unlimited Company: Notification to Planning Authority - Register]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Newspaper Notice - PD]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087634b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087634b.pdf</guid>
-            <pubDate>Thu, 18 May 2023 12:50:18 GMT</pubDate>
-            <description><![CDATA[Newspaper Notice - PD]]></description>
-            <content:encoded><![CDATA[P1184-01 -- Amazon Data Services Ireland Limited: Newspaper Notice - PD]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876673.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876673.pdf</guid>
+            <pubDate>Fri, 19 May 2023 11:50:56 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register]]></description>
+            <content:encoded><![CDATA[P1039-02 -- Corby Rock Mill Unlimited Company: Notification to Planning Authority - Register]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Extension Request]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087634c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087634c.pdf</guid>
-            <pubDate>Thu, 18 May 2023 12:50:19 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request]]></description>
-            <content:encoded><![CDATA[P1197-01 -- Greener Ideas Limited: Notification to Applicant Extension Request]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority - Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876674.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876674.pdf</guid>
+            <pubDate>Fri, 19 May 2023 11:50:56 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register]]></description>
+            <content:encoded><![CDATA[P1039-02 -- Corby Rock Mill Unlimited Company: Notification to Planning Authority - Register]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - CD02A-Proposed Surface Water Drainage]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087640d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087640d.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:41 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - CD02A-Proposed Surface Water Drainage]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - CD02A-Proposed Surface Water Drainage]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - CD02B-Proposed Surface Water Drainage]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087640e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087640e.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:42 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - CD02B-Proposed Surface Water Drainage]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - CD02B-Proposed Surface Water Drainage]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - CG02A-Storm and Rainwater  Existing campus]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087640f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087640f.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:42 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - CG02A-Storm and Rainwater  Existing campus]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - CG02A-Storm and Rainwater  Existing campus]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - CG02B-Storm and Rainwater Existing campus]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876410.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876410.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:43 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - CG02B-Storm and Rainwater Existing campus]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - CG02B-Storm and Rainwater Existing campus]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1000 - Site Location Plan]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876411.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876411.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:43 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1000 - Site Location Plan]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1000 - Site Location Plan]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1001-Site Notice Locations]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876412.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876412.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:43 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1001-Site Notice Locations]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1001-Site Notice Locations]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1002-Site Plan]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876413.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876413.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:43 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1002-Site Plan]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1002-Site Plan]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1011-1 - Foul Storm Water Drainage - DUB 06]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876414.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876414.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:44 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1011-1 - Foul Storm Water Drainage - DUB 06]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1011-1 - Foul Storm Water Drainage - DUB 06]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1011-2 - Foul  Storm Water Drainage - DUB 07]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876415.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876415.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:44 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1011-2 - Foul  Storm Water Drainage - DUB 07]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1011-2 - Foul  Storm Water Drainage - DUB 07]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1011-3 - Foul Storm Water Drainage - DUB 08]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876416.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876416.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:44 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1011-3 - Foul Storm Water Drainage - DUB 08]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1011-3 - Foul Storm Water Drainage - DUB 08]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1011-4 - Foul Storm Water Drainage - DUB 09]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876417.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876417.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:45 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1011-4 - Foul Storm Water Drainage - DUB 09]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1011-4 - Foul Storm Water Drainage - DUB 09]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1011-5 - Foul Storm Water Drainage - Dub 10]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876418.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876418.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:45 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1011-5 - Foul Storm Water Drainage - Dub 10]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1011-5 - Foul Storm Water Drainage - Dub 10]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1011-6 - Foul Storm Water Drainage - DUB 12]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876419.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876419.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:45 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1011-6 - Foul Storm Water Drainage - DUB 12]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1011-6 - Foul Storm Water Drainage - DUB 12]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1011-7 - Foul Storm Water Drainage - DUB 13]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641a.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:46 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1011-7 - Foul Storm Water Drainage - DUB 13]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1011-7 - Foul Storm Water Drainage - DUB 13]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1011A- Surface Water  Attenuation-A0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641b.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:46 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1011A- Surface Water  Attenuation-A0]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1011A- Surface Water  Attenuation-A0]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1021 - Minor Potential Air Emissions - DUB 09 10]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641c.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:46 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1021 - Minor Potential Air Emissions - DUB 09 10]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1021 - Minor Potential Air Emissions - DUB 09 10]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1021 - Minor Potential Air Emissions - DUB 12 13]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641d.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:46 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1021 - Minor Potential Air Emissions - DUB 12 13]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1021 - Minor Potential Air Emissions - DUB 12 13]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1021-Minor Potential Air Emissions]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641e.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:47 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1021-Minor Potential Air Emissions]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1021-Minor Potential Air Emissions]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1221-Fuel Tank Storage Locations]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087641f.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:47 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1221-Fuel Tank Storage Locations]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1221-Fuel Tank Storage Locations]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1300-Noise Monitoring Locations]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876420.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876420.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:47 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1300-Noise Monitoring Locations]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1300-Noise Monitoring Locations]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - A1322 - Noise Monitoring Locations - N1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876421.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876421.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:47 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - A1322 - Noise Monitoring Locations - N1]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - A1322 - Noise Monitoring Locations - N1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment 1-2 Non Technical Summary May23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876422.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876422.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:48 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment 1-2 Non Technical Summary May23]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment 1-2 Non Technical Summary May23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment 4-8-1-Operational Report May23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876423.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876423.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:48 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment 4-8-1-Operational Report May23]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment 4-8-1-Operational Report May23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment 4-8-3 Soil  Water Baseline Report May23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876424.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876424.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:48 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment 4-8-3 Soil  Water Baseline Report May23]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment 4-8-3 Soil  Water Baseline Report May23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment 4-8-4 Site Condition Report May23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876425.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876425.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:49 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment 4-8-4 Site Condition Report May23]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment 4-8-4 Site Condition Report May23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment 6-7-3 - Site Notice Locations]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876426.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876426.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:49 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment 6-7-3 - Site Notice Locations]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment 6-7-3 - Site Notice Locations]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment 7-1 Emissions Overview May 23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876427.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876427.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:49 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment 7-1 Emissions Overview May 23]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment 7-1 Emissions Overview May 23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment 7-7 Storm Water Discharges May 23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876428.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876428.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:50 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment 7-7 Storm Water Discharges May 23]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment 7-7 Storm Water Discharges May 23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment 7-7-1 Stormwater Monitoring May 23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876429.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876429.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:50 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment 7-7-1 Stormwater Monitoring May 23]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment 7-7-1 Stormwater Monitoring May 23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment-7-1-3-1-Emissions Compliance May 23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087642a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087642a.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:31:50 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment-7-1-3-1-Emissions Compliance May 23]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment-7-1-3-1-Emissions Compliance May 23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unsolicited Additional Information - Attachment-7-1-3-2-Stormwater Ground Sewer  May 23]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876437.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876437.pdf</guid>
-            <pubDate>Thu, 18 May 2023 18:50:15 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Attachment-7-1-3-2-Stormwater Ground Sewer  May 23]]></description>
-            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Unsolicited Additional Information - Attachment-7-1-3-2-Stormwater Ground Sewer  May 23]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 50]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876299.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876299.pdf</guid>
-            <pubDate>Thu, 18 May 2023 08:10:33 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 50]]></description>
-            <content:encoded><![CDATA[W0136-04 -- Starrus Eco Holdings Limited: Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 50]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - Reg 14(2) Notice Approval 18 May 2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876338.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876338.pdf</guid>
-            <pubDate>Thu, 18 May 2023 12:30:16 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Reg 14(2) Notice Approval 18 May 2023]]></description>
-            <content:encoded><![CDATA[P0693-03 -- Takeda Ireland Limited: Letter from Applicant - Reg 14(2) Notice Approval 18 May 2023]]></content:encoded>
+            <title><![CDATA[Final Determination � Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087660c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087660c.pdf</guid>
+            <pubDate>Fri, 19 May 2023 08:50:16 GMT</pubDate>
+            <description><![CDATA[Final Determination � Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Final Determination � Newspaper Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
