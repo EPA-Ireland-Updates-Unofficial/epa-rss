@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sun, 21 May 2023 02:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 02:44:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,39 +16,12 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876672.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876672.pdf</guid>
-            <pubDate>Fri, 19 May 2023 11:50:55 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register]]></description>
-            <content:encoded><![CDATA[P1039-02 -- Corby Rock Mill Unlimited Company: Notification to Planning Authority - Register]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Planning Authority - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876673.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876673.pdf</guid>
-            <pubDate>Fri, 19 May 2023 11:50:56 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register]]></description>
-            <content:encoded><![CDATA[P1039-02 -- Corby Rock Mill Unlimited Company: Notification to Planning Authority - Register]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Planning Authority - Register]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876674.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876674.pdf</guid>
-            <pubDate>Fri, 19 May 2023 11:50:56 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register]]></description>
-            <content:encoded><![CDATA[P1039-02 -- Corby Rock Mill Unlimited Company: Notification to Planning Authority - Register]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Final Determination � Newspaper Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087660c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087660c.pdf</guid>
-            <pubDate>Fri, 19 May 2023 08:50:16 GMT</pubDate>
-            <description><![CDATA[Final Determination � Newspaper Notice]]></description>
-            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Final Determination � Newspaper Notice]]></content:encoded>
+            <title><![CDATA[Reminder Email (RFI Overdue)  - Section 90(7) Request for Inform]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876910.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280876910.pdf</guid>
+            <pubDate>Sat, 20 May 2023 08:10:26 GMT</pubDate>
+            <description><![CDATA[Reminder Email (RFI Overdue)  - Section 90(7) Request for Inform]]></description>
+            <content:encoded><![CDATA[P0476-03 -- Recordati Ireland Limited: Reminder Email (RFI Overdue)  - Section 90(7) Request for Inform]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
