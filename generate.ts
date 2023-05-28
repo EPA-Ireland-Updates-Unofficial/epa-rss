@@ -41,7 +41,7 @@ async function scrapeNews(urlbase: string) {
         "https://epawebapp.epa.ie/licences/lic_eDMS/rss/" +
         $(RSSLinks[i]).text() +
         ".xml";
-      console.log(eachRSSURL);
+      //console.log(eachRSSURL);
 
       // Rate Limit
       const remainingMessages = await limiter.removeTokens(1);
@@ -51,12 +51,24 @@ async function scrapeNews(urlbase: string) {
       });
 
       try {
-        let RSSContent = await parser.parseURL(eachRSSURL);
-        console.log(RSSContent.title);
+
+        // Deal with encoding BOM at start of XML
+        const xmlUtf16le = await axios.get(eachRSSURL, {responseEncoding: 'utf16le'});
+        
+        // Idiots now generating invalid XML
+        let santizedXML = xmlUtf16le.data.replace(/&/g, '&amp;amp;'); 
+
+        let RSSContent = await parser.parseString(santizedXML);
+
+        // console.log(RSSContent.title);
         for (let j = 0; j < RSSContent.items.length; j++) {
           let item = RSSContent.items[j];
-          //console.log(item.pubDate + ' : ' + item.title + ' : ' + item.link);
-          let isoDate = new Date(item.pubDate!);
+          let isoDate;
+          if(item.pubDate){
+            isoDate = new Date(item.pubDate!);
+          } else {
+            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
+          }
           const result = await db.run(
             "INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?, ?, ?, ?, ?, ?)",
             url,
