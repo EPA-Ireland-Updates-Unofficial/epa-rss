@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 31 May 2023 02:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 03:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,75 +16,165 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00013692]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784d4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784d4.pdf</guid>
-            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00013692]]></description>
-            <content:encoded><![CDATA[P1170-01 -- Amazon Data Services Ireland Limited: Notification to Applicant Extension Request - LACT00013692]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - 217501 0178NL04 Extension Duration Approval]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808787d7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808787d7.pdf</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 217501 0178NL04 Extension Duration Approval]]></description>
+            <content:encoded><![CDATA[P1170-01 -- Amazon Data Services Ireland Limited: Letter from Applicant - 217501 0178NL04 Extension Duration Approval]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Chemifloc EIAR (26.05.23)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784a8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784a8.pdf</guid>
-            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Chemifloc EIAR (26.05.23)]]></description>
-            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: Letter from Applicant - Chemifloc EIAR (26.05.23)]]></content:encoded>
+            <title><![CDATA[Notification to Applicant - Compliance Notice - LACT00013703]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808787af.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808787af.pdf</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant - Compliance Notice - LACT00013703]]></description>
+            <content:encoded><![CDATA[P1172-01 -- Amazon Data Services Ireland Limited: Notification to Applicant - Compliance Notice - LACT00013703]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Letter (26.05.23) Response to Reg 19(2) Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784a9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784a9.pdf</guid>
-            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Letter (26.05.23) Response to Reg 19(2) Notice]]></description>
-            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: Letter from Applicant - Letter (26.05.23) Response to Reg 19(2) Notice]]></content:encoded>
+            <title><![CDATA[AA Screening Determination - LACT00013046]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087889d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087889d.pdf</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[AA Screening Determination - LACT00013046]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: AA Screening Determination - LACT00013046]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - Chemoran letter to EPA (29.05.2023)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784bb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784bb.pdf</guid>
-            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Chemoran letter to EPA (29.05.2023)]]></description>
-            <content:encoded><![CDATA[P1169-01 -- Chemoran Limited: Unsolicited Additional Information - Chemoran letter to EPA (29.05.2023)]]></content:encoded>
+            <title><![CDATA[EIA Screening Determination - LACT00013468]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087889e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28087889e.pdf</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[EIA Screening Determination - LACT00013468]]></description>
+            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: EIA Screening Determination - LACT00013468]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Reminder Email (upcoming due date) - Reg 10(2)(b)(ii) notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280878434.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280878434.pdf</guid>
-            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date) - Reg 10(2)(b)(ii) notice]]></description>
-            <content:encoded><![CDATA[P1195-01 -- Dan Hennessy Farm Limited: Reminder Email (upcoming due date) - Reg 10(2)(b)(ii) notice]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - 3513-031 - Recordati - Baseline Report Rev. 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280878874.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280878874.pdf</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 3513-031 - Recordati - Baseline Report Rev. 1]]></description>
+            <content:encoded><![CDATA[P0476-03 -- Recordati Ireland Limited: Letter from Applicant - 3513-031 - Recordati - Baseline Report Rev. 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P0009-05 Eli Lilly - Newspaper Notice Redacted]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784e5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808784e5.pdf</guid>
-            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[P0009-05 Eli Lilly - Newspaper Notice Redacted]]></description>
-            <content:encoded><![CDATA[P0009-05 -- Eli Lilly Kinsale Limited: P0009-05 Eli Lilly - Newspaper Notice Redacted]]></content:encoded>
+            <title><![CDATA[VEPIL A2-4 4 2022 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0fa70a6b-dce7-49aa-abcb-d15fd125add1.pdf</link>
+            <guid>https://leap.epa.ie/docs/0fa70a6b-dce7-49aa-abcb-d15fd125add1.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:19 GMT</pubDate>
+            <description><![CDATA[VEPIL A2-4 4 2022 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: VEPIL A2-4 4 2022 Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[PD newspaper notice 19]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280878559.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280878559.pdf</guid>
-            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[PD newspaper notice 19]]></description>
-            <content:encoded><![CDATA[P1189-01 -- Google Ireland Limited: PD newspaper notice 19]]></content:encoded>
+            <title><![CDATA[111022 Vermillion A2-6 Status Qtr 2 2022 Ver 1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2593b280-ea4a-4649-9d09-5ca1430ad4cd.pdf</link>
+            <guid>https://leap.epa.ie/docs/2593b280-ea4a-4649-9d09-5ca1430ad4cd.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:02 GMT</pubDate>
+            <description><![CDATA[111022 Vermillion A2-6 Status Qtr 2 2022 Ver 1.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: 111022 Vermillion A2-6 Status Qtr 2 2022 Ver 1.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26606 - Licensee Public Response.pdf]]></title>
-            <link>https://leap.epa.ie/docs/0a215fec-6b92-4096-9612-0006cc1fffac.pdf</link>
-            <guid>https://leap.epa.ie/docs/0a215fec-6b92-4096-9612-0006cc1fffac.pdf</guid>
-            <pubDate>Mon, 29 May 2023 21:31:23 GMT</pubDate>
-            <description><![CDATA[SV26606 - Licensee Public Response.pdf]]></description>
-            <content:encoded><![CDATA[P0698-01 -- Honeywell International Technologies Limited: SV26606 - Licensee Public Response.pdf]]></content:encoded>
+            <title><![CDATA[VEPIL A2-5 4 2022 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/21d018ae-ba37-423b-8fdf-9d4c4ac196f5.pdf</link>
+            <guid>https://leap.epa.ie/docs/21d018ae-ba37-423b-8fdf-9d4c4ac196f5.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:35 GMT</pubDate>
+            <description><![CDATA[VEPIL A2-5 4 2022 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: VEPIL A2-5 4 2022 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[VEPIL A2-5 1 2022 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3ebb70de-9920-4516-a47d-e85413a6600d.pdf</link>
+            <guid>https://leap.epa.ie/docs/3ebb70de-9920-4516-a47d-e85413a6600d.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:22 GMT</pubDate>
+            <description><![CDATA[VEPIL A2-5 1 2022 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: VEPIL A2-5 1 2022 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[VEPIL A2-5 3 2022 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/4bebd72b-614f-43d4-91f3-9ba551605ef4.pdf</link>
+            <guid>https://leap.epa.ie/docs/4bebd72b-614f-43d4-91f3-9ba551605ef4.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[VEPIL A2-5 3 2022 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: VEPIL A2-5 3 2022 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[101022 Vermillion A2-4 Status Qtr 3 2022 Ver 1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/52ace664-1d60-4ba3-a48b-9569fa024752.pdf</link>
+            <guid>https://leap.epa.ie/docs/52ace664-1d60-4ba3-a48b-9569fa024752.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:01 GMT</pubDate>
+            <description><![CDATA[101022 Vermillion A2-4 Status Qtr 3 2022 Ver 1.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: 101022 Vermillion A2-4 Status Qtr 3 2022 Ver 1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[VEPIL A2-4 2 2022 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/76e4bcd4-f98a-433c-b381-791733c3da32.pdf</link>
+            <guid>https://leap.epa.ie/docs/76e4bcd4-f98a-433c-b381-791733c3da32.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:14 GMT</pubDate>
+            <description><![CDATA[VEPIL A2-4 2 2022 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: VEPIL A2-4 2 2022 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Fugitive Emissions Survey 2022.pdf]]></title>
+            <link>https://leap.epa.ie/docs/99f62f99-099c-443b-a9cc-d3b5377d4359.pdf</link>
+            <guid>https://leap.epa.ie/docs/99f62f99-099c-443b-a9cc-d3b5377d4359.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:30:44 GMT</pubDate>
+            <description><![CDATA[Fugitive Emissions Survey 2022.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: Fugitive Emissions Survey 2022.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[VEPIL A2-6 3 2022 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9a7e8a2c-0f4e-4d0e-a3de-0c4b535c1ce4.pdf</link>
+            <guid>https://leap.epa.ie/docs/9a7e8a2c-0f4e-4d0e-a3de-0c4b535c1ce4.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:42 GMT</pubDate>
+            <description><![CDATA[VEPIL A2-6 3 2022 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: VEPIL A2-6 3 2022 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[VEPIL A2-5 2 2022 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a70c2534-c408-4550-a141-987f77f3bd9f.pdf</link>
+            <guid>https://leap.epa.ie/docs/a70c2534-c408-4550-a141-987f77f3bd9f.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:26 GMT</pubDate>
+            <description><![CDATA[VEPIL A2-5 2 2022 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: VEPIL A2-5 2 2022 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[VEPIL A2-6 4 2022 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d7b550ab-e0a5-4612-aef5-0d8052dd4a3b.pdf</link>
+            <guid>https://leap.epa.ie/docs/d7b550ab-e0a5-4612-aef5-0d8052dd4a3b.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:46 GMT</pubDate>
+            <description><![CDATA[VEPIL A2-6 4 2022 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: VEPIL A2-6 4 2022 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[040522 Vermillion A2-6 Status Qtr 1 2022 Ver 1 (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/e0850093-e715-4c44-9292-2bbaee6b1e88.pdf</link>
+            <guid>https://leap.epa.ie/docs/e0850093-e715-4c44-9292-2bbaee6b1e88.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:30:57 GMT</pubDate>
+            <description><![CDATA[040522 Vermillion A2-6 Status Qtr 1 2022 Ver 1 (2).pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: 040522 Vermillion A2-6 Status Qtr 1 2022 Ver 1 (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[VEPIL A2-4 1 2022 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ffcf12d4-7e52-4bd9-aff7-d2403bdeb283.pdf</link>
+            <guid>https://leap.epa.ie/docs/ffcf12d4-7e52-4bd9-aff7-d2403bdeb283.pdf</guid>
+            <pubDate>Tue, 30 May 2023 21:31:08 GMT</pubDate>
+            <description><![CDATA[VEPIL A2-4 1 2022 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: VEPIL A2-4 1 2022 Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
