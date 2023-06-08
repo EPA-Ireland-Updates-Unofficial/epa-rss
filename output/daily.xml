@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 07 Jun 2023 03:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 02:59:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,176 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_2.pdf]]></title>
+            <link>https://leap.epa.ie/docs/25c2b8bd-14eb-4e7d-8e83-6f00007eb456.pdf</link>
+            <guid>https://leap.epa.ie/docs/25c2b8bd-14eb-4e7d-8e83-6f00007eb456.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:27 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_2.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_2.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_6.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5a6f2928-02fa-422e-a93a-fabaa1f69cf5.pdf</link>
+            <guid>https://leap.epa.ie/docs/5a6f2928-02fa-422e-a93a-fabaa1f69cf5.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:36 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_6.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_6.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8415a57c-3f2a-46dc-861f-a28adf6bd416.pdf</link>
+            <guid>https://leap.epa.ie/docs/8415a57c-3f2a-46dc-861f-a28adf6bd416.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:20 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_10.pdf]]></title>
+            <link>https://leap.epa.ie/docs/84d4d8a5-025d-4c95-87af-5ba42e3d27cc.pdf</link>
+            <guid>https://leap.epa.ie/docs/84d4d8a5-025d-4c95-87af-5ba42e3d27cc.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:21 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_10.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_10.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_7.pdf]]></title>
+            <link>https://leap.epa.ie/docs/796d505a-66f3-4873-9845-5418e1e4348d.pdf</link>
+            <guid>https://leap.epa.ie/docs/796d505a-66f3-4873-9845-5418e1e4348d.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:38 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_7.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_7.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_9.pdf]]></title>
+            <link>https://leap.epa.ie/docs/b5e2b408-87e1-4e31-8495-e4fa9273a35c.pdf</link>
+            <guid>https://leap.epa.ie/docs/b5e2b408-87e1-4e31-8495-e4fa9273a35c.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:42 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_9.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_9.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_8.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a1c2dd26-3dc4-49be-b96d-b2f933b7205c.pdf</link>
+            <guid>https://leap.epa.ie/docs/a1c2dd26-3dc4-49be-b96d-b2f933b7205c.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:40 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_8.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_8.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_3.pdf]]></title>
+            <link>https://leap.epa.ie/docs/b2d43582-ba90-4d84-b151-41e7a090e74d.pdf</link>
+            <guid>https://leap.epa.ie/docs/b2d43582-ba90-4d84-b151-41e7a090e74d.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_3.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_3.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_4.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f45e9b58-8299-412e-a424-b4d8ca76c7d5.pdf</link>
+            <guid>https://leap.epa.ie/docs/f45e9b58-8299-412e-a424-b4d8ca76c7d5.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:32 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_4.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_4.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_11.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c73fc4b4-2e54-4122-a4f0-4de2b312a6e5.pdf</link>
+            <guid>https://leap.epa.ie/docs/c73fc4b4-2e54-4122-a4f0-4de2b312a6e5.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:25 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_11.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_11.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV27225 - Licensee Public Response_5.pdf]]></title>
+            <link>https://leap.epa.ie/docs/df4c074f-b9f4-47ab-afa3-fc2a9c06f984.pdf</link>
+            <guid>https://leap.epa.ie/docs/df4c074f-b9f4-47ab-afa3-fc2a9c06f984.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:35 GMT</pubDate>
+            <description><![CDATA[SV27225 - Licensee Public Response_5.pdf]]></description>
+            <content:encoded><![CDATA[W0198-01 -- Bord na Mona Public Limited Company: SV27225 - Licensee Public Response_5.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Reminder Email (RFI Overdue) - Reg 10(2)(b)(ii) notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879c4b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879c4b.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reminder Email (RFI Overdue) - Reg 10(2)(b)(ii) notice]]></description>
+            <content:encoded><![CDATA[P1195-01 -- Dan Hennessy Farm Limited: Reminder Email (RFI Overdue) - Reg 10(2)(b)(ii) notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Submission No. S011148 - Pat Moran]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879d05.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879d05.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Submission No. S011148 - Pat Moran]]></description>
+            <content:encoded><![CDATA[P1180-01 -- Kilkenny Cheese Limited: Submission No. S011148 - Pat Moran]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S011148 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879d06.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879d06.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[S011148 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1180-01 -- Kilkenny Cheese Limited: S011148 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice 80]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879cc7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879cc7.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice 80]]></description>
+            <content:encoded><![CDATA[P1152-01 -- Lisgillan Farm Ltd.: Newspaper Notice 80]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice 79]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879cc8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879cc8.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice 79]]></description>
+            <content:encoded><![CDATA[P1191-01 -- Microsoft Ireland Operations Limited: Newspaper Notice 79]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Newspaper Notice 20]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879c89.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879c89.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[PD Newspaper Notice 20]]></description>
+            <content:encoded><![CDATA[P0790-03 -- Mr. Eoin O’Brien: PD Newspaper Notice 20]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Waste storage plan 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/6fc759ae-a400-4df0-8ae5-dccc83dee396.pdf</link>
+            <guid>https://leap.epa.ie/docs/6fc759ae-a400-4df0-8ae5-dccc83dee396.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 21:31:14 GMT</pubDate>
+            <description><![CDATA[Waste storage plan 2023.pdf]]></description>
+            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: Waste storage plan 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00013767]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879cab.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280879cab.pdf</guid>
+            <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00013767]]></description>
+            <content:encoded><![CDATA[P1175-01 -- Woodburn Farms Limited: Notification to Applicant Extension Request - LACT00013767]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
