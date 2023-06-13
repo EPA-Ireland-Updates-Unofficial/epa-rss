@@ -8,13 +8,48 @@ import * as Parser from "rss-parser";
 import { RateLimiter } from "limiter";
 import * as sqlite3 from "sqlite3";
 import { open } from "sqlite";
+import * as AWS from "aws-sdk";
 import * as fs from "fs";
 import { stringify } from "csv-stringify";
+import { URL } from "url";
+import * as path from "path";
+
+// Retrieve AWS credentials from environment variables
+const accessKeyId = process.env.EPA_RSS_ACCESS_KEY_ID;
+const secretAccessKey = process.env.EPA_RSS_SECRET_ACCESS_KEY;
+
+// Set the S3 bucket details
+const bucketName = process.env.EPA_RSS_BUCKET;
 
 let db;
 
 // Throttle URL requests to one every 0.25 seconds
 const limiter = new RateLimiter({ tokensPerInterval: 1, interval: 250 });
+
+const s3 = new AWS.S3({
+  accessKeyId,
+  secretAccessKey,
+});
+
+async function downloadPDF(url: string): Promise<Buffer> {
+  const response = await axios.get(url, {
+    responseType: "arraybuffer",
+  });
+
+  return response.data;
+}
+
+async function uploadToS3(buffer: Buffer, key: string): Promise<void> {
+  await s3
+    .upload({
+      Bucket: bucketName,
+      Key: key,
+      Body: buffer,
+    })
+    .promise();
+
+  console.log(`PDF uploaded successfully to S3: ${key}`);
+}
 
 async function scrapeNews(urlbase: string) {
   for (let alphabet = 0; alphabet < 26; alphabet++) {
@@ -51,12 +86,13 @@ async function scrapeNews(urlbase: string) {
       });
 
       try {
-
         // Deal with encoding BOM at start of XML
-        const xmlUtf16le = await axios.get(eachRSSURL, {responseEncoding: 'utf16le'});
-        
+        const xmlUtf16le = await axios.get(eachRSSURL, {
+          responseEncoding: "utf16le",
+        });
+
         // Idiots now generating invalid XML
-        let santizedXML = xmlUtf16le.data.replace(/&/g, '&amp;amp;'); 
+        let santizedXML = xmlUtf16le.data.replace(/&/g, "&amp;amp;");
 
         let RSSContent = await parser.parseString(santizedXML);
 
@@ -64,19 +100,37 @@ async function scrapeNews(urlbase: string) {
         for (let j = 0; j < RSSContent.items.length; j++) {
           let item = RSSContent.items[j];
           let isoDate;
-          if(item.pubDate){
+          if (item.pubDate) {
             isoDate = new Date(item.pubDate!);
           } else {
             isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
           }
+
+          const filename = path.basename(item.link);
+          const items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/" + filename;
+          const key = "uploads/" + filename;
+
+          // Check if file already in S3. If it isn't, upload it
+          let rows = await db.all("SELECT items3url FROM allsubmissions where items3url=?", items3url);
+          if (rows.length == 0){
+            try {
+              const buffer = await downloadPDF(item.link);
+              await uploadToS3(buffer, key);
+            } catch (error) {
+              console.error("An S3 upload error occurred:", error);
+            }
+          }
+        
+          // Add entry to SQLite
           const result = await db.run(
-            "INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?, ?, ?, ?, ?, ?)",
+            "INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate, items3url) VALUES (?, ?, ?, ?, ?, ?, ?)",
             url,
             eachRSSURL,
             RSSContent.title,
             item.link,
             item.title,
-            isoDate.toISOString()
+            isoDate.toISOString(),
+            items3url
           );
         }
       } catch (e) {
@@ -119,7 +173,10 @@ async function TwitterRSS() {
   let year = d.getFullYear();
   let twodaysago = year + "-" + month + "-" + day;
 
-  const dailycsvurl = "https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/" + twodaysago + ".csv";
+  const dailycsvurl =
+    "https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/" +
+    twodaysago +
+    ".csv";
 
   let publishDateTime = new Date();
 
@@ -128,7 +185,9 @@ async function TwitterRSS() {
     id: dailycsvurl,
     link: dailycsvurl || "",
     description: "All updates on " + twodaysago,
-    content: "EPA warning letters, inspectors reports, 3rd party submissions on licenses etc on " + twodaysago,
+    content:
+      "EPA warning letters, inspectors reports, 3rd party submissions on licenses etc on " +
+      twodaysago,
     author: [
       {
         name: "EPA Ireland",
@@ -143,8 +202,6 @@ async function TwitterRSS() {
   fs.writeFileSync("./output/rsstwitter.xml", feed.rss2());
   console.log("wrote output/rsstwitter.xml");
 }
-
-
 
 async function dailyRSSCSV() {
   // Update Daily RSS

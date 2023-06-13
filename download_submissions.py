@@ -94,7 +94,9 @@ def process_csv(input_csv, s3_bucket, aws_access_key_id, aws_secret_access_key, 
             time.sleep(1)  # Add a 1-second delay
 
 if __name__ == "__main__":
-    input_csv = "epa-rss-submission-urls.csv" # Replace with your input CSV file name
+#    input_csv = "epa-rss-submission-urls.csv" # Replace with your input CSV file name
+#    input_csv = "epa-rss-submission-urls-01.csv" # Replace with your input CSV file name
+    input_csv = "epa-rss-submission-urls-02.csv" # Replace with your input CSV file name
     s3_bucket = "epa-rss" # Replace with your target S3 bucket name
     aws_access_key_id = os.getenv('EPA_RSS_ACCESS_KEY_ID') # Replace with your AWS access key ID
     aws_secret_access_key = os.getenv('EPA_RSS_SECRET_ACCESS_KEY') # Replace with your AWS secret access key
