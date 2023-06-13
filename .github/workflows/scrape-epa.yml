@@ -19,7 +19,7 @@ jobs:
       - name: npm install and build
         run: |
           npm install
-          wget https://epa-rss.s3.eu-west-1.amazonaws.com/latest/epa-rss.sqlite -P sqlite/epa-rss.sqlite
+          wget https://epa-rss.s3.eu-west-1.amazonaws.com/latest/epa-rss.sqlite -P sqlite
           # cp sqlite/epa-rss-template.sqlite sqlite/epa-rss.sqlite
           npm run build
       - name: run code
