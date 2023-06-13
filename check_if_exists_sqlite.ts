@@ -14,7 +14,7 @@ async function main() {
   });
 
 //  let items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/090151b2804eada1.pdf";
-  let items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/blahblahblah.pdf";
+  let items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/090151b280545ea2.pdf";
 
   let rows = await db.all("SELECT items3url FROM allsubmissions where items3url=?", items3url);
 

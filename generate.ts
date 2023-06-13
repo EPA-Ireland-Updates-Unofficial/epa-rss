@@ -116,6 +116,7 @@ async function scrapeNews(urlbase: string) {
             try {
               const buffer = await downloadPDF(item.link);
               await uploadToS3(buffer, key);
+             //console.log("Simulating download/upload")
             } catch (error) {
               console.error("An S3 upload error occurred:", error);
             }
@@ -249,6 +250,7 @@ async function dailyRSSCSV() {
     "Item URL",
     "Submitter URL",
     "Main Page URL",
+    "S3 URL",
   ];
   const stringifier = stringify({ header: true, columns: columns });
 
@@ -260,6 +262,7 @@ async function dailyRSSCSV() {
       result[i].itemurl,
       result[i].rsspageurl,
       result[i].mainpageurl,
+      result[i].items3url,
     ]);
 
     //console.log(result[i]);

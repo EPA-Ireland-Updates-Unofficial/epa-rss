@@ -296,6 +296,7 @@ function dailyRSSCSV() {
                         "Item URL",
                         "Submitter URL",
                         "Main Page URL",
+                        "S3 URL",
                     ];
                     stringifier = (0, csv_stringify_1.stringify)({ header: true, columns: columns });
                     for (i = 0; i < result.length; i++) {
@@ -306,6 +307,7 @@ function dailyRSSCSV() {
                             result[i].itemurl,
                             result[i].rsspageurl,
                             result[i].mainpageurl,
+                            result[i].items3url,
                         ]);
                         publishDateTime = new Date(result[i].itemdate);
                         feed.addItem({

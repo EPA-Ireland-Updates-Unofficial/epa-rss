@@ -52,7 +52,7 @@ function main() {
                     })];
                 case 1:
                     db = _a.sent();
-                    items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/blahblahblah.pdf";
+                    items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/090151b280545ea2.pdf";
                     return [4 /*yield*/, db.all("SELECT items3url FROM allsubmissions where items3url=?", items3url)];
                 case 2:
                     rows = _a.sent();
