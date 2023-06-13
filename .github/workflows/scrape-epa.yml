@@ -19,9 +19,14 @@ jobs:
       - name: npm install and build
         run: |
           npm install
-          cp sqlite/epa-rss-template.sqlite sqlite/epa-rss.sqlite
+          wget https://epa-rss.s3.eu-west-1.amazonaws.com/latest/epa-rss.sqlite -P sqlite/epa-rss.sqlite
+          # cp sqlite/epa-rss-template.sqlite sqlite/epa-rss.sqlite
           npm run build
       - name: run code
+        env:
+          EPA_RSS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
+          EPA_RSS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY}}
+          EPA_RSS_BUCKET: ${{ secrets.AWS_BUCKET }}
         run: |
           npm run generate          
       - name: commit files
@@ -51,7 +56,7 @@ jobs:
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY}}
           aws_bucket: ${{ secrets.AWS_BUCKET }}
           source_dir: 'sqlite'
-          destination_dir: 'latest'
+          destination_dir: 'latest' 
       - name: Get two days ago date
         id: date
         run: |
