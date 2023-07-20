@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 19 Jul 2023 06:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 02:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,129 +16,84 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Letter from Applicant - Att 1-2 Non technical summary - Reg 10(2)(b)(ii)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bf6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bf6.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Att 1-2 Non technical summary - Reg 10(2)(b)(ii)]]></description>
-            <content:encoded><![CDATA[P0648-03 -- Becton Dickinson Penel Limited (Irish Branch): Letter from Applicant - Att 1-2 Non technical summary - Reg 10(2)(b)(ii)]]></content:encoded>
+            <title><![CDATA[QAL 2 Report Boiler E Boiler Emission Point A4-B.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a2799e8b-0d58-4b94-90a5-a961e68eae73.pdf</link>
+            <guid>https://leap.epa.ie/docs/a2799e8b-0d58-4b94-90a5-a961e68eae73.pdf</guid>
+            <pubDate>Tue, 18 Jul 2023 21:31:07 GMT</pubDate>
+            <description><![CDATA[QAL 2 Report Boiler E Boiler Emission Point A4-B.pdf]]></description>
+            <content:encoded><![CDATA[P0035-07 -- Aughinish Alumina Limited: QAL 2 Report Boiler E Boiler Emission Point A4-B.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Att 3-2 Ems Pts to Atmosphere - Reg 10(2)(b)(ii)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bf7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bf7.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Att 3-2 Ems Pts to Atmosphere - Reg 10(2)(b)(ii)]]></description>
-            <content:encoded><![CDATA[P0648-03 -- Becton Dickinson Penel Limited (Irish Branch): Letter from Applicant - Att 3-2 Ems Pts to Atmosphere - Reg 10(2)(b)(ii)]]></content:encoded>
+            <title><![CDATA[W0253-01 - Waste Storage Plan - Oct 2022.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9ece440f-28bc-49a9-a2e6-f34ab0a5f11c.pdf</link>
+            <guid>https://leap.epa.ie/docs/9ece440f-28bc-49a9-a2e6-f34ab0a5f11c.pdf</guid>
+            <pubDate>Tue, 18 Jul 2023 21:30:32 GMT</pubDate>
+            <description><![CDATA[W0253-01 - Waste Storage Plan - Oct 2022.pdf]]></description>
+            <content:encoded><![CDATA[W0253-01 -- Clean (Irl) Refuse &amp; Recycling Co: W0253-01 - Waste Storage Plan - Oct 2022.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Att 7-1-3-2 Air Disp Modelling - Reg 10(2)(b)(ii)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bf8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bf8.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Att 7-1-3-2 Air Disp Modelling - Reg 10(2)(b)(ii)]]></description>
-            <content:encoded><![CDATA[P0648-03 -- Becton Dickinson Penel Limited (Irish Branch): Letter from Applicant - Att 7-1-3-2 Air Disp Modelling - Reg 10(2)(b)(ii)]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - LetEPA18072023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881d67.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881d67.pdf</guid>
+            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - LetEPA18072023]]></description>
+            <content:encoded><![CDATA[P1195-01 -- Dan Hennessy Farm Limited: Letter from Applicant - LetEPA18072023]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Att 7-4-1-Ems-to-Air-Main - Reg 10(2)(b)(ii)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bf9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bf9.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Att 7-4-1-Ems-to-Air-Main - Reg 10(2)(b)(ii)]]></description>
-            <content:encoded><![CDATA[P0648-03 -- Becton Dickinson Penel Limited (Irish Branch): Letter from Applicant - Att 7-4-1-Ems-to-Air-Main - Reg 10(2)(b)(ii)]]></content:encoded>
+            <title><![CDATA[Screenshot_20230618_135136_WhatsApp.jpg]]></title>
+            <link>https://leap.epa.ie/docs/4d8d4cb1-d631-4230-bf57-e464176c90cc.pdf</link>
+            <guid>https://leap.epa.ie/docs/4d8d4cb1-d631-4230-bf57-e464176c90cc.pdf</guid>
+            <pubDate>Tue, 18 Jul 2023 21:31:35 GMT</pubDate>
+            <description><![CDATA[Screenshot_20230618_135136_WhatsApp.jpg]]></description>
+            <content:encoded><![CDATA[P0658-01 -- Sperrin Galvanisers (Ireland) Limited: Screenshot_20230618_135136_WhatsApp.jpg]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Att 7-4-2-Ems-to-Air-Min-Pot - Reg 10(2)(b)(ii)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bfa.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bfa.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Att 7-4-2-Ems-to-Air-Min-Pot - Reg 10(2)(b)(ii)]]></description>
-            <content:encoded><![CDATA[P0648-03 -- Becton Dickinson Penel Limited (Irish Branch): Letter from Applicant - Att 7-4-2-Ems-to-Air-Min-Pot - Reg 10(2)(b)(ii)]]></content:encoded>
+            <title><![CDATA[Control.jpg]]></title>
+            <link>https://leap.epa.ie/docs/9e1adcf7-03d2-4257-963a-a56a2ac75820.pdf</link>
+            <guid>https://leap.epa.ie/docs/9e1adcf7-03d2-4257-963a-a56a2ac75820.pdf</guid>
+            <pubDate>Tue, 18 Jul 2023 21:31:47 GMT</pubDate>
+            <description><![CDATA[Control.jpg]]></description>
+            <content:encoded><![CDATA[P0658-01 -- Sperrin Galvanisers (Ireland) Limited: Control.jpg]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Regulation 10(2)(b)(ii) Reply 17 July 2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bfb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bfb.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Regulation 10(2)(b)(ii) Reply 17 July 2023]]></description>
-            <content:encoded><![CDATA[P0648-03 -- Becton Dickinson Penel Limited (Irish Branch): Letter from Applicant - Regulation 10(2)(b)(ii) Reply 17 July 2023]]></content:encoded>
+            <title><![CDATA[Screenshot_20230618_135204_WhatsApp.jpg]]></title>
+            <link>https://leap.epa.ie/docs/6848e5b6-8ff9-4d7e-862a-f2f122151f9b.pdf</link>
+            <guid>https://leap.epa.ie/docs/6848e5b6-8ff9-4d7e-862a-f2f122151f9b.pdf</guid>
+            <pubDate>Tue, 18 Jul 2023 21:31:43 GMT</pubDate>
+            <description><![CDATA[Screenshot_20230618_135204_WhatsApp.jpg]]></description>
+            <content:encoded><![CDATA[P0658-01 -- Sperrin Galvanisers (Ireland) Limited: Screenshot_20230618_135204_WhatsApp.jpg]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[18-04-23.pdf]]></title>
-            <link>https://leap.epa.ie/docs/6d79d620-b785-491b-992c-adf89760425a.pdf</link>
-            <guid>https://leap.epa.ie/docs/6d79d620-b785-491b-992c-adf89760425a.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 21:31:29 GMT</pubDate>
-            <description><![CDATA[18-04-23.pdf]]></description>
-            <content:encoded><![CDATA[P0500-01 -- Bord na Mona Energy Limited: 18-04-23.pdf]]></content:encoded>
+            <title><![CDATA[Screenshot_20230618_135149_WhatsApp.jpg]]></title>
+            <link>https://leap.epa.ie/docs/b0a4781b-6c4f-4c0b-b92d-75da68735aa5.pdf</link>
+            <guid>https://leap.epa.ie/docs/b0a4781b-6c4f-4c0b-b92d-75da68735aa5.pdf</guid>
+            <pubDate>Tue, 18 Jul 2023 21:31:41 GMT</pubDate>
+            <description><![CDATA[Screenshot_20230618_135149_WhatsApp.jpg]]></description>
+            <content:encoded><![CDATA[P0658-01 -- Sperrin Galvanisers (Ireland) Limited: Screenshot_20230618_135149_WhatsApp.jpg]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[25-04-23.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f1bb4f71-ccf2-4cc1-92f0-80fe733daf3a.pdf</link>
-            <guid>https://leap.epa.ie/docs/f1bb4f71-ccf2-4cc1-92f0-80fe733daf3a.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 21:31:31 GMT</pubDate>
-            <description><![CDATA[25-04-23.pdf]]></description>
-            <content:encoded><![CDATA[P0500-01 -- Bord na Mona Energy Limited: 25-04-23.pdf]]></content:encoded>
+            <title><![CDATA[P21-308_SW_2022_Report-A-P21-308_SW_2022_Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8b7b510b-3e94-4bea-bb32-4924cf81bc71.pdf</link>
+            <guid>https://leap.epa.ie/docs/8b7b510b-3e94-4bea-bb32-4924cf81bc71.pdf</guid>
+            <pubDate>Tue, 18 Jul 2023 21:30:55 GMT</pubDate>
+            <description><![CDATA[P21-308_SW_2022_Report-A-P21-308_SW_2022_Report.pdf]]></description>
+            <content:encoded><![CDATA[W0016-02 -- Wexford County Council: P21-308_SW_2022_Report-A-P21-308_SW_2022_Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0253-01 - 2023 YTD Waste Quantity - Apr 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7758c3c8-64ff-47d8-b8b5-97df67a0a9b7.pdf</link>
-            <guid>https://leap.epa.ie/docs/7758c3c8-64ff-47d8-b8b5-97df67a0a9b7.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 21:31:24 GMT</pubDate>
-            <description><![CDATA[W0253-01 - 2023 YTD Waste Quantity - Apr 2023.pdf]]></description>
-            <content:encoded><![CDATA[W0253-01 -- Clean (Irl) Refuse &amp; Recycling Co: W0253-01 - 2023 YTD Waste Quantity - Apr 2023.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Submission - Snapshot - Submission No S011236  - P0446-03 - Bernadine Scanlan]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881b51.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881b51.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Submission - Snapshot - Submission No S011236  - P0446-03 - Bernadine Scanlan]]></description>
-            <content:encoded><![CDATA[P0446-03 -- Mr Michael Monagle: Submission - Snapshot - Submission No S011236  - P0446-03 - Bernadine Scanlan]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[S011236 Submission Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881b52.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881b52.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[S011236 Submission Notice]]></description>
-            <content:encoded><![CDATA[P0446-03 -- Mr Michael Monagle: S011236 Submission Notice]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 59]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881ac4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881ac4.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 59]]></description>
-            <content:encoded><![CDATA[P0001-05 -- Smartply Europe Designated Activity Company: Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 59]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - E2158  EPA RFI Response IEL P00001-05]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bb6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881bb6.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - E2158  EPA RFI Response IEL P00001-05]]></description>
-            <content:encoded><![CDATA[P0001-05 -- Smartply Europe Designated Activity Company: Letter from Applicant - E2158  EPA RFI Response IEL P00001-05]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV27561 - Licensee Public Response.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a501bc85-b5ad-47c0-bc9c-c2143c7c5a7f.pdf</link>
-            <guid>https://leap.epa.ie/docs/a501bc85-b5ad-47c0-bc9c-c2143c7c5a7f.pdf</guid>
-            <pubDate>Mon, 17 Jul 2023 21:31:34 GMT</pubDate>
-            <description><![CDATA[SV27561 - Licensee Public Response.pdf]]></description>
-            <content:encoded><![CDATA[W0055-02 -- SRCL  Limited: SV27561 - Licensee Public Response.pdf]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Request for Further Information - LACT]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881fce.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280881fce.pdf</guid>
+            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information - LACT]]></description>
+            <content:encoded><![CDATA[P0089-06 -- Sigma-Aldrich Ireland Limited: Notification to Applicant Request for Further Information - LACT]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
