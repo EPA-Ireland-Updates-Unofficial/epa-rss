@@ -1,6 +1,6 @@
 "use strict";
-// Use this when the EPA site was down or generate.ts didn't run for a given day for some reason
-// Provide the number of days in the past you want to generate CSV for
+// Use this utility when the EPA site was down or generate.ts didn't run for a given number of days for some reason
+// Provide the number of days you want to generate CSV for as a parameter
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -16,7 +16,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     function verb(n) { return function (v) { return step([n, v]); }; }
     function step(op) {
         if (f) throw new TypeError("Generator is already executing.");
-        while (_) try {
+        while (g && (g = 0, op[0] && (_ = 0)), _) try {
             if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
             if (y = 0, t) op = [op[0] & 2, t.value];
             switch (op[0]) {
@@ -37,7 +37,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var sqlite3 = require("sqlite3");
 var sqlite_1 = require("sqlite");
 var fs = require("fs");
@@ -49,7 +49,7 @@ function dailyCSV(days) {
             switch (_a.label) {
                 case 0: return [4 /*yield*/, (0, sqlite_1.open)({
                         filename: "sqlite/epa-rss.sqlite",
-                        driver: sqlite3.Database
+                        driver: sqlite3.Database,
                     })];
                 case 1:
                     db = _a.sent();
@@ -75,6 +75,7 @@ function dailyCSV(days) {
                         "Item URL",
                         "Submitter URL",
                         "Main Page URL",
+                        "S3 URL",
                     ];
                     stringifier = (0, csv_stringify_1.stringify)({ header: true, columns: columns });
                     for (i = 0; i < result.length; i++) {
@@ -85,6 +86,7 @@ function dailyCSV(days) {
                             result[i].itemurl,
                             result[i].rsspageurl,
                             result[i].mainpageurl,
+                            result[i].items3url,
                         ]);
                     }
                     // Save the CSV file
@@ -107,10 +109,10 @@ function main() {
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0: 
-                // Generate daily RSS and CSV for two day ago's updates
+                // Generate daily CSV for specified number of past days
                 return [4 /*yield*/, dailyCSV(parseInt(process.argv[2]))];
                 case 1:
-                    // Generate daily RSS and CSV for two day ago's updates
+                    // Generate daily CSV for specified number of past days
                     _a.sent();
                     return [2 /*return*/];
             }

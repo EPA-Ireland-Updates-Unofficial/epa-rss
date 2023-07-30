@@ -34,6 +34,7 @@ async function dailyCSV(days: number) {
       "Item URL",
       "Submitter URL",
       "Main Page URL",
+      "S3 URL",
     ];
     let stringifier = stringify({ header: true, columns: columns });
 
@@ -45,6 +46,7 @@ async function dailyCSV(days: number) {
         result[i].itemurl,
         result[i].rsspageurl,
         result[i].mainpageurl,
+        result[i].items3url,
       ]);
     }
     // Save the CSV file
