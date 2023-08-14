@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sun, 13 Aug 2023 11:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 02:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,354 +16,372 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SW1 and GE1 Analysis March 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/dfc39334-98d7-4b11-b19e-286b1a7920d3.pdf</link>
-            <guid>https://leap.epa.ie/docs/dfc39334-98d7-4b11-b19e-286b1a7920d3.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:31:50 GMT</pubDate>
-            <description><![CDATA[SW1 and GE1 Analysis March 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0452-01 -- Adhesives Research Ireland Limited: SW1 and GE1 Analysis March 2023.pdf]]></content:encoded>
+            <title><![CDATA[Shutdown 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/12515379-3a90-4275-8357-fa94d5e8a08b.pdf</link>
+            <guid>https://leap.epa.ie/docs/12515379-3a90-4275-8357-fa94d5e8a08b.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:03 GMT</pubDate>
+            <description><![CDATA[Shutdown 2023.pdf]]></description>
+            <content:encoded><![CDATA[P1087-01 -- AbbVie Ireland NL B.V.: Shutdown 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Summer Holiday Period 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/795c85a2-baf2-413b-9c0e-4d48ec7db4a7.pdf</link>
-            <guid>https://leap.epa.ie/docs/795c85a2-baf2-413b-9c0e-4d48ec7db4a7.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:32:38 GMT</pubDate>
-            <description><![CDATA[Summer Holiday Period 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0835-01 -- ALPS Electric (Ireland) Limited: Summer Holiday Period 2023.pdf]]></content:encoded>
+            <title><![CDATA[EPA867 Bypass Qtr 2 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1105a466-8621-4630-aa92-fed23530793e.pdf</link>
+            <guid>https://leap.epa.ie/docs/1105a466-8621-4630-aa92-fed23530793e.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:36:23 GMT</pubDate>
+            <description><![CDATA[EPA867 Bypass Qtr 2 2023.pdf]]></description>
+            <content:encoded><![CDATA[P0110-03 -- Arran Chemical Company Limited: EPA867 Bypass Qtr 2 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27006 - Licensee Public Response.pdf]]></title>
-            <link>https://leap.epa.ie/docs/ca96940b-5e36-49d5-b157-432957e0cb7a.pdf</link>
-            <guid>https://leap.epa.ie/docs/ca96940b-5e36-49d5-b157-432957e0cb7a.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:34:10 GMT</pubDate>
-            <description><![CDATA[SV27006 - Licensee Public Response.pdf]]></description>
-            <content:encoded><![CDATA[P0035-07 -- Aughinish Alumina Limited: SV27006 - Licensee Public Response.pdf]]></content:encoded>
+            <title><![CDATA[REP-GE Whitegate=16-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/14267466-788f-4d1a-bc5d-b58b331f0e75.pdf</link>
+            <guid>https://leap.epa.ie/docs/14267466-788f-4d1a-bc5d-b58b331f0e75.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:46 GMT</pubDate>
+            <description><![CDATA[REP-GE Whitegate=16-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: REP-GE Whitegate=16-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[EPA IW Quarterly Results 2023 Q1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/877518cf-76df-427e-a369-3ef80377618d.pdf</link>
-            <guid>https://leap.epa.ie/docs/877518cf-76df-427e-a369-3ef80377618d.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:34:07 GMT</pubDate>
-            <description><![CDATA[EPA IW Quarterly Results 2023 Q1.pdf]]></description>
-            <content:encoded><![CDATA[P0725-02 -- Boston Scientific Limited: EPA IW Quarterly Results 2023 Q1.pdf]]></content:encoded>
+            <title><![CDATA[NOx Range 1 Linearity Test GE Whitegate-16-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/36038454-1c0d-491a-bef0-3b7ea16add33.pdf</link>
+            <guid>https://leap.epa.ie/docs/36038454-1c0d-491a-bef0-3b7ea16add33.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:43 GMT</pubDate>
+            <description><![CDATA[NOx Range 1 Linearity Test GE Whitegate-16-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: NOx Range 1 Linearity Test GE Whitegate-16-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27002 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8ae797a4-e69e-44d7-a633-f7e0e50becf7.pdf</link>
-            <guid>https://leap.epa.ie/docs/8ae797a4-e69e-44d7-a633-f7e0e50becf7.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:31:35 GMT</pubDate>
-            <description><![CDATA[SV27002 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[W0106-02 -- Bruscar Bhearna Teoranta: SV27002 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[CAL-GE Whitegate-16-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1dd423bc-1932-4677-be26-ef9c1a0ee0b9.pdf</link>
+            <guid>https://leap.epa.ie/docs/1dd423bc-1932-4677-be26-ef9c1a0ee0b9.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:06 GMT</pubDate>
+            <description><![CDATA[CAL-GE Whitegate-16-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: CAL-GE Whitegate-16-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Castlelost FlexGen Letter re second extension]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c20.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c20.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Castlelost FlexGen Letter re second extension]]></description>
-            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: Letter from Applicant - Castlelost FlexGen Letter re second extension]]></content:encoded>
+            <title><![CDATA[Installation of new stack sample ports.pdf]]></title>
+            <link>https://leap.epa.ie/docs/32b84d07-2b09-43dd-96c6-79740e9e7142.pdf</link>
+            <guid>https://leap.epa.ie/docs/32b84d07-2b09-43dd-96c6-79740e9e7142.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:38 GMT</pubDate>
+            <description><![CDATA[Installation of new stack sample ports.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: Installation of new stack sample ports.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information - Chemoran Shared services]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886b6d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886b6d.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information - Chemoran Shared services]]></description>
-            <content:encoded><![CDATA[P1169-01 -- Chemoran Limited: Unsolicited Additional Information - Chemoran Shared services]]></content:encoded>
+            <title><![CDATA[CO2  Linearity Test-GE Whitegate-17-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/63a732d2-9a51-4c04-a5ab-3a48bde9829e.pdf</link>
+            <guid>https://leap.epa.ie/docs/63a732d2-9a51-4c04-a5ab-3a48bde9829e.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:14 GMT</pubDate>
+            <description><![CDATA[CO2  Linearity Test-GE Whitegate-17-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: CO2  Linearity Test-GE Whitegate-17-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c21.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c21.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
-            <content:encoded><![CDATA[P1169-01 -- Chemoran Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <title><![CDATA[SV27987 - Licensee Public Response_2.pdf]]></title>
+            <link>https://leap.epa.ie/docs/69172788-9092-42a0-bfe1-9aab3e54e34f.pdf</link>
+            <guid>https://leap.epa.ie/docs/69172788-9092-42a0-bfe1-9aab3e54e34f.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:37:19 GMT</pubDate>
+            <description><![CDATA[SV27987 - Licensee Public Response_2.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: SV27987 - Licensee Public Response_2.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 45]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886ad6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886ad6.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 45]]></description>
-            <content:encoded><![CDATA[P1165-01 -- Data And Power Hub Services Limited: Reminder Email (RFI Overdue)  - Reg 14(2) Notice 45]]></content:encoded>
+            <title><![CDATA[Wet O2 Linearity Test GE Whitegate-17-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/6da9ce0c-2e3f-4486-98b1-45973af70ae0.pdf</link>
+            <guid>https://leap.epa.ie/docs/6da9ce0c-2e3f-4486-98b1-45973af70ae0.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:48 GMT</pubDate>
+            <description><![CDATA[Wet O2 Linearity Test GE Whitegate-17-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: Wet O2 Linearity Test GE Whitegate-17-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Reminder Email (upcoming due date) - Reg 10(2)(b)(ii) notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886ad5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886ad5.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date) - Reg 10(2)(b)(ii) notice]]></description>
-            <content:encoded><![CDATA[P1024-02 -- Doon Farm Enterprises Limited: Reminder Email (upcoming due date) - Reg 10(2)(b)(ii) notice]]></content:encoded>
+            <title><![CDATA[Dry O2 Linearity Test GE Whitegate-17-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/965eeb3a-c3c3-4042-a3f3-27b05296c90e.pdf</link>
+            <guid>https://leap.epa.ie/docs/965eeb3a-c3c3-4042-a3f3-27b05296c90e.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:33 GMT</pubDate>
+            <description><![CDATA[Dry O2 Linearity Test GE Whitegate-17-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: Dry O2 Linearity Test GE Whitegate-17-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Circulation of Register to Local Authority]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc6.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Circulation of Register to Local Authority]]></description>
-            <content:encoded><![CDATA[P0355-02 -- Earrai Coillte Chonnacht Teoranta: Circulation of Register to Local Authority]]></content:encoded>
+            <title><![CDATA[SV27987 - Licensee Public Response_7.pdf]]></title>
+            <link>https://leap.epa.ie/docs/96df1ef6-416f-4a56-add3-240c05155296.pdf</link>
+            <guid>https://leap.epa.ie/docs/96df1ef6-416f-4a56-add3-240c05155296.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:39:04 GMT</pubDate>
+            <description><![CDATA[SV27987 - Licensee Public Response_7.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: SV27987 - Licensee Public Response_7.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register - LACT00014249]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc7.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register - LACT00014249]]></description>
-            <content:encoded><![CDATA[P0355-02 -- Earrai Coillte Chonnacht Teoranta: Notification to Planning Authority - Register - LACT00014249]]></content:encoded>
+            <title><![CDATA[NOx Range 2 Linearity Test GE Whitegate-16-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9cee8ce6-20e1-4de5-94c1-1dc557c6007f.pdf</link>
+            <guid>https://leap.epa.ie/docs/9cee8ce6-20e1-4de5-94c1-1dc557c6007f.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:44 GMT</pubDate>
+            <description><![CDATA[NOx Range 2 Linearity Test GE Whitegate-16-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: NOx Range 2 Linearity Test GE Whitegate-16-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Register of Licence]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc8.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Register of Licence]]></description>
-            <content:encoded><![CDATA[P0355-02 -- Earrai Coillte Chonnacht Teoranta: Register of Licence]]></content:encoded>
+            <title><![CDATA[NOx C.E. Test-GE Whitegate 16-05-23 Pre.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9d6b4113-04b7-40b0-a778-ddef539ca7a9.pdf</link>
+            <guid>https://leap.epa.ie/docs/9d6b4113-04b7-40b0-a778-ddef539ca7a9.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:42 GMT</pubDate>
+            <description><![CDATA[NOx C.E. Test-GE Whitegate 16-05-23 Pre.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: NOx C.E. Test-GE Whitegate 16-05-23 Pre.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[GLANWAY Odour cert - July.pdf]]></title>
-            <link>https://leap.epa.ie/docs/cab7b634-8a39-4ee5-8c52-b10e83c1d5b3.pdf</link>
-            <guid>https://leap.epa.ie/docs/cab7b634-8a39-4ee5-8c52-b10e83c1d5b3.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:33:24 GMT</pubDate>
-            <description><![CDATA[GLANWAY Odour cert - July.pdf]]></description>
-            <content:encoded><![CDATA[P1015-03 -- Glanway Limited: GLANWAY Odour cert - July.pdf]]></content:encoded>
+            <title><![CDATA[EPA Air Focus Visit 05.07.23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9e1f47ea-8e15-4014-ae79-862cad6aa947.pdf</link>
+            <guid>https://leap.epa.ie/docs/9e1f47ea-8e15-4014-ae79-862cad6aa947.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:34 GMT</pubDate>
+            <description><![CDATA[EPA Air Focus Visit 05.07.23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: EPA Air Focus Visit 05.07.23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[GLANWAY Odour cert - June.pdf]]></title>
-            <link>https://leap.epa.ie/docs/3764f448-5845-4ce5-836c-bb7e81a6142f.pdf</link>
-            <guid>https://leap.epa.ie/docs/3764f448-5845-4ce5-836c-bb7e81a6142f.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:33:25 GMT</pubDate>
-            <description><![CDATA[GLANWAY Odour cert - June.pdf]]></description>
-            <content:encoded><![CDATA[P1015-03 -- Glanway Limited: GLANWAY Odour cert - June.pdf]]></content:encoded>
+            <title><![CDATA[CEMS Operations Checks.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3b56c65e-dec1-4d51-82a9-7253379cd164.pdf</link>
+            <guid>https://leap.epa.ie/docs/3b56c65e-dec1-4d51-82a9-7253379cd164.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:09 GMT</pubDate>
+            <description><![CDATA[CEMS Operations Checks.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: CEMS Operations Checks.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[GLANWAY Odour cert - May.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fc67b9af-0ba3-4cd4-bb87-3643daa30a2a.pdf</link>
-            <guid>https://leap.epa.ie/docs/fc67b9af-0ba3-4cd4-bb87-3643daa30a2a.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:33:27 GMT</pubDate>
-            <description><![CDATA[GLANWAY Odour cert - May.pdf]]></description>
-            <content:encoded><![CDATA[P1015-03 -- Glanway Limited: GLANWAY Odour cert - May.pdf]]></content:encoded>
+            <title><![CDATA[NOx C.E. Test-GE Whitegate 16-05-23 Post.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3d5f51c7-9e09-46de-81ee-6379034833a8.pdf</link>
+            <guid>https://leap.epa.ie/docs/3d5f51c7-9e09-46de-81ee-6379034833a8.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:40 GMT</pubDate>
+            <description><![CDATA[NOx C.E. Test-GE Whitegate 16-05-23 Post.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: NOx C.E. Test-GE Whitegate 16-05-23 Post.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Independent 11th Aug Redacted]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886b3f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886b3f.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Independent 11th Aug Redacted]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Independent 11th Aug Redacted]]></content:encoded>
+            <title><![CDATA[SV27987 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5b8169d5-46e8-4ee7-9658-4b0739505edc.pdf</link>
+            <guid>https://leap.epa.ie/docs/5b8169d5-46e8-4ee7-9658-4b0739505edc.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:31:40 GMT</pubDate>
+            <description><![CDATA[SV27987 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: SV27987 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Stormwater trigger values test results.pdf]]></title>
-            <link>https://leap.epa.ie/docs/440e636b-98e0-465b-9533-0b6ab947c6e5.pdf</link>
-            <guid>https://leap.epa.ie/docs/440e636b-98e0-465b-9533-0b6ab947c6e5.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:32:50 GMT</pubDate>
-            <description><![CDATA[Stormwater trigger values test results.pdf]]></description>
-            <content:encoded><![CDATA[P0141-03 -- Info-Lab Limited: Stormwater trigger values test results.pdf]]></content:encoded>
+            <title><![CDATA[SO2  Linearity Test-GE Whitegate-17-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/89c48567-37e8-4fc2-82ae-426824093fac.pdf</link>
+            <guid>https://leap.epa.ie/docs/89c48567-37e8-4fc2-82ae-426824093fac.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:47 GMT</pubDate>
+            <description><![CDATA[SO2  Linearity Test-GE Whitegate-17-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: SO2  Linearity Test-GE Whitegate-17-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[INFATL12111022 Air Emissions Report Version 1 App.pdf]]></title>
-            <link>https://leap.epa.ie/docs/46e4f545-44c0-4cca-b663-07458cb6a552.pdf</link>
-            <guid>https://leap.epa.ie/docs/46e4f545-44c0-4cca-b663-07458cb6a552.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:32:49 GMT</pubDate>
-            <description><![CDATA[INFATL12111022 Air Emissions Report Version 1 App.pdf]]></description>
-            <content:encoded><![CDATA[P0141-03 -- Info-Lab Limited: INFATL12111022 Air Emissions Report Version 1 App.pdf]]></content:encoded>
+            <title><![CDATA[SV27987 - Licensee Public Response_6.pdf]]></title>
+            <link>https://leap.epa.ie/docs/99ac3e4a-b021-435e-813d-713a9dc31a22.pdf</link>
+            <guid>https://leap.epa.ie/docs/99ac3e4a-b021-435e-813d-713a9dc31a22.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:39:02 GMT</pubDate>
+            <description><![CDATA[SV27987 - Licensee Public Response_6.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: SV27987 - Licensee Public Response_6.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2023 haz waste analysis.xlsx]]></title>
-            <link>https://leap.epa.ie/docs/b3c8c1cb-30d9-431f-bc21-e85235e76244.pdf</link>
-            <guid>https://leap.epa.ie/docs/b3c8c1cb-30d9-431f-bc21-e85235e76244.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:32:43 GMT</pubDate>
-            <description><![CDATA[2023 haz waste analysis.xlsx]]></description>
-            <content:encoded><![CDATA[P0141-03 -- Info-Lab Limited: 2023 haz waste analysis.xlsx]]></content:encoded>
+            <title><![CDATA[SV27987 - Licensee Public Response_5.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a5f373d9-7d40-483f-abbf-5347a1ac4bad.pdf</link>
+            <guid>https://leap.epa.ie/docs/a5f373d9-7d40-483f-abbf-5347a1ac4bad.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:38:59 GMT</pubDate>
+            <description><![CDATA[SV27987 - Licensee Public Response_5.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: SV27987 - Licensee Public Response_5.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[U13 bunded area - Checked monthly.pdf]]></title>
-            <link>https://leap.epa.ie/docs/ce472145-2df1-4d08-ae3a-a957318152a8.pdf</link>
-            <guid>https://leap.epa.ie/docs/ce472145-2df1-4d08-ae3a-a957318152a8.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:32:56 GMT</pubDate>
-            <description><![CDATA[U13 bunded area - Checked monthly.pdf]]></description>
-            <content:encoded><![CDATA[P0141-03 -- Info-Lab Limited: U13 bunded area - Checked monthly.pdf]]></content:encoded>
+            <title><![CDATA[Combined 3-day run.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ab1bfdf5-912e-469c-a832-a1127187d22b.pdf</link>
+            <guid>https://leap.epa.ie/docs/ab1bfdf5-912e-469c-a832-a1127187d22b.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:31 GMT</pubDate>
+            <description><![CDATA[Combined 3-day run.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: Combined 3-day run.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Waste to landfill  recyled.pdf]]></title>
-            <link>https://leap.epa.ie/docs/67aa5bb5-905a-4457-beaa-ee09c3a0b961.pdf</link>
-            <guid>https://leap.epa.ie/docs/67aa5bb5-905a-4457-beaa-ee09c3a0b961.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:33:04 GMT</pubDate>
-            <description><![CDATA[Waste to landfill  recyled.pdf]]></description>
-            <content:encoded><![CDATA[P0141-03 -- Info-Lab Limited: Waste to landfill  recyled.pdf]]></content:encoded>
+            <title><![CDATA[SV27987 - Licensee Public Response.pdf]]></title>
+            <link>https://leap.epa.ie/docs/b135fed7-1779-4daa-8a7a-6baa24da383d.pdf</link>
+            <guid>https://leap.epa.ie/docs/b135fed7-1779-4daa-8a7a-6baa24da383d.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:37:16 GMT</pubDate>
+            <description><![CDATA[SV27987 - Licensee Public Response.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: SV27987 - Licensee Public Response.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Examiner Newspaper Notice redacted]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886b51.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886b51.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Examiner Newspaper Notice redacted]]></description>
-            <content:encoded><![CDATA[P0407-02 -- Irish Pioneer Works (Fabricators) Limited: Examiner Newspaper Notice redacted]]></content:encoded>
+            <title><![CDATA[SV27987 - Licensee Public Response_3.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d156536c-a9db-4874-90bb-35f44550160f.pdf</link>
+            <guid>https://leap.epa.ie/docs/d156536c-a9db-4874-90bb-35f44550160f.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:38:46 GMT</pubDate>
+            <description><![CDATA[SV27987 - Licensee Public Response_3.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: SV27987 - Licensee Public Response_3.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26981 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/026d1fbd-71dc-4d9e-b65f-1cd72c1e1f75.pdf</link>
-            <guid>https://leap.epa.ie/docs/026d1fbd-71dc-4d9e-b65f-1cd72c1e1f75.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:31:31 GMT</pubDate>
-            <description><![CDATA[SV26981 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P1153-01 -- James Jordan: SV26981 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[CO Range 1 Linearity Test-GE Whitegate-17-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f8f97407-ad4e-4dec-9f6c-88fdf9518fe4.pdf</link>
+            <guid>https://leap.epa.ie/docs/f8f97407-ad4e-4dec-9f6c-88fdf9518fe4.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:11 GMT</pubDate>
+            <description><![CDATA[CO Range 1 Linearity Test-GE Whitegate-17-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: CO Range 1 Linearity Test-GE Whitegate-17-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P0818-04_air_Apr_2023_rpt.pdf]]></title>
-            <link>https://leap.epa.ie/docs/adf0d438-461f-411d-a143-752c89783439.pdf</link>
-            <guid>https://leap.epa.ie/docs/adf0d438-461f-411d-a143-752c89783439.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:32:02 GMT</pubDate>
-            <description><![CDATA[P0818-04_air_Apr_2023_rpt.pdf]]></description>
-            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: P0818-04_air_Apr_2023_rpt.pdf]]></content:encoded>
+            <title><![CDATA[SV27987 - Licensee Public Response_4.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d979d4a4-3536-4f84-8931-bf6d2bceb03b.pdf</link>
+            <guid>https://leap.epa.ie/docs/d979d4a4-3536-4f84-8931-bf6d2bceb03b.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:38:57 GMT</pubDate>
+            <description><![CDATA[SV27987 - Licensee Public Response_4.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: SV27987 - Licensee Public Response_4.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c09.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c09.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
-            <content:encoded><![CDATA[P1060-02 -- Mallinckrodt Pharmaceuticals Ireland Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <title><![CDATA[CO Range 2 Linearity Test-GE Whitegate-17-05-23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ffb3078d-d7af-40e2-bcd3-5993fc50910b.pdf</link>
+            <guid>https://leap.epa.ie/docs/ffb3078d-d7af-40e2-bcd3-5993fc50910b.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:12 GMT</pubDate>
+            <description><![CDATA[CO Range 2 Linearity Test-GE Whitegate-17-05-23.pdf]]></description>
+            <content:encoded><![CDATA[P0830-02 -- Bord Gais Energy Ltd: CO Range 2 Linearity Test-GE Whitegate-17-05-23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register - LACT00014252]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c0a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c0a.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register - LACT00014252]]></description>
-            <content:encoded><![CDATA[P1060-02 -- Mallinckrodt Pharmaceuticals Ireland Limited: Notification to Planning Authority - Register - LACT00014252]]></content:encoded>
+            <title><![CDATA[Tonnage Report 010123-300623 W0104-04.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f02aac71-bbc3-402b-9b1b-f2ae30b1243c.pdf</link>
+            <guid>https://leap.epa.ie/docs/f02aac71-bbc3-402b-9b1b-f2ae30b1243c.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:36:21 GMT</pubDate>
+            <description><![CDATA[Tonnage Report 010123-300623 W0104-04.pdf]]></description>
+            <content:encoded><![CDATA[W0104-04 -- Bord Na Móna Recycling Limited: Tonnage Report 010123-300623 W0104-04.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1060-02 Register of Licence 2]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c0b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886c0b.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[P1060-02 Register of Licence 2]]></description>
-            <content:encoded><![CDATA[P1060-02 -- Mallinckrodt Pharmaceuticals Ireland Limited: P1060-02 Register of Licence 2]]></content:encoded>
+            <title><![CDATA[Tonnage Report 010123-300623 W0194-02.pdf]]></title>
+            <link>https://leap.epa.ie/docs/64f2cacc-605c-41aa-b7e7-4ddfd52dc8be.pdf</link>
+            <guid>https://leap.epa.ie/docs/64f2cacc-605c-41aa-b7e7-4ddfd52dc8be.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:36:19 GMT</pubDate>
+            <description><![CDATA[Tonnage Report 010123-300623 W0194-02.pdf]]></description>
+            <content:encoded><![CDATA[W0194-02 -- Bord Na Móna Recycling Limited: Tonnage Report 010123-300623 W0194-02.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27774 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/c8c2a7ae-2c5f-4898-9e75-691d7e2340d0.pdf</link>
-            <guid>https://leap.epa.ie/docs/c8c2a7ae-2c5f-4898-9e75-691d7e2340d0.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:31:26 GMT</pubDate>
-            <description><![CDATA[SV27774 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0842-01 -- Mr Andy Boylan: SV27774 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[CCREPA_270_cumulative_figure.pdf]]></title>
+            <link>https://leap.epa.ie/docs/201ddc21-ef04-4739-9458-a3eff9249eb6.pdf</link>
+            <guid>https://leap.epa.ie/docs/201ddc21-ef04-4739-9458-a3eff9249eb6.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:33:01 GMT</pubDate>
+            <description><![CDATA[CCREPA_270_cumulative_figure.pdf]]></description>
+            <content:encoded><![CDATA[W0257-01 -- Country Clean Recycling Unlimited Company: CCREPA_270_cumulative_figure.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27755 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5047aaa3-235c-46a9-a62d-6f4945921d00.pdf</link>
-            <guid>https://leap.epa.ie/docs/5047aaa3-235c-46a9-a62d-6f4945921d00.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:31:22 GMT</pubDate>
-            <description><![CDATA[SV27755 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0954-01 -- Mr Michael Duffy: SV27755 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[SV27739 - Licensee Public Response.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f40fcd50-5eb0-4d29-b905-7e9beeb1c491.pdf</link>
+            <guid>https://leap.epa.ie/docs/f40fcd50-5eb0-4d29-b905-7e9beeb1c491.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:36:25 GMT</pubDate>
+            <description><![CDATA[SV27739 - Licensee Public Response.pdf]]></description>
+            <content:encoded><![CDATA[P0480-02 -- Dublin Aerospace Limited: SV27739 - Licensee Public Response.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[EPA RFI - PID use.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d5a5e0ae-3dbb-40ce-97aa-5266d3988dbb.pdf</link>
-            <guid>https://leap.epa.ie/docs/d5a5e0ae-3dbb-40ce-97aa-5266d3988dbb.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:33:36 GMT</pubDate>
-            <description><![CDATA[EPA RFI - PID use.pdf]]></description>
-            <content:encoded><![CDATA[P0012-06 -- Roche Ireland Limited: EPA RFI - PID use.pdf]]></content:encoded>
+            <title><![CDATA[SV27739 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/feec4ed7-e452-4be0-899f-37ef6c1ea666.pdf</link>
+            <guid>https://leap.epa.ie/docs/feec4ed7-e452-4be0-899f-37ef6c1ea666.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:31:20 GMT</pubDate>
+            <description><![CDATA[SV27739 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0480-02 -- Dublin Aerospace Limited: SV27739 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-40010-1 Shannonside 2Q2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/0480639e-a081-49ea-bb85-fbbf3fe6cbef.pdf</link>
-            <guid>https://leap.epa.ie/docs/0480639e-a081-49ea-bb85-fbbf3fe6cbef.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:33:32 GMT</pubDate>
-            <description><![CDATA[23-40010-1 Shannonside 2Q2023.pdf]]></description>
-            <content:encoded><![CDATA[P0319-01 -- Shannonside Building Supplies Limited: 23-40010-1 Shannonside 2Q2023.pdf]]></content:encoded>
+            <title><![CDATA[Temporary Generator 500kVA Gen XAVR.pdf]]></title>
+            <link>https://leap.epa.ie/docs/83066ba5-ac76-41ca-90e6-90b5ac6c5c70.pdf</link>
+            <guid>https://leap.epa.ie/docs/83066ba5-ac76-41ca-90e6-90b5ac6c5c70.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:33:03 GMT</pubDate>
+            <description><![CDATA[Temporary Generator 500kVA Gen XAVR.pdf]]></description>
+            <content:encoded><![CDATA[P0605-04 -- Electricity Supply Board: Temporary Generator 500kVA Gen XAVR.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SDCC Public Response to SV27077 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/3f51cfa2-c182-49b1-a194-73a6255a87d5.pdf</link>
-            <guid>https://leap.epa.ie/docs/3f51cfa2-c182-49b1-a194-73a6255a87d5.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:32:40 GMT</pubDate>
-            <description><![CDATA[SDCC Public Response to SV27077 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0003-03 -- South Dublin County Council: SDCC Public Response to SV27077 Report.pdf]]></content:encoded>
+            <title><![CDATA[Eli Lilly Q1-2023 RTO By-pass Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2e83610a-1672-4b8d-9165-956da42e60e3.pdf</link>
+            <guid>https://leap.epa.ie/docs/2e83610a-1672-4b8d-9165-956da42e60e3.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:31:20 GMT</pubDate>
+            <description><![CDATA[Eli Lilly Q1-2023 RTO By-pass Report.pdf]]></description>
+            <content:encoded><![CDATA[P0009-05 -- Eli Lilly Kinsale Limited: Eli Lilly Q1-2023 RTO By-pass Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Submission - Snapshot - Submission No S011271  - P1201-01 - John Moynihan]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc4.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Submission - Snapshot - Submission No S011271  - P1201-01 - John Moynihan]]></description>
-            <content:encoded><![CDATA[P1201-01 -- SSE Generation Ireland Limited: Submission - Snapshot - Submission No S011271  - P1201-01 - John Moynihan]]></content:encoded>
+            <title><![CDATA[P0777-02 Huntstown Phase 2 DLN Proposal.pdf]]></title>
+            <link>https://leap.epa.ie/docs/33df54ed-6ab6-4599-9b72-6729234c92ec.pdf</link>
+            <guid>https://leap.epa.ie/docs/33df54ed-6ab6-4599-9b72-6729234c92ec.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:50 GMT</pubDate>
+            <description><![CDATA[P0777-02 Huntstown Phase 2 DLN Proposal.pdf]]></description>
+            <content:encoded><![CDATA[P0777-02 -- Energia Power Generation Limited: P0777-02 Huntstown Phase 2 DLN Proposal.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Submission - Snapshot - Submission No S011272  - P1201-01 - Maryanne Horgan]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc5.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Submission - Snapshot - Submission No S011272  - P1201-01 - Maryanne Horgan]]></description>
-            <content:encoded><![CDATA[P1201-01 -- SSE Generation Ireland Limited: Submission - Snapshot - Submission No S011272  - P1201-01 - Maryanne Horgan]]></content:encoded>
+            <title><![CDATA[Odour analysis summary June 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/19a46f05-84c9-4b63-8623-3d4610cf1a49.pdf</link>
+            <guid>https://leap.epa.ie/docs/19a46f05-84c9-4b63-8623-3d4610cf1a49.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:36:12 GMT</pubDate>
+            <description><![CDATA[Odour analysis summary June 2023.pdf]]></description>
+            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: Odour analysis summary June 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[S011271 Submission Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bc9.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[S011271 Submission Notice]]></description>
-            <content:encoded><![CDATA[P1201-01 -- SSE Generation Ireland Limited: S011271 Submission Notice]]></content:encoded>
+            <title><![CDATA[Section 18.png]]></title>
+            <link>https://leap.epa.ie/docs/27294f96-571e-4e15-8f95-bcef3ae0f82c.pdf</link>
+            <guid>https://leap.epa.ie/docs/27294f96-571e-4e15-8f95-bcef3ae0f82c.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:33:07 GMT</pubDate>
+            <description><![CDATA[Section 18.png]]></description>
+            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: Section 18.png]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[S011272 Submission Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bca.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280886bca.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[S011272 Submission Notice]]></description>
-            <content:encoded><![CDATA[P1201-01 -- SSE Generation Ireland Limited: S011272 Submission Notice]]></content:encoded>
+            <title><![CDATA[Daily odour assseesments June.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e39e7a6d-f30a-48e3-ace9-12549bd5c728.pdf</link>
+            <guid>https://leap.epa.ie/docs/e39e7a6d-f30a-48e3-ace9-12549bd5c728.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:36:11 GMT</pubDate>
+            <description><![CDATA[Daily odour assseesments June.pdf]]></description>
+            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: Daily odour assseesments June.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P0359-03_SW3 Trigger Values_Update 2023_Rev 01.pdf]]></title>
-            <link>https://leap.epa.ie/docs/4189256f-db27-4b99-ab09-c6ec23aa9cb0.pdf</link>
-            <guid>https://leap.epa.ie/docs/4189256f-db27-4b99-ab09-c6ec23aa9cb0.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:33:10 GMT</pubDate>
-            <description><![CDATA[P0359-03_SW3 Trigger Values_Update 2023_Rev 01.pdf]]></description>
-            <content:encoded><![CDATA[P0359-03 -- Tirlán Limited: P0359-03_SW3 Trigger Values_Update 2023_Rev 01.pdf]]></content:encoded>
+            <title><![CDATA[P0483-04 Huntstown Phase 1 DLN Proposal.pdf]]></title>
+            <link>https://leap.epa.ie/docs/eacaed19-2e9b-4605-9cd6-23de5ab5fb28.pdf</link>
+            <guid>https://leap.epa.ie/docs/eacaed19-2e9b-4605-9cd6-23de5ab5fb28.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:32:54 GMT</pubDate>
+            <description><![CDATA[P0483-04 Huntstown Phase 1 DLN Proposal.pdf]]></description>
+            <content:encoded><![CDATA[P0483-04 -- Huntstown Power Company Limited: P0483-04 Huntstown Phase 1 DLN Proposal.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Ballyragget SW3 Trigger Values_Rev01.xlsx]]></title>
-            <link>https://leap.epa.ie/docs/90170b59-8156-461c-8290-2932045a0465.pdf</link>
-            <guid>https://leap.epa.ie/docs/90170b59-8156-461c-8290-2932045a0465.pdf</guid>
-            <pubDate>Fri, 11 Aug 2023 21:33:08 GMT</pubDate>
-            <description><![CDATA[Ballyragget SW3 Trigger Values_Rev01.xlsx]]></description>
-            <content:encoded><![CDATA[P0359-03 -- Tirlán Limited: Ballyragget SW3 Trigger Values_Rev01.xlsx]]></content:encoded>
+            <title><![CDATA[Q2 Ambient Dust Monitoring SLR.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3f760cbf-07e3-40d4-9675-834ae31887c2.pdf</link>
+            <guid>https://leap.epa.ie/docs/3f760cbf-07e3-40d4-9675-834ae31887c2.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:36:15 GMT</pubDate>
+            <description><![CDATA[Q2 Ambient Dust Monitoring SLR.pdf]]></description>
+            <content:encoded><![CDATA[P1076-01 -- KMK Metals Recycling Limited: Q2 Ambient Dust Monitoring SLR.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Water Checks for week commencing 03 July 2023.xlsx]]></title>
+            <link>https://leap.epa.ie/docs/06015978-ccb6-4c85-a2d8-13b6a9761781.pdf</link>
+            <guid>https://leap.epa.ie/docs/06015978-ccb6-4c85-a2d8-13b6a9761781.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:31:51 GMT</pubDate>
+            <description><![CDATA[Water Checks for week commencing 03 July 2023.xlsx]]></description>
+            <content:encoded><![CDATA[P0088-04 -- Vedanta Lisheen Mining Limited: Water Checks for week commencing 03 July 2023.xlsx]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lisheen TMF Inspection June 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/4d345dc0-c1a1-4e77-8957-cb2bf79087cd.pdf</link>
+            <guid>https://leap.epa.ie/docs/4d345dc0-c1a1-4e77-8957-cb2bf79087cd.pdf</guid>
+            <pubDate>Sat, 12 Aug 2023 21:31:37 GMT</pubDate>
+            <description><![CDATA[Lisheen TMF Inspection June 2023.pdf]]></description>
+            <content:encoded><![CDATA[P0088-04 -- Vedanta Lisheen Mining Limited: Lisheen TMF Inspection June 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
