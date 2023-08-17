@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 16 Aug 2023 08:02:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 07:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,201 +16,66 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[AA Screening - Public Notice - LACT00014217]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872b3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872b3.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[AA Screening - Public Notice - LACT00014217]]></description>
-            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: AA Screening - Public Notice - LACT00014217]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00014261]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808875f3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808875f3.pdf</guid>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00014261]]></description>
+            <content:encoded><![CDATA[P1165-01 -- Data And Power Hub Services Limited: Notification to Applicant Extension Request - LACT00014261]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AA Screening Determination - LACT00014217]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872b4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872b4.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[AA Screening Determination - LACT00014217]]></description>
-            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: AA Screening Determination - LACT00014217]]></content:encoded>
+            <title><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0001200914-08]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887625.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887625.pdf</guid>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0001200914-08]]></description>
+            <content:encoded><![CDATA[P1024-02 -- Doon Farm Enterprises Limited: Notification to Applicant - RFI Ext. Consent - LACT0001200914-08]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AA Screening - Notification - Submitters - P0076-02]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872b5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872b5.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[AA Screening - Notification - Submitters - P0076-02]]></description>
-            <content:encoded><![CDATA[P0076-02 -- Chemifloc Limited: AA Screening - Notification - Submitters - P0076-02]]></content:encoded>
+            <title><![CDATA[Effluent 2023.xlsx]]></title>
+            <link>https://leap.epa.ie/docs/25cce7e8-62f8-485c-8990-10b8d65bcb2c.pdf</link>
+            <guid>https://leap.epa.ie/docs/25cce7e8-62f8-485c-8990-10b8d65bcb2c.pdf</guid>
+            <pubDate>Tue, 15 Aug 2023 14:24:41 GMT</pubDate>
+            <description><![CDATA[Effluent 2023.xlsx]]></description>
+            <content:encoded><![CDATA[P0141-03 -- Info-Lab Limited: Effluent 2023.xlsx]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Let EPA 14082023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088730a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088730a.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Let EPA 14082023]]></description>
-            <content:encoded><![CDATA[P1024-02 -- Doon Farm Enterprises Limited: Letter from Applicant - Let EPA 14082023]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00014263]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808875f4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808875f4.pdf</guid>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00014263]]></description>
+            <content:encoded><![CDATA[P1176-01 -- Mr. Killian Smith: Notification to Applicant Extension Request - LACT00014263]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00014259]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088739e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088739e.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00014259]]></description>
-            <content:encoded><![CDATA[P1013-02 -- Enrich Environmental Limited: Notification to Applicant Extension Request - LACT00014259]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - let.epa.15082023 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887716.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887716.pdf</guid>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - let.epa.15082023 1]]></description>
+            <content:encoded><![CDATA[P1176-01 -- Mr. Killian Smith: Letter from Applicant - let.epa.15082023 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[EPA Split Sample - Monthly (20-03-2023).pdf]]></title>
-            <link>https://leap.epa.ie/docs/06a12f4e-f0ec-4a84-86be-e76cd0f20836.pdf</link>
-            <guid>https://leap.epa.ie/docs/06a12f4e-f0ec-4a84-86be-e76cd0f20836.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:35:03 GMT</pubDate>
-            <description><![CDATA[EPA Split Sample - Monthly (20-03-2023).pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: EPA Split Sample - Monthly (20-03-2023).pdf]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00014264]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887605.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887605.pdf</guid>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00014264]]></description>
+            <content:encoded><![CDATA[P1132-02 -- S. Wilkin And Sons Limited: Notification to Applicant Extension Request - LACT00014264]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Q4 2022 Env Mon Cover Letter (17-02-2023).pdf]]></title>
-            <link>https://leap.epa.ie/docs/01576d5a-4b11-4766-9d7c-465662a0b2f5.pdf</link>
-            <guid>https://leap.epa.ie/docs/01576d5a-4b11-4766-9d7c-465662a0b2f5.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:31:33 GMT</pubDate>
-            <description><![CDATA[Q4 2022 Env Mon Cover Letter (17-02-2023).pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: Q4 2022 Env Mon Cover Letter (17-02-2023).pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[WTL Split Sample - Quarterly (21-03-2023).pdf]]></title>
-            <link>https://leap.epa.ie/docs/11482fc3-71de-4b82-a793-ca60e148d848.pdf</link>
-            <guid>https://leap.epa.ie/docs/11482fc3-71de-4b82-a793-ca60e148d848.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:35:12 GMT</pubDate>
-            <description><![CDATA[WTL Split Sample - Quarterly (21-03-2023).pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: WTL Split Sample - Quarterly (21-03-2023).pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[GMC Sewer Monitoring Submission Q4 2022.pdf]]></title>
-            <link>https://leap.epa.ie/docs/77a4879a-d3ba-44d7-9672-83a82958718c.pdf</link>
-            <guid>https://leap.epa.ie/docs/77a4879a-d3ba-44d7-9672-83a82958718c.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:31:29 GMT</pubDate>
-            <description><![CDATA[GMC Sewer Monitoring Submission Q4 2022.pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: GMC Sewer Monitoring Submission Q4 2022.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Site Visit SV26691 Response (22-06-2023) .pdf]]></title>
-            <link>https://leap.epa.ie/docs/871bc137-7a5e-495a-b911-860ccbafb8ed.pdf</link>
-            <guid>https://leap.epa.ie/docs/871bc137-7a5e-495a-b911-860ccbafb8ed.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:35:08 GMT</pubDate>
-            <description><![CDATA[Site Visit SV26691 Response (22-06-2023) .pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: Site Visit SV26691 Response (22-06-2023) .pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[GMC SE-1 Monthly (09-03-2023).pdf]]></title>
-            <link>https://leap.epa.ie/docs/a30a8f4c-3dd3-4d90-945c-7734a2ce7c69.pdf</link>
-            <guid>https://leap.epa.ie/docs/a30a8f4c-3dd3-4d90-945c-7734a2ce7c69.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:35:06 GMT</pubDate>
-            <description><![CDATA[GMC SE-1 Monthly (09-03-2023).pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: GMC SE-1 Monthly (09-03-2023).pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV26691 - Licensee Public Response.pdf]]></title>
-            <link>https://leap.epa.ie/docs/1e15b867-1e53-4832-b226-e543a513e896.pdf</link>
-            <guid>https://leap.epa.ie/docs/1e15b867-1e53-4832-b226-e543a513e896.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:34:58 GMT</pubDate>
-            <description><![CDATA[SV26691 - Licensee Public Response.pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: SV26691 - Licensee Public Response.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[EPA Split Sample - Quarterly (20-03-2023).pdf]]></title>
-            <link>https://leap.epa.ie/docs/98931a26-3eb1-4b34-9a9d-416555ea483f.pdf</link>
-            <guid>https://leap.epa.ie/docs/98931a26-3eb1-4b34-9a9d-416555ea483f.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:35:05 GMT</pubDate>
-            <description><![CDATA[EPA Split Sample - Quarterly (20-03-2023).pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: EPA Split Sample - Quarterly (20-03-2023).pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[WTL Split Sample - Monthly (21-03-2023).pdf]]></title>
-            <link>https://leap.epa.ie/docs/e15a9fdc-c199-414d-8e06-ac2fe42e77ea.pdf</link>
-            <guid>https://leap.epa.ie/docs/e15a9fdc-c199-414d-8e06-ac2fe42e77ea.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:35:10 GMT</pubDate>
-            <description><![CDATA[WTL Split Sample - Monthly (21-03-2023).pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: WTL Split Sample - Monthly (21-03-2023).pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Table 1 – GMC SE-1 Monitoring 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f551d40a-2ebe-4c28-b3ad-879deea6788c.pdf</link>
-            <guid>https://leap.epa.ie/docs/f551d40a-2ebe-4c28-b3ad-879deea6788c.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 21:35:09 GMT</pubDate>
-            <description><![CDATA[Table 1 – GMC SE-1 Monitoring 2023.pdf]]></description>
-            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: Table 1 – GMC SE-1 Monitoring 2023.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant - Compliance Notice - LACT00014207]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872c9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872c9.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - Compliance Notice - LACT00014207]]></description>
-            <content:encoded><![CDATA[P1159-01 -- Longfield Poultry Unlimited Company: Notification to Applicant - Compliance Notice - LACT00014207]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00014206]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872ca.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872ca.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00014206]]></description>
-            <content:encoded><![CDATA[P1159-01 -- Longfield Poultry Unlimited Company: Notification to Applicant Compliance Notice EIA - LACT00014206]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Licence Transfer - Application - Licence Transfer Report - LT00393]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887309.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887309.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Licence Transfer - Application - Licence Transfer Report - LT00393]]></description>
-            <content:encoded><![CDATA[P0713-03 -- Mr Padraig Kiernan: Licence Transfer - Application - Licence Transfer Report - LT00393]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872f2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808872f2.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
-            <content:encoded><![CDATA[P0871-03 -- Mr Vincent Quinn: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808873cf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808873cf.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
-            <content:encoded><![CDATA[P1167-01 -- Mr. Kevin Keenan: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - FI Response 14.08.2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887369.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887369.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - FI Response 14.08.2023]]></description>
-            <content:encoded><![CDATA[W0261-03 -- Starrus Eco Holdings Limited: Letter from Applicant - FI Response 14.08.2023]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808873b9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808873b9.pdf</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
-            <content:encoded><![CDATA[P1175-01 -- Woodburn Farms Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - let.epa.15082023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887715.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887715.pdf</guid>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - let.epa.15082023]]></description>
+            <content:encoded><![CDATA[P1132-02 -- S. Wilkin And Sons Limited: Letter from Applicant - let.epa.15082023]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
