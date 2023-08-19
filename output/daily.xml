@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Fri, 18 Aug 2023 11:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 08:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,561 +16,1281 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Alkermes annual (R027).pdf]]></title>
-            <link>https://leap.epa.ie/docs/0f7e2e83-2f9e-4c11-a417-7fef55190cb8.pdf</link>
-            <guid>https://leap.epa.ie/docs/0f7e2e83-2f9e-4c11-a417-7fef55190cb8.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:43:44 GMT</pubDate>
-            <description><![CDATA[Alkermes annual (R027).pdf]]></description>
-            <content:encoded><![CDATA[P0100-02 -- Alkermes Pharma Ireland Limited: Alkermes annual (R027).pdf]]></content:encoded>
+            <title><![CDATA[SV27937 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/aca5ce6f-978d-4b37-a7d9-f98178a7b518.pdf</link>
+            <guid>https://leap.epa.ie/docs/aca5ce6f-978d-4b37-a7d9-f98178a7b518.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:33 GMT</pubDate>
+            <description><![CDATA[SV27937 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0555-02 -- ALLTECH FARMING SOLUTIONS LIMITED: SV27937 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Alkermes annual (T027).pdf]]></title>
-            <link>https://leap.epa.ie/docs/29243751-8873-4b31-b7dc-e90d57f58c2d.pdf</link>
-            <guid>https://leap.epa.ie/docs/29243751-8873-4b31-b7dc-e90d57f58c2d.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:43:50 GMT</pubDate>
-            <description><![CDATA[Alkermes annual (T027).pdf]]></description>
-            <content:encoded><![CDATA[P0100-02 -- Alkermes Pharma Ireland Limited: Alkermes annual (T027).pdf]]></content:encoded>
+            <title><![CDATA[AA Screening - Public Notice - LACT00013321]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887f2e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887f2e.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[AA Screening - Public Notice - LACT00013321]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: AA Screening - Public Notice - LACT00013321]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[227501.0430 (Alkermes Compliance Noise Survey 2022).pdf]]></title>
-            <link>https://leap.epa.ie/docs/ad7c775d-6f8e-413f-ba66-6754569a1afa.pdf</link>
-            <guid>https://leap.epa.ie/docs/ad7c775d-6f8e-413f-ba66-6754569a1afa.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:43:42 GMT</pubDate>
-            <description><![CDATA[227501.0430 (Alkermes Compliance Noise Survey 2022).pdf]]></description>
-            <content:encoded><![CDATA[P0100-02 -- Alkermes Pharma Ireland Limited: 227501.0430 (Alkermes Compliance Noise Survey 2022).pdf]]></content:encoded>
+            <title><![CDATA[AA Screening Determination - LACT00013321]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887f2f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887f2f.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[AA Screening Determination - LACT00013321]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: AA Screening Determination - LACT00013321]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Alkermes annual (S033).pdf]]></title>
-            <link>https://leap.epa.ie/docs/96efa2b6-e068-4e75-bd44-c4e4ace078d6.pdf</link>
-            <guid>https://leap.epa.ie/docs/96efa2b6-e068-4e75-bd44-c4e4ace078d6.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:43:47 GMT</pubDate>
-            <description><![CDATA[Alkermes annual (S033).pdf]]></description>
-            <content:encoded><![CDATA[P0100-02 -- Alkermes Pharma Ireland Limited: Alkermes annual (S033).pdf]]></content:encoded>
+            <title><![CDATA[AA Screening - Notification - Submitters - P1188-01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887f30.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887f30.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[AA Screening - Notification - Submitters - P1188-01]]></description>
+            <content:encoded><![CDATA[P1188-01 -- Aurivo Co-operative Society Limited: AA Screening - Notification - Submitters - P1188-01]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Local Residents July 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/c8304542-e52f-4e1b-bd99-63a970555edf.pdf</link>
-            <guid>https://leap.epa.ie/docs/c8304542-e52f-4e1b-bd99-63a970555edf.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:30 GMT</pubDate>
-            <description><![CDATA[Letter to Local Residents July 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0835-01 -- ALPS Electric (Ireland) Limited: Letter to Local Residents July 2023.pdf]]></content:encoded>
+            <title><![CDATA[SV26663 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/fb8310a3-24d1-4259-af4f-91f9202ecb0e.pdf</link>
+            <guid>https://leap.epa.ie/docs/fb8310a3-24d1-4259-af4f-91f9202ecb0e.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:22 GMT</pubDate>
+            <description><![CDATA[SV26663 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0846-01 -- Ballon Meats Limited: SV26663 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Local Residents July 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/958ffb8c-5ffd-47e9-a67b-5156aa228b70.pdf</link>
-            <guid>https://leap.epa.ie/docs/958ffb8c-5ffd-47e9-a67b-5156aa228b70.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:25 GMT</pubDate>
-            <description><![CDATA[Letter to Local Residents July 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0835-01 -- ALPS Electric (Ireland) Limited: Letter to Local Residents July 2023.pdf]]></content:encoded>
+            <title><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 46]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887d96.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887d96.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 46]]></description>
+            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Reminder Email (RFI Overdue)  - Reg 14(2) Notice 46]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Extension Request - LACT00014272]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887b46.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887b46.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Extension Request - LACT00014272]]></description>
-            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Notification to Applicant Extension Request - LACT00014272]]></content:encoded>
+            <title><![CDATA[Unsolicited Additional Information - Consent Ballytherm 17.08.2023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887de5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887de5.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Consent Ballytherm 17.08.2023]]></description>
+            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - Consent Ballytherm 17.08.2023]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Material Stockpile Assessment  Action Plan Proposal.pdf]]></title>
-            <link>https://leap.epa.ie/docs/1557c52d-1fb0-454b-ba13-a4a5c236aef8.pdf</link>
-            <guid>https://leap.epa.ie/docs/1557c52d-1fb0-454b-ba13-a4a5c236aef8.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:04 GMT</pubDate>
-            <description><![CDATA[Material Stockpile Assessment  Action Plan Proposal.pdf]]></description>
-            <content:encoded><![CDATA[P0487-07 -- Breedon Cement Ireland Limited: Material Stockpile Assessment  Action Plan Proposal.pdf]]></content:encoded>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888069.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888069.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0642-01 -- CRM Pigs Limited: Newspaper Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[New Fuel Product Notification 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8910b22b-800b-4c33-9f22-e2afa26b28cf.pdf</link>
-            <guid>https://leap.epa.ie/docs/8910b22b-800b-4c33-9f22-e2afa26b28cf.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:34:00 GMT</pubDate>
-            <description><![CDATA[New Fuel Product Notification 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0487-07 -- Breedon Cement Ireland Limited: New Fuel Product Notification 2023.pdf]]></content:encoded>
+            <title><![CDATA[CRM Pigs Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806a.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[CRM Pigs Limited]]></description>
+            <content:encoded><![CDATA[P0642-01 -- CRM Pigs Limited: CRM Pigs Limited]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Panda SRF processing facility.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f3e71e9c-8106-4248-97cb-92f95965b3a3.pdf</link>
-            <guid>https://leap.epa.ie/docs/f3e71e9c-8106-4248-97cb-92f95965b3a3.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:01 GMT</pubDate>
-            <description><![CDATA[Panda SRF processing facility.pdf]]></description>
-            <content:encoded><![CDATA[P0487-07 -- Breedon Cement Ireland Limited: Panda SRF processing facility.pdf]]></content:encoded>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806d.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0657-01 -- Drumagoland  Farms Limited: Newspaper Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - Regulation 14(2) Reply-Aug-2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887a9c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887a9c.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Regulation 14(2) Reply-Aug-2023]]></description>
-            <content:encoded><![CDATA[P1165-01 -- Data And Power Hub Services Limited: Letter from Applicant - Regulation 14(2) Reply-Aug-2023]]></content:encoded>
+            <title><![CDATA[Drumagoland Farms Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806e.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Drumagoland Farms Limited]]></description>
+            <content:encoded><![CDATA[P0657-01 -- Drumagoland  Farms Limited: Drumagoland Farms Limited]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26601 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/40639592-40e5-497f-85c8-c3f4149d1a6e.pdf</link>
-            <guid>https://leap.epa.ie/docs/40639592-40e5-497f-85c8-c3f4149d1a6e.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:04 GMT</pubDate>
-            <description><![CDATA[SV26601 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0690-03 -- Decotek Automotive Limited: SV26601 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Thermal Oxidiser Monitoring 06 - 08 Jun 23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/4c39a452-c1a6-4f8c-86af-f5500fab3e16.pdf</link>
+            <guid>https://leap.epa.ie/docs/4c39a452-c1a6-4f8c-86af-f5500fab3e16.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:36:56 GMT</pubDate>
+            <description><![CDATA[Thermal Oxidiser Monitoring 06 - 08 Jun 23.pdf]]></description>
+            <content:encoded><![CDATA[P1046-01 -- Fournier Laboratories Ireland Limited T/A AbbVie: Thermal Oxidiser Monitoring 06 - 08 Jun 23.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Compliance Investigation CI001852.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f05e9135-484c-45e9-94bc-7cd178915b52.pdf</link>
-            <guid>https://leap.epa.ie/docs/f05e9135-484c-45e9-94bc-7cd178915b52.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:12 GMT</pubDate>
-            <description><![CDATA[Compliance Investigation CI001852.pdf]]></description>
-            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: Compliance Investigation CI001852.pdf]]></content:encoded>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888059.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888059.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0417-01 -- Hanrahan Farms Limited: Newspaper Notice]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27944 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/b7f2f63e-1597-4d79-90e3-4a832ff11ebc.pdf</link>
-            <guid>https://leap.epa.ie/docs/b7f2f63e-1597-4d79-90e3-4a832ff11ebc.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:17 GMT</pubDate>
-            <description><![CDATA[SV27944 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: SV27944 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Hanrahan Farms Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805a.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hanrahan Farms Limited]]></description>
+            <content:encoded><![CDATA[P0417-01 -- Hanrahan Farms Limited: Hanrahan Farms Limited]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27945 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/e20e1949-f474-45b8-9f44-4d5caef4e854.pdf</link>
-            <guid>https://leap.epa.ie/docs/e20e1949-f474-45b8-9f44-4d5caef4e854.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:24 GMT</pubDate>
-            <description><![CDATA[SV27945 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: SV27945 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[HEINEKEN Noise Survey_2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f5fd8f2d-b8b5-414f-b426-e36e82a7bf33.pdf</link>
+            <guid>https://leap.epa.ie/docs/f5fd8f2d-b8b5-414f-b426-e36e82a7bf33.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:42 GMT</pubDate>
+            <description><![CDATA[HEINEKEN Noise Survey_2023.pdf]]></description>
+            <content:encoded><![CDATA[P0445-01 -- Heineken Ireland Limited: HEINEKEN Noise Survey_2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[EPA Reply To SV27159.pdf]]></title>
-            <link>https://leap.epa.ie/docs/4991f71d-39a0-470f-a71c-148076ef9d41.pdf</link>
-            <guid>https://leap.epa.ie/docs/4991f71d-39a0-470f-a71c-148076ef9d41.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:38:05 GMT</pubDate>
-            <description><![CDATA[EPA Reply To SV27159.pdf]]></description>
-            <content:encoded><![CDATA[W0001-04 -- Kerry County Council: EPA Reply To SV27159.pdf]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Accepted Application - LACT00014281]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e55.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e55.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Accepted Application - LACT00014281]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Notification to Applicant Accepted Application - LACT00014281]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00013994  14-08-2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887a9d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887a9d.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00013994  14-08-2023]]></description>
-            <content:encoded><![CDATA[P1160-01 -- Knockronaghan Farm Limited: Notification to Applicant RFI Reminder  LACT00013994  14-08-2023]]></content:encoded>
+            <title><![CDATA[SpecifiedBodies-LA010840]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e56.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e56.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[SpecifiedBodies-LA010840]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: SpecifiedBodies-LA010840]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[25.04.2023 1-230426-13749-01596036-C.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7c3934e5-ed38-4924-b630-591a4fc70de2.pdf</link>
-            <guid>https://leap.epa.ie/docs/7c3934e5-ed38-4924-b630-591a4fc70de2.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:43:59 GMT</pubDate>
-            <description><![CDATA[25.04.2023 1-230426-13749-01596036-C.pdf]]></description>
-            <content:encoded><![CDATA[P0859-01 -- Martin Jennings Wholesale Limited: 25.04.2023 1-230426-13749-01596036-C.pdf]]></content:encoded>
+            <title><![CDATA[Letter to Third Party - Section 99E Notice 79]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e70.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e70.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Section 99E Notice 79]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Letter to Third Party - Section 99E Notice 79]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[02.05.2023 1-230503-01333-01599239-C.pdf]]></title>
-            <link>https://leap.epa.ie/docs/68ec6c6b-54f1-4727-bbcb-0e77bc167b0f.pdf</link>
-            <guid>https://leap.epa.ie/docs/68ec6c6b-54f1-4727-bbcb-0e77bc167b0f.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:43:54 GMT</pubDate>
-            <description><![CDATA[02.05.2023 1-230503-01333-01599239-C.pdf]]></description>
-            <content:encoded><![CDATA[P0859-01 -- Martin Jennings Wholesale Limited: 02.05.2023 1-230503-01333-01599239-C.pdf]]></content:encoded>
+            <title><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e71.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e71.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Notification to Water Services Authority - Discharge to Sewer LA]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[09.05.2023 1-230510-05572-01605970-C.pdf]]></title>
-            <link>https://leap.epa.ie/docs/b3641222-0222-4a4b-9b48-2cb9a946daf4.pdf</link>
-            <guid>https://leap.epa.ie/docs/b3641222-0222-4a4b-9b48-2cb9a946daf4.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:43:56 GMT</pubDate>
-            <description><![CDATA[09.05.2023 1-230510-05572-01605970-C.pdf]]></description>
-            <content:encoded><![CDATA[P0859-01 -- Martin Jennings Wholesale Limited: 09.05.2023 1-230510-05572-01605970-C.pdf]]></content:encoded>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e91.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e91.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[18.04.2023 1-230419-09231-01591457-C.pdf]]></title>
-            <link>https://leap.epa.ie/docs/cf6aa7e7-ec51-422c-a20a-b0d811855361.pdf</link>
-            <guid>https://leap.epa.ie/docs/cf6aa7e7-ec51-422c-a20a-b0d811855361.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:43:57 GMT</pubDate>
-            <description><![CDATA[18.04.2023 1-230419-09231-01591457-C.pdf]]></description>
-            <content:encoded><![CDATA[P0859-01 -- Martin Jennings Wholesale Limited: 18.04.2023 1-230419-09231-01591457-C.pdf]]></content:encoded>
+            <title><![CDATA[Notification to Planning Authority Register - LACT00014284]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e92.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e92.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority Register - LACT00014284]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Notification to Planning Authority Register - LACT00014284]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27982 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/60fa6edb-1dba-4860-80d2-54ad29ea88b5.pdf</link>
-            <guid>https://leap.epa.ie/docs/60fa6edb-1dba-4860-80d2-54ad29ea88b5.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:26 GMT</pubDate>
-            <description><![CDATA[SV27982 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0459-01 -- Mr James Briody: SV27982 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[P0778-03 Janssen Sciences Ireland UC]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e93.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887e93.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[P0778-03 Janssen Sciences Ireland UC]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: P0778-03 Janssen Sciences Ireland UC]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27983 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/617a7afb-16bb-4ca7-a4ab-00abffd29e8d.pdf</link>
-            <guid>https://leap.epa.ie/docs/617a7afb-16bb-4ca7-a4ab-00abffd29e8d.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:29 GMT</pubDate>
-            <description><![CDATA[SV27983 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0514-01 -- Mr Padraig Kiernan: SV27983 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Unsolicited Additional Information - Attachment-4-7-1-CID-2022-2427]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887f64.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887f64.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Attachment-4-7-1-CID-2022-2427]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Unsolicited Additional Information - Attachment-4-7-1-CID-2022-2427]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-28314_1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/0ba58d1d-e10c-44b8-a927-fea5c9f73885.pdf</link>
-            <guid>https://leap.epa.ie/docs/0ba58d1d-e10c-44b8-a927-fea5c9f73885.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:54 GMT</pubDate>
-            <description><![CDATA[23-28314_1.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: 23-28314_1.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Application Form - LA010840]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fd8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fd8.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Application Form - LA010840]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Application Form - LA010840]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-27821_1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/345966f0-b445-4e7a-be17-38a1f11c2c7d.pdf</link>
-            <guid>https://leap.epa.ie/docs/345966f0-b445-4e7a-be17-38a1f11c2c7d.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:46 GMT</pubDate>
-            <description><![CDATA[23-27821_1.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: 23-27821_1.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Fit and Proper Declaration - Attachment-2-5-Fit and Proper Person]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fd9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fd9.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fit and Proper Declaration - Attachment-2-5-Fit and Proper Person]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Fit and Proper Declaration - Attachment-2-5-Fit and Proper Person]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-27758_1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/435c4a64-2078-4255-89da-f42c51c2c451.pdf</link>
-            <guid>https://leap.epa.ie/docs/435c4a64-2078-4255-89da-f42c51c2c451.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:43 GMT</pubDate>
-            <description><![CDATA[23-27758_1.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: 23-27758_1.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Plan-Main and Minor Air Emissions]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fda.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fda.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Plan-Main and Minor Air Emissions]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Plan - Site Plan-Main and Minor Air Emissions]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-27954_1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5b0b6118-b750-4b1f-b98e-c01f0209f295.pdf</link>
-            <guid>https://leap.epa.ie/docs/5b0b6118-b750-4b1f-b98e-c01f0209f295.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:51 GMT</pubDate>
-            <description><![CDATA[23-27954_1.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: 23-27954_1.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Plan-Site Layout]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fdb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fdb.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Plan-Site Layout]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Plan - Site Plan-Site Layout]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[ERF 6.2A EMR NCC April 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/6f78a734-3edb-4c99-9708-19bf23f82993.pdf</link>
-            <guid>https://leap.epa.ie/docs/6f78a734-3edb-4c99-9708-19bf23f82993.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:49 GMT</pubDate>
-            <description><![CDATA[ERF 6.2A EMR NCC April 2023.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: ERF 6.2A EMR NCC April 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Plan-Storm Sewer]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fdc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fdc.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Plan-Storm Sewer]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Plan - Site Plan-Storm Sewer]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-27887_1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7fe72c11-be13-46be-ab2c-bf9d3dcb0e2a.pdf</link>
-            <guid>https://leap.epa.ie/docs/7fe72c11-be13-46be-ab2c-bf9d3dcb0e2a.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:47 GMT</pubDate>
-            <description><![CDATA[23-27887_1.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: 23-27887_1.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Map - Site Plan-Site Location Map 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fdd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fdd.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - Site Plan-Site Location Map 2]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Map - Site Plan-Site Location Map 2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-27793_1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/c2124906-8737-4597-a232-eefa11764d3c.pdf</link>
-            <guid>https://leap.epa.ie/docs/c2124906-8737-4597-a232-eefa11764d3c.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:45 GMT</pubDate>
-            <description><![CDATA[23-27793_1.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: 23-27793_1.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Applicable Regulations - Attachment-4-5-1-Applicable Regulations 11]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fde.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fde.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Applicable Regulations - Attachment-4-5-1-Applicable Regulations 11]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Applicable Regulations - Attachment-4-5-1-Applicable Regulations 11]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[ERF 6.2A EMR NCC May 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f0ed51af-8f51-4091-9245-f89f6fc95c80.pdf</link>
-            <guid>https://leap.epa.ie/docs/f0ed51af-8f51-4091-9245-f89f6fc95c80.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:57 GMT</pubDate>
-            <description><![CDATA[ERF 6.2A EMR NCC May 2023.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: ERF 6.2A EMR NCC May 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Water and Energy Usage - Attachment-4-6-1-Water-Energy-Usage 41]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fdf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fdf.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Water and Energy Usage - Attachment-4-6-1-Water-Energy-Usage 41]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Water and Energy Usage - Attachment-4-6-1-Water-Energy-Usage 41]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-27724_1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f2a4498b-e31f-4396-8e91-2739d2acdca9.pdf</link>
-            <guid>https://leap.epa.ie/docs/f2a4498b-e31f-4396-8e91-2739d2acdca9.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:42 GMT</pubDate>
-            <description><![CDATA[23-27724_1.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: 23-27724_1.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Materials Used or Generated - Attachment-4-6-2-Raw-Material-Interm-Products 43]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe0.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Materials Used or Generated - Attachment-4-6-2-Raw-Material-Interm-Products 43]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Materials Used or Generated - Attachment-4-6-2-Raw-Material-Interm-Products 43]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-28233_1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a1c45792-81f9-4a63-97dd-ee62f5cbeea2.pdf</link>
-            <guid>https://leap.epa.ie/docs/a1c45792-81f9-4a63-97dd-ee62f5cbeea2.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:52 GMT</pubDate>
-            <description><![CDATA[23-28233_1.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: 23-28233_1.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-EFS 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe1.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-EFS 2]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - BREF Assessment - Attachment-4-7-2-BREF-EFS 2]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[23-28425_1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a8263215-fadb-457c-a74e-ba2fcd1b2f92.pdf</link>
-            <guid>https://leap.epa.ie/docs/a8263215-fadb-457c-a74e-ba2fcd1b2f92.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:55 GMT</pubDate>
-            <description><![CDATA[23-28425_1.pdf]]></description>
-            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: 23-28425_1.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Condition Report - Attachment-4-8-4-Site Condition Report 37]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe2.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Condition Report - Attachment-4-8-4-Site Condition Report 37]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Condition Report - Attachment-4-8-4-Site Condition Report 37]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SKIE-0028-12.pdf]]></title>
-            <link>https://leap.epa.ie/docs/47ddb202-ddeb-40cb-8dd5-c2016cfcc555.pdf</link>
-            <guid>https://leap.epa.ie/docs/47ddb202-ddeb-40cb-8dd5-c2016cfcc555.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:33:49 GMT</pubDate>
-            <description><![CDATA[SKIE-0028-12.pdf]]></description>
-            <content:encoded><![CDATA[P0014-04 -- Sk Biotek Ireland Limited: SKIE-0028-12.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Solvent Management Plan - Attachment-4-9-2-Solvent Management Plan 5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe3.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Solvent Management Plan - Attachment-4-9-2-Solvent Management Plan 5]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Solvent Management Plan - Attachment-4-9-2-Solvent Management Plan 5]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2023-022 Air Abatement Bypass Summary Q2 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/89ec1052-72eb-4311-97a1-68c3f3955a49.pdf</link>
-            <guid>https://leap.epa.ie/docs/89ec1052-72eb-4311-97a1-68c3f3955a49.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:34:02 GMT</pubDate>
-            <description><![CDATA[2023-022 Air Abatement Bypass Summary Q2 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0014-04 -- Sk Biotek Ireland Limited: 2023-022 Air Abatement Bypass Summary Q2 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - IED Article 59(7) Precautions - Attachment-4-9-4-IED-Art 59(7)Precautions 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe4.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - IED Article 59(7) Precautions - Attachment-4-9-4-IED-Art 59(7)Precautions 1]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - IED Article 59(7) Precautions - Attachment-4-9-4-IED-Art 59(7)Precautions 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2023-022 Air Abatement Bypass Summary Q2 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/90f58444-ea2e-4319-89f7-886bef53a1af.pdf</link>
-            <guid>https://leap.epa.ie/docs/90f58444-ea2e-4319-89f7-886bef53a1af.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:34:04 GMT</pubDate>
-            <description><![CDATA[2023-022 Air Abatement Bypass Summary Q2 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0014-04 -- Sk Biotek Ireland Limited: 2023-022 Air Abatement Bypass Summary Q2 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 86]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe5.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 86]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Financial Application Section - Attachment-5-1-Financial 86]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SKIE-0028-04.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7473c89c-0cef-439a-9929-ac946da2f96f.pdf</link>
-            <guid>https://leap.epa.ie/docs/7473c89c-0cef-439a-9929-ac946da2f96f.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:32:23 GMT</pubDate>
-            <description><![CDATA[SKIE-0028-04.pdf]]></description>
-            <content:encoded><![CDATA[P0014-04 -- Sk Biotek Ireland Limited: SKIE-0028-04.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - NIS - Planning - Attachment-6-3-5-NIS-Planning-April-2011]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe6.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - NIS - Planning - Attachment-6-3-5-NIS-Planning-April-2011]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - NIS - Planning - Attachment-6-3-5-NIS-Planning-April-2011]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2023-019, RFA new MFG process SKIE-0028 Step 3, 4.pdf]]></title>
-            <link>https://leap.epa.ie/docs/c0f44c96-61cf-4524-b474-170aeb2a2e57.pdf</link>
-            <guid>https://leap.epa.ie/docs/c0f44c96-61cf-4524-b474-170aeb2a2e57.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:18 GMT</pubDate>
-            <description><![CDATA[2023-019, RFA new MFG process SKIE-0028 Step 3, 4.pdf]]></description>
-            <content:encoded><![CDATA[P0014-04 -- Sk Biotek Ireland Limited: 2023-019, RFA new MFG process SKIE-0028 Step 3, 4.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment-6-3-6-EIAR-Planning-June-2017]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe7.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment-6-3-6-EIAR-Planning-June-2017]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - EIS - Planning - Attachment-6-3-6-EIAR-Planning-June-2017]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2023-017, RFA new minor emission vent - P9.pdf]]></title>
-            <link>https://leap.epa.ie/docs/dda96c5f-96db-4464-b667-40bfc4834997.pdf</link>
-            <guid>https://leap.epa.ie/docs/dda96c5f-96db-4464-b667-40bfc4834997.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:10 GMT</pubDate>
-            <description><![CDATA[2023-017, RFA new minor emission vent - P9.pdf]]></description>
-            <content:encoded><![CDATA[P0014-04 -- Sk Biotek Ireland Limited: 2023-017, RFA new minor emission vent - P9.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-June-2015]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe8.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-June-2015]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-June-2015]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Emission Calculations - Heptane.xlsx]]></title>
-            <link>https://leap.epa.ie/docs/ffa7799d-a4ae-4f93-93c6-0204fde8ee77.pdf</link>
-            <guid>https://leap.epa.ie/docs/ffa7799d-a4ae-4f93-93c6-0204fde8ee77.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:23 GMT</pubDate>
-            <description><![CDATA[Emission Calculations - Heptane.xlsx]]></description>
-            <content:encoded><![CDATA[P0014-04 -- Sk Biotek Ireland Limited: Emission Calculations - Heptane.xlsx]]></content:encoded>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-1-Evidence of Notices - Site 20]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fe9.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-1-Evidence of Notices - Site 20]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Evidence of Notices - Attachment-6-7-1-Evidence of Notices - Site 20]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26605 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/962561c4-4c50-4a97-baf9-60f484b5049d.pdf</link>
-            <guid>https://leap.epa.ie/docs/962561c4-4c50-4a97-baf9-60f484b5049d.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:10 GMT</pubDate>
-            <description><![CDATA[SV26605 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0694-01 -- SSE Generation Ireland Limited: SV26605 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-4-Evidence of Notices-PA 19]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fea.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fea.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-4-Evidence of Notices-PA 19]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Evidence of Notices - Attachment-6-7-4-Evidence of Notices-PA 19]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[DGD-Shredding-WCP-2021-2026.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5096289d-98f4-4b70-8646-a665c1de5034.pdf</link>
-            <guid>https://leap.epa.ie/docs/5096289d-98f4-4b70-8646-a665c1de5034.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:44:01 GMT</pubDate>
-            <description><![CDATA[DGD-Shredding-WCP-2021-2026.pdf]]></description>
-            <content:encoded><![CDATA[P0813-02 -- Temmler Ireland Limited: DGD-Shredding-WCP-2021-2026.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Reason for Review - Attachment-1-1-Reason for Licence Review 17]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ff7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ff7.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Reason for Review - Attachment-1-1-Reason for Licence Review 17]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Reason for Review - Attachment-1-1-Reason for Licence Review 17]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[THF AGW16 Table 2016 to May 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5b22d6fe-fd35-4475-a321-d73b63ac9915.pdf</link>
-            <guid>https://leap.epa.ie/docs/5b22d6fe-fd35-4475-a321-d73b63ac9915.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:38:22 GMT</pubDate>
-            <description><![CDATA[THF AGW16 Table 2016 to May 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0004-06 -- Thermo Fisher Scientific Cork Limited: THF AGW16 Table 2016 to May 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Technical Knowledge - Attachment 2-5-3-Technical Knowledge Qualifications]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ff8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ff8.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Technical Knowledge - Attachment 2-5-3-Technical Knowledge Qualifications]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Technical Knowledge - Attachment 2-5-3-Technical Knowledge Qualifications]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[THF Results March to May 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/65105145-cd0c-467a-87d3-35e4ec469807.pdf</link>
-            <guid>https://leap.epa.ie/docs/65105145-cd0c-467a-87d3-35e4ec469807.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:38:26 GMT</pubDate>
-            <description><![CDATA[THF Results March to May 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0004-06 -- Thermo Fisher Scientific Cork Limited: THF Results March to May 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Plan-Groundwater Monitoring Points]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ff9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ff9.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Plan-Groundwater Monitoring Points]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Plan - Site Plan-Groundwater Monitoring Points]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[May EMT-23-8259-Batch-1-Report-202305301409.pdf]]></title>
-            <link>https://leap.epa.ie/docs/b6976fd8-2a7b-4209-b069-3c1fa103fb07.pdf</link>
-            <guid>https://leap.epa.ie/docs/b6976fd8-2a7b-4209-b069-3c1fa103fb07.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:38:19 GMT</pubDate>
-            <description><![CDATA[May EMT-23-8259-Batch-1-Report-202305301409.pdf]]></description>
-            <content:encoded><![CDATA[P0004-06 -- Thermo Fisher Scientific Cork Limited: May EMT-23-8259-Batch-1-Report-202305301409.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Plan-Monitoring Points]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffa.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Plan-Monitoring Points]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Plan - Site Plan-Monitoring Points]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[March EMT-23-4779-Batch-1-Report-202304121322.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d5f0b44e-3bc2-471b-b180-e73c927988f9.pdf</link>
-            <guid>https://leap.epa.ie/docs/d5f0b44e-3bc2-471b-b180-e73c927988f9.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:38:08 GMT</pubDate>
-            <description><![CDATA[March EMT-23-4779-Batch-1-Report-202304121322.pdf]]></description>
-            <content:encoded><![CDATA[P0004-06 -- Thermo Fisher Scientific Cork Limited: March EMT-23-4779-Batch-1-Report-202304121322.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Plan-Potential Air Emissions]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffb.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Plan-Potential Air Emissions]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Plan - Site Plan-Potential Air Emissions]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[MW204 Toluene Graph to May 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fdb83a35-b791-46f5-a9e0-645ec81d9dfe.pdf</link>
-            <guid>https://leap.epa.ie/docs/fdb83a35-b791-46f5-a9e0-645ec81d9dfe.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:38:20 GMT</pubDate>
-            <description><![CDATA[MW204 Toluene Graph to May 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0004-06 -- Thermo Fisher Scientific Cork Limited: MW204 Toluene Graph to May 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Plan-Process and Foul Sewer]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffc.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Plan-Process and Foul Sewer]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Plan - Site Plan-Process and Foul Sewer]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[MW204 Toluene Table to May 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/ba47c308-ad02-42c9-92e9-a64b312acce2.pdf</link>
-            <guid>https://leap.epa.ie/docs/ba47c308-ad02-42c9-92e9-a64b312acce2.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:38:21 GMT</pubDate>
-            <description><![CDATA[MW204 Toluene Table to May 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0004-06 -- Thermo Fisher Scientific Cork Limited: MW204 Toluene Table to May 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Plan - Site Plan-Site Notice Location]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffd.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Site Plan-Site Notice Location]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Plan - Site Plan-Site Notice Location]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Sch E Ecoli cert Feb 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/07f4b898-5b9b-4b09-b290-0e394f18e93a.pdf</link>
-            <guid>https://leap.epa.ie/docs/07f4b898-5b9b-4b09-b290-0e394f18e93a.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:34:23 GMT</pubDate>
-            <description><![CDATA[Sch E Ecoli cert Feb 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Sch E Ecoli cert Feb 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Site Map - Site Plan-Site Location Map 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffe.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887ffe.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - Site Plan-Site Location Map 1]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Site Map - Site Plan-Site Location Map 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Sch E Ecoli cert Jan 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/09b270cf-37f4-41da-a995-a8d273857fc4.pdf</link>
-            <guid>https://leap.epa.ie/docs/09b270cf-37f4-41da-a995-a8d273857fc4.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:34:38 GMT</pubDate>
-            <description><![CDATA[Sch E Ecoli cert Jan 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Sch E Ecoli cert Jan 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-ENE 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fff.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887fff.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-ENE 3]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - BREF Assessment - Attachment-4-7-2-BREF-ENE 3]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Sch E Salmonella cert Jan 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/62ee8919-c76c-4f90-8120-0e03d04fa500.pdf</link>
-            <guid>https://leap.epa.ie/docs/62ee8919-c76c-4f90-8120-0e03d04fa500.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:34:54 GMT</pubDate>
-            <description><![CDATA[Sch E Salmonella cert Jan 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Sch E Salmonella cert Jan 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-ICS]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888000.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888000.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-ICS]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - BREF Assessment - Attachment-4-7-2-BREF-ICS]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Att 1_Redacted Fitz Scientific Statement.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7d32785c-5311-4eee-9ca4-e99df8015da9.pdf</link>
-            <guid>https://leap.epa.ie/docs/7d32785c-5311-4eee-9ca4-e99df8015da9.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:21 GMT</pubDate>
-            <description><![CDATA[Att 1_Redacted Fitz Scientific Statement.pdf]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Att 1_Redacted Fitz Scientific Statement.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-OFC]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888001.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888001.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF-OFC]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - BREF Assessment - Attachment-4-7-2-BREF-OFC]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Schedule E digestate Feb 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/9c9a7f07-7bb6-4b5a-8a70-7f1cd583bcb1.pdf</link>
-            <guid>https://leap.epa.ie/docs/9c9a7f07-7bb6-4b5a-8a70-7f1cd583bcb1.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:35:36 GMT</pubDate>
-            <description><![CDATA[Schedule E digestate Feb 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Schedule E digestate Feb 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Operational Report - Attachment-4-8-1-Operational Report 44]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888002.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888002.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - Attachment-4-8-1-Operational Report 44]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Operational Report - Attachment-4-8-1-Operational Report 44]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Response to (SV27047) 14th of July 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/b58fb914-0f7e-42a9-bab1-582289a2d8d9.pdf</link>
-            <guid>https://leap.epa.ie/docs/b58fb914-0f7e-42a9-bab1-582289a2d8d9.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:23 GMT</pubDate>
-            <description><![CDATA[Response to (SV27047) 14th of July 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Response to (SV27047) 14th of July 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Signature and Company Stamp - Attachment-10-1-Signature Stamp 33]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888003.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888003.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Signature and Company Stamp - Attachment-10-1-Signature Stamp 33]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Signature and Company Stamp - Attachment-10-1-Signature Stamp 33]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Stability Alteration.pdf]]></title>
-            <link>https://leap.epa.ie/docs/bde53249-6e17-4bd2-b4d4-39b0ed5f9cee.pdf</link>
-            <guid>https://leap.epa.ie/docs/bde53249-6e17-4bd2-b4d4-39b0ed5f9cee.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:33:54 GMT</pubDate>
-            <description><![CDATA[Stability Alteration.pdf]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Stability Alteration.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Fee Payment Evidence - Attachment-5-2-Fee Payment Evidence 24 Redacted 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888004.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888004.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fee Payment Evidence - Attachment-5-2-Fee Payment Evidence 24 Redacted 1]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Fee Payment Evidence - Attachment-5-2-Fee Payment Evidence 24 Redacted 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Schedule E digestate Jan 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d3011220-6a88-4dcb-845e-c7c263ae09d5.pdf</link>
-            <guid>https://leap.epa.ie/docs/d3011220-6a88-4dcb-845e-c7c263ae09d5.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:36:27 GMT</pubDate>
-            <description><![CDATA[Schedule E digestate Jan 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Schedule E digestate Jan 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 62]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888005.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888005.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 62]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 62]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Schedule E digestate March 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f2c4ef17-e997-4fcc-a623-95c4751edaad.pdf</link>
-            <guid>https://leap.epa.ie/docs/f2c4ef17-e997-4fcc-a623-95c4751edaad.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:37:09 GMT</pubDate>
-            <description><![CDATA[Schedule E digestate March 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Schedule E digestate March 2023.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - NIS - Attachment-6-2-2-NIS-August-2023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888006.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888006.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - NIS - Attachment-6-2-2-NIS-August-2023]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - NIS - Attachment-6-2-2-NIS-August-2023]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27916 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/08fd6878-5cdf-4aa8-979e-c0e32287dc5a.pdf</link>
-            <guid>https://leap.epa.ie/docs/08fd6878-5cdf-4aa8-979e-c0e32287dc5a.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:14 GMT</pubDate>
-            <description><![CDATA[SV27916 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0801-03 -- Tipperary Co-operative Creamery Limited: SV27916 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Planning Decision - Attachment-6-3-1-Planning Decisions]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888007.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888007.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment-6-3-1-Planning Decisions]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Planning Decision - Attachment-6-3-1-Planning Decisions]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV27907 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/1c5fcd78-fbcd-4e7f-bbec-6b84a5fffa97.pdf</link>
-            <guid>https://leap.epa.ie/docs/1c5fcd78-fbcd-4e7f-bbec-6b84a5fffa97.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:12 GMT</pubDate>
-            <description><![CDATA[SV27907 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0801-03 -- Tipperary Co-operative Creamery Limited: SV27907 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment-6-3-6-EIAR-NTS-Planning-June-2017]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888008.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888008.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment-6-3-6-EIAR-NTS-Planning-June-2017]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - EIS - Planning - Attachment-6-3-6-EIAR-NTS-Planning-June-2017]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Tipperary Councty Council Donohill F1 1 2023 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/0d66b217-462d-437d-b046-342d252dfc09.pdf</link>
-            <guid>https://leap.epa.ie/docs/0d66b217-462d-437d-b046-342d252dfc09.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:38:33 GMT</pubDate>
-            <description><![CDATA[Tipperary Councty Council Donohill F1 1 2023 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0074-03 -- Tipperary County Council: Tipperary Councty Council Donohill F1 1 2023 Report.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - Project and Threshold - Planning - Attachment-6-3-7-Project and Threshold-Planning 21]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888009.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888009.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Project and Threshold - Planning - Attachment-6-3-7-Project and Threshold-Planning 21]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Project and Threshold - Planning - Attachment-6-3-7-Project and Threshold-Planning 21]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26506 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/60392954-5e3f-43df-93f3-cff4eb137ab6.pdf</link>
-            <guid>https://leap.epa.ie/docs/60392954-5e3f-43df-93f3-cff4eb137ab6.pdf</guid>
-            <pubDate>Wed, 16 Aug 2023 21:31:01 GMT</pubDate>
-            <description><![CDATA[SV26506 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0359-03 -- Tirlán Limited: SV26506 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-Dec-2016]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800a.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-Dec-2016]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-Dec-2016]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-June-2017]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800b.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-June-2017]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-June-2017]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-June-2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800c.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-June-2021]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-June-2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-Mar-2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800d.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-Mar-2022]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-Mar-2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-Sept-2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800e.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-Sept-2021]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - AA - Planning - Attachment-6-3-4-AA Screening-Planning-Sept-2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-2-Evidence of Notices-Newspaper 18 Redacted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088800f.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-2-Evidence of Notices-Newspaper 18 Redacted]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Evidence of Notices - Attachment-6-7-2-Evidence of Notices-Newspaper 18 Redacted]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-3-Evidence of Notices-Map 22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888010.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888010.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-3-Evidence of Notices-Map 22]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Evidence of Notices - Attachment-6-7-3-Evidence of Notices-Map 22]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Overview Section - Attachment-7-1-Emissions-Overview 84]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888011.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888011.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Overview Section - Attachment-7-1-Emissions-Overview 84]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Emissions Overview Section - Attachment-7-1-Emissions-Overview 84]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 38]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888012.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888012.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 38]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 38]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Receiving Environment Report - Attachment-7-1-3-3-Receiving Environment Report 10]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888013.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888013.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Receiving Environment Report - Attachment-7-1-3-3-Receiving Environment Report 10]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Receiving Environment Report - Attachment-7-1-3-3-Receiving Environment Report 10]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Emissions Impact Assessment 20]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888014.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888014.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Emissions Impact Assessment 20]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Emissions Impact Assessment 20]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Sewer Section - Attachment-7-3-1-Emissions-to-Sewer 38]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802b.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Sewer Section - Attachment-7-3-1-Emissions-to-Sewer 38]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Emissions - Sewer Section - Attachment-7-3-1-Emissions-to-Sewer 38]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Equivalent Protection - Sewer - Attachment-7-3-2-Equivalent-Protection-Sewer 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802c.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Equivalent Protection - Sewer - Attachment-7-3-2-Equivalent-Protection-Sewer 3]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Equivalent Protection - Sewer - Attachment-7-3-2-Equivalent-Protection-Sewer 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Sewer Discharge Consent - Attachment-7-3-3-Sewer-Discharge-Consent 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802d.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Sewer Discharge Consent - Attachment-7-3-3-Sewer-Discharge-Consent 2]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Sewer Discharge Consent - Attachment-7-3-3-Sewer-Discharge-Consent 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 66]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802e.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 66]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 66]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 57]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088802f.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 57]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 57]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions 66]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888030.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888030.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions 66]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions 66]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Strorm Water Section - Attachment-7-7-Storm-Water-Discharges 58]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888031.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888031.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Strorm Water Section - Attachment-7-7-Storm-Water-Discharges 58]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Strorm Water Section - Attachment-7-7-Storm-Water-Discharges 58]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-Generated 5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888032.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888032.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-Generated 5]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Waste Generated Section - Attachment-8-1-Waste-Generated 5]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy - Attachment-8-2-1-Waste-Hierarchy 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888033.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888033.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy - Attachment-8-2-1-Waste-Hierarchy 3]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Waste Hierarchy - Attachment-8-2-1-Waste-Hierarchy 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EMT Section - Attachment-9-1-EMT 27]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888034.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888034.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EMT Section - Attachment-9-1-EMT 27]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - EMT Section - Attachment-9-1-EMT 27]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Certificate of Incorporation - Attachment-2-1-Certificate of Incorporation 16]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888035.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888035.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Certificate of Incorporation - Attachment-2-1-Certificate of Incorporation 16]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - Certificate of Incorporation - Attachment-2-1-Certificate of Incorporation 16]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - 0388 - Attachment-1-2-Non-Technical Summary 28]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888036.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888036.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - 0388 - Attachment-1-2-Non-Technical Summary 28]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: Application Form - 0388 - Attachment-1-2-Non-Technical Summary 28]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-1-Attachment-4-7-1-CID-2016-906-BAT 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888037.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888037.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-1-Attachment-4-7-1-CID-2016-906-BAT 1]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-1-Attachment-4-7-1-CID-2016-906-BAT 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-10-Attachment-4-7-1-CID-2016-906-BAT 10]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888038.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888038.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-10-Attachment-4-7-1-CID-2016-906-BAT 10]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-10-Attachment-4-7-1-CID-2016-906-BAT 10]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-12-Attachment-4-7-1-CID-2016-906-BAT 12]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888039.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888039.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-12-Attachment-4-7-1-CID-2016-906-BAT 12]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-12-Attachment-4-7-1-CID-2016-906-BAT 12]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-14-Attachment-4-7-1-CID-2016-906-BAT 14]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803a.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-14-Attachment-4-7-1-CID-2016-906-BAT 14]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-14-Attachment-4-7-1-CID-2016-906-BAT 14]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-19-Attachment-4-7-1-CID-2016-906-BAT 19]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803b.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-19-Attachment-4-7-1-CID-2016-906-BAT 19]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-19-Attachment-4-7-1-CID-2016-906-BAT 19]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-2-Attachment-4-7-1-CID-2016-906-BAT 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803c.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-2-Attachment-4-7-1-CID-2016-906-BAT 2]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-2-Attachment-4-7-1-CID-2016-906-BAT 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-21-Attachment-4-7-1-CID-2016-906-BAT 21]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803d.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-21-Attachment-4-7-1-CID-2016-906-BAT 21]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-21-Attachment-4-7-1-CID-2016-906-BAT 21]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-22-Attachment-4-7-1-CID-2016-906-BAT 22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803e.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-22-Attachment-4-7-1-CID-2016-906-BAT 22]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-22-Attachment-4-7-1-CID-2016-906-BAT 22]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-23-Attachment-4-7-1-CID-2016-906-BAT 23]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088803f.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-23-Attachment-4-7-1-CID-2016-906-BAT 23]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-23-Attachment-4-7-1-CID-2016-906-BAT 23]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-3-Attachment-4-7-1-CID-2016-906-BAT 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888040.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888040.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-3-Attachment-4-7-1-CID-2016-906-BAT 3]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-3-Attachment-4-7-1-CID-2016-906-BAT 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-4-Attachment-4-7-1-CID-2016-906-BAT 4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888041.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888041.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-4-Attachment-4-7-1-CID-2016-906-BAT 4]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-4-Attachment-4-7-1-CID-2016-906-BAT 4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-5-Attachment-4-7-1-CID-2016-906-BAT 5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888042.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888042.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-5-Attachment-4-7-1-CID-2016-906-BAT 5]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-5-Attachment-4-7-1-CID-2016-906-BAT 5]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - CWW-7-Attachment-4-7-1-CID-2016-906-BAT 7]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888043.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888043.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - CWW-7-Attachment-4-7-1-CID-2016-906-BAT 7]]></description>
+            <content:encoded><![CDATA[P0778-03 -- JANSSEN SCIENCES IRELAND UC: BATC - BAT Answer - CWW-7-Attachment-4-7-1-CID-2016-906-BAT 7]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[JMW Farms (IRL) Limited Offaly]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088808a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088808a.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[JMW Farms (IRL) Limited Offaly]]></description>
+            <content:encoded><![CDATA[P0978-01 -- JMW Farms (IRL) Limited: JMW Farms (IRL) Limited Offaly]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SE-01(B) weekly 06.04.2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/23cb14a0-b84f-4e60-8309-30d38b355a30.pdf</link>
+            <guid>https://leap.epa.ie/docs/23cb14a0-b84f-4e60-8309-30d38b355a30.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:24 GMT</pubDate>
+            <description><![CDATA[SE-01(B) weekly 06.04.2023.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: SE-01(B) weekly 06.04.2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0818-04_effluent_May_2023_rpt.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2f2d607e-ee08-4e42-86d7-24e5a48b9973.pdf</link>
+            <guid>https://leap.epa.ie/docs/2f2d607e-ee08-4e42-86d7-24e5a48b9973.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[P0818-04_effluent_May_2023_rpt.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: P0818-04_effluent_May_2023_rpt.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SE-01(B) weekly 13.04.2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/43867b75-b26f-41cc-8f69-b5a0c2445364.pdf</link>
+            <guid>https://leap.epa.ie/docs/43867b75-b26f-41cc-8f69-b5a0c2445364.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:25 GMT</pubDate>
+            <description><![CDATA[SE-01(B) weekly 13.04.2023.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: SE-01(B) weekly 13.04.2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SE-01 monthly split 27.04.23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/4c654beb-50dc-4f2a-b787-ba41b56279f4.pdf</link>
+            <guid>https://leap.epa.ie/docs/4c654beb-50dc-4f2a-b787-ba41b56279f4.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:21 GMT</pubDate>
+            <description><![CDATA[SE-01 monthly split 27.04.23.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: SE-01 monthly split 27.04.23.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0818-04_effluent_Apr_2023_rpt.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8983179a-0768-4a22-a0e0-38595530d481.pdf</link>
+            <guid>https://leap.epa.ie/docs/8983179a-0768-4a22-a0e0-38595530d481.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:19 GMT</pubDate>
+            <description><![CDATA[P0818-04_effluent_Apr_2023_rpt.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: P0818-04_effluent_Apr_2023_rpt.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SE-01 Weekly 11.05.2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a7faa763-18d7-44da-b2c0-ba4dd8fab929.pdf</link>
+            <guid>https://leap.epa.ie/docs/a7faa763-18d7-44da-b2c0-ba4dd8fab929.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:31 GMT</pubDate>
+            <description><![CDATA[SE-01 Weekly 11.05.2023.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: SE-01 Weekly 11.05.2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SE-01 Weekly 25.05.2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c93d21be-fe56-413f-8912-78e798778cb3.pdf</link>
+            <guid>https://leap.epa.ie/docs/c93d21be-fe56-413f-8912-78e798778cb3.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:37 GMT</pubDate>
+            <description><![CDATA[SE-01 Weekly 25.05.2023.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: SE-01 Weekly 25.05.2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SE-01 Weekly 18.05.2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/555ffc76-d25d-47cb-bac1-743231fd4ed8.pdf</link>
+            <guid>https://leap.epa.ie/docs/555ffc76-d25d-47cb-bac1-743231fd4ed8.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:36 GMT</pubDate>
+            <description><![CDATA[SE-01 Weekly 18.05.2023.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: SE-01 Weekly 18.05.2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SE-01 weekly 20.04.2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/87ed1baf-4ceb-445e-8281-f03c28e31d81.pdf</link>
+            <guid>https://leap.epa.ie/docs/87ed1baf-4ceb-445e-8281-f03c28e31d81.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:23 GMT</pubDate>
+            <description><![CDATA[SE-01 weekly 20.04.2023.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: SE-01 weekly 20.04.2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SE-01 Monthly 04.05.2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ef1688b9-04e4-426c-90f6-b1ecc175c8c3.pdf</link>
+            <guid>https://leap.epa.ie/docs/ef1688b9-04e4-426c-90f6-b1ecc175c8c3.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:31:30 GMT</pubDate>
+            <description><![CDATA[SE-01 Monthly 04.05.2023.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: SE-01 Monthly 04.05.2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888086.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888086.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0966-01 -- Kiernan Breeding Stock: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Kiernan Breeding Stock]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888087.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888087.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Kiernan Breeding Stock]]></description>
+            <content:encoded><![CDATA[P0966-01 -- Kiernan Breeding Stock: Kiernan Breeding Stock]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806f.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0679-01 -- Kiernan Farms (Aughafad): Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Kiernan Farms and Finaway Farms]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888070.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888070.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Kiernan Farms and Finaway Farms]]></description>
+            <content:encoded><![CDATA[P0679-01 -- Kiernan Farms (Aughafad): Kiernan Farms and Finaway Farms]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888071.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888071.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0696-02 -- Messrs Jim and Mark Wright T/A JMW Farms: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Jim and Mark Wright]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888072.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888072.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Jim and Mark Wright]]></description>
+            <content:encoded><![CDATA[P0696-02 -- Messrs Jim and Mark Wright T/A JMW Farms: Jim and Mark Wright]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805f.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0450-03 -- Mr Brendan Kiernan: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Brendan Kiernan]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888060.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888060.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Brendan Kiernan]]></description>
+            <content:encoded><![CDATA[P0450-03 -- Mr Brendan Kiernan: Brendan Kiernan]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888047.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888047.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0411-01 -- Mr James and Ms Nuala Gleeson: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[James and Nuala Gleeson]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888048.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888048.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[James and Nuala Gleeson]]></description>
+            <content:encoded><![CDATA[P0411-01 -- Mr James and Ms Nuala Gleeson: James and Nuala Gleeson]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888067.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888067.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0612-01 -- Mr John Kiernan: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[John Kiernan]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888068.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888068.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[John Kiernan]]></description>
+            <content:encoded><![CDATA[P0612-01 -- Mr John Kiernan: John Kiernan]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806b.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0649-01 -- Mr Kevin Kiernan: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Kevin Kiernan]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088806c.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Kevin Kiernan]]></description>
+            <content:encoded><![CDATA[P0649-01 -- Mr Kevin Kiernan: Kevin Kiernan]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805d.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0437-02 -- Mr Michael Monagle: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Michael Monagle]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805e.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Michael Monagle]]></description>
+            <content:encoded><![CDATA[P0437-02 -- Mr Michael Monagle: Michael Monagle]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888084.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888084.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0849-01 -- Mr Michael O'Shea: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Michael O Shea]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888085.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888085.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Michael O Shea]]></description>
+            <content:encoded><![CDATA[P0849-01 -- Mr Michael O'Shea: Michael O Shea]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888063.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888063.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0481-01 -- Mr Padraig Kiernan: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Padraig Kiernan]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888064.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888064.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Padraig Kiernan]]></description>
+            <content:encoded><![CDATA[P0481-01 -- Mr Padraig Kiernan: Padraig Kiernan]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888075.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888075.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0825-01 -- Mr Pat Roche: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Pat Roche]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888076.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888076.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pat Roche]]></description>
+            <content:encoded><![CDATA[P0825-01 -- Mr Pat Roche: Pat Roche]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888088.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888088.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0968-01 -- MS Patterson Ltd: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[MS Patterson Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888089.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888089.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[MS Patterson Limited]]></description>
+            <content:encoded><![CDATA[P0968-01 -- MS Patterson Ltd: MS Patterson Limited]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888065.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888065.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0598-03 -- Parknageragh Pig Breeders Company Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Parknageragh Pig Breeders Company Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888066.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888066.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Parknageragh Pig Breeders Company Limited]]></description>
+            <content:encoded><![CDATA[P0598-03 -- Parknageragh Pig Breeders Company Limited: Parknageragh Pig Breeders Company Limited]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805b.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0431-02 -- PERMA PIGS LIMITED: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Perma Pigs Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28088805c.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Perma Pigs Limited]]></description>
+            <content:encoded><![CDATA[P0431-02 -- PERMA PIGS LIMITED: Perma Pigs Limited]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888073.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888073.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0708-02 -- Roughty Valley Co-op Society Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Roughty Valley Co-op Society Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888074.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888074.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Roughty Valley Co-op Society Limited]]></description>
+            <content:encoded><![CDATA[P0708-02 -- Roughty Valley Co-op Society Limited: Roughty Valley Co-op Society Limited]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[DGD-Waste-Facility-Permit-2019-2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3110373a-aa81-4e9f-8ea2-f921b7bd895f.pdf</link>
+            <guid>https://leap.epa.ie/docs/3110373a-aa81-4e9f-8ea2-f921b7bd895f.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 21:38:25 GMT</pubDate>
+            <description><![CDATA[DGD-Waste-Facility-Permit-2019-2024.pdf]]></description>
+            <content:encoded><![CDATA[P0813-02 -- Temmler Ireland Limited: DGD-Waste-Facility-Permit-2019-2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888061.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888061.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0467-02 -- Woodville Pig Farms Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Woodville Pig Farms Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888062.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280888062.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Woodville Pig Farms Limited]]></description>
+            <content:encoded><![CDATA[P0467-02 -- Woodville Pig Farms Limited: Woodville Pig Farms Limited]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Reminder Email (upcoming due date) - Section 90(7) Request]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887d95.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280887d95.pdf</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reminder Email (upcoming due date) - Section 90(7) Request]]></description>
+            <content:encoded><![CDATA[P0015-06 -- ZOETIS BELGIUM S.A: Reminder Email (upcoming due date) - Section 90(7) Request]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
