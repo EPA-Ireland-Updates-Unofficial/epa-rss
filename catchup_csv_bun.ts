@@ -1,6 +1,7 @@
-// This is a test using Bun locally instead of Node.js. No transpiling necessary. Different SQLite3 driver. All good.
+// This is a test using Bun locally instead of Node.js. No transpiling necessary. Different SQLite3 driver. All good. WSL or OSX only. Not Windows yet.
 
 // Use this utility when the EPA site was down or generate.ts didn't run for a given number of days for some reason
+// Make sure you have first downloaded the latest epa-rss.sqlite from  https://epa-rss.s3.eu-west-1.amazonaws.com/latest/epa-rss.sqlite and put it in the sqlite dub-directory
 // Provide the number of days you want to generate CSV for as a parameter
 
 const { Database } = require("bun:sqlite");
