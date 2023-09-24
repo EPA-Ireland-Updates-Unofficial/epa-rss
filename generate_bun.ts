@@ -113,7 +113,7 @@ async function scrapeNews(urlbase: string) {
           const filename = path.basename(item.link);
           const key = "uploads/" + filename;
 
-          const insertQuery = db.query(`INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7)`);
+          const insertQuery = db.query(`INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?1, ?2, ?3, ?4, ?5, ?6)`);
 
           let insertResult = insertQuery.all(url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString());
         }
