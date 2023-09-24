@@ -10,25 +10,41 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v3 # checkout the repository content to github runner
-      
-      - name: setup node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16.x'
-          cache: 'npm'
-      - name: npm install and build
+
+      - name: setup Bun
+        uses: oven-sh/setup-bun@v1
+
+      - name: Bun install npm packages
         run: |
-          npm install
+          bun install
           wget https://epa-rss.s3.eu-west-1.amazonaws.com/latest/epa-rss.sqlite -P sqlite
-          # cp sqlite/epa-rss-template.sqlite sqlite/epa-rss.sqlite
-          npm run build
-      - name: run code
+
+      - name: bun run TS code
         env:
           EPA_RSS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           EPA_RSS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY}}
           EPA_RSS_BUCKET: ${{ secrets.AWS_BUCKET }}
         run: |
-          npm run generate          
+          bun generate_bun.ts
+
+#      - name: setup node.js
+#        uses: actions/setup-node@v3
+#        with:
+#          node-version: '16.x'
+#          cache: 'npm'
+#      - name: npm install and build
+#        run: |
+#          npm install
+#          wget https://epa-rss.s3.eu-west-1.amazonaws.com/latest/epa-rss.sqlite -P sqlite
+          # cp sqlite/epa-rss-template.sqlite sqlite/epa-rss.sqlite
+#          npm run build
+#      - name: run code
+#        env:
+#          EPA_RSS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
+#          EPA_RSS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY}}
+#          EPA_RSS_BUCKET: ${{ secrets.AWS_BUCKET }}
+#        run: |
+#          npm run generate
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
