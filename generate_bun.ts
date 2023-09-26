@@ -107,7 +107,8 @@ async function scrapeNews(urlbase: string) {
           if (item.pubDate) {
             isoDate = new Date(item.pubDate!);
           } else {
-            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
+//            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
+            isoDate = new Date();
           }
 
           const filename = path.basename(item.link);
