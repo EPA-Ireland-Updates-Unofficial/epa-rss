@@ -107,16 +107,26 @@ async function scrapeNews(urlbase: string) {
           if (item.pubDate) {
             isoDate = new Date(item.pubDate!);
           } else {
-//            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
+            //            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
             isoDate = new Date();
           }
 
-          const filename = path.basename(item.link);
-          const key = "uploads/" + filename;
+          // Check if file already in SQlite. If it isn't add it
+          // We have to add this because the geniuses are now including files in the RSS feed with no upload date
+          // So we need to use a pseudo-date of the first time we see the file instead of the 2050 trick I used before
+          // There is also a one-off setting of all dates to 2023-09-23 that were previously Mon, 03 Jan 2050 11:00:00 GMT 
+          const query = db.query(`SELECT itemurl FROM allsubmissions where itemurl=$suburl;`);
+          let rows = query.all({ $suburl: item.link });
 
-          const insertQuery = db.query(`INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?1, ?2, ?3, ?4, ?5, ?6)`);
-
-          let insertResult = insertQuery.all(url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString());
+          if (rows.length == 0) {
+            try {
+              const insertQuery = db.query(`INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?1, ?2, ?3, ?4, ?5, ?6)`);
+              let insertResult = insertQuery.all(url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString());
+              console.log("Added new entry to SQLite: " + item.link)
+            } catch (error) {
+              console.error("Error adding: " + item.link);
+            }
+          }
         }
       } catch (e) {
         console.log("Error: " + e);
@@ -178,7 +188,9 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
           if (item.pubDate) {
             isoDate = new Date(item.pubDate!);
           } else {
-            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
+            //            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
+            isoDate = new Date();
+
           }
 
           const filename = path.basename(item.link);
@@ -189,11 +201,11 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
           const query = db.query(`SELECT items3url FROM allsubmissions where items3url=$urlreq;`);
           let rows = query.all({ $urlreq: items3url });
 
-          if (rows.length == 0){
+          if (rows.length == 0) {
             try {
               const buffer = await downloadPDF(item.link);
               await uploadToS3(buffer, key);
-             //console.log("Simulating download/upload")
+              //console.log("Simulating download/upload")
             } catch (error) {
               console.error("An S3 upload error occurred:", error);
             }
