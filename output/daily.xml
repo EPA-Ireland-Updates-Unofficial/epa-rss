@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 08 Nov 2023 04:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 04:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,329 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Submission - Snapshot - Submission No S011378  - P1181-01 - Colin Doyle]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980f6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980f6.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Submission - Snapshot - Submission No S011378  - P1181-01 - Colin Doyle]]></description>
+            <content:encoded><![CDATA[P1181-01 -- Amazon Data Services Ireland Limited: Submission - Snapshot - Submission No S011378  - P1181-01 - Colin Doyle]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[S011378 Submission Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980f7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980f7.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[S011378 Submission Notice]]></description>
+            <content:encoded><![CDATA[P1181-01 -- Amazon Data Services Ireland Limited: S011378 Submission Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - UI2023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980e1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980e1.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - UI2023]]></description>
+            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - UI2023]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Unilin Insulation A2-1 1 2023 Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980f4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980f4.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Unilin Insulation A2-1 1 2023 Report]]></description>
+            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - Unilin Insulation A2-1 1 2023 Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Unilin Insulation A2-2 1 2023 Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980f5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808980f5.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Unilin Insulation A2-2 1 2023 Report]]></description>
+            <content:encoded><![CDATA[P0666-02 -- Ballytherm Trading Limited: Unsolicited Additional Information - Unilin Insulation A2-2 1 2023 Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 74]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089801c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089801c.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 74]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 74]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[W0012.03 Q3 2023 Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ff0a0bf1-1892-4c55-adbf-99252d998482.pdf</link>
+            <guid>https://leap.epa.ie/docs/ff0a0bf1-1892-4c55-adbf-99252d998482.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 21:31:40 GMT</pubDate>
+            <description><![CDATA[W0012.03 Q3 2023 Water.pdf]]></description>
+            <content:encoded><![CDATA[W0012-03 -- Cork City Council: W0012.03 Q3 2023 Water.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089805b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089805b.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
+            <content:encoded><![CDATA[P1195-01 -- Dan Hennessy Farm Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Intel Solvent Managment Plan (SMP) 2022 - Final.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8e28c5cc-5095-405a-bd05-a9597f29f2c7.pdf</link>
+            <guid>https://leap.epa.ie/docs/8e28c5cc-5095-405a-bd05-a9597f29f2c7.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 21:31:12 GMT</pubDate>
+            <description><![CDATA[Intel Solvent Managment Plan (SMP) 2022 - Final.pdf]]></description>
+            <content:encoded><![CDATA[P0207-05 -- Intel Ireland Limited: Intel Solvent Managment Plan (SMP) 2022 - Final.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[OS011374 Valid Objection Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898093.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898093.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[OS011374 Valid Objection Notice]]></description>
+            <content:encoded><![CDATA[P1180-01 -- Kilkenny Cheese Limited: OS011374 Valid Objection Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Standard Report_23-28716-20230901 142953.pdf]]></title>
+            <link>https://leap.epa.ie/docs/48e9e072-52c6-440e-b138-816751e39e5a.pdf</link>
+            <guid>https://leap.epa.ie/docs/48e9e072-52c6-440e-b138-816751e39e5a.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 21:31:29 GMT</pubDate>
+            <description><![CDATA[Standard Report_23-28716-20230901 142953.pdf]]></description>
+            <content:encoded><![CDATA[P1000-01 -- Magh nAla Limited: Standard Report_23-28716-20230901 142953.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[47.23 Timoleague Agri-Gen Ltd - WWTS.pdf]]></title>
+            <link>https://leap.epa.ie/docs/17d197c6-9eea-44db-a544-a3f59be5f712.pdf</link>
+            <guid>https://leap.epa.ie/docs/17d197c6-9eea-44db-a544-a3f59be5f712.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 21:31:20 GMT</pubDate>
+            <description><![CDATA[47.23 Timoleague Agri-Gen Ltd - WWTS.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: 47.23 Timoleague Agri-Gen Ltd - WWTS.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Desk Study_Timoleague AgriGen Ltd.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1c9c02c2-c33c-436d-84dc-07c9cf9cb25c.pdf</link>
+            <guid>https://leap.epa.ie/docs/1c9c02c2-c33c-436d-84dc-07c9cf9cb25c.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 21:31:27 GMT</pubDate>
+            <description><![CDATA[Desk Study_Timoleague AgriGen Ltd.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Desk Study_Timoleague AgriGen Ltd.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[WWTS Proposal letter.pdf]]></title>
+            <link>https://leap.epa.ie/docs/de6f0585-52c8-45b3-b1e8-2b93145a2b7c.pdf</link>
+            <guid>https://leap.epa.ie/docs/de6f0585-52c8-45b3-b1e8-2b93145a2b7c.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 21:31:21 GMT</pubDate>
+            <description><![CDATA[WWTS Proposal letter.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: WWTS Proposal letter.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 2485016 - Britvic EIA Screening Dublin Rev01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089817f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089817f.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 2485016 - Britvic EIA Screening Dublin Rev01]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - 2485016 - Britvic EIA Screening Dublin Rev01]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-4-6-1-Water-Energy-Usage-V1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898180.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898180.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-4-6-1-Water-Energy-Usage-V1]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Attachment-4-6-1-Water-Energy-Usage-V1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-4-6-2-Raw-Material-Interm-Products-V1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898181.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898181.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-4-6-2-Raw-Material-Interm-Products-V1]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Attachment-4-6-2-Raw-Material-Interm-Products-V1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-7-1-1-Emissions-Overview 5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898182.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898182.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-7-1-1-Emissions-Overview 5]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Attachment-7-1-1-Emissions-Overview 5]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-7-3-1 Sewer Data]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898183.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898183.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-7-3-1 Sewer Data]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Attachment-7-3-1 Sewer Data]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-7-3-2-Equivalent-Protection-Sewer 4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898184.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898184.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-7-3-2-Equivalent-Protection-Sewer 4]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Attachment-7-3-2-Equivalent-Protection-Sewer 4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 60]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898185.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898185.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 60]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 60]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-7-5-Noise-Emissions 68]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898186.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898186.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-7-5-Noise-Emissions 68]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Attachment-7-5-Noise-Emissions 68]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-8-1-Waste (Generated)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898187.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898187.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-8-1-Waste (Generated)]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Attachment-8-1-Waste (Generated)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-9-1-EMT 28]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898188.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898188.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-9-1-EMT 28]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Attachment-9-1-EMT 28]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - BREFs BAT Assessment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898189.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898189.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - BREFs BAT Assessment]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - BREFs BAT Assessment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Britvic - Boiler 1 (A1-1)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818a.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Britvic - Boiler 1 (A1-1)]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Britvic - Boiler 1 (A1-1)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Britvic - Boiler 2 (A1-2)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818b.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Britvic - Boiler 2 (A1-2)]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Britvic - Boiler 2 (A1-2)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Britvic Dublin Air Dispersion Modelling Assessment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818c.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Britvic Dublin Air Dispersion Modelling Assessment]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Britvic Dublin Air Dispersion Modelling Assessment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Kyl - 01 Non Technical Summary]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818d.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Kyl - 01 Non Technical Summary]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - Kyl - 01 Non Technical Summary]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - KYL - Bulk Materials and Substances]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818e.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - KYL - Bulk Materials and Substances]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - KYL - Bulk Materials and Substances]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - KYL - Sping Water Monitoring Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28089818f.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - KYL - Sping Water Monitoring Report]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - KYL - Sping Water Monitoring Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - KYL - Spring Water Assessment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898190.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898190.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - KYL - Spring Water Assessment]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - KYL - Spring Water Assessment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - KYL - Spring Water Source Management Plan]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898191.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898191.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - KYL - Spring Water Source Management Plan]]></description>
+            <content:encoded><![CDATA[P1178-01 -- Britvic Ireland Ltd.: Letter from Applicant - KYL - Spring Water Source Management Plan]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898134.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898134.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
+            <content:encoded><![CDATA[P1163-01 -- Enrich Environmental Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Objection No. OS011377 3rd party - Paul Barlow, WBS]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898156.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898156.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Objection No. OS011377 3rd party - Paul Barlow, WBS]]></description>
+            <content:encoded><![CDATA[P1180-01 -- Kilkenny Cheese Limited: Objection No. OS011377 3rd party - Paul Barlow, WBS]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[OS011377 Valid Objection Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898157.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280898157.pdf</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[OS011377 Valid Objection Notice]]></description>
+            <content:encoded><![CDATA[P1180-01 -- Kilkenny Cheese Limited: OS011377 Valid Objection Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
