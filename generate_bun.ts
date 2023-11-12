@@ -114,7 +114,7 @@ async function scrapeNews(urlbase: string) {
           // Check if file already in SQlite. If it isn't add it
           // We have to add this because the geniuses are now including files in the RSS feed with no upload date
           // So we need to use a pseudo-date of the first time we see the file instead of the 2050 trick I used before
-          // There is also a one-off setting of all dates to 2023-09-23 that were previously Mon, 03 Jan 2050 11:00:00 GMT 
+          // There was also a one-off setting of all dates to 2023-09-23 that were previously Mon, 03 Jan 2050 11:00:00 GMT 
           const query = db.query(`SELECT itemurl FROM allsubmissions where itemurl=$suburl;`);
           let rows = query.all({ $suburl: item.link });
 

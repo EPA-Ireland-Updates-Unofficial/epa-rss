@@ -72,13 +72,14 @@ jobs:
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY}}
           aws_bucket: ${{ secrets.AWS_BUCKET }}
           source_dir: 'sqlite'
-          destination_dir: 'latest' 
+          destination_dir: 'latest'
       - name: Get two days ago date
         id: date
-        run: |
-          echo "::set-output name=twodaysago::$(date  --date="2 day ago" +"%Y-%m-%d")"   
+        run: echo "twodaysago=$(date  --date="2 day ago" +"%Y-%m-%d")" >> $GITHUB_OUTPUT
+#        run: |
+#          echo "::set-output name=twodaysago::$(date  --date="2 day ago" +"%Y-%m-%d")"
       - name: Create an issue
-        uses: actions-ecosystem/action-create-issue@v1
+        uses: dacbd/create-issue-action@main
         with:
           github_token: ${{ secrets.github_token }}
           title:  EPA Submissions for ${{ steps.date.outputs.twodaysago }}
