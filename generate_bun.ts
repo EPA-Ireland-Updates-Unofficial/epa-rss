@@ -3,7 +3,7 @@
 // 2023-09-24 Giving up on S3 upload for the moment, as getting crazy bursts of files from EPA site
 // 2023-09-24 Using Bun instead of Node.js as an experiment
 
-import axios from "axios";
+//import axios from "axios";
 import cheerio from "cheerio";
 import { Feed } from "feed";
 import Parser from 'rss-parser';
@@ -34,11 +34,9 @@ const s3 = new AWS.S3({
 });
 
 async function downloadPDF(url: string): Promise<Buffer> {
-  const response = await axios.get(url, {
-    responseType: "arraybuffer",
-  });
-
-  return response.data;
+  const response = await fetch(url);
+  const buffer = await response.arrayBuffer();
+  return Buffer.from(buffer);
 }
 
 // 2023-09-24 Giving up on S3 upload for the moment, as getting crazy bursts of files from EPA site
