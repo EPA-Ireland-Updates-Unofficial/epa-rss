@@ -115,10 +115,10 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
           const key = "uploads/" + filename;
 
           // Check if file already in S3. If it isn't, upload it
-          const query = db.query(`SELECT items3url FROM allsubmissions where items3url=$urlreq;`);
-          let rows = query.all({ $urlreq: items3url });
+          const s3Query = db.query(`SELECT items3url FROM allsubmissions where items3url=$urlreq;`);
+          let s3Rows = s3Query.all({ $urlreq: items3url });
 
-          if (rows.length == 0) {
+          if (s3Rows.length == 0) {
             try {
               const buffer = await downloadPDF(item.link);
               await uploadToS3(buffer, key);
