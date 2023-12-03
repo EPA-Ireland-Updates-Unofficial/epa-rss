@@ -94,10 +94,8 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
         const decoder = new TextDecoder("utf-16le");
         const xmlUtf16le = decoder.decode(buffer);
 
-
-        
         // Idiots now generating invalid XML
-        let santizedXML = xmlUtf16le.data.replace(/&/g, "&amp;amp;");
+        let santizedXML = xmlUtf16le.replace(/&/g, "&amp;amp;");
 
         let RSSContent = await parser.parseString(santizedXML);
 
