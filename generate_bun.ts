@@ -54,88 +54,6 @@ async function uploadToS3(buffer: Buffer, key: string): Promise<void> {
   console.log(`PDF uploaded successfully to S3: ${key}`);
 }
 
-// 2023-09-24 Giving up on S3 upload for the moment, as getting crazy bursts of files from EPA site
-async function scrapeNews(urlbase: string) {
-  for (let alphabet = 0; alphabet < 26; alphabet++) {
-    //for (let alphabet = 0; alphabet < 1; alphabet++) {
-
-    // Do every letter in alphabet. This is a *lot* of requests overall. 26 * number of companies per letter
-    var chr = String.fromCharCode(65 + alphabet);
-    // https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&Submit=Browse
-
-    let url = urlbase + chr + "*&Submit=Browse";
-    console.log("Page for Letter " + chr + " : " + url);
-    const response = await axios.get(url);
-    const html = response.data;
-
-    const $ = cheerio.load(html);
-    const RSSLinks = $(".licSearchTable").find("a").toArray();
-    for (let i = 0; i < RSSLinks.length; i++) {
-      // HREF of each page is like: ippc-view.jsp?regno=P1115-01
-      // URL of each page is like:  https://epawebapp.epa.ie/terminalfour/ippc/ippc-view.jsp?regno=P1115-01
-      // Giving an RSS URL like:    https://epawebapp.epa.ie/licences/lic_eDMS/rss/P1115-01.xml
-
-      //console.log($(link).text(), $(link).attr('href'));
-      let eachRSSURL =
-        "https://epawebapp.epa.ie/licences/lic_eDMS/rss/" +
-        $(RSSLinks[i]).text() +
-        ".xml";
-      //console.log(eachRSSURL);
-
-      // Rate Limit
-      const remainingMessages = await limiter.removeTokens(1);
-
-      let parser = new Parser({
-        headers: { Accept: "application/rss+xml, text/xml; q=0.1" },
-      });
-
-      try {
-        // Deal with encoding BOM at start of XML
-        const xmlUtf16le = await axios.get(eachRSSURL, {
-          responseEncoding: "utf16le",
-        });
-
-        // Idiots now generating invalid XML
-        let santizedXML = xmlUtf16le.data.replace(/&/g, "&amp;amp;");
-
-        let RSSContent = await parser.parseString(santizedXML);
-
-        // console.log(RSSContent.title);
-        for (let j = 0; j < RSSContent.items.length; j++) {
-          let item = RSSContent.items[j];
-          let isoDate;
-          if (item.pubDate) {
-            isoDate = new Date(item.pubDate!);
-          } else {
-            //            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
-            isoDate = new Date();
-          }
-
-          // Check if file already in SQlite. If it isn't add it
-          // We have to add this because the geniuses are now including files in the RSS feed with no upload date
-          // So we need to use a pseudo-date of the first time we see the file instead of the 2050 trick I used before
-          // There was also a one-off setting of all dates to 2023-09-23 that were previously Mon, 03 Jan 2050 11:00:00 GMT 
-          const query = db.query(`SELECT itemurl FROM allsubmissions where itemurl=$suburl;`);
-          let rows = query.all({ $suburl: item.link });
-
-          if (rows.length == 0) {
-            try {
-              const insertQuery = db.query(`INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate) VALUES (?1, ?2, ?3, ?4, ?5, ?6)`);
-              let insertResult = insertQuery.all(url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString());
-              console.log("Added new entry to SQLite: " + item.link)
-            } catch (error) {
-              console.error("Error adding: " + item.link);
-            }
-          }
-        }
-      } catch (e) {
-        console.log("Error: " + e);
-      }
-    }
-  }
-}
-
-// 2023-09-24 Giving up on S3 upload for the moment, as getting crazy bursts of files from EPA site
 async function scrapeNewsAndUploadS3(urlbase: string) {
   for (let alphabet = 0; alphabet < 26; alphabet++) {
     //for (let alphabet = 0; alphabet < 1; alphabet++) {
@@ -190,7 +108,6 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
           } else {
             //            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
             isoDate = new Date();
-
           }
 
           const filename = path.basename(item.link);
@@ -211,9 +128,22 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
             }
           }
 
-          const insertQuery = db.query(`INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate, items3url) VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7)`);
+          // Check if file already in SQlite. If it isn't add it
+          // We have to add this because the geniuses are now including files in the RSS feed with no upload date
+          // So we need to use a pseudo-date of the first time we see the file instead of the 2050 trick I used before
+          // There was also a one-off setting of all dates to 2023-09-23 that were previously Mon, 03 Jan 2050 11:00:00 GMT 
+          const query = db.query(`SELECT itemurl FROM allsubmissions where itemurl=$suburl;`);
+          let rows = query.all({ $suburl: item.link });
 
-          let insertResult = insertQuery.all(url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString(), items3url);
+          if (rows.length == 0) {
+            try {
+              const insertQuery = db.query(`INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate, items3url) VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7)`);
+              let insertResult = insertQuery.all(url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString(), items3url);
+              console.log("Added new entry to SQLite: " + item.link)
+            } catch (error) {
+              console.error("Error adding: " + item.link);
+            }
+          }
         }
       } catch (e) {
         console.log("Error: " + e);
@@ -376,7 +306,7 @@ async function dailyRSSCSV() {
 async function main() {
 
   // Scrape all the RSS feeds on the EPA site and update SQLite
-  await scrapeNews(
+  await scrapeNewsAndUploadS3(
     "https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name="
   );
 
