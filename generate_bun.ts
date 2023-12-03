@@ -62,8 +62,8 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
 
     let url = urlbase + chr + "*&Submit=Browse";
     console.log("Page for Letter " + chr + " : " + url);
-    const response = await axios.get(url);
-    const html = response.data;
+    const response = await fetch(url);
+    const html = await response.text();
 
     const $ = cheerio.load(html);
     const RSSLinks = $(".licSearchTable").find("a").toArray();
@@ -88,9 +88,10 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
 
       try {
         // Deal with encoding BOM at start of XML
-        const xmlUtf16le = await axios.get(eachRSSURL, {
-          responseEncoding: "utf16le",
-        });
+        const response = await fetch(eachRSSURL);
+        const buffer = await response.arrayBuffer();
+        const decoder = new TextDecoder("utf-16le");
+        const xmlUtf16le = decoder.decode(buffer);
 
         // Idiots now generating invalid XML
         let santizedXML = xmlUtf16le.data.replace(/&/g, "&amp;amp;");
