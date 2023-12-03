@@ -88,11 +88,14 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
 
       try {
         // Deal with encoding BOM at start of XML
+        //console.log("Fetching: " + eachRSSURL);
         const response = await fetch(eachRSSURL);
         const buffer = await response.arrayBuffer();
         const decoder = new TextDecoder("utf-16le");
         const xmlUtf16le = decoder.decode(buffer);
 
+
+        
         // Idiots now generating invalid XML
         let santizedXML = xmlUtf16le.data.replace(/&/g, "&amp;amp;");
 
