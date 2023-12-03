@@ -86,16 +86,25 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
         headers: { Accept: "application/rss+xml, text/xml; q=0.1" },
       });
 
+      let santizedXML;
+
       try {
         // Deal with encoding BOM at start of XML
-        //console.log("Fetching: " + eachRSSURL);
-        const response = await fetch(eachRSSURL);
+        console.log("Fetching: " + eachRSSURL);
+
+        try {
+          const response = await fetch(eachRSSURL);
+          if (response.status === 404) {
+            console.log("RSS URL not found: " + eachRSSURL);
+            continue;
+          }
+
         const buffer = await response.arrayBuffer();
         const decoder = new TextDecoder("utf-16le");
         const xmlUtf16le = decoder.decode(buffer);
 
         // Idiots now generating invalid XML
-        let santizedXML = xmlUtf16le.replace(/&/g, "&amp;amp;");
+        santizedXML = xmlUtf16le.replace(/&/g, "&amp;amp;");
 
         let RSSContent = await parser.parseString(santizedXML);
 
@@ -145,8 +154,16 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
             }
           }
         }
+        } catch (error) {
+          console.error("An error occurred while fetching RSS URL: " + eachRSSURL);
+          continue;
+        }
+
+
+
       } catch (e) {
         console.log("Error: " + e);
+        console.log("Probably XML: " + santizedXML);
       }
     }
   }
