@@ -3,22 +3,21 @@
 // 2023-09-24 Giving up on S3 upload for the moment, as getting crazy bursts of files from EPA site
 // 2023-09-24 Using Bun instead of Node.js as an experiment
 
-//import axios from "axios";
 import cheerio from "cheerio";
 import { Feed } from "feed";
 import Parser from 'rss-parser';
 import { RateLimiter } from "limiter";
 
-import * as AWS from "aws-sdk";
 import * as fs from "fs";
 import { stringify } from "csv-stringify";
 import * as path from "path";
 
 import { Database } from "bun:sqlite";
+import { S3Client, PutObjectCommand } from "@aws-sdk/client-s3";
 
 // Retrieve AWS credentials from environment variables
-const accessKeyId = process.env.EPA_RSS_ACCESS_KEY_ID;
-const secretAccessKey = process.env.EPA_RSS_SECRET_ACCESS_KEY;
+const aws_access_key_id = process.env.EPA_RSS_ACCESS_KEY_ID;
+const aws_secret_access_key = process.env.EPA_RSS_SECRET_ACCESS_KEY;
 
 // Set the S3 bucket details
 const bucketName = process.env.EPA_RSS_BUCKET;
@@ -26,31 +25,7 @@ const bucketName = process.env.EPA_RSS_BUCKET;
 const db = new Database("sqlite/epa-rss.sqlite");
 
 // Throttle URL requests to one every 0.25 seconds
-const limiter = new RateLimiter({ tokensPerInterval: 1, interval: 250 });
-
-const s3 = new AWS.S3({
-  accessKeyId,
-  secretAccessKey,
-});
-
-async function downloadPDF(url: string): Promise<Buffer> {
-  const response = await fetch(url);
-  const buffer = await response.arrayBuffer();
-  return Buffer.from(buffer);
-}
-
-// 2023-09-24 Giving up on S3 upload for the moment, as getting crazy bursts of files from EPA site
-async function uploadToS3(buffer: Buffer, key: string): Promise<void> {
-  await s3
-    .upload({
-      Bucket: bucketName,
-      Key: key,
-      Body: buffer,
-    })
-    .promise();
-
-  console.log(`PDF uploaded successfully to S3: ${key}`);
-}
+//const limiter = new RateLimiter({ tokensPerInterval: 1, interval: 250 });
 
 async function scrapeNewsAndUploadS3(urlbase: string) {
   for (let alphabet = 0; alphabet < 26; alphabet++) {
@@ -80,81 +55,96 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
       //console.log(eachRSSURL);
 
       // Rate Limit
-      const remainingMessages = await limiter.removeTokens(1);
+      //const remainingMessages = await limiter.removeTokens(1);
 
       let parser = new Parser({
         headers: { Accept: "application/rss+xml, text/xml; q=0.1" },
       });
 
-
       // Deal with encoding BOM at start of XML
       console.log("Fetching: " + eachRSSURL);
 
-      try {
-        const response = await fetch(eachRSSURL);
-        if (response.status === 404) {
-          console.log("RSS URL not found: " + eachRSSURL);
-          continue;
-        }
-
-        const buffer = await response.arrayBuffer();
-        const decoder = new TextDecoder("utf-16le");
-        const xmlUtf16le = decoder.decode(buffer);
-
-        // Idiots now generating invalid XML
-        let santizedXML = xmlUtf16le.replace(/&/g, "&amp;amp;");
-
-        let RSSContent = await parser.parseString(santizedXML);
-
-        // console.log(RSSContent.title);
-        for (let j = 0; j < RSSContent.items.length; j++) {
-          let item = RSSContent.items[j];
-          let isoDate;
-          if (item.pubDate) {
-            isoDate = new Date(item.pubDate!);
-          } else {
-            //            isoDate = new Date("Mon, 03 Jan 2050 11:00:00 GMT");
-            isoDate = new Date();
-          }
-
-          const filename = path.basename(item.link);
-          const items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/" + filename;
-          const key = "uploads/" + filename;
-
-          // Check if file already in S3. If it isn't, upload it
-          const s3Query = db.query(`SELECT items3url FROM allsubmissions where items3url=$urlreq;`);
-          let s3Rows = s3Query.all({ $urlreq: items3url });
-
-          if (s3Rows.length == 0) {
-            try {
-              const buffer = await downloadPDF(item.link);
-              await uploadToS3(buffer, key);
-              //console.log("Simulating download/upload")
-            } catch (error) {
-              console.error("An S3 upload error occurred:", error);
-            }
-          }
-
-          // Check if file already in SQlite. If it isn't add it
-          // We have to add this because the geniuses are now including files in the RSS feed with no upload date
-          // So we need to use a pseudo-date of the first time we see the file instead of the 2050 trick I used before
-          // There was also a one-off setting of all dates to 2023-09-23 that were previously Mon, 03 Jan 2050 11:00:00 GMT 
-          const query = db.query(`SELECT itemurl FROM allsubmissions where itemurl=$suburl;`);
-          let rows = query.all({ $suburl: item.link });
-
-          if (rows.length == 0) {
-            try {
-              const insertQuery = db.query(`INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate, items3url) VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7)`);
-              let insertResult = insertQuery.all(url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString(), items3url);
-              console.log("Added new entry to SQLite: " + item.link)
-            } catch (error) {
-              console.error("Error adding: " + item.link);
-            }
-          }
-        }
-      } catch (error) {
-        console.error("An error occurred while fetching RSS URL: " + eachRSSURL);
+      const response = await fetch(eachRSSURL);
+      if (response.status === 404) {
+        console.log("RSS URL not found: " + eachRSSURL);
         continue;
+      }
+
+      const buffer = await response.arrayBuffer();
+      const decoder = new TextDecoder("utf-16le");
+      const xmlUtf16le = decoder.decode(buffer);
+
+      // Idiots now generating invalid XML
+      let santizedXML = xmlUtf16le.replace(/&/g, "&amp;amp;");
+
+      let RSSContent = await parser.parseString(santizedXML);
+
+      // console.log(RSSContent.title);
+      for (let j = 0; j < RSSContent.items.length; j++) {
+        let item = RSSContent.items[j];
+        let isoDate;
+        if (item.pubDate) {
+          isoDate = new Date(item.pubDate!);
+        } else {
+          isoDate = new Date();
+        }
+
+        const filename = path.basename(item.link);
+        const items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/" + filename;
+        const key = "uploads/" + filename;
+
+        // Check if file already in S3. If it isn't, upload it
+        const s3Query = db.query(`SELECT items3url FROM allsubmissions where items3url=$urlreq;`);
+        let s3Rows = s3Query.all({ $urlreq: items3url });
+
+        let PDFBuffer;
+
+        if (s3Rows.length == 0) {
+          try {
+            const response = await fetch(item.link);
+            if (response.status === 404) {
+              console.log("PDF not found: " + item.link);
+              continue;
+            }
+            PDFBuffer = await response.arrayBuffer();
+          } catch (error) {
+            console.error("An PDF download error occurred:", error);
+            continue;
+          }
+          const s3Client = new S3Client({ region: "eu-west-1" });
+
+          const uploadParams = {
+            Bucket: bucketName,
+            Key: key,
+            Body: Buffer.from(PDFBuffer),
+          };
+
+          try {
+            await s3Client.send(new PutObjectCommand(uploadParams));
+            console.log(`PDF uploaded successfully to S3: ${key}`);
+          } catch (error) {
+            console.error("An S3 upload error occurred:", error);
+            continue;
+          }
+
+        }
+
+        // Check if file already in SQlite. If it isn't add it
+        // We have to add this because the geniuses are now including files in the RSS feed with no upload date
+        // So we need to use a pseudo-date of the first time we see the file instead of the 2050 trick I used before
+        // There was also a one-off setting of all dates to 2023-09-23 that were previously Mon, 03 Jan 2050 11:00:00 GMT 
+        const query = db.query(`SELECT itemurl FROM allsubmissions where itemurl=$suburl;`);
+        let rows = query.all({ $suburl: item.link });
+
+        if (rows.length == 0) {
+          try {
+            const insertQuery = db.query(`INSERT OR REPLACE INTO allsubmissions (mainpageurl, rsspageurl, rsspagetitle, itemurl, itemtitle, itemdate, items3url) VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7)`);
+            let insertResult = insertQuery.all(url, eachRSSURL, RSSContent.title, item.link, item.title, isoDate.toISOString(), items3url);
+            console.log("Added new entry to SQLite: " + item.link)
+          } catch (error) {
+            console.error("Error adding: " + item.link);
+          }
+        }
       }
     }
   }
