@@ -16,8 +16,15 @@ import { Database } from "bun:sqlite";
 import { S3Client, PutObjectCommand } from "@aws-sdk/client-s3";
 
 // Retrieve AWS credentials from environment variables
-const aws_access_key_id = process.env.EPA_RSS_ACCESS_KEY_ID;
-const aws_secret_access_key = process.env.EPA_RSS_SECRET_ACCESS_KEY;
+const S3Credentials = {
+  accessKeyId: process.env.EPA_RSS_ACCESS_KEY_ID,
+  secretAccessKey:process.env.EPA_RSS_SECRET_ACCESS_KEY,
+}
+
+const S3Config = {
+  region: 'eu-west-1',
+  S3Credentials,
+}
 
 // Set the S3 bucket details
 const bucketName = process.env.EPA_RSS_BUCKET;
@@ -111,7 +118,8 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
             console.error("An PDF download error occurred:", error);
             continue;
           }
-          const s3Client = new S3Client({ region: "eu-west-1" });
+
+          const s3Client = new S3Client(S3Config);
 
           const uploadParams = {
             Bucket: bucketName,
