@@ -16,15 +16,14 @@ import { Database } from "bun:sqlite";
 import { S3Client, PutObjectCommand } from "@aws-sdk/client-s3";
 
 // Retrieve AWS credentials from environment variables
-const S3Credentials = {
-  accessKeyId: process.env.EPA_RSS_ACCESS_KEY_ID,
-  secretAccessKey:process.env.EPA_RSS_SECRET_ACCESS_KEY,
-}
-
 const S3Config = {
   region: 'eu-west-1',
-  S3Credentials,
-}
+  credentials: {
+    accessKeyId: process.env.EPA_RSS_ACCESS_KEY_ID,
+    secretAccessKey: process.env.EPA_RSS_SECRET_ACCESS_KEY
+  }
+};
+
 
 // Set the S3 bucket details
 const bucketName = process.env.EPA_RSS_BUCKET;
