@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.465.0",
+    "bun-types": "^1.0.15",
     "cheerio": "^1.0.0-rc.12",
     "csv-stringify": "^6.2.0",
     "feed": "^4.2.2",
@@ -12,5 +13,6 @@
   },
   "description": "Combined RSS Feed for EPA Ireland",
   "scripts": {
+    "start": "bun generate_bun.ts"
   }
 }
