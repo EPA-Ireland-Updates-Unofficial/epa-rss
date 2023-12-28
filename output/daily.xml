@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 27 Dec 2023 04:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 04:36:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,14 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Snapshot-INCI026648.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0d6fef35-9c80-4dc3-b1da-be6def8d6e54.pdf</link>
+            <guid>https://leap.epa.ie/docs/0d6fef35-9c80-4dc3-b1da-be6def8d6e54.pdf</guid>
+            <pubDate>Tue, 26 Dec 2023 21:31:59 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI026648.pdf]]></description>
+            <content:encoded><![CDATA[W0060-03 -- Louth County Council: Snapshot-INCI026648.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
