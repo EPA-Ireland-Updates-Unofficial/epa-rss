@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 03 Jan 2024 04:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 04:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,644 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SV26917 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/085186d0-f9cd-4cfe-bde7-9628370ac0b1.pdf</link>
+            <guid>https://leap.epa.ie/docs/085186d0-f9cd-4cfe-bde7-9628370ac0b1.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 21:31:33 GMT</pubDate>
+            <description><![CDATA[SV26917 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P1055-01 -- Boher Ash Pig Breeders Limited: SV26917 - Licensee Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[ie1232-43-5623-Report-FINAL_F.pdf]]></title>
+            <link>https://leap.epa.ie/docs/19e45c43-f963-4648-83ef-a318c18fadd9.pdf</link>
+            <guid>https://leap.epa.ie/docs/19e45c43-f963-4648-83ef-a318c18fadd9.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 21:31:35 GMT</pubDate>
+            <description><![CDATA[ie1232-43-5623-Report-FINAL_F.pdf]]></description>
+            <content:encoded><![CDATA[P0027-04 -- Medite Europe Designated Activity Company: ie1232-43-5623-Report-FINAL_F.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Site Specific Issues 3.1 Diesel Tank .pdf]]></title>
+            <link>https://leap.epa.ie/docs/5f724345-ff80-4fa2-83fe-53ed31a620bb.pdf</link>
+            <guid>https://leap.epa.ie/docs/5f724345-ff80-4fa2-83fe-53ed31a620bb.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 21:31:38 GMT</pubDate>
+            <description><![CDATA[Site Specific Issues 3.1 Diesel Tank .pdf]]></description>
+            <content:encoded><![CDATA[P0799-01 -- Glanbia Foods Society Limited: Site Specific Issues 3.1 Diesel Tank .pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Car Park Pond.jpg]]></title>
+            <link>https://leap.epa.ie/docs/7ddd44fd-3f0b-47b9-b5dd-85c84d01e9f2.pdf</link>
+            <guid>https://leap.epa.ie/docs/7ddd44fd-3f0b-47b9-b5dd-85c84d01e9f2.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 21:32:12 GMT</pubDate>
+            <description><![CDATA[Car Park Pond.jpg]]></description>
+            <content:encoded><![CDATA[P0236-02 -- Wellman International Limited: Car Park Pond.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[20231110_082957.jpg]]></title>
+            <link>https://leap.epa.ie/docs/1e51cdf9-b46d-4620-8979-9a9a452d3ce4.pdf</link>
+            <guid>https://leap.epa.ie/docs/1e51cdf9-b46d-4620-8979-9a9a452d3ce4.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 21:31:51 GMT</pubDate>
+            <description><![CDATA[20231110_082957.jpg]]></description>
+            <content:encoded><![CDATA[P0236-02 -- Wellman International Limited: 20231110_082957.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[20231110_142921.jpg]]></title>
+            <link>https://leap.epa.ie/docs/840613e6-464d-4854-954f-010d7b845c6d.pdf</link>
+            <guid>https://leap.epa.ie/docs/840613e6-464d-4854-954f-010d7b845c6d.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 21:31:57 GMT</pubDate>
+            <description><![CDATA[20231110_142921.jpg]]></description>
+            <content:encoded><![CDATA[P0236-02 -- Wellman International Limited: 20231110_142921.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Relevant Parties - Circulation of objs - LACT000]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac0e8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac0e8.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Relevant Parties - Circulation of objs - LACT000]]></description>
+            <content:encoded><![CDATA[P0408-02 -- DDS BRADY FARMS LIMITED: Notification to Relevant Parties - Circulation of objs - LACT000]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Objections Circulated to 3rd Party 16]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac10b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac10b.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Objections Circulated to 3rd Party 16]]></description>
+            <content:encoded><![CDATA[P0408-02 -- DDS BRADY FARMS LIMITED: Letter to Third Party - Objections Circulated to 3rd Party 16]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Relevant Parties - Circulation of objs - LACT000]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac10c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac10c.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Relevant Parties - Circulation of objs - LACT000]]></description>
+            <content:encoded><![CDATA[P0408-02 -- DDS BRADY FARMS LIMITED: Notification to Relevant Parties - Circulation of objs - LACT000]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - KLL letter Jan0223]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3c3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3c3.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - KLL letter Jan0223]]></description>
+            <content:encoded><![CDATA[W0146-04 -- Knockharley Landfill Limited: Letter from Applicant - KLL letter Jan0223]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Accepted Application - LACT00015209]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac046.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac046.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Accepted Application - LACT00015209]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Notification to Applicant Accepted Application - LACT00015209]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SpecifiedBodies-LA011396]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac047.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac047.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[SpecifiedBodies-LA011396]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: SpecifiedBodies-LA011396]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac091.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac091.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority Register - LACT00015210]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac092.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac092.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority Register - LACT00015210]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Notification to Planning Authority Register - LACT00015210]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0402-03 P Carney Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac093.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac093.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[P0402-03 P Carney Limited]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: P0402-03 P Carney Limited]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac0b2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac0b2.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Bodies Request for Information Observat]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac0b3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac0b3.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Bodies Request for Information Observat]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Notification to Planning Bodies Request for Information Observat]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Application Form - LA011396]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac34f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac34f.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Application Form - LA011396]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Application Form - LA011396]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Reason for Review - Attachment 1.1 Reason for Licence Review 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac350.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac350.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Reason for Review - Attachment 1.1 Reason for Licence Review 1]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Reason for Review - Attachment 1.1 Reason for Licence Review 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Relevant Convictions - Attachment 2.5 Conviction Summary]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac351.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac351.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Relevant Convictions - Attachment 2.5 Conviction Summary]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Relevant Convictions - Attachment 2.5 Conviction Summary]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fit and Proper Declaration - Attachment 2.5 Financial Commitments Declaration 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac352.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac352.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fit and Proper Declaration - Attachment 2.5 Financial Commitments Declaration 1]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Fit and Proper Declaration - Attachment 2.5 Financial Commitments Declaration 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Technical Knowledge - Attchment 2.5 Technical Knowledge]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac353.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac353.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Technical Knowledge - Attchment 2.5 Technical Knowledge]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Technical Knowledge - Attchment 2.5 Technical Knowledge]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - Attachment 2.3 Drawing 1 Site Plan]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac354.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac354.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Attachment 2.3 Drawing 1 Site Plan]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Site Plan - Attachment 2.3 Drawing 1 Site Plan]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - Attachment 2.3 Drawing 2 Drainage]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac355.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac355.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Attachment 2.3 Drawing 2 Drainage]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Site Plan - Attachment 2.3 Drawing 2 Drainage]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - Attachment 2.3 Drawing 3 Emission Points]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac356.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac356.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Attachment 2.3 Drawing 3 Emission Points]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Site Plan - Attachment 2.3 Drawing 3 Emission Points]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Map - Attachment 2.3 Drawing 4 Location Map]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac357.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac357.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - Attachment 2.3 Drawing 4 Location Map]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Site Map - Attachment 2.3 Drawing 4 Location Map]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Activity Capacity Information - Attachment 4.4 Capacity Summary]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac358.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac358.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Activity Capacity Information - Attachment 4.4 Capacity Summary]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Activity Capacity Information - Attachment 4.4 Capacity Summary]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Water and Energy Usage - Attachment-4.6-1-Water-Energy-Usage]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac359.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac359.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Water and Energy Usage - Attachment-4.6-1-Water-Energy-Usage]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Water and Energy Usage - Attachment-4.6-1-Water-Energy-Usage]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Materials Used or Generated - Attachment-4.6-2-Raw-Material-Interm-Products]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35a.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Materials Used or Generated - Attachment-4.6-2-Raw-Material-Interm-Products]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Materials Used or Generated - Attachment-4.6-2-Raw-Material-Interm-Products]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment 4.7 BAT Energy Efficiency]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35b.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment 4.7 BAT Energy Efficiency]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - BREF Assessment - Attachment 4.7 BAT Energy Efficiency]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Operational Report - Attachment 4.8-1 Operational report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35c.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - Attachment 4.8-1 Operational report]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Operational Report - Attachment 4.8-1 Operational report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Baseline Screening - Attachment 4.8-2 Hydrogeological Assessment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35d.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Baseline Screening - Attachment 4.8-2 Hydrogeological Assessment]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Baseline Screening - Attachment 4.8-2 Hydrogeological Assessment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Condition Report - Attachment 4.8-3 Site Condition report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35e.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Condition Report - Attachment 4.8-3 Site Condition report]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Site Condition Report - Attachment 4.8-3 Site Condition report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 91]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac35f.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 91]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Financial Application Section - Attachment-5-1-Financial 91]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fee Payment Evidence - EPA Payment 19.12.23 (002) Redacted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac360.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac360.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fee Payment Evidence - EPA Payment 19.12.23 (002) Redacted]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Fee Payment Evidence - EPA Payment 19.12.23 (002) Redacted]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Stakeholder Engagement Section - Attachment 6.1-Stakeholder-Engagement]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac361.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac361.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Stakeholder Engagement Section - Attachment 6.1-Stakeholder-Engagement]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Stakeholder Engagement Section - Attachment 6.1-Stakeholder-Engagement]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 21-1823]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac362.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac362.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 21-1823]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Planning Decision - Planning Ref.Num - 21-1823]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 94-1180]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac363.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac363.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 94-1180]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Planning Decision - Planning Ref.Num - 94-1180]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Signature and Company Stamp - Attachment 11-1 Signature-Stamp]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac37e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac37e.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Signature and Company Stamp - Attachment 11-1 Signature-Stamp]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Signature and Company Stamp - Attachment 11-1 Signature-Stamp]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 21-2341]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac37f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac37f.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 21-2341]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Planning Decision - Planning Ref.Num - 21-2341]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 94-1290]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac380.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac380.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 94-1290]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Planning Decision - Planning Ref.Num - 94-1290]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 95-1399]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac381.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac381.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 95-1399]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Planning Decision - Planning Ref.Num - 95-1399]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 96-1517]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac382.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac382.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Planning Ref.Num - 96-1517]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Planning Decision - Planning Ref.Num - 96-1517]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Planning Ref.Num - KA-20329]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac383.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac383.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Planning Ref.Num - KA-20329]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Planning Decision - Planning Ref.Num - KA-20329]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - NIS - Planning - Attcment 6.2  NIS]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac384.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac384.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - NIS - Planning - Attcment 6.2  NIS]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - NIS - Planning - Attcment 6.2  NIS]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Atachment 6.2 EIAR  Main Body]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac385.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac385.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Atachment 6.2 EIAR  Main Body]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - EIS - Planning - Atachment 6.2 EIAR  Main Body]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Atachment 6.2 EIAR Non-technical summary]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac386.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac386.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Atachment 6.2 EIAR Non-technical summary]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - EIS - Planning - Atachment 6.2 EIAR Non-technical summary]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6.2 EIAR Appendices]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac387.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac387.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6.2 EIAR Appendices]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - EIS - Planning - Attachment 6.2 EIAR Appendices]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment 6.2 EIAR Project development]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac388.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac388.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment 6.2 EIAR Project development]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - EIS - Planning - Attachment 6.2 EIAR Project development]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 2.3 Drawing 1 Site Plan 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac389.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac389.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 2.3 Drawing 1 Site Plan 1]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Evidence of Notices - Attachment 2.3 Drawing 1 Site Plan 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6.2 Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38a.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6.2 Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Evidence of Notices - Attachment 6.2 Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6.2 Notification Meath County Council]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38b.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6.2 Notification Meath County Council]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Evidence of Notices - Attachment 6.2 Notification Meath County Council]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment 6.2 Site Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38c.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment 6.2 Site Notice]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Evidence of Notices - Attachment 6.2 Site Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Overview Section - Attachment-7-1-1 Emissions-Overview 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38d.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Overview Section - Attachment-7-1-1 Emissions-Overview 1]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Emissions Overview Section - Attachment-7-1-1 Emissions-Overview 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - Attachment 7.1.3 Emissions to air monitoring report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38e.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - Attachment 7.1.3 Emissions to air monitoring report]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Emissions Compliance Report - Attachment 7.1.3 Emissions to air monitoring report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - Attachment 7.1.3 Noise monitoring report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac38f.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - Attachment 7.1.3 Noise monitoring report]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Emissions Compliance Report - Attachment 7.1.3 Noise monitoring report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - Attachment 7.1.3 Surface water monitoring report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac390.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac390.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - Attachment 7.1.3 Surface water monitoring report]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Emissions Compliance Report - Attachment 7.1.3 Surface water monitoring report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Receiving Environment Report - Attachment 7.1.3 Receiving environment  Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac391.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac391.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Receiving Environment Report - Attachment 7.1.3 Receiving environment  Water]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Receiving Environment Report - Attachment 7.1.3 Receiving environment  Water]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Receiving Environment Report - Attachment 7.1.3 Receiving environment Air]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac392.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac392.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Receiving Environment Report - Attachment 7.1.3 Receiving environment Air]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Receiving Environment Report - Attachment 7.1.3 Receiving environment Air]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Receiving Environment Report - Attachment 7.1.3 Receiving environment Noise]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac393.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac393.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Receiving Environment Report - Attachment 7.1.3 Receiving environment Noise]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Receiving Environment Report - Attachment 7.1.3 Receiving environment Noise]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Surface Water Section - Attachment 7.2.1 Emissions to Surface Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac394.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac394.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Surface Water Section - Attachment 7.2.1 Emissions to Surface Water]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Emissions - Surface Water Section - Attachment 7.2.1 Emissions to Surface Water]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 72]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac395.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac395.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 72]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 72]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions 70]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac396.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac396.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions 70]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Emissions - Noise Section - Attachment-7-5-Noise-Emissions 70]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Generated Section - Attachment-8.1 Waste-(Generated)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac397.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac397.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Generated Section - Attachment-8.1 Waste-(Generated)]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Waste Generated Section - Attachment-8.1 Waste-(Generated)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy - Attachment 8.2 Waste Hierarchy 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3b6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3b6.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy - Attachment 8.2 Waste Hierarchy 2]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Waste Hierarchy - Attachment 8.2 Waste Hierarchy 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EMT Section - Attachment-9-1-Environmental-Management-Techniques 65]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3b7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3b7.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EMT Section - Attachment-9-1-Environmental-Management-Techniques 65]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - EMT Section - Attachment-9-1-Environmental-Management-Techniques 65]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Certificate of Incorporation - Certificate of Incorporation 13]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3b8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3b8.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Certificate of Incorporation - Certificate of Incorporation 13]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - Certificate of Incorporation - Certificate of Incorporation 13]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - 0388 - Attachment 1.2 NTS]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3b9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3b9.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - 0388 - Attachment 1.2 NTS]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: Application Form - 0388 - Attachment 1.2 NTS]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - NFM-3-BAT 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3ba.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3ba.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - NFM-3-BAT 3]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: BATC - BAT Answer - NFM-3-BAT 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - NFM-5-BAT 5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3bb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3bb.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - NFM-5-BAT 5]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: BATC - BAT Answer - NFM-5-BAT 5]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - NFM-7-BAT 7]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3bc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ac3bc.pdf</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - NFM-7-BAT 7]]></description>
+            <content:encoded><![CDATA[P0402-03 -- P Carney Limited: BATC - BAT Answer - NFM-7-BAT 7]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
