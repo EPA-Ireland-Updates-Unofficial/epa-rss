@@ -20,7 +20,7 @@ jobs:
           ISSUE_TITLE: 'EPA Submissions for ${{ steps.date.outputs.twodaysago }}'
           ISSUE_BODY: 'If any submissions, they will be here: https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/${{ steps.date.outputs.twodaysago }}.csv'
 
-      - name: Close an issue
+      - name: Close that issue
         run: |
           issueID='gh issue close $ISSUE_ID'
         env:
