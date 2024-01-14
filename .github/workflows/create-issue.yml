@@ -9,7 +9,7 @@ jobs:
       - name: Get 2 days ago date
         id: date
         run: |
-          echo 'twodaysago=date  --date="2 day ago" +"%Y-%m-%d"'' >> $GITHUB_ENV
+          echo 'twodaysago=date  --date="2 day ago" +"%Y-%m-%d"' >> $GITHUB_ENV
 
       - name: Create an issue
         run: |
