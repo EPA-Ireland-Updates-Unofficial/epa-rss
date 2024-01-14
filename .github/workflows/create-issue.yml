@@ -9,23 +9,17 @@ jobs:
       - name: Get 2 days ago date
         id: date
         run: |
-          echo "::set-output name=twodaysago::$(date  --date="2 day ago" +"%Y-%m-%d")"   
+          echo "::set-output name=twodaysago::$(date  --date="2 day ago" +"%Y-%m-%d")"
 
-      - name: Create an issue
-        uses: actions-ecosystem/action-create-issue@v1
-        with:
-          github_token: ${{ secrets.github_token }}
-          title:  EPA Submissions for ${{ steps.date.outputs.twodaysago }}
-          body: |
-            * If any submissions, they will be here: https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/${{ steps.date.outputs.twodaysago }}.csv 
-          labels: |
-            closeme
-  close-issue:
-      runs-on: ubuntu-latest
-      steps:
-      - uses: actions/checkout@master
-      - name: Close those automatic issues
-        uses: bdougie/close-issues-based-on-label@master
+      - name: Create and close an issue
+        run: |
+          issueID='gh issue create --title $ISSUE_TITLE --body $ISSUE_BODY'
+          echo 'ISSUE_ID='$issueID >> $GITHUB_ENV
         env:
-          LABEL: closeme
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_TITLE: 'EPA Submissions for ${{ steps.date.outputs.twodaysago }}'
+          ISSUE_BODY: 'If any submissions, they will be here: https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/${{ steps.date.outputs.twodaysago }}.csv'          ''
+        run: |
+          issueID='gh issue close $ISSUE_ID'
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
