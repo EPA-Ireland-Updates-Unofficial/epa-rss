@@ -9,11 +9,11 @@ jobs:
       - name: Get 2 days ago date
         id: date
         run: |
-          echo 'twodaysago=date  --date="2 day ago" +"%Y-%m-%d"' >> $GITHUB_ENV
+          echo 'twodaysago=$(date --date="2 day ago" +"%Y-%m-%d")' >> $GITHUB_ENV
 
       - name: Create an issue
         run: |
-          issueID="$(gh issue create --title ${{env.ISSUE_TITLE}} --body ${{env.ISSUE_BODY}} --repo $GITHUB_REPOSITORY)"
+          issueID="$(gh issue create --title "${{env.ISSUE_TITLE}}" --body "${{env.ISSUE_BODY}}" --repo $GITHUB_REPOSITORY)"
           echo 'ISSUE_ID='$issueID >> $GITHUB_ENV
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
