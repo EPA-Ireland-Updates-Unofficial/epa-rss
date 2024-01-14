@@ -11,14 +11,16 @@ jobs:
         run: |
           echo "::set-output name=twodaysago::$(date  --date="2 day ago" +"%Y-%m-%d")"
 
-      - name: Create and close an issue
+      - name: Create an issue
         run: |
           issueID='gh issue create --title $ISSUE_TITLE --body $ISSUE_BODY'
           echo 'ISSUE_ID='$issueID >> $GITHUB_ENV
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_TITLE: 'EPA Submissions for ${{ steps.date.outputs.twodaysago }}'
-          ISSUE_BODY: 'If any submissions, they will be here: https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/${{ steps.date.outputs.twodaysago }}.csv'          ''
+          ISSUE_BODY: 'If any submissions, they will be here: https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/${{ steps.date.outputs.twodaysago }}.csv'
+
+      - name: Close an issue
         run: |
           issueID='gh issue close $ISSUE_ID'
         env:
