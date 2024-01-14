@@ -13,7 +13,7 @@ jobs:
 
       - name: Create an issue
         run: |
-          issueID=gh issue create --title $ISSUE_TITLE --body $ISSUE_BODY --repo $REPO
+          issueID="$(gh issue create --title $ISSUE_TITLE --body $ISSUE_BODY --repo $REPO)"
           echo 'ISSUE_ID='$issueID >> $GITHUB_ENV
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
