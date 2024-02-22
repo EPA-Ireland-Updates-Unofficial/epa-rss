@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 21 Feb 2024 04:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 04:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,84 +16,156 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[230927_Proposed Trigger Values for NKL sW sites.xlsx]]></title>
-            <link>https://leap.epa.ie/docs/217da947-9be6-4a28-b49e-e7d0fac4250f.pdf</link>
-            <guid>https://leap.epa.ie/docs/217da947-9be6-4a28-b49e-e7d0fac4250f.pdf</guid>
-            <pubDate>Mon, 19 Feb 2024 21:31:21 GMT</pubDate>
-            <description><![CDATA[230927_Proposed Trigger Values for NKL sW sites.xlsx]]></description>
-            <content:encoded><![CDATA[W0001-04 -- Kerry County Council: 230927_Proposed Trigger Values for NKL sW sites.xlsx]]></content:encoded>
+            <title><![CDATA[IIE Q2 2023 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/adab7b62-6309-42b7-9b85-0713f50cf437.pdf</link>
+            <guid>https://leap.epa.ie/docs/adab7b62-6309-42b7-9b85-0713f50cf437.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:14 GMT</pubDate>
+            <description><![CDATA[IIE Q2 2023 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0055-01 -- Irish Industrial Explosives Limited: IIE Q2 2023 Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Ballon Q4 2023 GW and SW Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/2dce1af2-dc02-48d1-8836-daf34b1515c8.pdf</link>
-            <guid>https://leap.epa.ie/docs/2dce1af2-dc02-48d1-8836-daf34b1515c8.pdf</guid>
-            <pubDate>Mon, 19 Feb 2024 21:31:35 GMT</pubDate>
-            <description><![CDATA[Ballon Q4 2023 GW and SW Report.pdf]]></description>
-            <content:encoded><![CDATA[P0556-01 -- Murray Timber (Ballon) Limited: Ballon Q4 2023 GW and SW Report.pdf]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI026979.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c45a3ea8-8f0c-4c5c-99b8-27c748c90ac0.pdf</link>
+            <guid>https://leap.epa.ie/docs/c45a3ea8-8f0c-4c5c-99b8-27c748c90ac0.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:33:53 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI026979.pdf]]></description>
+            <content:encoded><![CDATA[W0060-03 -- Louth County Council: Snapshot-INCI026979.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Ballon Q3 2023 Report v1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8830c1e1-b936-44db-9255-a27bd6aaac56.pdf</link>
-            <guid>https://leap.epa.ie/docs/8830c1e1-b936-44db-9255-a27bd6aaac56.pdf</guid>
-            <pubDate>Mon, 19 Feb 2024 21:31:30 GMT</pubDate>
-            <description><![CDATA[Ballon Q3 2023 Report v1.pdf]]></description>
-            <content:encoded><![CDATA[P0556-01 -- Murray Timber (Ballon) Limited: Ballon Q3 2023 Report v1.pdf]]></content:encoded>
+            <title><![CDATA[BuildingNegPressTest 29.04.19 Rev1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ac3b5e5e-cecb-4ee1-8892-dae9e7629029.pdf</link>
+            <guid>https://leap.epa.ie/docs/ac3b5e5e-cecb-4ee1-8892-dae9e7629029.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:36 GMT</pubDate>
+            <description><![CDATA[BuildingNegPressTest 29.04.19 Rev1.pdf]]></description>
+            <content:encoded><![CDATA[W0284-01 -- O'Toole Composting Limited: BuildingNegPressTest 29.04.19 Rev1.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SW04 results 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/66b6ef10-ca18-44be-997c-c80fd5d7a1d5.pdf</link>
-            <guid>https://leap.epa.ie/docs/66b6ef10-ca18-44be-997c-c80fd5d7a1d5.pdf</guid>
-            <pubDate>Mon, 19 Feb 2024 21:31:20 GMT</pubDate>
-            <description><![CDATA[SW04 results 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: SW04 results 2024.pdf]]></content:encoded>
+            <title><![CDATA[W0284_ProgforNegativeAir-BuildingInt FINAL.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d66372d9-5c03-4323-8623-3a17c5054235.pdf</link>
+            <guid>https://leap.epa.ie/docs/d66372d9-5c03-4323-8623-3a17c5054235.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:38 GMT</pubDate>
+            <description><![CDATA[W0284_ProgforNegativeAir-BuildingInt FINAL.pdf]]></description>
+            <content:encoded><![CDATA[W0284-01 -- O'Toole Composting Limited: W0284_ProgforNegativeAir-BuildingInt FINAL.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Snapshot-INCI026978.pdf]]></title>
-            <link>https://leap.epa.ie/docs/72f787bd-593a-4558-906b-494630e84690.pdf</link>
-            <guid>https://leap.epa.ie/docs/72f787bd-593a-4558-906b-494630e84690.pdf</guid>
-            <pubDate>Mon, 19 Feb 2024 21:31:11 GMT</pubDate>
-            <description><![CDATA[Snapshot-INCI026978.pdf]]></description>
-            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: Snapshot-INCI026978.pdf]]></content:encoded>
+            <title><![CDATA[Groundwater Monitoring Report - Biannual 2.pdf]]></title>
+            <link>https://leap.epa.ie/docs/587433d0-33c6-4345-a677-341cf3f331d1.pdf</link>
+            <guid>https://leap.epa.ie/docs/587433d0-33c6-4345-a677-341cf3f331d1.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:46 GMT</pubDate>
+            <description><![CDATA[Groundwater Monitoring Report - Biannual 2.pdf]]></description>
+            <content:encoded><![CDATA[P0983-01 -- Socomore Ireland Limited: Groundwater Monitoring Report - Biannual 2.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Week 3 Jan 24 Incident Notification Form.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d7d17fa3-414d-489f-a27e-2c9006e2dd7a.pdf</link>
-            <guid>https://leap.epa.ie/docs/d7d17fa3-414d-489f-a27e-2c9006e2dd7a.pdf</guid>
-            <pubDate>Mon, 19 Feb 2024 21:31:14 GMT</pubDate>
-            <description><![CDATA[Week 3 Jan 24 Incident Notification Form.pdf]]></description>
-            <content:encoded><![CDATA[P0810-02 -- Glanbia Foods Society Limited: Week 3 Jan 24 Incident Notification Form.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - 136.04-EPA-01-24]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c0b90.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c0b90.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 136.04-EPA-01-24]]></description>
+            <content:encoded><![CDATA[W0136-04 -- Starrus Eco Holdings Limited: Letter from Applicant - 136.04-EPA-01-24]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P1028-01 OMP Update 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5e026201-5d64-453f-87ae-acbfb57f66a7.pdf</link>
-            <guid>https://leap.epa.ie/docs/5e026201-5d64-453f-87ae-acbfb57f66a7.pdf</guid>
-            <pubDate>Mon, 19 Feb 2024 21:31:11 GMT</pubDate>
-            <description><![CDATA[P1028-01 OMP Update 2023.pdf]]></description>
-            <content:encoded><![CDATA[P1028-01 -- Glanbia Foods Ireland Limited: P1028-01 OMP Update 2023.pdf]]></content:encoded>
+            <title><![CDATA[W0183-01_FWRA_2021.pdf]]></title>
+            <link>https://leap.epa.ie/docs/6fce187c-d84f-4510-a5f4-4075393fea29.pdf</link>
+            <guid>https://leap.epa.ie/docs/6fce187c-d84f-4510-a5f4-4075393fea29.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:33:53 GMT</pubDate>
+            <description><![CDATA[W0183-01_FWRA_2021.pdf]]></description>
+            <content:encoded><![CDATA[W0183-01 -- Starrus Eco Holdings Limited: W0183-01_FWRA_2021.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV26967 - Licensee Public Response.pdf]]></title>
-            <link>https://leap.epa.ie/docs/da1c594f-6878-4bf8-8c3a-f5e4b9537005.pdf</link>
-            <guid>https://leap.epa.ie/docs/da1c594f-6878-4bf8-8c3a-f5e4b9537005.pdf</guid>
-            <pubDate>Mon, 19 Feb 2024 21:31:39 GMT</pubDate>
-            <description><![CDATA[SV26967 - Licensee Public Response.pdf]]></description>
-            <content:encoded><![CDATA[P0638-01 -- Zoetis Belgium S.A.: SV26967 - Licensee Public Response.pdf]]></content:encoded>
+            <title><![CDATA[NRM Mix Tank results.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3b3779e0-2586-4f61-9f1c-c7cc09ef5fda.pdf</link>
+            <guid>https://leap.epa.ie/docs/3b3779e0-2586-4f61-9f1c-c7cc09ef5fda.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:24 GMT</pubDate>
+            <description><![CDATA[NRM Mix Tank results.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: NRM Mix Tank results.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Unsolicited Additional Information]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c0b8f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c0b8f.pdf</guid>
-            <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Unsolicited Additional Information]]></description>
-            <content:encoded><![CDATA[P0812-02 -- Arrow Group Limited: Unsolicited Additional Information]]></content:encoded>
+            <title><![CDATA[NRM Lagoon 2 results.pdf]]></title>
+            <link>https://leap.epa.ie/docs/511dc60e-679f-4342-85c7-4fd8f45e3f93.pdf</link>
+            <guid>https://leap.epa.ie/docs/511dc60e-679f-4342-85c7-4fd8f45e3f93.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:23 GMT</pubDate>
+            <description><![CDATA[NRM Lagoon 2 results.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: NRM Lagoon 2 results.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[NRM Primary results.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7c324762-555b-410d-a659-afacceb15fb9.pdf</link>
+            <guid>https://leap.epa.ie/docs/7c324762-555b-410d-a659-afacceb15fb9.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:29 GMT</pubDate>
+            <description><![CDATA[NRM Primary results.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: NRM Primary results.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[TAG Proposal to Adoption of PAS110_4.12.23.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7a060e42-5ea2-4273-b04a-d3dd41d4fd2f.pdf</link>
+            <guid>https://leap.epa.ie/docs/7a060e42-5ea2-4273-b04a-d3dd41d4fd2f.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:32 GMT</pubDate>
+            <description><![CDATA[TAG Proposal to Adoption of PAS110_4.12.23.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: TAG Proposal to Adoption of PAS110_4.12.23.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Waste Framework Directive 2008-98EC.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c50545f1-3d8f-427d-9333-3312156397b8.pdf</link>
+            <guid>https://leap.epa.ie/docs/c50545f1-3d8f-427d-9333-3312156397b8.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:34 GMT</pubDate>
+            <description><![CDATA[Waste Framework Directive 2008-98EC.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Waste Framework Directive 2008-98EC.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[NRM Secondary results.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ccacdf8e-8572-42da-84e5-ebaaf8d823aa.pdf</link>
+            <guid>https://leap.epa.ie/docs/ccacdf8e-8572-42da-84e5-ebaaf8d823aa.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:30 GMT</pubDate>
+            <description><![CDATA[NRM Secondary results.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: NRM Secondary results.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[NRM Pasteurisation results.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c3502bd1-9e4d-496a-8df0-a9a3c1f99541.pdf</link>
+            <guid>https://leap.epa.ie/docs/c3502bd1-9e4d-496a-8df0-a9a3c1f99541.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:28 GMT</pubDate>
+            <description><![CDATA[NRM Pasteurisation results.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: NRM Pasteurisation results.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EU 2019-1009 fertilising products.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d5d19c0e-6e07-4f0e-abfe-d4c12bebc303.pdf</link>
+            <guid>https://leap.epa.ie/docs/d5d19c0e-6e07-4f0e-abfe-d4c12bebc303.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 21:34:21 GMT</pubDate>
+            <description><![CDATA[EU 2019-1009 fertilising products.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: EU 2019-1009 fertilising products.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Licence Transfer - Application - Licence Transfer Report - LT00420]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c0d9c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c0d9c.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Licence Transfer - Application - Licence Transfer Report - LT00420]]></description>
+            <content:encoded><![CDATA[P0100-02 -- Alkermes Pharma Ireland Limited: Licence Transfer - Application - Licence Transfer Report - LT00420]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00015697]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c0d9e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c0d9e.pdf</guid>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00015697]]></description>
+            <content:encoded><![CDATA[P1205-01 -- Bord Na Mona Powergen Limited: Notification to Applicant Extension Request - LACT00015697]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
