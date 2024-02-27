@@ -33,19 +33,19 @@ jobs:
           git add -A
           git commit --allow-empty -m "update EPS data" -a
           git push
-      - name: install and run feediverse for Mastodon
-        run: |
-          pip install feediverse
-          sed 's/MASTODON_ACCESS_TOKEN/'$MASTODON_ACCESS_TOKEN'/' .feediverse_template > /home/runner/.feediverse
-          sed -i 's/MASTODON_CLIENT_ID/'$MASTODON_CLIENT_ID'/' /home/runner/.feediverse
-          sed -i 's/MASTODON_CLIENT_SECRET/'$MASTODON_CLIENT_SECRET'/' /home/runner/.feediverse
-          /home/runner/.local/bin/feediverse --verbose -c /home/runner/.feediverse
-          rm /home/runner/.feediverse
-        shell: bash
-        env:
-          MASTODON_ACCESS_TOKEN: ${{secrets.MASTODON_ACCESS_TOKEN}}
-          MASTODON_CLIENT_ID: ${{secrets.MASTODON_CLIENT_ID}}
-          MASTODON_CLIENT_SECRET: ${{secrets.MASTODON_CLIENT_SECRET}}
+#      - name: install and run feediverse for Mastodon
+#        run: |
+#          pip install feediverse
+#          sed 's/MASTODON_ACCESS_TOKEN/'$MASTODON_ACCESS_TOKEN'/' .feediverse_template > /home/runner/.feediverse
+#          sed -i 's/MASTODON_CLIENT_ID/'$MASTODON_CLIENT_ID'/' /home/runner/.feediverse
+#          sed -i 's/MASTODON_CLIENT_SECRET/'$MASTODON_CLIENT_SECRET'/' /home/runner/.feediverse
+#          /home/runner/.local/bin/feediverse --verbose -c /home/runner/.feediverse
+#          rm /home/runner/.feediverse
+#        shell: bash
+#        env:
+#          MASTODON_ACCESS_TOKEN: ${{secrets.MASTODON_ACCESS_TOKEN}}
+#          MASTODON_CLIENT_ID: ${{secrets.MASTODON_CLIENT_ID}}
+#          MASTODON_CLIENT_SECRET: ${{secrets.MASTODON_CLIENT_SECRET}}
       - name: upload sqlite3 to s3
         uses: shallwefootball/s3-upload-action@master
         with:
