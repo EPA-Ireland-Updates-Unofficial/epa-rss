@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 20 Mar 2024 04:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 04:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,194 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Response to Non Compliance (21-12-2023).pdf]]></title>
+            <link>https://leap.epa.ie/docs/39dcd1e1-5588-4b46-be3c-0e0c179f08ad.pdf</link>
+            <guid>https://leap.epa.ie/docs/39dcd1e1-5588-4b46-be3c-0e0c179f08ad.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 21:31:14 GMT</pubDate>
+            <description><![CDATA[Response to Non Compliance (21-12-2023).pdf]]></description>
+            <content:encoded><![CDATA[P0207-05 -- Intel Ireland Limited: Response to Non Compliance (21-12-2023).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Snapshot-INCI027233.pdf]]></title>
+            <link>https://leap.epa.ie/docs/147accf1-7217-4850-b31d-8221773fc351.pdf</link>
+            <guid>https://leap.epa.ie/docs/147accf1-7217-4850-b31d-8221773fc351.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 21:31:18 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI027233.pdf]]></description>
+            <content:encoded><![CDATA[W0060-03 -- Louth County Council: Snapshot-INCI027233.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Snapshot-INCI027232.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ed94c51b-4f5f-41c0-b0de-c68e21c02580.pdf</link>
+            <guid>https://leap.epa.ie/docs/ed94c51b-4f5f-41c0-b0de-c68e21c02580.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 21:31:14 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI027232.pdf]]></description>
+            <content:encoded><![CDATA[W0060-03 -- Louth County Council: Snapshot-INCI027232.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Stericycle_to_EPA_NC_Response_02022024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e10f982e-3a97-4442-950d-9b7dec159c86.pdf</link>
+            <guid>https://leap.epa.ie/docs/e10f982e-3a97-4442-950d-9b7dec159c86.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 21:31:25 GMT</pubDate>
+            <description><![CDATA[Stericycle_to_EPA_NC_Response_02022024.pdf]]></description>
+            <content:encoded><![CDATA[W0055-02 -- SRCL  Limited: Stericycle_to_EPA_NC_Response_02022024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cf4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cf4.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
+            <content:encoded><![CDATA[P0019-03 -- Amgen Technology (Ireland) Unlimited Company: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00015957]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d63.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d63.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00015957]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: Notification to Applicant Compliance Notice EIA - LACT00015957]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 6-7-4 - Notification to Planning Authority (email)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d7d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d7d.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 6-7-4 - Notification to Planning Authority (email)]]></description>
+            <content:encoded><![CDATA[P0037-05 -- College Proteins Unlimited Company: Letter from Applicant - 6-7-4 - Notification to Planning Authority (email)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 6-7-4 - Notification to Planning Authority]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d7e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d7e.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 6-7-4 - Notification to Planning Authority]]></description>
+            <content:encoded><![CDATA[P0037-05 -- College Proteins Unlimited Company: Letter from Applicant - 6-7-4 - Notification to Planning Authority]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - EIA screening report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d7f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d7f.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - EIA screening report]]></description>
+            <content:encoded><![CDATA[P0037-05 -- College Proteins Unlimited Company: Letter from Applicant - EIA screening report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Final Grant Biogas Upgrader 30.1.24]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d80.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d80.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Final Grant Biogas Upgrader 30.1.24]]></description>
+            <content:encoded><![CDATA[P0037-05 -- College Proteins Unlimited Company: Letter from Applicant - Final Grant Biogas Upgrader 30.1.24]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Response Letter to FI Request received 11.03.2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d81.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d81.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Response Letter to FI Request received 11.03.2024]]></description>
+            <content:encoded><![CDATA[P0037-05 -- College Proteins Unlimited Company: Letter from Applicant - Response Letter to FI Request received 11.03.2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - 11356 - Athlone EPA Letter 190324]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cc4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cc4.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - 11356 - Athlone EPA Letter 190324]]></description>
+            <content:encoded><![CDATA[P1197-01 -- Greener Ideas Limited: Unsolicited Additional Information - 11356 - Athlone EPA Letter 190324]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00015057  19-03-2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cdd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cdd.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00015057  19-03-2024]]></description>
+            <content:encoded><![CDATA[P1197-01 -- Greener Ideas Limited: Notification to Applicant RFI Reminder  LACT00015057  19-03-2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d06.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d06.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
+            <content:encoded><![CDATA[P1143-01 -- K2 Strategic Infrastructure Ireland Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Specified Body Notification - FD Issued - Licence Granted 304]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d2a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d2a.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Specified Body Notification - FD Issued - Licence Granted 304]]></description>
+            <content:encoded><![CDATA[P0515-02 -- Laragan Farms Limited: Specified Body Notification - FD Issued - Licence Granted 304]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0515-02 signed Final Determination 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d2b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d2b.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[P0515-02 signed Final Determination 1]]></description>
+            <content:encoded><![CDATA[P0515-02 -- Laragan Farms Limited: P0515-02 signed Final Determination 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant - Final DeterminationDecision - LACT00]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d2c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d2c.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant - Final DeterminationDecision - LACT00]]></description>
+            <content:encoded><![CDATA[P0515-02 -- Laragan Farms Limited: Notification to Applicant - Final DeterminationDecision - LACT00]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - FD Issued - Licence Granted 233]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d2d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6d2d.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - FD Issued - Licence Granted 233]]></description>
+            <content:encoded><![CDATA[P0515-02 -- Laragan Farms Limited: Letter to Third Party - FD Issued - Licence Granted 233]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice 92]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cb0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cb0.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice 92]]></description>
+            <content:encoded><![CDATA[P0001-05 -- Smartply Europe Designated Activity Company: Newspaper Notice 92]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Web Notice - FD Issued  P0001-05  LACT00015939]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cc5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cc5.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Web Notice - FD Issued  P0001-05  LACT00015939]]></description>
+            <content:encoded><![CDATA[P0001-05 -- Smartply Europe Designated Activity Company: Web Notice - FD Issued  P0001-05  LACT00015939]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Request for Further Information - LACT]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cdc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c6cdc.pdf</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information - LACT]]></description>
+            <content:encoded><![CDATA[P0638-02 -- Zoetis Belgium S.A.: Notification to Applicant Request for Further Information - LACT]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
