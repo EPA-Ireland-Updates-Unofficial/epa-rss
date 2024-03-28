@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 27 Mar 2024 04:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 04:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,39 +16,939 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Snapshot-INCI027273.pdf]]></title>
-            <link>https://leap.epa.ie/docs/3c0f3bc1-0742-4ac9-b692-4d15c70d3972.pdf</link>
-            <guid>https://leap.epa.ie/docs/3c0f3bc1-0742-4ac9-b692-4d15c70d3972.pdf</guid>
-            <pubDate>Mon, 25 Mar 2024 21:31:13 GMT</pubDate>
-            <description><![CDATA[Snapshot-INCI027273.pdf]]></description>
-            <content:encoded><![CDATA[P0969-02 -- Euroflex Teoranta: Snapshot-INCI027273.pdf]]></content:encoded>
+            <title><![CDATA[2022 Waste Data Query.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1bd0faed-0fc6-4f47-928a-61758c518939.pdf</link>
+            <guid>https://leap.epa.ie/docs/1bd0faed-0fc6-4f47-928a-61758c518939.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:31:34 GMT</pubDate>
+            <description><![CDATA[2022 Waste Data Query.pdf]]></description>
+            <content:encoded><![CDATA[P0420-03 -- Future Pigs Limited: 2022 Waste Data Query.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[DRAFT INCI027273 (ARFEB24009).pdf]]></title>
-            <link>https://leap.epa.ie/docs/5026e08d-d80c-4a4a-923b-31ee43321a54.pdf</link>
-            <guid>https://leap.epa.ie/docs/5026e08d-d80c-4a4a-923b-31ee43321a54.pdf</guid>
-            <pubDate>Mon, 25 Mar 2024 21:31:16 GMT</pubDate>
-            <description><![CDATA[DRAFT INCI027273 (ARFEB24009).pdf]]></description>
-            <content:encoded><![CDATA[P0969-02 -- Euroflex Teoranta: DRAFT INCI027273 (ARFEB24009).pdf]]></content:encoded>
+            <title><![CDATA[Jul 23 Surface Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/19545019-0b8a-451e-af0a-60e26136c342.pdf</link>
+            <guid>https://leap.epa.ie/docs/19545019-0b8a-451e-af0a-60e26136c342.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:42 GMT</pubDate>
+            <description><![CDATA[Jul 23 Surface Water.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Jul 23 Surface Water.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Fitz Scientific TOC Cert - Sump at Unit E (Skip).pdf]]></title>
-            <link>https://leap.epa.ie/docs/f9b1967a-7f0b-4c96-9ea5-9a8e756f6594.pdf</link>
-            <guid>https://leap.epa.ie/docs/f9b1967a-7f0b-4c96-9ea5-9a8e756f6594.pdf</guid>
-            <pubDate>Mon, 25 Mar 2024 21:31:18 GMT</pubDate>
-            <description><![CDATA[Fitz Scientific TOC Cert - Sump at Unit E (Skip).pdf]]></description>
-            <content:encoded><![CDATA[P0969-02 -- Euroflex Teoranta: Fitz Scientific TOC Cert - Sump at Unit E (Skip).pdf]]></content:encoded>
+            <title><![CDATA[Aug 2023 Surface Water PH1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/29ce2e44-8bde-4f22-8b68-69f96596ae05.pdf</link>
+            <guid>https://leap.epa.ie/docs/29ce2e44-8bde-4f22-8b68-69f96596ae05.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:36 GMT</pubDate>
+            <description><![CDATA[Aug 2023 Surface Water PH1.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Aug 2023 Surface Water PH1.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Update to CI002025 Fe 23 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d94239cb-01bc-46a3-9a45-d66b3d438d79.pdf</link>
-            <guid>https://leap.epa.ie/docs/d94239cb-01bc-46a3-9a45-d66b3d438d79.pdf</guid>
-            <pubDate>Mon, 25 Mar 2024 21:31:40 GMT</pubDate>
-            <description><![CDATA[Update to CI002025 Fe 23 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0407-01 -- Irish Pioneer Works (Fabricators) Limited: Update to CI002025 Fe 23 2024.pdf]]></content:encoded>
+            <title><![CDATA[July Surface Water Logbook Inspection.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3ab41248-9751-41f1-89a2-ed58314df33f.pdf</link>
+            <guid>https://leap.epa.ie/docs/3ab41248-9751-41f1-89a2-ed58314df33f.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:46 GMT</pubDate>
+            <description><![CDATA[July Surface Water Logbook Inspection.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: July Surface Water Logbook Inspection.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[July 2023 Surface Water TOC.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3d03bef3-b19c-45c0-bd68-eaee4c085ecf.pdf</link>
+            <guid>https://leap.epa.ie/docs/3d03bef3-b19c-45c0-bd68-eaee4c085ecf.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:45 GMT</pubDate>
+            <description><![CDATA[July 2023 Surface Water TOC.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: July 2023 Surface Water TOC.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sep 2023 Surface Water TOC.pdf]]></title>
+            <link>https://leap.epa.ie/docs/40a52973-0858-4bf4-b4c6-5ad2d1c59bb9.pdf</link>
+            <guid>https://leap.epa.ie/docs/40a52973-0858-4bf4-b4c6-5ad2d1c59bb9.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:50 GMT</pubDate>
+            <description><![CDATA[Sep 2023 Surface Water TOC.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Sep 2023 Surface Water TOC.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sep 23 Surface Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/45ced19d-448d-4848-add6-5096b82c28ee.pdf</link>
+            <guid>https://leap.epa.ie/docs/45ced19d-448d-4848-add6-5096b82c28ee.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:52 GMT</pubDate>
+            <description><![CDATA[Sep 23 Surface Water.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Sep 23 Surface Water.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sep Surface Water Logbook Inspection.pdf]]></title>
+            <link>https://leap.epa.ie/docs/6fd04702-50a7-4bc6-bae7-e3c48bda37da.pdf</link>
+            <guid>https://leap.epa.ie/docs/6fd04702-50a7-4bc6-bae7-e3c48bda37da.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:53 GMT</pubDate>
+            <description><![CDATA[Sep Surface Water Logbook Inspection.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Sep Surface Water Logbook Inspection.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Rainfall July.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8f451957-1721-48c8-b940-3372baf454d7.pdf</link>
+            <guid>https://leap.epa.ie/docs/8f451957-1721-48c8-b940-3372baf454d7.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:48 GMT</pubDate>
+            <description><![CDATA[Rainfall July.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Rainfall July.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[July 2023 Surface Water PH1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8fc05fec-8e0f-4a0a-89d9-a8d73b9f15ca.pdf</link>
+            <guid>https://leap.epa.ie/docs/8fc05fec-8e0f-4a0a-89d9-a8d73b9f15ca.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:43 GMT</pubDate>
+            <description><![CDATA[July 2023 Surface Water PH1.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: July 2023 Surface Water PH1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Aug Surface Water Logbook Inspection.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9cfaed8c-eb56-4267-8060-06b022000c46.pdf</link>
+            <guid>https://leap.epa.ie/docs/9cfaed8c-eb56-4267-8060-06b022000c46.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:41 GMT</pubDate>
+            <description><![CDATA[Aug Surface Water Logbook Inspection.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Aug Surface Water Logbook Inspection.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Aug 2023 Surface Water TOC.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a679aeeb-0564-4265-b130-3cec38a7a8e0.pdf</link>
+            <guid>https://leap.epa.ie/docs/a679aeeb-0564-4265-b130-3cec38a7a8e0.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:38 GMT</pubDate>
+            <description><![CDATA[Aug 2023 Surface Water TOC.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Aug 2023 Surface Water TOC.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Aug 23 Surface Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/b284261c-13af-408d-985b-bc9fa0b5c6bd.pdf</link>
+            <guid>https://leap.epa.ie/docs/b284261c-13af-408d-985b-bc9fa0b5c6bd.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:39 GMT</pubDate>
+            <description><![CDATA[Aug 23 Surface Water.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Aug 23 Surface Water.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sep 2023 Surface Water PH1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/de1cdc2c-ff4c-4b6c-bd00-aebb2a6700cb.pdf</link>
+            <guid>https://leap.epa.ie/docs/de1cdc2c-ff4c-4b6c-bd00-aebb2a6700cb.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 21:32:49 GMT</pubDate>
+            <description><![CDATA[Sep 2023 Surface Water PH1.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: Sep 2023 Surface Water PH1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Accepted Application - LACT00016027]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8462.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8462.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Accepted Application - LACT00016027]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Notification to Applicant Accepted Application - LACT00016027]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SpecifiedBodies-LA010776]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8463.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8463.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[SpecifiedBodies-LA010776]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: SpecifiedBodies-LA010776]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c847c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c847c.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c847d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c847d.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority Register - LACT00016028]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c847e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c847e.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority Register - LACT00016028]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Notification to Planning Authority Register - LACT00016028]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Bodies Request for Information Observat]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c847f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c847f.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Bodies Request for Information Observat]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Notification to Planning Bodies Request for Information Observat]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1209-01 Enviro Grind Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8480.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8480.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[P1209-01 Enviro Grind Limited]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: P1209-01 Enviro Grind Limited]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Application Form - LA010776]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c855e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c855e.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Application Form - LA010776]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Application Form - LA010776]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fit and Proper Declaration - 2-5 Financial Commitments Declaration (signed)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c855f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c855f.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fit and Proper Declaration - 2-5 Financial Commitments Declaration (signed)]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Fit and Proper Declaration - 2-5 Financial Commitments Declaration (signed)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Technical Knowledge - 2-1 Certificate of Incorporation CRO]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8560.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8560.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Technical Knowledge - 2-1 Certificate of Incorporation CRO]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Technical Knowledge - 2-1 Certificate of Incorporation CRO]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Technical Knowledge - 2-5-3 Technical Knowledge or Qualifications FINAL]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8561.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8561.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Technical Knowledge - 2-5-3 Technical Knowledge or Qualifications FINAL]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Technical Knowledge - 2-5-3 Technical Knowledge or Qualifications FINAL]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - 3-3 Drainage Plans (PO1) RH 01.03.2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8562.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8562.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - 3-3 Drainage Plans (PO1) RH 01.03.2024]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Site Plan - 3-3 Drainage Plans (PO1) RH 01.03.2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Map - 3-1 Site Location]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8563.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8563.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - 3-1 Site Location]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Site Map - 3-1 Site Location]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - R and D Activity Capacity - 4-3-4 Capacity Calculations 4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8564.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8564.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - R and D Activity Capacity - 4-3-4 Capacity Calculations 4]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - R and D Activity Capacity - 4-3-4 Capacity Calculations 4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Acceptance Procedure - 4-3-3 Waste Acceptance Procedure]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8565.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8565.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Acceptance Procedure - 4-3-3 Waste Acceptance Procedure]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Waste Acceptance Procedure - 4-3-3 Waste Acceptance Procedure]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Activity Calculations - 4-3-4 Capacity Calculations 5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8566.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8566.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Activity Calculations - 4-3-4 Capacity Calculations 5]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Waste Activity Calculations - 4-3-4 Capacity Calculations 5]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Max Waste Storage - 4-3-1 Merchant Waste Operator and Treats Waste 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8567.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8567.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Max Waste Storage - 4-3-1 Merchant Waste Operator and Treats Waste 1]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Max Waste Storage - 4-3-1 Merchant Waste Operator and Treats Waste 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Max Waste Storage - 4-3-2 Storage Waste Non Waste 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8568.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8568.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Max Waste Storage - 4-3-2 Storage Waste Non Waste 1]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Max Waste Storage - 4-3-2 Storage Waste Non Waste 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Capacity Calculations - 4-3-4 Capacity Calculations 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8569.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8569.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Capacity Calculations - 4-3-4 Capacity Calculations 3]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Waste Capacity Calculations - 4-3-4 Capacity Calculations 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Applicable Regulations - 4-5-1 Applicable Regulation or Directive]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856a.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Applicable Regulations - 4-5-1 Applicable Regulation or Directive]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Applicable Regulations - 4-5-1 Applicable Regulation or Directive]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Water and Energy Usage - 4-6-1 Water and Energy]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856b.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Water and Energy Usage - 4-6-1 Water and Energy]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Water and Energy Usage - 4-6-1 Water and Energy]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Materials Used or Generated - 4-6-2 Raw-Materials]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856c.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Materials Used or Generated - 4-6-2 Raw-Materials]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Materials Used or Generated - 4-6-2 Raw-Materials]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - 4-7-3 BAT for Emissions from Storage]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856d.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - 4-7-3 BAT for Emissions from Storage]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - BREF Assessment - 4-7-3 BAT for Emissions from Storage]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - 4-7-3 BAT for Energy Efficiency]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856e.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - 4-7-3 BAT for Energy Efficiency]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - BREF Assessment - 4-7-3 BAT for Energy Efficiency]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - 4-7-3 BAT for Waste Treatment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c856f.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - 4-7-3 BAT for Waste Treatment]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - BREF Assessment - 4-7-3 BAT for Waste Treatment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Operational Report - 4-8-1 (a) (DRS) Detail]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8570.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8570.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - 4-8-1 (a) (DRS) Detail]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Operational Report - 4-8-1 (a) (DRS) Detail]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Operational Report - 4-8-1 (b) 6507-A001 R03 DRSI]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8571.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8571.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - 4-8-1 (b) 6507-A001 R03 DRSI]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Operational Report - 4-8-1 (b) 6507-A001 R03 DRSI]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - 3-2 Site Layout Plan (PO2) RH 01.03.2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8584.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8584.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - 3-2 Site Layout Plan (PO2) RH 01.03.2024]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Site Plan - 3-2 Site Layout Plan (PO2) RH 01.03.2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Operational Report - 4-8-1 Operational Report 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8585.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8585.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - 4-8-1 Operational Report 3]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Operational Report - 4-8-1 Operational Report 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Baseline Screening - 4-8-2 Screening for baseline]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8586.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8586.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Baseline Screening - 4-8-2 Screening for baseline]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Baseline Screening - 4-8-2 Screening for baseline]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Condition Report - 4-8-4 Site Condition 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8587.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8587.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Condition Report - 4-8-4 Site Condition 2]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Site Condition Report - 4-8-4 Site Condition 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Signature and Company Stamp - 10-1-Signature-Stamp 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8588.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8588.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Signature and Company Stamp - 10-1-Signature-Stamp 3]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Signature and Company Stamp - 10-1-Signature-Stamp 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Financial Application Section - 5-1-Financial 33]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8589.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8589.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Financial Application Section - 5-1-Financial 33]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Financial Application Section - 5-1-Financial 33]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fee Payment Evidence - 5-2 Fee Payment Evidence 2 Redacted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858a.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fee Payment Evidence - 5-2 Fee Payment Evidence 2 Redacted]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Fee Payment Evidence - 5-2 Fee Payment Evidence 2 Redacted]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fee Payment Evidence - 5-3 Confirmation of Costs]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858b.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fee Payment Evidence - 5-3 Confirmation of Costs]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Fee Payment Evidence - 5-3 Confirmation of Costs]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fee Payment Evidence - 5-3 Fee Payment Supporting Documentation]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858c.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fee Payment Evidence - 5-3 Fee Payment Supporting Documentation]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Fee Payment Evidence - 5-3 Fee Payment Supporting Documentation]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Stakeholder Engagement Section - 6-1 Stakeholder Engagement]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858d.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Stakeholder Engagement Section - 6-1 Stakeholder Engagement]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Stakeholder Engagement Section - 6-1 Stakeholder Engagement]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA Screening - 6-2-1 AA Screening Report 13.07.2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858e.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA Screening - 6-2-1 AA Screening Report 13.07.2022]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - AA Screening - 6-2-1 AA Screening Report 13.07.2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1 Planning Grant Ref 2251327]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c858f.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1 Planning Grant Ref 2251327]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1 Planning Grant Ref 2251327]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant 1351039 07.08.2013]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8590.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8590.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant 1351039 07.08.2013]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1a Planning Grant 1351039 07.08.2013]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 03857 26.09.2003]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8591.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8591.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 03857 26.09.2003]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1a Planning Grant Ref 03857 26.09.2003]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1220109 05.04.2012]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8592.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8592.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1220109 05.04.2012]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1220109 05.04.2012]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1250186 18.07.2012]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8593.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8593.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1250186 18.07.2012]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1250186 18.07.2012]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1750366 13.03.2017]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8594.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8594.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1750366 13.03.2017]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1750366 13.03.2017]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1951314 28.08.2019]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8595.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8595.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1951314 28.08.2019]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1a Planning Grant Ref 1951314 28.08.2019]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 2150088 27.01.2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8596.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8596.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 2150088 27.01.2021]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1a Planning Grant Ref 2150088 27.01.2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 2150194 03.02.2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8597.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8597.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 2150194 03.02.2021]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1a Planning Grant Ref 2150194 03.02.2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 2251327 03.08.2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8598.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8598.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - 6-3-1a Planning Grant Ref 2251327 03.08.2022]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Decision - 6-3-1a Planning Grant Ref 2251327 03.08.2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - 6-3-6 EIAR Drawings Appendix A 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8599.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c8599.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - 6-3-6 EIAR Drawings Appendix A 1]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - EIS - Planning - 6-3-6 EIAR Drawings Appendix A 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - 6-3-6 EIAR Volume II (Compressed)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859a.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - 6-3-6 EIAR Volume II (Compressed)]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - EIS - Planning - 6-3-6 EIAR Volume II (Compressed)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - 6-3-6 EIAR Volume I]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859b.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - 6-3-6 EIAR Volume I]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - EIS - Planning - 6-3-6 EIAR Volume I]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Project and Threshold - Planning - 6-3-7 Project and Threshold]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859c.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Project and Threshold - Planning - 6-3-7 Project and Threshold]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Project and Threshold - Planning - 6-3-7 Project and Threshold]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref  1351039 07.08.2013]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859d.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref  1351039 07.08.2013]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Determination - 6-3-1b Planners Report Ref  1351039 07.08.2013]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 03854 26.09.2003]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859e.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 03854 26.09.2003]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Determination - 6-3-1b Planners Report Ref 03854 26.09.2003]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 1220109 05.04.2012]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c859f.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 1220109 05.04.2012]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Determination - 6-3-1b Planners Report Ref 1220109 05.04.2012]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 1250186 18.07.2012]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85a0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85a0.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 1250186 18.07.2012]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Determination - 6-3-1b Planners Report Ref 1250186 18.07.2012]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 1750366 13.03.2017]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85a1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85a1.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 1750366 13.03.2017]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Determination - 6-3-1b Planners Report Ref 1750366 13.03.2017]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 1951314 28.08.2019]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b4.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 1951314 28.08.2019]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Determination - 6-3-1b Planners Report Ref 1951314 28.08.2019]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 2150088 27.01.2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b5.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 2150088 27.01.2021]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Determination - 6-3-1b Planners Report Ref 2150088 27.01.2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 2150194 03.02.2021]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b6.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 2150194 03.02.2021]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Determination - 6-3-1b Planners Report Ref 2150194 03.02.2021]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 2251327 03.08.2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b7.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - 6-3-1b Planners Report Ref 2251327 03.08.2022]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Planning Determination - 6-3-1b Planners Report Ref 2251327 03.08.2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA - Planning - 6-3-1c AA Screening Report Ref 2251327 03.08.2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b8.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - 6-3-1c AA Screening Report Ref 2251327 03.08.2022]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - AA - Planning - 6-3-1c AA Screening Report Ref 2251327 03.08.2022]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - 6-7-1-Evidence of Notice-Site Notice ERRECTED]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85b9.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - 6-7-1-Evidence of Notice-Site Notice ERRECTED]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Evidence of Notices - 6-7-1-Evidence of Notice-Site Notice ERRECTED]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - 6-7-2-Evidence of Notice-Newspaper SCAN]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85ba.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85ba.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - 6-7-2-Evidence of Notice-Newspaper SCAN]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Evidence of Notices - 6-7-2-Evidence of Notice-Newspaper SCAN]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - 6-7-4 Notice to  County Council]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85bb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85bb.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - 6-7-4 Notice to  County Council]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Evidence of Notices - 6-7-4 Notice to  County Council]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Overview Section - 7-1-1 Emissions-Overview]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85bc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85bc.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Overview Section - 7-1-1 Emissions-Overview]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Emissions Overview Section - 7-1-1 Emissions-Overview]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Overview Section - 7-1-2 Emissions Overview Summary]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85bd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85bd.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Overview Section - 7-1-2 Emissions Overview Summary]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Emissions Overview Section - 7-1-2 Emissions Overview Summary]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Air Section - 7-4-1 Air Main 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85be.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85be.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Air Section - 7-4-1 Air Main 1]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Emissions - Air Section - 7-4-1 Air Main 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Minor - Potenial Emissions - 7-4-2 Odour Impact Assessment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85bf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85bf.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Minor - Potenial Emissions - 7-4-2 Odour Impact Assessment]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Minor - Potenial Emissions - 7-4-2 Odour Impact Assessment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Minor - Potenial Emissions - 7-4-3 Biofilter]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c0.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Minor - Potenial Emissions - 7-4-3 Biofilter]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Minor - Potenial Emissions - 7-4-3 Biofilter]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Noise Section - 7-5 Noise 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c1.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Noise Section - 7-5 Noise 1]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Emissions - Noise Section - 7-5 Noise 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Noise Section - 7-5-1 Noise Emmisions Supporting]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c2.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Noise Section - 7-5-1 Noise Emmisions Supporting]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Emissions - Noise Section - 7-5-1 Noise Emmisions Supporting]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Ground Section - 7-6-1 (b) Laboratory analysis report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c3.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Ground Section - 7-6-1 (b) Laboratory analysis report]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Emissions - Ground Section - 7-6-1 (b) Laboratory analysis report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Ground Section - 7-6-1 Emission to Ground - Landspreading]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c4.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Ground Section - 7-6-1 Emission to Ground - Landspreading]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Emissions - Ground Section - 7-6-1 Emission to Ground - Landspreading]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Sanitary Effluent Compliance - 7-6-2 Hydrocare Report Sanitary Effluent Compliance]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c5.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Sanitary Effluent Compliance - 7-6-2 Hydrocare Report Sanitary Effluent Compliance]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Sanitary Effluent Compliance - 7-6-2 Hydrocare Report Sanitary Effluent Compliance]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Landspreading Controls - Non Agri - 7-6-2(b) Landspreading-Controls-Non-Agri]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c6.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Landspreading Controls - Non Agri - 7-6-2(b) Landspreading-Controls-Non-Agri]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Landspreading Controls - Non Agri - 7-6-2(b) Landspreading-Controls-Non-Agri]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Landspreading Controls - Non Agri - 7-6-2(b) Supporting Documentation]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c7.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Landspreading Controls - Non Agri - 7-6-2(b) Supporting Documentation]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Landspreading Controls - Non Agri - 7-6-2(b) Supporting Documentation]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Strorm Water Section - 7-7-1 Storm Water]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c8.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Strorm Water Section - 7-7-1 Storm Water]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Strorm Water Section - 7-7-1 Storm Water]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Storm Water Monitoring - 7-7-3 Hydrocare Surface Water Drainage Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85c9.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Storm Water Monitoring - 7-7-3 Hydrocare Surface Water Drainage Report]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Storm Water Monitoring - 7-7-3 Hydrocare Surface Water Drainage Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Generated Section - 8-1-Waste 45]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85ca.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85ca.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Generated Section - 8-1-Waste 45]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Waste Generated Section - 8-1-Waste 45]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Generated Section - 8-2-2 Type 8 Approval Certificate]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85cb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85cb.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Generated Section - 8-2-2 Type 8 Approval Certificate]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Waste Generated Section - 8-2-2 Type 8 Approval Certificate]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy - 4-3-5 Waste Hierarchy]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85cc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85cc.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy - 4-3-5 Waste Hierarchy]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Waste Hierarchy - 4-3-5 Waste Hierarchy]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EMT Section - 9-1 EMT]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85cd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85cd.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EMT Section - 9-1 EMT]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - EMT Section - 9-1 EMT]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - ELRA - 9-2-1 (b) Site Flood Assesment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85ce.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85ce.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - ELRA - 9-2-1 (b) Site Flood Assesment]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - ELRA - 9-2-1 (b) Site Flood Assesment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - ELRA - 9-2-1 3 CRAMP  ELRA]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85cf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85cf.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - ELRA - 9-2-1 3 CRAMP  ELRA]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - ELRA - 9-2-1 3 CRAMP  ELRA]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy Consideration - 4-3-5 Waste Hierarchy 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85d0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85d0.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy Consideration - 4-3-5 Waste Hierarchy 1]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - Waste Hierarchy Consideration - 4-3-5 Waste Hierarchy 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - 0388 - 1-2 Non Technical Summary 6]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85d1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85d1.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - 0388 - 1-2 Non Technical Summary 6]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - 0388 - 1-2 Non Technical Summary 6]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - 0388 - Table of Contents 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85e0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85e0.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - 0388 - Table of Contents 1]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Application Form - 0388 - Table of Contents 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[BATC - BAT Answer - WT-18-4-7-3 CID Waste]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85e1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c85e1.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[BATC - BAT Answer - WT-18-4-7-3 CID Waste]]></description>
+            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: BATC - BAT Answer - WT-18-4-7-3 CID Waste]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 14(2) Notice 46]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c832e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c832e.pdf</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 14(2) Notice 46]]></description>
+            <content:encoded><![CDATA[P0871-03 -- Mr Vincent Quinn: Reminder Email (upcoming due date)  - Reg 14(2) Notice 46]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
