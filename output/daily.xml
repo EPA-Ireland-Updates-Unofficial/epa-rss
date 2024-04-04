@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 03 Apr 2024 04:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 04:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,30 +16,525 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[P0288 - 2023 AER Report Ver 1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/76e9a007-a171-4865-8dba-a099014c3a54.pdf</link>
-            <guid>https://leap.epa.ie/docs/76e9a007-a171-4865-8dba-a099014c3a54.pdf</guid>
-            <pubDate>Mon, 01 Apr 2024 21:31:58 GMT</pubDate>
-            <description><![CDATA[P0288 - 2023 AER Report Ver 1.pdf]]></description>
-            <content:encoded><![CDATA[P0288-02 -- Allied Metal Recycling (Ireland) Limited: P0288 - 2023 AER Report Ver 1.pdf]]></content:encoded>
+            <title><![CDATA[Enva Cork 2023 Groundwater.pdf]]></title>
+            <link>https://leap.epa.ie/docs/fd0f938d-cc49-4c78-bf86-e547fe295859.pdf</link>
+            <guid>https://leap.epa.ie/docs/fd0f938d-cc49-4c78-bf86-e547fe295859.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 21:31:41 GMT</pubDate>
+            <description><![CDATA[Enva Cork 2023 Groundwater.pdf]]></description>
+            <content:encoded><![CDATA[W0145-02 -- Enva Ireland Limited: Enva Cork 2023 Groundwater.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AER 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/2e2276e2-0a35-4957-a009-b880984c9c7f.pdf</link>
-            <guid>https://leap.epa.ie/docs/2e2276e2-0a35-4957-a009-b880984c9c7f.pdf</guid>
-            <pubDate>Mon, 01 Apr 2024 21:31:51 GMT</pubDate>
-            <description><![CDATA[AER 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0874-01 -- Hyde Park Pig Farm Limited: AER 2023.pdf]]></content:encoded>
+            <title><![CDATA[SV29879 - Licensee Public Response.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7e1c8608-2c9d-4caa-a9b6-19b2534740e7.pdf</link>
+            <guid>https://leap.epa.ie/docs/7e1c8608-2c9d-4caa-a9b6-19b2534740e7.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 21:31:49 GMT</pubDate>
+            <description><![CDATA[SV29879 - Licensee Public Response.pdf]]></description>
+            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: SV29879 - Licensee Public Response.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AER 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/4b712341-a900-40fe-a6a7-a3bce576f513.pdf</link>
-            <guid>https://leap.epa.ie/docs/4b712341-a900-40fe-a6a7-a3bce576f513.pdf</guid>
-            <pubDate>Mon, 01 Apr 2024 21:31:55 GMT</pubDate>
-            <description><![CDATA[AER 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0526-03 -- Luke Bogue Enterprises Limited: AER 2023.pdf]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI027324.pdf]]></title>
+            <link>https://leap.epa.ie/docs/13248611-6451-471c-ab9a-8c9897e61eff.pdf</link>
+            <guid>https://leap.epa.ie/docs/13248611-6451-471c-ab9a-8c9897e61eff.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 21:31:12 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI027324.pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: Snapshot-INCI027324.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Exceedance at SW04 - February 6-9.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7a62e29c-20fe-48c2-8e1f-67abe292947a.pdf</link>
+            <guid>https://leap.epa.ie/docs/7a62e29c-20fe-48c2-8e1f-67abe292947a.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 21:31:16 GMT</pubDate>
+            <description><![CDATA[Exceedance at SW04 - February 6-9.pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: Exceedance at SW04 - February 6-9.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2024.03.01 Overflow from HFBT.pdf]]></title>
+            <link>https://leap.epa.ie/docs/87e4f38a-86db-48f5-8ecb-364caf51fcf9.pdf</link>
+            <guid>https://leap.epa.ie/docs/87e4f38a-86db-48f5-8ecb-364caf51fcf9.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 21:31:15 GMT</pubDate>
+            <description><![CDATA[2024.03.01 Overflow from HFBT.pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: 2024.03.01 Overflow from HFBT.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Exceedance at SW04 -December 27-30-2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9f67335f-e613-48eb-a4a3-0bdebf472eae.pdf</link>
+            <guid>https://leap.epa.ie/docs/9f67335f-e613-48eb-a4a3-0bdebf472eae.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 21:31:19 GMT</pubDate>
+            <description><![CDATA[Exceedance at SW04 -December 27-30-2023.pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: Exceedance at SW04 -December 27-30-2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c86.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c86.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0131-02 -- Bord Na M�na Recycling Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bord Na Mona Navan - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c87.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c87.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bord Na Mona Navan - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0131-02 -- Bord Na M�na Recycling Limited: Bord Na Mona Navan - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c90.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c90.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0194-02 -- Bord Na M�na Recycling Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bord Na Mona Portlaoise - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c91.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c91.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bord Na Mona Portlaoise - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0194-02 -- Bord Na M�na Recycling Limited: Bord Na Mona Portlaoise - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c96.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c96.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0222-01 -- Bord Na M�na Recycling Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bord Na Mona Lusk - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c97.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c97.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bord Na Mona Lusk - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0222-01 -- Bord Na M�na Recycling Limited: Bord Na Mona Lusk - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c84.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c84.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0106-02 -- Bruscar Bhearna Teoranta: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bruscar Bhearna Teoranta - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c85.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c85.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bruscar Bhearna Teoranta - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0106-02 -- Bruscar Bhearna Teoranta: Bruscar Bhearna Teoranta - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cae.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cae.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0253-01 -- Clean (Irl) Refuse &amp; Recycling Co: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Clean (Irl) Refuse &amp;amp; Recycling Company - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9caf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9caf.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Clean (Irl) Refuse &amp;amp; Recycling Company - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0253-01 -- Clean (Irl) Refuse &amp; Recycling Co: Clean (Irl) Refuse &amp;amp; Recycling Company - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cb0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cb0.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0257-01 -- Country Clean Recycling Unlimited Company: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Country Clean Recycling Unlimited Company - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cb1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cb1.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Country Clean Recycling Unlimited Company - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0257-01 -- Country Clean Recycling Unlimited Company: Country Clean Recycling Unlimited Company - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c61.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c61.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P1011-01 -- Drogheda Port Company: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Drogheda Port Company - Letter to Licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c62.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c62.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Drogheda Port Company - Letter to Licensee]]></description>
+            <content:encoded><![CDATA[P1011-01 -- Drogheda Port Company: Drogheda Port Company - Letter to Licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cb2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cb2.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0263-01 -- Irish Packaging Recycling: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Irish Packaging Recycling - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cb3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cb3.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Irish Packaging Recycling - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0263-01 -- Irish Packaging Recycling: Irish Packaging Recycling - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant - Proposed DeterminationDecision - LAC]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9bb8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9bb8.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant - Proposed DeterminationDecision - LAC]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: Notification to Applicant - Proposed DeterminationDecision - LAC]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued – Notification - Specified Bodies - P0818-05]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9bb9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9bb9.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[PD Issued – Notification - Specified Bodies - P0818-05]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: PD Issued – Notification - Specified Bodies - P0818-05]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued – Notification - Submitters - P0818-05]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9bba.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9bba.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[PD Issued – Notification - Submitters - P0818-05]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: PD Issued – Notification - Submitters - P0818-05]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IR-LA009870]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c5f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c5f.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[IR-LA009870]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: IR-LA009870]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[RD-LA009870]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c60.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c60.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[RD-LA009870]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: RD-LA009870]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD-LA009870]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c7d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c7d.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[PD-LA009870]]></description>
+            <content:encoded><![CDATA[P0818-05 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: PD-LA009870]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8a.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady�s Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Mulleady s Limited - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8b.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Mulleady s Limited - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady�s Limited: Mulleady s Limited - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c88.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c88.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0152-03 -- Oxigen Environmental: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Oxigen Environmental Robinhood - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c89.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c89.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Oxigen Environmental Robinhood - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0152-03 -- Oxigen Environmental: Oxigen Environmental Robinhood - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c92.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c92.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0208-01 -- Oxigen Environmental: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Oxigen Environmental Merrywell - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c93.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c93.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Oxigen Environmental Merrywell - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0208-01 -- Oxigen Environmental: Oxigen Environmental Merrywell - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c63.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c63.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[P1014-01 -- Padraig Thornton Waste Disposal Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Thornton Waste Disposal Limited Balbriggan - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c64.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c64.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thornton Waste Disposal Limited Balbriggan - letter to licensee]]></description>
+            <content:encoded><![CDATA[P1014-01 -- Padraig Thornton Waste Disposal Limited: Thornton Waste Disposal Limited Balbriggan - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c69.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c69.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig Thornton Waste Disposal Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Thorntons Recycling Centre Ballyfermot - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c6a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c6a.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thorntons Recycling Centre Ballyfermot - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig Thornton Waste Disposal Limited: Thorntons Recycling Centre Ballyfermot - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c98.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c98.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0227-01 -- Padraig Thornton Waste Disposal Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Thornton Waste Disposal Limited JFK - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cab.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cab.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thornton Waste Disposal Limited JFK - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0227-01 -- Padraig Thornton Waste Disposal Limited: Thornton Waste Disposal Limited JFK - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c65.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c65.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0003-03 -- South Dublin County Council: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[South County Dublin Council - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c66.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c66.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[South County Dublin Council - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0003-03 -- South Dublin County Council: South County Dublin Council - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c67.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c67.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0039-02 -- Starrus Eco Holdings Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Starrus Eco Holdings Limited Ballymount - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c68.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c68.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starrus Eco Holdings Limited Ballymount - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0039-02 -- Starrus Eco Holdings Limited: Starrus Eco Holdings Limited Ballymount - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c7e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c7e.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Starrus Eco Holdings Limited Bray - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c7f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c7f.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starrus Eco Holdings Limited Bray - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: Starrus Eco Holdings Limited Bray - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c80.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c80.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0058-01 -- Starrus Eco Holdings Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Starrus Eco Holdings Limited Sligo - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c81.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c81.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starrus Eco Holdings Limited Sligo - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0058-01 -- Starrus Eco Holdings Limited: Starrus Eco Holdings Limited Sligo - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c82.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c82.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Starrus Eco Holdings Limited Dock Road - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c83.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c83.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starrus Eco Holdings Limited Dock Road - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: Starrus Eco Holdings Limited Dock Road - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8c.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0177-03 -- Starrus Eco Holdings Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Starrus Eco Holdings Limited Waterford - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8d.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starrus Eco Holdings Limited Waterford - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0177-03 -- Starrus Eco Holdings Limited: Starrus Eco Holdings Limited Waterford - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8e.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0188-01 -- Starrus Eco Holdings Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Starrus Eco Holdings Limited Greenogue - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c8f.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starrus Eco Holdings Limited Greenogue - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0188-01 -- Starrus Eco Holdings Limited: Starrus Eco Holdings Limited Greenogue - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c94.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c94.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0220-01 -- Starrus Eco Holdings Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Starrus Eco Holdings Limited Gorey - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c95.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9c95.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starrus Eco Holdings Limited Gorey - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0220-01 -- Starrus Eco Holdings Limited: Starrus Eco Holdings Limited Gorey - letter to licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cac.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cac.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice]]></description>
+            <content:encoded><![CDATA[W0238-01 -- Starrus Eco Holdings Limited: Newspaper Notice]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Starrus Eco Holdings Limited Ballymount - letter to licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cad.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808c9cad.pdf</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starrus Eco Holdings Limited Ballymount - letter to licensee]]></description>
+            <content:encoded><![CDATA[W0238-01 -- Starrus Eco Holdings Limited: Starrus Eco Holdings Limited Ballymount - letter to licensee]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
