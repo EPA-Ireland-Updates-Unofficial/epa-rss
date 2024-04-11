@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 10 Apr 2024 04:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 04:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,66 +16,1371 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[LRF Fuel Delivery Notification.pdf]]></title>
-            <link>https://leap.epa.ie/docs/50308c98-221f-4685-aa54-eb08806f1c89.pdf</link>
-            <guid>https://leap.epa.ie/docs/50308c98-221f-4685-aa54-eb08806f1c89.pdf</guid>
-            <pubDate>Mon, 08 Apr 2024 21:31:56 GMT</pubDate>
-            <description><![CDATA[LRF Fuel Delivery Notification.pdf]]></description>
-            <content:encoded><![CDATA[P0487-07 -- Breedon Cement Ireland Limited: LRF Fuel Delivery Notification.pdf]]></content:encoded>
+            <title><![CDATA[P0561-05 ESB Aghada Energy Efficiency Report 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1725a408-3eb1-470e-9b26-2a33d885516d.pdf</link>
+            <guid>https://leap.epa.ie/docs/1725a408-3eb1-470e-9b26-2a33d885516d.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 21:30:55 GMT</pubDate>
+            <description><![CDATA[P0561-05 ESB Aghada Energy Efficiency Report 2023.pdf]]></description>
+            <content:encoded><![CDATA[P0561-05 -- Electricity Supply Board: P0561-05 ESB Aghada Energy Efficiency Report 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[LT240228 - Abro 2G notification FINAL.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7a6f695d-9584-4a61-9f63-b8669afbfa41.pdf</link>
-            <guid>https://leap.epa.ie/docs/7a6f695d-9584-4a61-9f63-b8669afbfa41.pdf</guid>
-            <pubDate>Mon, 08 Apr 2024 21:32:00 GMT</pubDate>
-            <description><![CDATA[LT240228 - Abro 2G notification FINAL.pdf]]></description>
-            <content:encoded><![CDATA[P0013-06 -- Pfizer Ireland Pharmaceuticals: LT240228 - Abro 2G notification FINAL.pdf]]></content:encoded>
+            <title><![CDATA[P8904.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9cd7a7fd-3238-4c5b-93f1-64363f5d7288.pdf</link>
+            <guid>https://leap.epa.ie/docs/9cd7a7fd-3238-4c5b-93f1-64363f5d7288.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 21:30:59 GMT</pubDate>
+            <description><![CDATA[P8904.pdf]]></description>
+            <content:encoded><![CDATA[P0229-02 -- General Paints Limited: P8904.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0116-02 2023 Dust Waterford.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fd460f9d-b1e6-4235-bed8-ad2ddec71281.pdf</link>
-            <guid>https://leap.epa.ie/docs/fd460f9d-b1e6-4235-bed8-ad2ddec71281.pdf</guid>
-            <pubDate>Mon, 08 Apr 2024 21:31:47 GMT</pubDate>
-            <description><![CDATA[W0116-02 2023 Dust Waterford.pdf]]></description>
-            <content:encoded><![CDATA[W0116-02 -- Starrus Eco Holdings Limited: W0116-02 2023 Dust Waterford.pdf]]></content:encoded>
+            <title><![CDATA[P8905.pdf]]></title>
+            <link>https://leap.epa.ie/docs/dcad921d-375f-4886-bb8b-e641f03c932d.pdf</link>
+            <guid>https://leap.epa.ie/docs/dcad921d-375f-4886-bb8b-e641f03c932d.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 21:31:00 GMT</pubDate>
+            <description><![CDATA[P8905.pdf]]></description>
+            <content:encoded><![CDATA[P0229-02 -- General Paints Limited: P8905.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[W0249-01 Review of Biofilter Performance Feb2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/11feff23-5a7d-4d03-ad72-aca01f6bfe11.pdf</link>
-            <guid>https://leap.epa.ie/docs/11feff23-5a7d-4d03-ad72-aca01f6bfe11.pdf</guid>
-            <pubDate>Mon, 08 Apr 2024 21:32:08 GMT</pubDate>
-            <description><![CDATA[W0249-01 Review of Biofilter Performance Feb2024.pdf]]></description>
-            <content:encoded><![CDATA[W0249-01 -- Starrus Eco Holdings Limited: W0249-01 Review of Biofilter Performance Feb2024.pdf]]></content:encoded>
+            <title><![CDATA[P8906.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7b66fbdf-b47f-4d61-bb4d-c64374cfb235.pdf</link>
+            <guid>https://leap.epa.ie/docs/7b66fbdf-b47f-4d61-bb4d-c64374cfb235.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 21:31:01 GMT</pubDate>
+            <description><![CDATA[P8906.pdf]]></description>
+            <content:encoded><![CDATA[P0229-02 -- General Paints Limited: P8906.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00015057  08-04-2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb231.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb231.pdf</guid>
-            <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00015057  08-04-2024]]></description>
-            <content:encoded><![CDATA[P1197-01 -- Greener Ideas Limited: Notification to Applicant RFI Reminder  LACT00015057  08-04-2024]]></content:encoded>
+            <title><![CDATA[INCI027022 Water Sampling Proposal_Rev 2.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f641f8bd-d15a-4884-958f-78fd8c1284f1.pdf</link>
+            <guid>https://leap.epa.ie/docs/f641f8bd-d15a-4884-958f-78fd8c1284f1.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 21:30:53 GMT</pubDate>
+            <description><![CDATA[INCI027022 Water Sampling Proposal_Rev 2.pdf]]></description>
+            <content:encoded><![CDATA[P0266-03 -- Irving Oil Whitegate Refinery Limited: INCI027022 Water Sampling Proposal_Rev 2.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0001487703-04]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb2d9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb2d9.pdf</guid>
-            <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0001487703-04]]></description>
-            <content:encoded><![CDATA[P0696-03 -- Messrs Jim and Mark Wright T/A JMW Farms: Notification to Applicant - RFI Ext. Consent - LACT0001487703-04]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Accepted Application - LACT00016114]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb4e3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb4e3.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Accepted Application - LACT00016114]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Notification to Applicant Accepted Application - LACT00016114]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0001498605-04]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb2da.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb2da.pdf</guid>
-            <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0001498605-04]]></description>
-            <content:encoded><![CDATA[P1207-01 -- Michael Hanley Farm Enterprises Limited: Notification to Applicant - RFI Ext. Consent - LACT0001498605-04]]></content:encoded>
+            <title><![CDATA[SpecifiedBodies-LA011507]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb4e4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb4e4.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[SpecifiedBodies-LA011507]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: SpecifiedBodies-LA011507]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb50e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb50e.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Section 99E Notice 85]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb50f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb50f.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Section 99E Notice 85]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Letter to Third Party - Section 99E Notice 85]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority Register - LACT00016117]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb510.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb510.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority Register - LACT00016117]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Notification to Planning Authority Register - LACT00016117]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb511.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb511.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Notification to Water Services Authority - Discharge to Sewer LA]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1014-02 Licence Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb512.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb512.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[P1014-02 Licence Register]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: P1014-02 Licence Register]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb535.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb535.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Bodies Request for Information Observat]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb536.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb536.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Bodies Request for Information Observat]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Notification to Planning Bodies Request for Information Observat]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Application Form - LA011507]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb663.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb663.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Application Form - LA011507]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Application Form - LA011507]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Reason for Review - Attachment-1-1-Reason for Licence Review 18]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb664.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb664.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Reason for Review - Attachment-1-1-Reason for Licence Review 18]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Reason for Review - Attachment-1-1-Reason for Licence Review 18]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Relevant Convictions - Attachment-2-5-1-Convictions and Remedial Actions 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb665.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb665.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Relevant Convictions - Attachment-2-5-1-Convictions and Remedial Actions 2]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Relevant Convictions - Attachment-2-5-1-Convictions and Remedial Actions 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fit and Proper Declaration - Attachment-2-5-Financial Commitments Declaration 28]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb666.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb666.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fit and Proper Declaration - Attachment-2-5-Financial Commitments Declaration 28]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Fit and Proper Declaration - Attachment-2-5-Financial Commitments Declaration 28]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Technical Knowledge - Attachment 2-5-3-Technical Knowledge 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb667.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb667.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Technical Knowledge - Attachment 2-5-3-Technical Knowledge 3]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Technical Knowledge - Attachment 2-5-3-Technical Knowledge 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - Drawing 0002-Site Layout Plan 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb668.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb668.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Drawing 0002-Site Layout Plan 1]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Site Plan - Drawing 0002-Site Layout Plan 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - Drawing 0004-Drainage and Emissions]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb669.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb669.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Drawing 0004-Drainage and Emissions]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Site Plan - Drawing 0004-Drainage and Emissions]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - Drawing 0005-Services Wayleaves]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66a.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Drawing 0005-Services Wayleaves]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Site Plan - Drawing 0005-Services Wayleaves]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - Drawing 0007-Waste and Chemical Storage Plan]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66b.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Drawing 0007-Waste and Chemical Storage Plan]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Site Plan - Drawing 0007-Waste and Chemical Storage Plan]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - Drawing 0008-Site Notices Location]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66c.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - Drawing 0008-Site Notices Location]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Site Plan - Drawing 0008-Site Notices Location]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Map - Drawing 0001-Site Location 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66d.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - Drawing 0001-Site Location 2]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Site Map - Drawing 0001-Site Location 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Merchant Waste Operator - Attachment-4-3-3- Waste Merchant and Treatment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66e.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Merchant Waste Operator - Attachment-4-3-3- Waste Merchant and Treatment]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Merchant Waste Operator - Attachment-4-3-3- Waste Merchant and Treatment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - R and D Activity Capacity - Attachment-4-3-4-R and D Activity Capacity Calcs 8]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb66f.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - R and D Activity Capacity - Attachment-4-3-4-R and D Activity Capacity Calcs 8]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - R and D Activity Capacity - Attachment-4-3-4-R and D Activity Capacity Calcs 8]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Acceptance Procedure - Attachment-4-3-5-Waste Acceptance Procedure 7]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb670.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb670.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Acceptance Procedure - Attachment-4-3-5-Waste Acceptance Procedure 7]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Waste Acceptance Procedure - Attachment-4-3-5-Waste Acceptance Procedure 7]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Activity Calculations - Attachment-4-3-6-Maximum Waste Accepted Calcs 7]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb671.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb671.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Activity Calculations - Attachment-4-3-6-Maximum Waste Accepted Calcs 7]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Waste Activity Calculations - Attachment-4-3-6-Maximum Waste Accepted Calcs 7]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Max Waste Storage - Attachment-4-3-1-Storage of Waste-Non-Waste]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb672.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb672.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Max Waste Storage - Attachment-4-3-1-Storage of Waste-Non-Waste]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Max Waste Storage - Attachment-4-3-1-Storage of Waste-Non-Waste]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Capacity Calculations - Attachment-4-3-7-Waste Storage Capacity Calcs 4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb673.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb673.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Capacity Calculations - Attachment-4-3-7-Waste Storage Capacity Calcs 4]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Waste Capacity Calculations - Attachment-4-3-7-Waste Storage Capacity Calcs 4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Water and Energy Usage - Attachment-4-6-1-Water-Energy-Usage 45]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb674.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb674.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Water and Energy Usage - Attachment-4-6-1-Water-Energy-Usage 45]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Water and Energy Usage - Attachment-4-6-1-Water-Energy-Usage 45]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Materials Used or Generated - Attachment-4-6-2-Raw-Material-Interm-Products 48]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb675.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb675.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Materials Used or Generated - Attachment-4-6-2-Raw-Material-Interm-Products 48]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Materials Used or Generated - Attachment-4-6-2-Raw-Material-Interm-Products 48]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-Energy Efficiency 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb676.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb676.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-Energy Efficiency 1]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - BREF Assessment - Attachment-4-7-2-Energy Efficiency 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-3-Emissions from Storage 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb677.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb677.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-3-Emissions from Storage 1]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - BREF Assessment - Attachment-4-7-3-Emissions from Storage 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Operational Report - Attachment-4-8-1-Operational Report 47]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb678.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb678.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - Attachment-4-8-1-Operational Report 47]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Operational Report - Attachment-4-8-1-Operational Report 47]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Condition Report - Attachment-4-8-4-Site Condition Report 40]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb679.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb679.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Condition Report - Attachment-4-8-4-Site Condition Report 40]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Site Condition Report - Attachment-4-8-4-Site Condition Report 40]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Signature and Company Stamp - Attachment-10-1-Signature Stamp 35]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67a.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Signature and Company Stamp - Attachment-10-1-Signature Stamp 35]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Signature and Company Stamp - Attachment-10-1-Signature Stamp 35]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 93]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67b.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 93]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Financial Application Section - Attachment-5-1-Financial 93]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fee Payment Evidence - Attachment-5-2-Fee Payment Evidence 29]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67c.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fee Payment Evidence - Attachment-5-2-Fee Payment Evidence 29]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Fee Payment Evidence - Attachment-5-2-Fee Payment Evidence 29]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 67]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67d.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 67]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 67]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA Screening - Attachment-6-2-1-AA-Screening-Jan-2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67e.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA Screening - Attachment-6-2-1-AA-Screening-Jan-2024]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - AA Screening - Attachment-6-2-1-AA-Screening-Jan-2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment-6-3-1-Planning Decision-Mar-2016]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb67f.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment-6-3-1-Planning Decision-Mar-2016]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Planning Decision - Attachment-6-3-1-Planning Decision-Mar-2016]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIA Confirmation - Planning - Attachment-6-3-3-EIA Confirmation-Planning-Jan-2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb680.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb680.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIA Confirmation - Planning - Attachment-6-3-3-EIA Confirmation-Planning-Jan-2024]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - EIA Confirmation - Planning - Attachment-6-3-3-EIA Confirmation-Planning-Jan-2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA Screening - Planning - Attachment-6-3-5-AA-Screening-Planning-Jan-2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb68f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb68f.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA Screening - Planning - Attachment-6-3-5-AA-Screening-Planning-Jan-2024]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - AA Screening - Planning - Attachment-6-3-5-AA-Screening-Planning-Jan-2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning under Consideration - Attachment-6-3-4-Planning Consideration-Jan-2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb690.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb690.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning under Consideration - Attachment-6-3-4-Planning Consideration-Jan-2024]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Planning under Consideration - Attachment-6-3-4-Planning Consideration-Jan-2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment-6-3-6-EIAR-Planning-Part 1 of 2-Oct-2023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb691.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb691.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment-6-3-6-EIAR-Planning-Part 1 of 2-Oct-2023]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - EIS - Planning - Attachment-6-3-6-EIAR-Planning-Part 1 of 2-Oct-2023]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment-6-3-6-EIAR-Planning-Part 2 of 2-Oct-2023]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb692.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb692.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment-6-3-6-EIAR-Planning-Part 2 of 2-Oct-2023]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - EIS - Planning - Attachment-6-3-6-EIAR-Planning-Part 2 of 2-Oct-2023]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Project and Threshold - Planning - Attachment-6-3-7-Project and Threshold-Planning 24]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb693.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb693.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Project and Threshold - Planning - Attachment-6-3-7-Project and Threshold-Planning 24]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Project and Threshold - Planning - Attachment-6-3-7-Project and Threshold-Planning 24]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Determination - Attachment-6-3-2-Planning Report-Feb-2016]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb694.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb694.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Determination - Attachment-6-3-2-Planning Report-Feb-2016]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Planning Determination - Attachment-6-3-2-Planning Report-Feb-2016]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-1-Evidence of Notices-Site 27]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb695.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb695.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-1-Evidence of Notices-Site 27]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Evidence of Notices - Attachment-6-7-1-Evidence of Notices-Site 27]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-2-Evidence of Notices - Newspaper 14]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb696.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb696.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-2-Evidence of Notices - Newspaper 14]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Evidence of Notices - Attachment-6-7-2-Evidence of Notices - Newspaper 14]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-3-Evidence of Notices - Map 21]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb697.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb697.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-3-Evidence of Notices - Map 21]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Evidence of Notices - Attachment-6-7-3-Evidence of Notices - Map 21]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-4-Evidence of Notices - PA 21]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb698.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb698.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-4-Evidence of Notices - PA 21]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Evidence of Notices - Attachment-6-7-4-Evidence of Notices - PA 21]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Overview Section - Attachment-7-1-Emissions-Overview 91]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb699.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb699.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Overview Section - Attachment-7-1-Emissions-Overview 91]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Emissions Overview Section - Attachment-7-1-Emissions-Overview 91]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 42]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69a.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 42]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 42]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Receiving Environment Report - Attachment-7-1-3-3-Receiving Environment 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69b.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Receiving Environment Report - Attachment-7-1-3-3-Receiving Environment 2]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Receiving Environment Report - Attachment-7-1-3-3-Receiving Environment 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Emissions Impact Assessment 22]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69c.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Emissions Impact Assessment 22]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Emissions Impact Assessment 22]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Sewer Section - Attachment-7-3-1-Emissions-to-Sewer 44]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69d.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Sewer Section - Attachment-7-3-1-Emissions-to-Sewer 44]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Emissions - Sewer Section - Attachment-7-3-1-Emissions-to-Sewer 44]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Equivalent Protection - Sewer - Attachment-7-3-2-Equivalent Level of Protection 4]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69e.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Equivalent Protection - Sewer - Attachment-7-3-2-Equivalent Level of Protection 4]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Equivalent Protection - Sewer - Attachment-7-3-2-Equivalent Level of Protection 4]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise Emissions 23]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb69f.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise Emissions 23]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Emissions - Noise Section - Attachment-7-5-Noise Emissions 23]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Strorm Water Section - Attachment-7-7-Storm Water Discharges 10]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a0.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Strorm Water Section - Attachment-7-7-Storm Water Discharges 10]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Strorm Water Section - Attachment-7-7-Storm Water Discharges 10]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Storm Water Monitoring - Attachment-7-7-1-Storm Water Monitoring 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a1.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Storm Water Monitoring - Attachment-7-7-1-Storm Water Monitoring 1]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Storm Water Monitoring - Attachment-7-7-1-Storm Water Monitoring 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-(Generated) 60]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a2.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-(Generated) 60]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Waste Generated Section - Attachment-8-1-Waste-(Generated) 60]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy - Attachment-8-2-1-Waste Hierarchy 40]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a3.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy - Attachment-8-2-1-Waste Hierarchy 40]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Waste Hierarchy - Attachment-8-2-1-Waste Hierarchy 40]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EMT Section - Attachment-9-1-EMT 29]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a4.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EMT Section - Attachment-9-1-EMT 29]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - EMT Section - Attachment-9-1-EMT 29]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - ELRA - Attachment-9-2-1-ELRA-Jun-2016]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a5.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - ELRA - Attachment-9-2-1-ELRA-Jun-2016]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - ELRA - Attachment-9-2-1-ELRA-Jun-2016]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Financial Provision Proposal - Attachment-9-2-2-Financial Provision Proposal 5]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a6.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Financial Provision Proposal - Attachment-9-2-2-Financial Provision Proposal 5]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Financial Provision Proposal - Attachment-9-2-2-Financial Provision Proposal 5]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Closure - Attachment-9-2-3-Site Closure 12]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a7.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Closure - Attachment-9-2-3-Site Closure 12]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Site Closure - Attachment-9-2-3-Site Closure 12]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Certificate of Incorporation - Certificate of Incorporation 14]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a8.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Certificate of Incorporation - Certificate of Incorporation 14]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Certificate of Incorporation - Certificate of Incorporation 14]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy Consideration - Attachment 4-3-9 Waste Hierarchy Waste Accepted]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6a9.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy Consideration - Attachment 4-3-9 Waste Hierarchy Waste Accepted]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - Waste Hierarchy Consideration - Attachment 4-3-9 Waste Hierarchy Waste Accepted]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - 0388 - Attachment-1-2-Non-Technical Summary 29]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6aa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6aa.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - 0388 - Attachment-1-2-Non-Technical Summary 29]]></description>
+            <content:encoded><![CDATA[P1014-02 -- Padraig Thornton Waste Disposal Limited: Application Form - 0388 - Attachment-1-2-Non-Technical Summary 29]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Accepted Application - LACT00016121]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb581.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb581.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Accepted Application - LACT00016121]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Notification to Applicant Accepted Application - LACT00016121]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SpecifiedBodies-LA011399]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb582.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb582.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[SpecifiedBodies-LA011399]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: SpecifiedBodies-LA011399]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb59c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb59c.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Section 99E Notice 86]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb59d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb59d.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Section 99E Notice 86]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Letter to Third Party - Section 99E Notice 86]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority Register - LACT00016124]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb59e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb59e.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority Register - LACT00016124]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Notification to Planning Authority Register - LACT00016124]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb59f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb59f.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Water Services Authority - Discharge to Sewer LA]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Notification to Water Services Authority - Discharge to Sewer LA]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1210-01 South Dublin Routing Licence Register]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb5a0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb5a0.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[P1210-01 South Dublin Routing Licence Register]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: P1210-01 South Dublin Routing Licence Register]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb5cb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb5cb.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Bodies Request for Information Observat]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb5cc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb5cc.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Bodies Request for Information Observat]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Notification to Planning Bodies Request for Information Observat]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Application Form - LA011399]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ab.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ab.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Application Form - LA011399]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Application Form - LA011399]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fit and Proper Declaration - Attachment-2-5 Financial-Commitments-Declaration 17]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ac.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ac.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fit and Proper Declaration - Attachment-2-5 Financial-Commitments-Declaration 17]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Fit and Proper Declaration - Attachment-2-5 Financial-Commitments-Declaration 17]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Technical Knowledge - Attachment-2-5-3 Technical Knowledge 10]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c3.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Technical Knowledge - Attachment-2-5-3 Technical Knowledge 10]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Technical Knowledge - Attachment-2-5-3 Technical Knowledge 10]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Additional Townlands - Attachment-3-2 Multiple Townlands]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c4.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Additional Townlands - Attachment-3-2 Multiple Townlands]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Additional Townlands - Attachment-3-2 Multiple Townlands]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - DUB01EX-HPE-XX-ZZ-DR-C-52122-Foul]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c5.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - DUB01EX-HPE-XX-ZZ-DR-C-52122-Foul]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Site Plan - DUB01EX-HPE-XX-ZZ-DR-C-52122-Foul]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - DUB01EX-HPE-XX-ZZ-DR-C-52123-Storm]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c6.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - DUB01EX-HPE-XX-ZZ-DR-C-52123-Storm]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Site Plan - DUB01EX-HPE-XX-ZZ-DR-C-52123-Storm]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - DUB01EX-RKD-ZZ-ZZ-DR-A-00006-Layout]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c7.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - DUB01EX-RKD-ZZ-ZZ-DR-A-00006-Layout]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Site Plan - DUB01EX-RKD-ZZ-ZZ-DR-A-00006-Layout]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Plan - DUB01EX-RKD-ZZ-ZZ-DR-A-00007-Air]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c8.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Plan - DUB01EX-RKD-ZZ-ZZ-DR-A-00007-Air]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Site Plan - DUB01EX-RKD-ZZ-ZZ-DR-A-00007-Air]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Map - DUB01EX-RKD-ZZ-ZZ-DR-A-00008-Location]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6c9.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Map - DUB01EX-RKD-ZZ-ZZ-DR-A-00008-Location]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Site Map - DUB01EX-RKD-ZZ-ZZ-DR-A-00008-Location]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Ownership - Attachment-3-4-1-Consent-Erintod Limited]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ca.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ca.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Ownership - Attachment-3-4-1-Consent-Erintod Limited]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Site Ownership - Attachment-3-4-1-Consent-Erintod Limited]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Activity Capacity Information - Attachment-4-4-1-Capacity Calculations 20]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6cb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6cb.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Activity Capacity Information - Attachment-4-4-1-Capacity Calculations 20]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Activity Capacity Information - Attachment-4-4-1-Capacity Calculations 20]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Applicable Regulations - Attachment-4-5-1-Applicable Regulations 15]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6cc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6cc.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Applicable Regulations - Attachment-4-5-1-Applicable Regulations 15]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Applicable Regulations - Attachment-4-5-1-Applicable Regulations 15]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Water and Energy Usage - Attachment-4-6-1-Water-Energy-Usage 46]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6cd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6cd.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Water and Energy Usage - Attachment-4-6-1-Water-Energy-Usage 46]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Water and Energy Usage - Attachment-4-6-1-Water-Energy-Usage 46]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Materials Used or Generated - Attachment-4-6-2-Raw-Material-Interm-Products 49]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ce.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ce.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Materials Used or Generated - Attachment-4-6-2-Raw-Material-Interm-Products 49]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Materials Used or Generated - Attachment-4-6-2-Raw-Material-Interm-Products 49]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-1-CID-Large Combustion Plants]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6cf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6cf.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-1-CID-Large Combustion Plants]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - BREF Assessment - Attachment-4-7-1-CID-Large Combustion Plants]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF - Energy Efficiency 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d0.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-2-BREF - Energy Efficiency 2]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - BREF Assessment - Attachment-4-7-2-BREF - Energy Efficiency 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-3-BREF-Emissions from Storage 13]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d1.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-3-BREF-Emissions from Storage 13]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - BREF Assessment - Attachment-4-7-3-BREF-Emissions from Storage 13]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - BREF Assessment - Attachment-4-7-4 - BREF-Industrial Cooling Systems 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d2.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - BREF Assessment - Attachment-4-7-4 - BREF-Industrial Cooling Systems 1]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - BREF Assessment - Attachment-4-7-4 - BREF-Industrial Cooling Systems 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Operational Report - Attachment-4-8-1-Operational Report 48]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d3.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Operational Report - Attachment-4-8-1-Operational Report 48]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Operational Report - Attachment-4-8-1-Operational Report 48]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Baseline Screening - Attachment-4-8-2- Baseline Screening Report 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d4.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Baseline Screening - Attachment-4-8-2- Baseline Screening Report 2]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Baseline Screening - Attachment-4-8-2- Baseline Screening Report 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Baseline Report - Attachment-4-8-3-Complete Baseline Report 14]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d5.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Baseline Report - Attachment-4-8-3-Complete Baseline Report 14]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Baseline Report - Attachment-4-8-3-Complete Baseline Report 14]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Condition Report - Attachment-4-8-4-Site Condition Report 41]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d6.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Condition Report - Attachment-4-8-4-Site Condition Report 41]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Site Condition Report - Attachment-4-8-4-Site Condition Report 41]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Combustion Provisions - Attachment-4-10-7-IED Chapter III 13]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d7.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Combustion Provisions - Attachment-4-10-7-IED Chapter III 13]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Combustion Provisions - Attachment-4-10-7-IED Chapter III 13]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - LCP Abatement Methods - Attachment-4-10-2-LCP-Abatement 21]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d8.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - LCP Abatement Methods - Attachment-4-10-2-LCP-Abatement 21]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - LCP Abatement Methods - Attachment-4-10-2-LCP-Abatement 21]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Signature and Company Stamp - Attachment-10-1-Signature Stamp 36]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6d9.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Signature and Company Stamp - Attachment-10-1-Signature Stamp 36]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Signature and Company Stamp - Attachment-10-1-Signature Stamp 36]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 94]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6da.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6da.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Financial Application Section - Attachment-5-1-Financial 94]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Financial Application Section - Attachment-5-1-Financial 94]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Fee Payment Evidence - Attachment-5-2-Fee Payment Evidence 30]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6db.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6db.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Fee Payment Evidence - Attachment-5-2-Fee Payment Evidence 30]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Fee Payment Evidence - Attachment-5-2-Fee Payment Evidence 30]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 68]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6dc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6dc.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 68]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Stakeholder Engagement Section - Attachment-6-1-Stakeholder-Engagement 68]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Feb 2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6dd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6dd.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Feb 2024]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Feb 2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Jul 2022A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6de.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6de.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Jul 2022A]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Jul 2022A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Jul 2022B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6df.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6df.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Jul 2022B]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Jul 2022B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Mar 2018]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6e0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6e0.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Mar 2018]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Mar 2018]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Oct 2018]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ef.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ef.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Oct 2018]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Decision-Oct 2018]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Feb 2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f0.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Feb 2024]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Feb 2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Jul 2022A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f1.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Jul 2022A]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Jul 2022A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Jul 2022B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f2.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Jul 2022B]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Jul 2022B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Mar 2018]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f3.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Mar 2018]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Mar 2018]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Oct 2018]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f4.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Oct 2018]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning Decision - Attachment 6-3-1-Planning Report-Oct 2018]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIA Confirmation - Planning - Attachment-6-3-2-EIA Confirmation-Planning 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f5.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIA Confirmation - Planning - Attachment-6-3-2-EIA Confirmation-Planning 2]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - EIA Confirmation - Planning - Attachment-6-3-2-EIA Confirmation-Planning 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Planning under Consideration - Attachment 6-3-8-Under Consideration-FW24A0013]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f6.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Planning under Consideration - Attachment 6-3-8-Under Consideration-FW24A0013]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Planning under Consideration - Attachment 6-3-8-Under Consideration-FW24A0013]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment-6-3-2-EIAS Planning-Jul 2022A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f7.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment-6-3-2-EIAS Planning-Jul 2022A]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - EIS - Planning - Attachment-6-3-2-EIAS Planning-Jul 2022A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EIS - Planning - Attachment-6-3-2-EIAS Planning-Jul 2022B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f8.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EIS - Planning - Attachment-6-3-2-EIAS Planning-Jul 2022B]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - EIS - Planning - Attachment-6-3-2-EIAS Planning-Jul 2022B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Project and Threshold - Planning - Attachment-6-3-7-Project and Threshold-Planning 25]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6f9.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Project and Threshold - Planning - Attachment-6-3-7-Project and Threshold-Planning 25]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Project and Threshold - Planning - Attachment-6-3-7-Project and Threshold-Planning 25]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening Planning-Jul 2022A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fa.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening Planning-Jul 2022A]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - AA - Planning - Attachment-6-3-4-AA Screening Planning-Jul 2022A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening Planning-Jul 2022B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fb.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening Planning-Jul 2022B]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - AA - Planning - Attachment-6-3-4-AA Screening Planning-Jul 2022B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening Planning-Mar 2018]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fc.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - AA - Planning - Attachment-6-3-4-AA Screening Planning-Mar 2018]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - AA - Planning - Attachment-6-3-4-AA Screening Planning-Mar 2018]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-1-Evidence of Notices-Site 28]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fd.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fd.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-1-Evidence of Notices-Site 28]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Evidence of Notices - Attachment-6-7-1-Evidence of Notices-Site 28]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-2-Evidence of Notices-Newspaper 19]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fe.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6fe.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-2-Evidence of Notices-Newspaper 19]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Evidence of Notices - Attachment-6-7-2-Evidence of Notices-Newspaper 19]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-3-Evidence of Notices-Map 25]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ff.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb6ff.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-3-Evidence of Notices-Map 25]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Evidence of Notices - Attachment-6-7-3-Evidence of Notices-Map 25]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-4-Evidence of Notices-PA 21]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb700.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb700.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Evidence of Notices - Attachment-6-7-4-Evidence of Notices-PA 21]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Evidence of Notices - Attachment-6-7-4-Evidence of Notices-PA 21]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Overview Section - Attachment-7-1-Emissions-Overview 92]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb701.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb701.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Overview Section - Attachment-7-1-Emissions-Overview 92]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Emissions Overview Section - Attachment-7-1-Emissions-Overview 92]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 43]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb702.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb702.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 43]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Emissions Compliance Report - Attachment-7-1-3-1-Emissions Compliance Report 43]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2 Air Emissions Impact Assessment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb703.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb703.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2 Air Emissions Impact Assessment]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Emissions Impact Assessment - Attachment-7-1-3-2 Air Emissions Impact Assessment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Noise Impact Assessment 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb704.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb704.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Noise Impact Assessment 3]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Noise Impact Assessment 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Soil Impact Assessment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb705.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb705.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Soil Impact Assessment]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Emissions Impact Assessment - Attachment-7-1-3-2-Soil Impact Assessment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Sewer Section - Attachment-7-3-1-Emissions-to-Sewer 45]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb706.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb706.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Sewer Section - Attachment-7-3-1-Emissions-to-Sewer 45]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Emissions - Sewer Section - Attachment-7-3-1-Emissions-to-Sewer 45]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Equivalent Protection - Sewer - Attachment-7-3-2 Equivalent-Protection-Sewer 26]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb707.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb707.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Equivalent Protection - Sewer - Attachment-7-3-2 Equivalent-Protection-Sewer 26]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Equivalent Protection - Sewer - Attachment-7-3-2 Equivalent-Protection-Sewer 26]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 74]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb708.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb708.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 74]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Emissions - Air Section - Attachment-7-4-1-Emissions-to-Air-Main 74]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 64]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb709.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb709.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 64]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Minor - Potenial Emissions - Attachment-7-4-2-Emissions-to-Air-Minor-Potential 64]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise Emissions 24]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb70a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb70a.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Emissions - Noise Section - Attachment-7-5-Noise Emissions 24]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Emissions - Noise Section - Attachment-7-5-Noise Emissions 24]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Strorm Water Section - Attachment-7-7-Storm-Water-Discharges 66]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb70b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb70b.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Strorm Water Section - Attachment-7-7-Storm-Water-Discharges 66]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Strorm Water Section - Attachment-7-7-Storm-Water-Discharges 66]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Storm Water Monitoring - Attachment 7-7-1-Stormwater Monitoring]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb70c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb70c.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Storm Water Monitoring - Attachment 7-7-1-Stormwater Monitoring]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Storm Water Monitoring - Attachment 7-7-1-Stormwater Monitoring]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-(Generated) 61]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb718.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb718.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Generated Section - Attachment-8-1-Waste-(Generated) 61]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Waste Generated Section - Attachment-8-1-Waste-(Generated) 61]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Waste Hierarchy - Attachment-8-2-1-Waste Hierarchy 41]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb719.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb719.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Waste Hierarchy - Attachment-8-2-1-Waste Hierarchy 41]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Waste Hierarchy - Attachment-8-2-1-Waste Hierarchy 41]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - EMT Section - Attachment-9-1-Environmental-Management-Techniques 66]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71a.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - EMT Section - Attachment-9-1-Environmental-Management-Techniques 66]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - EMT Section - Attachment-9-1-Environmental-Management-Techniques 66]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Site Closure - Attachment-9-2-3 Site Closure Plan 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71b.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Site Closure - Attachment-9-2-3 Site Closure Plan 2]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Site Closure - Attachment-9-2-3 Site Closure Plan 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP-Plant-Information-EC1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71c.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP-Plant-Information-EC1]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - LCP Section - Attachment-4-10-1-LCP-Plant-Information-EC1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP-Plant-Information-EC2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71d.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP-Plant-Information-EC2]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - LCP Section - Attachment-4-10-1-LCP-Plant-Information-EC2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP-Plant-Information-EC3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71e.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - LCP Section - Attachment-4-10-1-LCP-Plant-Information-EC3]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - LCP Section - Attachment-4-10-1-LCP-Plant-Information-EC3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - Certificate of Incorporation - Attachment-2-1-Certificate of Incorporation 20]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb71f.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - Certificate of Incorporation - Attachment-2-1-Certificate of Incorporation 20]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - Certificate of Incorporation - Attachment-2-1-Certificate of Incorporation 20]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Application Form - 0388 - Attachment-1-2-Non Technical Summary 20]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb720.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808cb720.pdf</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Application Form - 0388 - Attachment-1-2-Non Technical Summary 20]]></description>
+            <content:encoded><![CDATA[P1210-01 -- South Dublin Routing 4 No. 2 Limited: Application Form - 0388 - Attachment-1-2-Non Technical Summary 20]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
