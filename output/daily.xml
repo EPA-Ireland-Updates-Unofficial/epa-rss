@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Fri, 03 May 2024 04:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 04:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,111 +16,714 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Tradaree Landfill -Leachate Report 2022.pdf]]></title>
-            <link>https://leap.epa.ie/docs/73d3893c-8b0e-4f3a-87ec-dfdc7b4a77da.pdf</link>
-            <guid>https://leap.epa.ie/docs/73d3893c-8b0e-4f3a-87ec-dfdc7b4a77da.pdf</guid>
-            <pubDate>Wed, 01 May 2024 21:31:19 GMT</pubDate>
-            <description><![CDATA[Tradaree Landfill -Leachate Report 2022.pdf]]></description>
-            <content:encoded><![CDATA[W0037-01 -- Clare County Council: Tradaree Landfill -Leachate Report 2022.pdf]]></content:encoded>
+            <title><![CDATA[P0685-02 Bogue Pigs Unlimited Company.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ea3fcb64-b29b-4fd4-9857-8685abe2fdd9.pdf</link>
+            <guid>https://leap.epa.ie/docs/ea3fcb64-b29b-4fd4-9857-8685abe2fdd9.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:13 GMT</pubDate>
+            <description><![CDATA[P0685-02 Bogue Pigs Unlimited Company.pdf]]></description>
+            <content:encoded><![CDATA[P0685-02 -- Bogue Pigs Unlimited Company: P0685-02 Bogue Pigs Unlimited Company.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2023 AER DDS Brady Farms P0408-01.pdf]]></title>
-            <link>https://leap.epa.ie/docs/9e7e7469-8a84-41fc-8649-9af8bb19550f.pdf</link>
-            <guid>https://leap.epa.ie/docs/9e7e7469-8a84-41fc-8649-9af8bb19550f.pdf</guid>
-            <pubDate>Wed, 01 May 2024 21:32:06 GMT</pubDate>
-            <description><![CDATA[2023 AER DDS Brady Farms P0408-01.pdf]]></description>
-            <content:encoded><![CDATA[P0408-01 -- DDS BRADY FARMS LIMITED: 2023 AER DDS Brady Farms P0408-01.pdf]]></content:encoded>
+            <title><![CDATA[P1135-01 Brady Poultry.pdf]]></title>
+            <link>https://leap.epa.ie/docs/68dcdae3-b765-443c-b552-966870084270.pdf</link>
+            <guid>https://leap.epa.ie/docs/68dcdae3-b765-443c-b552-966870084270.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:34:01 GMT</pubDate>
+            <description><![CDATA[P1135-01 Brady Poultry.pdf]]></description>
+            <content:encoded><![CDATA[P1135-01 -- Brady Poultry Limited: P1135-01 Brady Poultry.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Sporting iD P0856-02 SMP 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a9bd8222-f32f-443e-9d2c-4a3e5d08c021.pdf</link>
-            <guid>https://leap.epa.ie/docs/a9bd8222-f32f-443e-9d2c-4a3e5d08c021.pdf</guid>
-            <pubDate>Wed, 01 May 2024 21:32:11 GMT</pubDate>
-            <description><![CDATA[Sporting iD P0856-02 SMP 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0856-02 -- Elms Marketing Ireland Limited: Sporting iD P0856-02 SMP 2023.pdf]]></content:encoded>
+            <title><![CDATA[ERF 6.7A Incident FGAS leak 290324.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d023b5ab-bd98-4712-8dec-5b1a7ac30726.pdf</link>
+            <guid>https://leap.epa.ie/docs/d023b5ab-bd98-4712-8dec-5b1a7ac30726.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:27 GMT</pubDate>
+            <description><![CDATA[ERF 6.7A Incident FGAS leak 290324.pdf]]></description>
+            <content:encoded><![CDATA[P0908-01 -- C&amp;D Foods: ERF 6.7A Incident FGAS leak 290324.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Snapshot-INCI027491.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2ffb0115-853a-43ea-81fe-3bf98603e945.pdf</link>
+            <guid>https://leap.epa.ie/docs/2ffb0115-853a-43ea-81fe-3bf98603e945.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:29 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI027491.pdf]]></description>
+            <content:encoded><![CDATA[P0908-01 -- C&amp;D Foods: Snapshot-INCI027491.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
             <title><![CDATA[AER 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/e7df5fce-445d-4278-b0c9-b816893f6c01.pdf</link>
-            <guid>https://leap.epa.ie/docs/e7df5fce-445d-4278-b0c9-b816893f6c01.pdf</guid>
-            <pubDate>Wed, 01 May 2024 21:32:09 GMT</pubDate>
+            <link>https://leap.epa.ie/docs/018c3996-b405-4f9f-ba11-724c5b253428.pdf</link>
+            <guid>https://leap.epa.ie/docs/018c3996-b405-4f9f-ba11-724c5b253428.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:18 GMT</pubDate>
             <description><![CDATA[AER 2023.pdf]]></description>
-            <content:encoded><![CDATA[P0465-02 -- G. Bruss GmbH Dichtungstechnik: AER 2023.pdf]]></content:encoded>
+            <content:encoded><![CDATA[P0933-01 -- Corby Rock Eggs Limited: AER 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[LT240325 RCMF-New materials FINAL.pdf]]></title>
-            <link>https://leap.epa.ie/docs/ff1f5bd8-3c9f-4dc2-bb80-27dac5ca1c56.pdf</link>
-            <guid>https://leap.epa.ie/docs/ff1f5bd8-3c9f-4dc2-bb80-27dac5ca1c56.pdf</guid>
-            <pubDate>Wed, 01 May 2024 21:31:57 GMT</pubDate>
-            <description><![CDATA[LT240325 RCMF-New materials FINAL.pdf]]></description>
-            <content:encoded><![CDATA[P0013-06 -- Pfizer Ireland Pharmaceuticals: LT240325 RCMF-New materials FINAL.pdf]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI027490.pdf]]></title>
+            <link>https://leap.epa.ie/docs/01a1bb0f-7853-4ff3-a862-367e29632002.pdf</link>
+            <guid>https://leap.epa.ie/docs/01a1bb0f-7853-4ff3-a862-367e29632002.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:06 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI027490.pdf]]></description>
+            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-Operative Society Limited: Snapshot-INCI027490.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[LT240320 Etrasimod Step A and B FINAL.pdf]]></title>
-            <link>https://leap.epa.ie/docs/44ded7be-7854-43e4-aa26-8ebecd459d55.pdf</link>
-            <guid>https://leap.epa.ie/docs/44ded7be-7854-43e4-aa26-8ebecd459d55.pdf</guid>
-            <pubDate>Wed, 01 May 2024 21:32:15 GMT</pubDate>
-            <description><![CDATA[LT240320 Etrasimod Step A and B FINAL.pdf]]></description>
-            <content:encoded><![CDATA[P0013-06 -- Pfizer Ireland Pharmaceuticals: LT240320 Etrasimod Step A and B FINAL.pdf]]></content:encoded>
+            <title><![CDATA[SWD CR1 emission results.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8fe174f6-a6a6-4c4a-b7ab-7e9354bfbaff.pdf</link>
+            <guid>https://leap.epa.ie/docs/8fe174f6-a6a6-4c4a-b7ab-7e9354bfbaff.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:02 GMT</pubDate>
+            <description><![CDATA[SWD CR1 emission results.pdf]]></description>
+            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-Operative Society Limited: SWD CR1 emission results.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Groundwater Report 2023 (W0185-01).pdf]]></title>
-            <link>https://leap.epa.ie/docs/5ce580f5-a006-4b2b-b79f-57d74806d7a9.pdf</link>
-            <guid>https://leap.epa.ie/docs/5ce580f5-a006-4b2b-b79f-57d74806d7a9.pdf</guid>
-            <pubDate>Wed, 01 May 2024 21:31:52 GMT</pubDate>
-            <description><![CDATA[Groundwater Report 2023 (W0185-01).pdf]]></description>
-            <content:encoded><![CDATA[W0185-01 -- Rilta Environmental Limited: Groundwater Report 2023 (W0185-01).pdf]]></content:encoded>
+            <title><![CDATA[Inflow to Main Effluent Drain.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d805318f-f5a3-44d0-beac-0680da89ca96.pdf</link>
+            <guid>https://leap.epa.ie/docs/d805318f-f5a3-44d0-beac-0680da89ca96.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:13 GMT</pubDate>
+            <description><![CDATA[Inflow to Main Effluent Drain.pdf]]></description>
+            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-Operative Society Limited: Inflow to Main Effluent Drain.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[241230101 Final.pdf]]></title>
-            <link>https://leap.epa.ie/docs/856caac4-2104-4efe-a342-2b959ece112d.pdf</link>
-            <guid>https://leap.epa.ie/docs/856caac4-2104-4efe-a342-2b959ece112d.pdf</guid>
-            <pubDate>Wed, 01 May 2024 21:31:20 GMT</pubDate>
-            <description><![CDATA[241230101 Final.pdf]]></description>
-            <content:encoded><![CDATA[P0650-03 -- Zinc Processors Limited: 241230101 Final.pdf]]></content:encoded>
+            <title><![CDATA[2024_04_11 Response  INCI027490.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ff072635-d1be-441c-8bea-db2a2be79ffb.pdf</link>
+            <guid>https://leap.epa.ie/docs/ff072635-d1be-441c-8bea-db2a2be79ffb.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:15 GMT</pubDate>
+            <description><![CDATA[2024_04_11 Response  INCI027490.pdf]]></description>
+            <content:encoded><![CDATA[P0404-02 -- Dairygold Co-Operative Society Limited: 2024_04_11 Response  INCI027490.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0001538826-04]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0252.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0252.pdf</guid>
-            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant - RFI Ext. Consent - LACT0001538826-04]]></description>
-            <content:encoded><![CDATA[P0621-03 -- Carhue Piggeries Limited: Notification to Applicant - RFI Ext. Consent - LACT0001538826-04]]></content:encoded>
+            <title><![CDATA[Microsoft Word - AER 2023 to 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e790e521-55e8-458b-8553-7ea4f0b3a3e5.pdf</link>
+            <guid>https://leap.epa.ie/docs/e790e521-55e8-458b-8553-7ea4f0b3a3e5.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:54 GMT</pubDate>
+            <description><![CDATA[Microsoft Word - AER 2023 to 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0173-02 -- Dawn Meats Ireland Unlimited Company: Microsoft Word - AER 2023 to 2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 7 Notice 2]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0105.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0105.pdf</guid>
-            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 7 Notice 2]]></description>
-            <content:encoded><![CDATA[P1209-01 -- Enviro Grind Ltd: Reminder Email (upcoming due date)  - Reg 7 Notice 2]]></content:encoded>
+            <title><![CDATA[P1070-02 Errigal Farms.pdf]]></title>
+            <link>https://leap.epa.ie/docs/70bffecd-5b21-4efc-8a13-4b26a504d1a3.pdf</link>
+            <guid>https://leap.epa.ie/docs/70bffecd-5b21-4efc-8a13-4b26a504d1a3.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:52 GMT</pubDate>
+            <description><![CDATA[P1070-02 Errigal Farms.pdf]]></description>
+            <content:encoded><![CDATA[P1070-02 -- Errigal Farms Limited: P1070-02 Errigal Farms.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00014986  01-05-2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0253.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0253.pdf</guid>
-            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00014986  01-05-2024]]></description>
-            <content:encoded><![CDATA[P1207-01 -- Michael Hanley Farm Enterprises Limited: Notification to Applicant RFI Reminder  LACT00014986  01-05-2024]]></content:encoded>
+            <title><![CDATA[P0837-03 F. O'Harte Poultry Ltd.pdf]]></title>
+            <link>https://leap.epa.ie/docs/cac04174-2ad1-41cf-9181-93933b55d7f7.pdf</link>
+            <guid>https://leap.epa.ie/docs/cac04174-2ad1-41cf-9181-93933b55d7f7.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:48 GMT</pubDate>
+            <description><![CDATA[P0837-03 F. O'Harte Poultry Ltd.pdf]]></description>
+            <content:encoded><![CDATA[P0837-03 -- F. O'Harte Poultry Limited: P0837-03 F. O'Harte Poultry Ltd.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Proposed Determination Newspaper Notice 7]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0232.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0232.pdf</guid>
-            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Proposed Determination Newspaper Notice 7]]></description>
-            <content:encoded><![CDATA[P1132-02 -- S. Wilkin And Sons Limited: Proposed Determination Newspaper Notice 7]]></content:encoded>
+            <title><![CDATA[SV29894 - Licensee Public Response_2.pdf]]></title>
+            <link>https://leap.epa.ie/docs/05a6fe3d-cd92-4fdf-b651-9ea657b9052c.pdf</link>
+            <guid>https://leap.epa.ie/docs/05a6fe3d-cd92-4fdf-b651-9ea657b9052c.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:27 GMT</pubDate>
+            <description><![CDATA[SV29894 - Licensee Public Response_2.pdf]]></description>
+            <content:encoded><![CDATA[W0291-02 -- Forge Hill Recycling Unlimited Company: SV29894 - Licensee Public Response_2.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV29894 - Licensee Public Response_5.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1342eace-a842-4bea-879d-c99d6e0a05e0.pdf</link>
+            <guid>https://leap.epa.ie/docs/1342eace-a842-4bea-879d-c99d6e0a05e0.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:38 GMT</pubDate>
+            <description><![CDATA[SV29894 - Licensee Public Response_5.pdf]]></description>
+            <content:encoded><![CDATA[W0291-02 -- Forge Hill Recycling Unlimited Company: SV29894 - Licensee Public Response_5.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV29894 - Licensee Public Response.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1c5845fb-4a79-4838-941c-0058e5490dea.pdf</link>
+            <guid>https://leap.epa.ie/docs/1c5845fb-4a79-4838-941c-0058e5490dea.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:25 GMT</pubDate>
+            <description><![CDATA[SV29894 - Licensee Public Response.pdf]]></description>
+            <content:encoded><![CDATA[W0291-02 -- Forge Hill Recycling Unlimited Company: SV29894 - Licensee Public Response.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV29894 - Licensee Public Response_4.pdf]]></title>
+            <link>https://leap.epa.ie/docs/79143d10-80e8-46b6-a0ca-faac7e1457f7.pdf</link>
+            <guid>https://leap.epa.ie/docs/79143d10-80e8-46b6-a0ca-faac7e1457f7.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:36 GMT</pubDate>
+            <description><![CDATA[SV29894 - Licensee Public Response_4.pdf]]></description>
+            <content:encoded><![CDATA[W0291-02 -- Forge Hill Recycling Unlimited Company: SV29894 - Licensee Public Response_4.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV29894 - Licensee Public Response_3.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7f6f59b5-d6ae-4f09-8af3-4df72b2fdb2a.pdf</link>
+            <guid>https://leap.epa.ie/docs/7f6f59b5-d6ae-4f09-8af3-4df72b2fdb2a.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:30 GMT</pubDate>
+            <description><![CDATA[SV29894 - Licensee Public Response_3.pdf]]></description>
+            <content:encoded><![CDATA[W0291-02 -- Forge Hill Recycling Unlimited Company: SV29894 - Licensee Public Response_3.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Glanway Limited A-1 1 2024 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/4e077f23-080a-4504-afa4-68018e9f00c5.pdf</link>
+            <guid>https://leap.epa.ie/docs/4e077f23-080a-4504-afa4-68018e9f00c5.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:09 GMT</pubDate>
+            <description><![CDATA[Glanway Limited A-1 1 2024 Report.pdf]]></description>
+            <content:encoded><![CDATA[P1015-03 -- Glanway Limited: Glanway Limited A-1 1 2024 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[040324GLANWAY050324 Odour cert.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a87a2c3d-bf55-4d9c-9fc6-df5061114927.pdf</link>
+            <guid>https://leap.epa.ie/docs/a87a2c3d-bf55-4d9c-9fc6-df5061114927.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:57 GMT</pubDate>
+            <description><![CDATA[040324GLANWAY050324 Odour cert.pdf]]></description>
+            <content:encoded><![CDATA[P1015-03 -- Glanway Limited: 040324GLANWAY050324 Odour cert.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[INCI027022_Referral 1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2c954a79-b507-49b3-a0b4-fdd01f64db08.pdf</link>
+            <guid>https://leap.epa.ie/docs/2c954a79-b507-49b3-a0b4-fdd01f64db08.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:30 GMT</pubDate>
+            <description><![CDATA[INCI027022_Referral 1.pdf]]></description>
+            <content:encoded><![CDATA[P0266-03 -- Irving Oil Whitegate Refinery Limited: INCI027022_Referral 1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[FGO MSDS - Irving Oil Whitegate Refinery Limited.pdf]]></title>
+            <link>https://leap.epa.ie/docs/719cd004-a2eb-4978-870e-326d730a7810.pdf</link>
+            <guid>https://leap.epa.ie/docs/719cd004-a2eb-4978-870e-326d730a7810.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:35 GMT</pubDate>
+            <description><![CDATA[FGO MSDS - Irving Oil Whitegate Refinery Limited.pdf]]></description>
+            <content:encoded><![CDATA[P0266-03 -- Irving Oil Whitegate Refinery Limited: FGO MSDS - Irving Oil Whitegate Refinery Limited.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f27649ef-6950-409f-8c54-bf50209cfc26.pdf</link>
+            <guid>https://leap.epa.ie/docs/f27649ef-6950-409f-8c54-bf50209cfc26.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:16 GMT</pubDate>
+            <description><![CDATA[AER 2023.pdf]]></description>
+            <content:encoded><![CDATA[P0431-02 -- PERMA PIGS LIMITED: AER 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1142-01 Laragh House Farms Ltd.pdf]]></title>
+            <link>https://leap.epa.ie/docs/22a12a64-03b4-40f6-9442-21615914ffd0.pdf</link>
+            <guid>https://leap.epa.ie/docs/22a12a64-03b4-40f6-9442-21615914ffd0.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:44 GMT</pubDate>
+            <description><![CDATA[P1142-01 Laragh House Farms Ltd.pdf]]></description>
+            <content:encoded><![CDATA[P1142-01 -- Laragh House Farms Limited: P1142-01 Laragh House Farms Ltd.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9a0a4a83-b065-4b54-989a-26efa807f0e9.pdf</link>
+            <guid>https://leap.epa.ie/docs/9a0a4a83-b065-4b54-989a-26efa807f0e9.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:41 GMT</pubDate>
+            <description><![CDATA[AER 2023.pdf]]></description>
+            <content:encoded><![CDATA[P1142-01 -- Laragh House Farms Limited: AER 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Snapshot-INCI027492.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1f60ca4b-c887-4bb3-9706-418a874fa71c.pdf</link>
+            <guid>https://leap.epa.ie/docs/1f60ca4b-c887-4bb3-9706-418a874fa71c.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:33 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI027492.pdf]]></description>
+            <content:encoded><![CDATA[W0060-03 -- Louth County Council: Snapshot-INCI027492.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1053-02 MAG World.pdf]]></title>
+            <link>https://leap.epa.ie/docs/cc0cad45-fb1a-42c6-a29f-7ac6d48cb599.pdf</link>
+            <guid>https://leap.epa.ie/docs/cc0cad45-fb1a-42c6-a29f-7ac6d48cb599.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:39 GMT</pubDate>
+            <description><![CDATA[P1053-02 MAG World.pdf]]></description>
+            <content:encoded><![CDATA[P1053-02 -- M.A.G. World Limited: P1053-02 MAG World.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER TEMPLATE  for 2023 Liscolman.pdf]]></title>
+            <link>https://leap.epa.ie/docs/228256d0-1eba-4414-9e15-d7aa882911b7.pdf</link>
+            <guid>https://leap.epa.ie/docs/228256d0-1eba-4414-9e15-d7aa882911b7.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:46 GMT</pubDate>
+            <description><![CDATA[AER TEMPLATE  for 2023 Liscolman.pdf]]></description>
+            <content:encoded><![CDATA[P0310-01 -- Mr Brian Dowley: AER TEMPLATE  for 2023 Liscolman.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0215-02 Mr. John Kiernan (Lismagiril).pdf]]></title>
+            <link>https://leap.epa.ie/docs/d0cb41ac-f3f9-4166-a6df-1dd1fe87d13d.pdf</link>
+            <guid>https://leap.epa.ie/docs/d0cb41ac-f3f9-4166-a6df-1dd1fe87d13d.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:07 GMT</pubDate>
+            <description><![CDATA[P0215-02 Mr. John Kiernan (Lismagiril).pdf]]></description>
+            <content:encoded><![CDATA[P0215-02 -- Mr John Kiernan: P0215-02 Mr. John Kiernan (Lismagiril).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0640-02 Mr. John Kiernan (Skeagh Pig Unit).pdf]]></title>
+            <link>https://leap.epa.ie/docs/0a0d0d26-90e4-421c-a86e-da2060e075c5.pdf</link>
+            <guid>https://leap.epa.ie/docs/0a0d0d26-90e4-421c-a86e-da2060e075c5.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:10 GMT</pubDate>
+            <description><![CDATA[P0640-02 Mr. John Kiernan (Skeagh Pig Unit).pdf]]></description>
+            <content:encoded><![CDATA[P0640-02 -- Mr John Kiernan: P0640-02 Mr. John Kiernan (Skeagh Pig Unit).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0865-02 Maurice McCarey.pdf]]></title>
+            <link>https://leap.epa.ie/docs/034c1513-0893-4e7d-828f-c6d664c8dd77.pdf</link>
+            <guid>https://leap.epa.ie/docs/034c1513-0893-4e7d-828f-c6d664c8dd77.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:36 GMT</pubDate>
+            <description><![CDATA[P0865-02 Maurice McCarey.pdf]]></description>
+            <content:encoded><![CDATA[P0865-02 -- Mr Maurice McCarey: P0865-02 Maurice McCarey.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5fd55c60-0f99-4671-b951-bf8bfbc21934.pdf</link>
+            <guid>https://leap.epa.ie/docs/5fd55c60-0f99-4671-b951-bf8bfbc21934.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:34:45 GMT</pubDate>
+            <description><![CDATA[AER 2023.pdf]]></description>
+            <content:encoded><![CDATA[P1056-01 -- Mr. Anthony McCluskey: AER 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1137-01  John Nash.pdf]]></title>
+            <link>https://leap.epa.ie/docs/6999313a-1b76-4b44-a994-b8a28ee9d69b.pdf</link>
+            <guid>https://leap.epa.ie/docs/6999313a-1b76-4b44-a994-b8a28ee9d69b.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:02 GMT</pubDate>
+            <description><![CDATA[P1137-01  John Nash.pdf]]></description>
+            <content:encoded><![CDATA[P1137-01 -- Mr. John Nash: P1137-01  John Nash.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0011-06 SW1 TOC Replacement 02Apr2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2bcfbe32-bb29-4d93-9b26-720d574b3a40.pdf</link>
+            <guid>https://leap.epa.ie/docs/2bcfbe32-bb29-4d93-9b26-720d574b3a40.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:31 GMT</pubDate>
+            <description><![CDATA[P0011-06 SW1 TOC Replacement 02Apr2024.pdf]]></description>
+            <content:encoded><![CDATA[P0011-06 -- MSD International GmbH: P0011-06 SW1 TOC Replacement 02Apr2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV29491 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9a372f56-17ad-40de-8678-1f94df4683dd.pdf</link>
+            <guid>https://leap.epa.ie/docs/9a372f56-17ad-40de-8678-1f94df4683dd.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:15 GMT</pubDate>
+            <description><![CDATA[SV29491 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0793-03 -- Newmarket Co-Operative Creameries Limited: SV29491 - Licensee Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EP06-F02 Maintenance Odour Check Sheet KR.xls]]></title>
+            <link>https://leap.epa.ie/docs/1dc1b9c7-9c4d-4640-955b-ebe0e650c5c8.pdf</link>
+            <guid>https://leap.epa.ie/docs/1dc1b9c7-9c4d-4640-955b-ebe0e650c5c8.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:34:36 GMT</pubDate>
+            <description><![CDATA[EP06-F02 Maintenance Odour Check Sheet KR.xls]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig Thornton Waste Disposal Limited: EP06-F02 Maintenance Odour Check Sheet KR.xls]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EP06-F03 Odour Abatement System Pressure Check.xls]]></title>
+            <link>https://leap.epa.ie/docs/6fda1487-abce-40a3-aec9-ff2adb97b39a.pdf</link>
+            <guid>https://leap.epa.ie/docs/6fda1487-abce-40a3-aec9-ff2adb97b39a.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:34:37 GMT</pubDate>
+            <description><![CDATA[EP06-F03 Odour Abatement System Pressure Check.xls]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig Thornton Waste Disposal Limited: EP06-F03 Odour Abatement System Pressure Check.xls]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EP06-F01 Daily Odour Checks Killeen Road.xls]]></title>
+            <link>https://leap.epa.ie/docs/90c125ec-b925-4333-9e1c-9ff48f13ebaf.pdf</link>
+            <guid>https://leap.epa.ie/docs/90c125ec-b925-4333-9e1c-9ff48f13ebaf.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:34:34 GMT</pubDate>
+            <description><![CDATA[EP06-F01 Daily Odour Checks Killeen Road.xls]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig Thornton Waste Disposal Limited: EP06-F01 Daily Odour Checks Killeen Road.xls]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[W0044-0224AQ07 Request for Information.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e54f1cde-d01a-4b94-988a-ffad3054504a.pdf</link>
+            <guid>https://leap.epa.ie/docs/e54f1cde-d01a-4b94-988a-ffad3054504a.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:34:40 GMT</pubDate>
+            <description><![CDATA[W0044-0224AQ07 Request for Information.pdf]]></description>
+            <content:encoded><![CDATA[W0044-02 -- Padraig Thornton Waste Disposal Limited: W0044-0224AQ07 Request for Information.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3f6ddc78-2574-4a43-9d77-27eafe13d645.pdf</link>
+            <guid>https://leap.epa.ie/docs/3f6ddc78-2574-4a43-9d77-27eafe13d645.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:39 GMT</pubDate>
+            <description><![CDATA[AER 2023.pdf]]></description>
+            <content:encoded><![CDATA[P0314-01 -- Radley Engineering Limited: AER 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Site update - works planned for Q2 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/b397cdbc-725f-4c58-9e1f-82217d699ecf.pdf</link>
+            <guid>https://leap.epa.ie/docs/b397cdbc-725f-4c58-9e1f-82217d699ecf.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:34:24 GMT</pubDate>
+            <description><![CDATA[Site update - works planned for Q2 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0012-06 -- Roche Ireland Limited: Site update - works planned for Q2 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Report, INCI027449 (TOC Trigger 21Mar2024).pdf]]></title>
+            <link>https://leap.epa.ie/docs/08528a0f-6da0-4bb5-9d02-9bd93d613966.pdf</link>
+            <guid>https://leap.epa.ie/docs/08528a0f-6da0-4bb5-9d02-9bd93d613966.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:34:53 GMT</pubDate>
+            <description><![CDATA[Report, INCI027449 (TOC Trigger 21Mar2024).pdf]]></description>
+            <content:encoded><![CDATA[P0089-05 -- Sigma-Aldrich Ireland Limited: Report, INCI027449 (TOC Trigger 21Mar2024).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Report, INCI027461 (TO Shutdown 25Mar2024).pdf]]></title>
+            <link>https://leap.epa.ie/docs/891bbef7-aa35-4c3b-9608-86eb730eacfd.pdf</link>
+            <guid>https://leap.epa.ie/docs/891bbef7-aa35-4c3b-9608-86eb730eacfd.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:34:55 GMT</pubDate>
+            <description><![CDATA[Report, INCI027461 (TO Shutdown 25Mar2024).pdf]]></description>
+            <content:encoded><![CDATA[P0089-05 -- Sigma-Aldrich Ireland Limited: Report, INCI027461 (TO Shutdown 25Mar2024).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER_2023 Kylemore Road.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a380209d-543f-4507-a7b5-10ce61af4a18.pdf</link>
+            <guid>https://leap.epa.ie/docs/a380209d-543f-4507-a7b5-10ce61af4a18.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:14 GMT</pubDate>
+            <description><![CDATA[AER_2023 Kylemore Road.pdf]]></description>
+            <content:encoded><![CDATA[W0054-02 -- SRCL  Limited: AER_2023 Kylemore Road.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER_2023 Beech Road.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7590ecb1-a2f3-4952-baf9-60ad83ba3394.pdf</link>
+            <guid>https://leap.epa.ie/docs/7590ecb1-a2f3-4952-baf9-60ad83ba3394.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:17 GMT</pubDate>
+            <description><![CDATA[AER_2023 Beech Road.pdf]]></description>
+            <content:encoded><![CDATA[W0055-02 -- SRCL  Limited: AER_2023 Beech Road.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Change of name notifcation.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5f98534c-0d0e-4821-83e6-b4e43f6f42d7.pdf</link>
+            <guid>https://leap.epa.ie/docs/5f98534c-0d0e-4821-83e6-b4e43f6f42d7.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:42 GMT</pubDate>
+            <description><![CDATA[Change of name notifcation.pdf]]></description>
+            <content:encoded><![CDATA[P0419-01 -- Zenith Energy Bantry Bay Terminal Ltd: Change of name notifcation.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Certificate of Incorporation.pdf]]></title>
+            <link>https://leap.epa.ie/docs/55ffc4bb-5640-4a33-8e93-e43462c26053.pdf</link>
+            <guid>https://leap.epa.ie/docs/55ffc4bb-5640-4a33-8e93-e43462c26053.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:35:41 GMT</pubDate>
+            <description><![CDATA[Certificate of Incorporation.pdf]]></description>
+            <content:encoded><![CDATA[P0419-01 -- Zenith Energy Bantry Bay Terminal Ltd: Certificate of Incorporation.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SW3 Data 2021- 2023_March 24 trigger values.xlsx]]></title>
+            <link>https://leap.epa.ie/docs/bf1e7161-44b9-49ed-9b84-5e3ca78ef12e.pdf</link>
+            <guid>https://leap.epa.ie/docs/bf1e7161-44b9-49ed-9b84-5e3ca78ef12e.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:14 GMT</pubDate>
+            <description><![CDATA[SW3 Data 2021- 2023_March 24 trigger values.xlsx]]></description>
+            <content:encoded><![CDATA[P0359-03 -- Tirl�n Limited: SW3 Data 2021- 2023_March 24 trigger values.xlsx]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AER 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7301e3d7-94c5-4011-8d70-d44aa06350ea.pdf</link>
+            <guid>https://leap.epa.ie/docs/7301e3d7-94c5-4011-8d70-d44aa06350ea.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:21 GMT</pubDate>
+            <description><![CDATA[AER 2023.pdf]]></description>
+            <content:encoded><![CDATA[P0136-04 -- Upjohn Manufacturing Ireland Unlimited Company: AER 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[240329 Sherwin-Williams(Valspar) AER 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8229fdc1-ff8e-43e3-8ce3-6a33a991602f.pdf</link>
+            <guid>https://leap.epa.ie/docs/8229fdc1-ff8e-43e3-8ce3-6a33a991602f.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:12 GMT</pubDate>
+            <description><![CDATA[240329 Sherwin-Williams(Valspar) AER 2023.pdf]]></description>
+            <content:encoded><![CDATA[P0209-01 -- Valspar Industries (Ireland) Limited: 240329 Sherwin-Williams(Valspar) AER 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV29956 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c9e587df-f6ef-440f-9a87-43464a089527.pdf</link>
+            <guid>https://leap.epa.ie/docs/c9e587df-f6ef-440f-9a87-43464a089527.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:33 GMT</pubDate>
+            <description><![CDATA[SV29956 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0831-02 -- Western Brand Group Unlimited Company: SV29956 - Licensee Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[1st Quarter Monitoring Report  SW 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0ca0b84e-bc5d-462a-9198-b9fce70ea601.pdf</link>
+            <guid>https://leap.epa.ie/docs/0ca0b84e-bc5d-462a-9198-b9fce70ea601.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:44 GMT</pubDate>
+            <description><![CDATA[1st Quarter Monitoring Report  SW 2023.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 1st Quarter Monitoring Report  SW 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2nd Quarter Monitoring Report 2023 - Surfacewater.pdf]]></title>
+            <link>https://leap.epa.ie/docs/37b961cb-13b0-4a01-86b4-00b4beb4cba4.pdf</link>
+            <guid>https://leap.epa.ie/docs/37b961cb-13b0-4a01-86b4-00b4beb4cba4.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:55 GMT</pubDate>
+            <description><![CDATA[2nd Quarter Monitoring Report 2023 - Surfacewater.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 2nd Quarter Monitoring Report 2023 - Surfacewater.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[3rd Quarter Monitoring Report 2023 - Leachate.pdf]]></title>
+            <link>https://leap.epa.ie/docs/6e9366ac-5d9c-4274-9bee-9bf0d074bec3.pdf</link>
+            <guid>https://leap.epa.ie/docs/6e9366ac-5d9c-4274-9bee-9bf0d074bec3.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:58 GMT</pubDate>
+            <description><![CDATA[3rd Quarter Monitoring Report 2023 - Leachate.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 3rd Quarter Monitoring Report 2023 - Leachate.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2nd Quarter Monitoring Report - Leach 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7ea465e5-c221-46f1-b9de-eeacb05c9518.pdf</link>
+            <guid>https://leap.epa.ie/docs/7ea465e5-c221-46f1-b9de-eeacb05c9518.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:48 GMT</pubDate>
+            <description><![CDATA[2nd Quarter Monitoring Report - Leach 2023.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 2nd Quarter Monitoring Report - Leach 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[4th quarter Monitoring Report 2023 - Surface Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7f4b72ee-6d9e-44c1-ba2f-70ad6fd55695.pdf</link>
+            <guid>https://leap.epa.ie/docs/7f4b72ee-6d9e-44c1-ba2f-70ad6fd55695.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:25 GMT</pubDate>
+            <description><![CDATA[4th quarter Monitoring Report 2023 - Surface Water.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 4th quarter Monitoring Report 2023 - Surface Water.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[1st Quarter Monitoring Report Leach 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9baf5e33-3f62-46dc-846e-cd2926a6c960.pdf</link>
+            <guid>https://leap.epa.ie/docs/9baf5e33-3f62-46dc-846e-cd2926a6c960.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:23 GMT</pubDate>
+            <description><![CDATA[1st Quarter Monitoring Report Leach 2023.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 1st Quarter Monitoring Report Leach 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[4th Quarter Monitoring Report 2023 - Leachate.pdf]]></title>
+            <link>https://leap.epa.ie/docs/caf2a01d-6348-4594-b846-1ab14047c003.pdf</link>
+            <guid>https://leap.epa.ie/docs/caf2a01d-6348-4594-b846-1ab14047c003.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:12 GMT</pubDate>
+            <description><![CDATA[4th Quarter Monitoring Report 2023 - Leachate.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 4th Quarter Monitoring Report 2023 - Leachate.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[1st Quarter Monitoring Report GW 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d8a8d3fc-238a-43b5-b5a7-2aa98b43a5c2.pdf</link>
+            <guid>https://leap.epa.ie/docs/d8a8d3fc-238a-43b5-b5a7-2aa98b43a5c2.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:37 GMT</pubDate>
+            <description><![CDATA[1st Quarter Monitoring Report GW 2023.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 1st Quarter Monitoring Report GW 2023.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[4th Quarter Monitoing Report 2023  - Groundwater.pdf]]></title>
+            <link>https://leap.epa.ie/docs/07e18cc0-8c83-4d55-a7cf-753a4690c35f.pdf</link>
+            <guid>https://leap.epa.ie/docs/07e18cc0-8c83-4d55-a7cf-753a4690c35f.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:20 GMT</pubDate>
+            <description><![CDATA[4th Quarter Monitoing Report 2023  - Groundwater.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 4th Quarter Monitoing Report 2023  - Groundwater.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2nd Quarter Monitoring Report 2023 - Groundwater.pdf]]></title>
+            <link>https://leap.epa.ie/docs/20ac9f41-55da-47e8-97ba-d85e1f37141d.pdf</link>
+            <guid>https://leap.epa.ie/docs/20ac9f41-55da-47e8-97ba-d85e1f37141d.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:52 GMT</pubDate>
+            <description><![CDATA[2nd Quarter Monitoring Report 2023 - Groundwater.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 2nd Quarter Monitoring Report 2023 - Groundwater.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[3rd Quarter Monitoring Report 2023 -Surface Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3fecf827-919a-41e5-a368-e9548e647869.pdf</link>
+            <guid>https://leap.epa.ie/docs/3fecf827-919a-41e5-a368-e9548e647869.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:10 GMT</pubDate>
+            <description><![CDATA[3rd Quarter Monitoring Report 2023 -Surface Water.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 3rd Quarter Monitoring Report 2023 -Surface Water.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[3rd Quarter Monitoring Report 2023 - Groundwater.pdf]]></title>
+            <link>https://leap.epa.ie/docs/fe53d354-0f3c-49ff-9e08-8d33ffe06151.pdf</link>
+            <guid>https://leap.epa.ie/docs/fe53d354-0f3c-49ff-9e08-8d33ffe06151.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:33:02 GMT</pubDate>
+            <description><![CDATA[3rd Quarter Monitoring Report 2023 - Groundwater.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: 3rd Quarter Monitoring Report 2023 - Groundwater.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Snapshot-INCI027495.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2878f195-1671-4bd9-8b8d-04659bbdee1c.pdf</link>
+            <guid>https://leap.epa.ie/docs/2878f195-1671-4bd9-8b8d-04659bbdee1c.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:31:40 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI027495.pdf]]></description>
+            <content:encoded><![CDATA[P0015-05 -- ZOETIS BELGIUM S.A: Snapshot-INCI027495.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Proposal for Ammonia Qual 3.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c57ca555-4bb8-464c-8fa3-35e175276019.pdf</link>
+            <guid>https://leap.epa.ie/docs/c57ca555-4bb8-464c-8fa3-35e175276019.pdf</guid>
+            <pubDate>Thu, 02 May 2024 21:32:26 GMT</pubDate>
+            <description><![CDATA[Proposal for Ammonia Qual 3.pdf]]></description>
+            <content:encoded><![CDATA[P0015-05 -- ZOETIS BELGIUM S.A: Proposal for Ammonia Qual 3.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00016317]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d05dc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d05dc.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00016317]]></description>
+            <content:encoded><![CDATA[P1087-02 -- AbbVie Ireland NL B.V.: Notification to Applicant Extension Request - LACT00016317]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Applicant - Request for Further Information - LACT0001]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d06f9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d06f9.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Applicant - Request for Further Information - LACT0001]]></description>
+            <content:encoded><![CDATA[P1112-02 -- Bausch + Lomb Ireland Limited: Letter to Applicant - Request for Further Information - LACT0001]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant - Proposed DeterminationDecision - LAC]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0621.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0621.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant - Proposed DeterminationDecision - LAC]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: Notification to Applicant - Proposed DeterminationDecision - LAC]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued � Notification - Specified Bodies - P1193-01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0622.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0622.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[PD Issued � Notification - Specified Bodies - P1193-01]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: PD Issued � Notification - Specified Bodies - P1193-01]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD Issued – Notification - Submitters - P1193-01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0623.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0623.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[PD Issued – Notification - Submitters - P1193-01]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: PD Issued – Notification - Submitters - P1193-01]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Directors Decisioin Re Proposed Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0624.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0624.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Directors Decisioin Re Proposed Determination]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: Directors Decisioin Re Proposed Determination]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d063e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d063e.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority - Register - LACT00016322]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d063f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d063f.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register - LACT00016322]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: Notification to Planning Authority - Register - LACT00016322]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1193-01 Castlelost Flex Gen 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0640.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0640.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[P1193-01 Castlelost Flex Gen 1]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: P1193-01 Castlelost Flex Gen 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IR-LA010292]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d07ac.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d07ac.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[IR-LA010292]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: IR-LA010292]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[RD-LA010292]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d07ad.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d07ad.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[RD-LA010292]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: RD-LA010292]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PD-LA010292]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d07ae.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d07ae.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[PD-LA010292]]></description>
+            <content:encoded><![CDATA[P1193-01 -- Castlelost Flex Gen Limited: PD-LA010292]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00012009  02-04-2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d05fe.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d05fe.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00012009  02-04-2024]]></description>
+            <content:encoded><![CDATA[P1024-02 -- Doon Farm Enterprises Limited: Notification to Applicant RFI Reminder  LACT00012009  02-04-2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Let EPA 02052024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0620.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d0620.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Let EPA 02052024]]></description>
+            <content:encoded><![CDATA[P1207-01 -- Michael Hanley Farm Enterprises Limited: Letter from Applicant - Let EPA 02052024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper Notice Re Proposed Determination]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d06de.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808d06de.pdf</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newspaper Notice Re Proposed Determination]]></description>
+            <content:encoded><![CDATA[P0638-02 -- Zoetis Belgium S.A.: Newspaper Notice Re Proposed Determination]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
