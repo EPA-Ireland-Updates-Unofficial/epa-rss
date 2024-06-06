@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 05 Jun 2024 04:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 04:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,59 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SMP 2023 Dulux.pdf]]></title>
+            <link>https://leap.epa.ie/docs/21ddff3c-db07-45c2-bb95-39e4cdec78de.pdf</link>
+            <guid>https://leap.epa.ie/docs/21ddff3c-db07-45c2-bb95-39e4cdec78de.pdf</guid>
+            <pubDate>Tue, 04 Jun 2024 21:31:27 GMT</pubDate>
+            <description><![CDATA[SMP 2023 Dulux.pdf]]></description>
+            <content:encoded><![CDATA[P0218-01 -- Dulux Paints Ireland Limited: SMP 2023 Dulux.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0818-04_SMP_2023_signed.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3c99efcc-16ba-4f30-bb88-f6e7a9213141.pdf</link>
+            <guid>https://leap.epa.ie/docs/3c99efcc-16ba-4f30-bb88-f6e7a9213141.pdf</guid>
+            <pubDate>Tue, 04 Jun 2024 21:31:36 GMT</pubDate>
+            <description><![CDATA[P0818-04_SMP_2023_signed.pdf]]></description>
+            <content:encoded><![CDATA[P0818-04 -- Johnson &amp; Johnson Vision Care Ireland Unlimited Company: P0818-04_SMP_2023_signed.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[20240221_SiteVisit_Responses.pdf]]></title>
+            <link>https://leap.epa.ie/docs/251131e7-bffb-4b27-ab95-31e6674cec73.pdf</link>
+            <guid>https://leap.epa.ie/docs/251131e7-bffb-4b27-ab95-31e6674cec73.pdf</guid>
+            <pubDate>Tue, 04 Jun 2024 21:31:58 GMT</pubDate>
+            <description><![CDATA[20240221_SiteVisit_Responses.pdf]]></description>
+            <content:encoded><![CDATA[P0809-01 -- Mondelez Ireland Production Limited: 20240221_SiteVisit_Responses.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[20240424_IncidentReport_IrishWater_TER.jpg]]></title>
+            <link>https://leap.epa.ie/docs/6b4324eb-3ee2-44da-b734-7fb3a26149ee.pdf</link>
+            <guid>https://leap.epa.ie/docs/6b4324eb-3ee2-44da-b734-7fb3a26149ee.pdf</guid>
+            <pubDate>Tue, 04 Jun 2024 21:31:46 GMT</pubDate>
+            <description><![CDATA[20240424_IncidentReport_IrishWater_TER.jpg]]></description>
+            <content:encoded><![CDATA[P0809-01 -- Mondelez Ireland Production Limited: 20240424_IncidentReport_IrishWater_TER.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EmissionsToSewer_20230101-20240229.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d31378d3-ef05-41ed-8c06-1b8ac8c9c717.pdf</link>
+            <guid>https://leap.epa.ie/docs/d31378d3-ef05-41ed-8c06-1b8ac8c9c717.pdf</guid>
+            <pubDate>Tue, 04 Jun 2024 21:31:41 GMT</pubDate>
+            <description><![CDATA[EmissionsToSewer_20230101-20240229.pdf]]></description>
+            <content:encoded><![CDATA[P0809-01 -- Mondelez Ireland Production Limited: EmissionsToSewer_20230101-20240229.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[20240424_IncidentReport_DCC.jpg]]></title>
+            <link>https://leap.epa.ie/docs/ee2331ff-0db6-487c-ba93-60663610d4fd.pdf</link>
+            <guid>https://leap.epa.ie/docs/ee2331ff-0db6-487c-ba93-60663610d4fd.pdf</guid>
+            <pubDate>Tue, 04 Jun 2024 21:31:44 GMT</pubDate>
+            <description><![CDATA[20240424_IncidentReport_DCC.jpg]]></description>
+            <content:encoded><![CDATA[P0809-01 -- Mondelez Ireland Production Limited: 20240424_IncidentReport_DCC.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
