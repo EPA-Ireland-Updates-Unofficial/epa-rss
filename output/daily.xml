@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 18 Jun 2024 04:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 04:40:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,219 +16,525 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Snapshot-INCI027782.pdf]]></title>
-            <link>https://leap.epa.ie/docs/6473f082-6dc2-4a69-8d2e-cede90d39f51.pdf</link>
-            <guid>https://leap.epa.ie/docs/6473f082-6dc2-4a69-8d2e-cede90d39f51.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:26 GMT</pubDate>
-            <description><![CDATA[Snapshot-INCI027782.pdf]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural &amp; Metal Systems Limited: Snapshot-INCI027782.pdf]]></content:encoded>
+            <title><![CDATA[Waste disposal.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5018ed12-100d-48fa-9fcf-3a36db3d63aa.pdf</link>
+            <guid>https://leap.epa.ie/docs/5018ed12-100d-48fa-9fcf-3a36db3d63aa.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:32:21 GMT</pubDate>
+            <description><![CDATA[Waste disposal.pdf]]></description>
+            <content:encoded><![CDATA[P0431-02 -- PERMA PIGS LIMITED: Waste disposal.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[AMS Autosampler External Calibration 17.05.24.png]]></title>
-            <link>https://leap.epa.ie/docs/90b75cc5-826a-4183-bbdb-b32025f42807.pdf</link>
-            <guid>https://leap.epa.ie/docs/90b75cc5-826a-4183-bbdb-b32025f42807.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:25 GMT</pubDate>
-            <description><![CDATA[AMS Autosampler External Calibration 17.05.24.png]]></description>
-            <content:encoded><![CDATA[P1117-01 -- Architectural &amp; Metal Systems Limited: AMS Autosampler External Calibration 17.05.24.png]]></content:encoded>
+            <title><![CDATA[Site Visit Report Response.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d9883508-75c9-468e-b4ab-478032df14ca.pdf</link>
+            <guid>https://leap.epa.ie/docs/d9883508-75c9-468e-b4ab-478032df14ca.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:32:19 GMT</pubDate>
+            <description><![CDATA[Site Visit Report Response.pdf]]></description>
+            <content:encoded><![CDATA[P0431-02 -- PERMA PIGS LIMITED: Site Visit Report Response.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[EMP015 Corrective Action Procedure Rev 7.pdf]]></title>
-            <link>https://leap.epa.ie/docs/44817ca6-7ff2-4716-8370-a374cecaf189.pdf</link>
-            <guid>https://leap.epa.ie/docs/44817ca6-7ff2-4716-8370-a374cecaf189.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:45 GMT</pubDate>
-            <description><![CDATA[EMP015 Corrective Action Procedure Rev 7.pdf]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: EMP015 Corrective Action Procedure Rev 7.pdf]]></content:encoded>
+            <title><![CDATA[Boortmalt Biological Quality Monitoring 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d41d9142-ad57-4866-9a64-a6ae7adfd301.pdf</link>
+            <guid>https://leap.epa.ie/docs/d41d9142-ad57-4866-9a64-a6ae7adfd301.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:32:39 GMT</pubDate>
+            <description><![CDATA[Boortmalt Biological Quality Monitoring 2023.pdf]]></description>
+            <content:encoded><![CDATA[P1129-01 -- Minch Malt Limited: Boortmalt Biological Quality Monitoring 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[DS 004 Training Matrix Sheet rev. 10.pdf]]></title>
-            <link>https://leap.epa.ie/docs/0842be9f-69af-4b82-901f-faf2306e2f48.pdf</link>
-            <guid>https://leap.epa.ie/docs/0842be9f-69af-4b82-901f-faf2306e2f48.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:34 GMT</pubDate>
-            <description><![CDATA[DS 004 Training Matrix Sheet rev. 10.pdf]]></description>
-            <content:encoded><![CDATA[P0802-03 -- Aurivo Dairy Ingredients Limited: DS 004 Training Matrix Sheet rev. 10.pdf]]></content:encoded>
+            <title><![CDATA[ED-005 Storm Water Discharge Trigger Levels.pdf]]></title>
+            <link>https://leap.epa.ie/docs/457610d4-e69a-49bf-bdb4-2ed7a9c9cc8a.pdf</link>
+            <guid>https://leap.epa.ie/docs/457610d4-e69a-49bf-bdb4-2ed7a9c9cc8a.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:31:22 GMT</pubDate>
+            <description><![CDATA[ED-005 Storm Water Discharge Trigger Levels.pdf]]></description>
+            <content:encoded><![CDATA[P0809-01 -- Mondelez Ireland Production Limited: ED-005 Storm Water Discharge Trigger Levels.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[GCU0167016 GW May 2023 (draft issued 20230531).pdf]]></title>
-            <link>https://leap.epa.ie/docs/3abb585c-8f53-4173-a673-004df3997f8f.pdf</link>
-            <guid>https://leap.epa.ie/docs/3abb585c-8f53-4173-a673-004df3997f8f.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:04 GMT</pubDate>
-            <description><![CDATA[GCU0167016 GW May 2023 (draft issued 20230531).pdf]]></description>
-            <content:encoded><![CDATA[P0017-02 -- Cara Partners: GCU0167016 GW May 2023 (draft issued 20230531).pdf]]></content:encoded>
+            <title><![CDATA[60702859 (Lagoon Repair Works) - Appendicies.pdf]]></title>
+            <link>https://leap.epa.ie/docs/77c8036f-5e2f-4a6d-8db5-bef8b4d04177.pdf</link>
+            <guid>https://leap.epa.ie/docs/77c8036f-5e2f-4a6d-8db5-bef8b4d04177.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:32:35 GMT</pubDate>
+            <description><![CDATA[60702859 (Lagoon Repair Works) - Appendicies.pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: 60702859 (Lagoon Repair Works) - Appendicies.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[PB007 Bund Integrity Certificate.pdf]]></title>
-            <link>https://leap.epa.ie/docs/642948e5-3d4d-4cae-a120-6bdbf7193993.pdf</link>
-            <guid>https://leap.epa.ie/docs/642948e5-3d4d-4cae-a120-6bdbf7193993.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:12 GMT</pubDate>
-            <description><![CDATA[PB007 Bund Integrity Certificate.pdf]]></description>
-            <content:encoded><![CDATA[P0017-02 -- Cara Partners: PB007 Bund Integrity Certificate.pdf]]></content:encoded>
+            <title><![CDATA[60702859_(Lagoon Repair Works) - Text.pdf]]></title>
+            <link>https://leap.epa.ie/docs/974ea8fc-43e2-41a6-8081-0808b47060a1.pdf</link>
+            <guid>https://leap.epa.ie/docs/974ea8fc-43e2-41a6-8081-0808b47060a1.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:32:37 GMT</pubDate>
+            <description><![CDATA[60702859_(Lagoon Repair Works) - Text.pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: 60702859_(Lagoon Repair Works) - Text.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[GCU0167016 SP004 resample (issued).pdf]]></title>
-            <link>https://leap.epa.ie/docs/7e0eb05b-9fd0-452f-b2e9-2e6c186dabe9.pdf</link>
-            <guid>https://leap.epa.ie/docs/7e0eb05b-9fd0-452f-b2e9-2e6c186dabe9.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:06 GMT</pubDate>
-            <description><![CDATA[GCU0167016 SP004 resample (issued).pdf]]></description>
-            <content:encoded><![CDATA[P0017-02 -- Cara Partners: GCU0167016 SP004 resample (issued).pdf]]></content:encoded>
+            <title><![CDATA[dBA report 032.9.1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0b1654b1-8839-4bcb-8332-d2f5c35fcd1a.pdf</link>
+            <guid>https://leap.epa.ie/docs/0b1654b1-8839-4bcb-8332-d2f5c35fcd1a.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:31:35 GMT</pubDate>
+            <description><![CDATA[dBA report 032.9.1.pdf]]></description>
+            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: dBA report 032.9.1.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV30053 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8b1fe7be-b723-47d4-b4cb-5ff551553666.pdf</link>
-            <guid>https://leap.epa.ie/docs/8b1fe7be-b723-47d4-b4cb-5ff551553666.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:47 GMT</pubDate>
-            <description><![CDATA[SV30053 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0017-02 -- Cara Partners: SV30053 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Q4 SEHL Limerick Facility 2023 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0261bf3c-9826-4270-884f-0b8eff5c7cf2.pdf</link>
+            <guid>https://leap.epa.ie/docs/0261bf3c-9826-4270-884f-0b8eff5c7cf2.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:32:46 GMT</pubDate>
+            <description><![CDATA[Q4 SEHL Limerick Facility 2023 Report.pdf]]></description>
+            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: Q4 SEHL Limerick Facility 2023 Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[GCU0167016 GW Dec 2023 (draft issued) Q2.pdf]]></title>
-            <link>https://leap.epa.ie/docs/6a82f3a5-cd8e-48be-9f98-a93364e4023f.pdf</link>
-            <guid>https://leap.epa.ie/docs/6a82f3a5-cd8e-48be-9f98-a93364e4023f.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:58 GMT</pubDate>
-            <description><![CDATA[GCU0167016 GW Dec 2023 (draft issued) Q2.pdf]]></description>
-            <content:encoded><![CDATA[P0017-02 -- Cara Partners: GCU0167016 GW Dec 2023 (draft issued) Q2.pdf]]></content:encoded>
+            <title><![CDATA[W0082-03 Dust Q4 2022.pdf]]></title>
+            <link>https://leap.epa.ie/docs/cfd6cdfa-925e-4474-becd-47864efa757a.pdf</link>
+            <guid>https://leap.epa.ie/docs/cfd6cdfa-925e-4474-becd-47864efa757a.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:31:30 GMT</pubDate>
+            <description><![CDATA[W0082-03 Dust Q4 2022.pdf]]></description>
+            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: W0082-03 Dust Q4 2022.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Storm Water Visual Weekly Inspections.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f09cff41-cf22-4f1e-84f3-83dfe6c7524a.pdf</link>
-            <guid>https://leap.epa.ie/docs/f09cff41-cf22-4f1e-84f3-83dfe6c7524a.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:24 GMT</pubDate>
-            <description><![CDATA[Storm Water Visual Weekly Inspections.pdf]]></description>
-            <content:encoded><![CDATA[P0017-02 -- Cara Partners: Storm Water Visual Weekly Inspections.pdf]]></content:encoded>
+            <title><![CDATA[W0082-03 Dust Q3 2022.pdf]]></title>
+            <link>https://leap.epa.ie/docs/929d55a3-3855-4ed3-9a45-b63256b02c73.pdf</link>
+            <guid>https://leap.epa.ie/docs/929d55a3-3855-4ed3-9a45-b63256b02c73.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 21:31:22 GMT</pubDate>
+            <description><![CDATA[W0082-03 Dust Q3 2022.pdf]]></description>
+            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: W0082-03 Dust Q3 2022.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SW Data for Trigger Values 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f0eb199d-912f-4eff-acce-5a15644236e0.pdf</link>
-            <guid>https://leap.epa.ie/docs/f0eb199d-912f-4eff-acce-5a15644236e0.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:32 GMT</pubDate>
-            <description><![CDATA[SW Data for Trigger Values 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0173-02 -- Dawn Meats Ireland Unlimited Company: SW Data for Trigger Values 2024.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - 03-24 - Site Layout Plan - Farragh Proteins Site]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc844.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc844.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 03-24 - Site Layout Plan - Farragh Proteins Site]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - 03-24 - Site Layout Plan - Farragh Proteins Site]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[RFA New MCC rooms May 24.pdf]]></title>
-            <link>https://leap.epa.ie/docs/26ee45e4-d96f-4253-a3fa-9f1121625f36.pdf</link>
-            <guid>https://leap.epa.ie/docs/26ee45e4-d96f-4253-a3fa-9f1121625f36.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:49 GMT</pubDate>
-            <description><![CDATA[RFA New MCC rooms May 24.pdf]]></description>
-            <content:encoded><![CDATA[P0009-05 -- Eli Lilly Kinsale Limited: RFA New MCC rooms May 24.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - AA SCREENING REPORT]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc845.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc845.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - AA SCREENING REPORT]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - AA SCREENING REPORT]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2-1 Initial Air Emissions Report 14.05.2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/32cff34b-d1cd-4897-9096-cc2fc813f3db.pdf</link>
-            <guid>https://leap.epa.ie/docs/32cff34b-d1cd-4897-9096-cc2fc813f3db.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:59 GMT</pubDate>
-            <description><![CDATA[A2-1 Initial Air Emissions Report 14.05.2024.pdf]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: A2-1 Initial Air Emissions Report 14.05.2024.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Drawings 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc846.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc846.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Drawings 1]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Drawings 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2-22 Air Emissions Report 20.05.2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/4ffa70e9-8e9b-403c-8c5a-d8559c386a94.pdf</link>
-            <guid>https://leap.epa.ie/docs/4ffa70e9-8e9b-403c-8c5a-d8559c386a94.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:18 GMT</pubDate>
-            <description><![CDATA[A2-22 Air Emissions Report 20.05.2024.pdf]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: A2-22 Air Emissions Report 20.05.2024.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Drawings]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc847.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc847.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Drawings]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Drawings]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2-2 Air Emissions Report 20.05.2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/6384defc-feaf-4054-8b62-4f354aca94a5.pdf</link>
-            <guid>https://leap.epa.ie/docs/6384defc-feaf-4054-8b62-4f354aca94a5.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:01 GMT</pubDate>
-            <description><![CDATA[A2-2 Air Emissions Report 20.05.2024.pdf]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: A2-2 Air Emissions Report 20.05.2024.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Farragh Proteins Site - New Site Area 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc848.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc848.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Farragh Proteins Site - New Site Area 2022]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Farragh Proteins Site - New Site Area 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2-22 Initial Air Emissions Report 14.05.2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8ee90cd1-dd15-4072-aa74-9fea0bed9ec2.pdf</link>
-            <guid>https://leap.epa.ie/docs/8ee90cd1-dd15-4072-aa74-9fea0bed9ec2.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:21 GMT</pubDate>
-            <description><![CDATA[A2-22 Initial Air Emissions Report 14.05.2024.pdf]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: A2-22 Initial Air Emissions Report 14.05.2024.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Letter re FIR]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc849.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc849.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Letter re FIR]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Letter re FIR]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2-21 Initial Air Emissions Report 14.05.2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/c8613d10-f860-4205-9586-5bf952609e8d.pdf</link>
-            <guid>https://leap.epa.ie/docs/c8613d10-f860-4205-9586-5bf952609e8d.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:16 GMT</pubDate>
-            <description><![CDATA[A2-21 Initial Air Emissions Report 14.05.2024.pdf]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: A2-21 Initial Air Emissions Report 14.05.2024.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Noise 2018]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84a.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Noise 2018]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Noise 2018]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2-1 Air Emissions Report 20.05.2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5c297050-a259-4a39-9ace-6febe435dc50.pdf</link>
-            <guid>https://leap.epa.ie/docs/5c297050-a259-4a39-9ace-6febe435dc50.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:56 GMT</pubDate>
-            <description><![CDATA[A2-1 Air Emissions Report 20.05.2024.pdf]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: A2-1 Air Emissions Report 20.05.2024.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Noise 2020]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84b.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Noise 2020]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Noise 2020]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2-21 Air Emissions Report 20.05.2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/b9f10ef0-d8ac-4124-83b9-767bf8ac1f22.pdf</link>
-            <guid>https://leap.epa.ie/docs/b9f10ef0-d8ac-4124-83b9-767bf8ac1f22.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:13 GMT</pubDate>
-            <description><![CDATA[A2-21 Air Emissions Report 20.05.2024.pdf]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: A2-21 Air Emissions Report 20.05.2024.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Noise 2022]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84c.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Noise 2022]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Noise 2022]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[A2-2 Initial Air Emissions Report 14.05.2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d180fe76-0de4-45e3-8055-a89be4c1901b.pdf</link>
-            <guid>https://leap.epa.ie/docs/d180fe76-0de4-45e3-8055-a89be4c1901b.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:06 GMT</pubDate>
-            <description><![CDATA[A2-2 Initial Air Emissions Report 14.05.2024.pdf]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: A2-2 Initial Air Emissions Report 14.05.2024.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Permission reg. ref. 18.539]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84d.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Permission reg. ref. 18.539]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Permission reg. ref. 18.539]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Snapshot-INCI027780.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f7a6df25-333a-4ba8-a08c-671250c67888.pdf</link>
-            <guid>https://leap.epa.ie/docs/f7a6df25-333a-4ba8-a08c-671250c67888.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:54 GMT</pubDate>
-            <description><![CDATA[Snapshot-INCI027780.pdf]]></description>
-            <content:encoded><![CDATA[P1194-01 -- Huntstown Power Company Limited: Snapshot-INCI027780.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Pictures of new area 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84e.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Pictures of new area 1]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Pictures of new area 1]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV29664 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8a9d9bad-75bb-44ca-ae77-78fd0aeaafa5.pdf</link>
-            <guid>https://leap.epa.ie/docs/8a9d9bad-75bb-44ca-ae77-78fd0aeaafa5.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:32 GMT</pubDate>
-            <description><![CDATA[SV29664 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0816-01 -- Portumna Pastry Limited: SV29664 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Pictures of new area]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc84f.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Pictures of new area]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Pictures of new area]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2023 Groundwater Annual Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a90a3e00-e829-4b76-ab84-6235821d1e70.pdf</link>
-            <guid>https://leap.epa.ie/docs/a90a3e00-e829-4b76-ab84-6235821d1e70.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:32:45 GMT</pubDate>
-            <description><![CDATA[2023 Groundwater Annual Report.pdf]]></description>
-            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: 2023 Groundwater Annual Report.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Planning Exemption ref. 303]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc850.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc850.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Planning Exemption ref. 303]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Planning Exemption ref. 303]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Snapshot-INCI027779.pdf]]></title>
-            <link>https://leap.epa.ie/docs/6e53ebde-ef4f-49ae-893f-ee5e49674ec1.pdf</link>
-            <guid>https://leap.epa.ie/docs/6e53ebde-ef4f-49ae-893f-ee5e49674ec1.pdf</guid>
-            <pubDate>Sun, 16 Jun 2024 21:31:49 GMT</pubDate>
-            <description><![CDATA[Snapshot-INCI027779.pdf]]></description>
-            <content:encoded><![CDATA[W0074-03 -- Tipperary County Council: Snapshot-INCI027779.pdf]]></content:encoded>
+            <title><![CDATA[Letter from Applicant - Planning Exemption 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc851.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc851.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Planning Exemption 1]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Planning Exemption 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Planning Exemption]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc852.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc852.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Planning Exemption]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Planning Exemption]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Poultry cooling tower drawing 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc853.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc853.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Poultry cooling tower drawing 1]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Poultry cooling tower drawing 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Poultry cooling tower drawing]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc854.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc854.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Poultry cooling tower drawing]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Poultry cooling tower drawing]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - ScreeningReport CR10083 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc855.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc855.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - ScreeningReport CR10083 1]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - ScreeningReport CR10083 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - ScreeningReport CR10083]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc856.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc856.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - ScreeningReport CR10083]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - ScreeningReport CR10083]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Traynor Letter 22.02.24]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc857.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc857.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Traynor Letter 22.02.24]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter from Applicant - Traynor Letter 22.02.24]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EPA Report - S76A(11)Amendment - TA CA Application Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc858.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc858.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[EPA Report - S76A(11)Amendment - TA CA Application Report]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: EPA Report - S76A(11)Amendment - TA CA Application Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Inspector Report - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87b.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inspector Report - Licence Amendment]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Inspector Report - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Recommended Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87c.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recommended Licence Amendment]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Recommended Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Director Decision - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87d.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Director Decision - Licence Amendment]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Director Decision - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87e.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment B]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Technical Amendment B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter to Request Further Information]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87f.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter to Request Further Information]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Letter to Request Further Information]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment B - Letter to Licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc880.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc880.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment B - Letter to Licensee]]></description>
+            <content:encoded><![CDATA[P0025-05 -- Farragh Proteins Unlimited Company: Technical Amendment B - Letter to Licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Irish Water Licence LOS 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc859.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc859.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Irish Water Licence LOS 1]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - Irish Water Licence LOS 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Irish Water Licence LOS 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc86f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc86f.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Irish Water Licence LOS 2]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - Irish Water Licence LOS 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Irish Water Licence LOS 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc870.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc870.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Irish Water Licence LOS 3]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - Irish Water Licence LOS 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Irish Water Licence LOS]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc871.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc871.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Irish Water Licence LOS]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - Irish Water Licence LOS]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - MSD TA Cover Letter to EPA 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc872.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc872.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - MSD TA Cover Letter to EPA 1]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - MSD TA Cover Letter to EPA 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - MSD TA Cover Letter to EPA 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc873.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc873.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - MSD TA Cover Letter to EPA 2]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - MSD TA Cover Letter to EPA 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - MSD TA Cover Letter to EPA]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc874.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc874.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - MSD TA Cover Letter to EPA]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - MSD TA Cover Letter to EPA]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - P1073-01Technical Amendment 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc875.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc875.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - P1073-01Technical Amendment 1]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - P1073-01Technical Amendment 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - P1073-01Technical Amendment 2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc876.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc876.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - P1073-01Technical Amendment 2]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - P1073-01Technical Amendment 2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - P1073-01Technical Amendment 3]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc877.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc877.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - P1073-01Technical Amendment 3]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - P1073-01Technical Amendment 3]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - P1073-01Technical Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc878.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc878.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - P1073-01Technical Amendment]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Letter from Applicant - P1073-01Technical Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EPA Report - S76A(11)Amendment - ScreeningReport]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc879.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc879.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[EPA Report - S76A(11)Amendment - ScreeningReport]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): EPA Report - S76A(11)Amendment - ScreeningReport]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EPA Report - S76A(11)Amendment - TA CA Application Report]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc87a.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[EPA Report - S76A(11)Amendment - TA CA Application Report]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): EPA Report - S76A(11)Amendment - TA CA Application Report]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Inspector Report - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc881.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc881.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inspector Report - Licence Amendment]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Inspector Report - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Recommended Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc882.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc882.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recommended Licence Amendment]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Recommended Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Director Decision - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc883.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc883.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Director Decision - Licence Amendment]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Director Decision - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc884.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc884.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment A]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Technical Amendment A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment A - Letter to Licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc885.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc885.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment A - Letter to Licensee]]></description>
+            <content:encoded><![CDATA[P1073-01 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): Technical Amendment A - Letter to Licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment 6-7-1 Notice IE Licence - Revised]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc713.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc713.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment 6-7-1 Notice IE Licence - Revised]]></description>
+            <content:encoded><![CDATA[P0552-04 -- Swords Laboratories Unlimited Company Trading As Bristol Myers Squibb Cruiserath Biologics: Letter from Applicant - Attachment 6-7-1 Notice IE Licence - Revised]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment 6-7-2 Newspaper Notice-Revised]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc714.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc714.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment 6-7-2 Newspaper Notice-Revised]]></description>
+            <content:encoded><![CDATA[P0552-04 -- Swords Laboratories Unlimited Company Trading As Bristol Myers Squibb Cruiserath Biologics: Letter from Applicant - Attachment 6-7-2 Newspaper Notice-Revised]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-6-7-3-Evidence of Notices - PA - Revised]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc715.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808dc715.pdf</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-6-7-3-Evidence of Notices - PA - Revised]]></description>
+            <content:encoded><![CDATA[P0552-04 -- Swords Laboratories Unlimited Company Trading As Bristol Myers Squibb Cruiserath Biologics: Letter from Applicant - Attachment-6-7-3-Evidence of Notices - PA - Revised]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
