@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 07 Aug 2024 04:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 04:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,86 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ER - Biannual Bag Filter Inspection Record last 3.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3e643950-f54f-4843-b638-31059e801415.pdf</link>
+            <guid>https://leap.epa.ie/docs/3e643950-f54f-4843-b638-31059e801415.pdf</guid>
+            <pubDate>Tue, 06 Aug 2024 21:31:43 GMT</pubDate>
+            <description><![CDATA[ER - Biannual Bag Filter Inspection Record last 3.pdf]]></description>
+            <content:encoded><![CDATA[P1020-01 -- Lakeland Agri Limited: ER - Biannual Bag Filter Inspection Record last 3.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[1. Lakeland Agri AER 2023 Revised.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c40a73e9-11a9-42e6-a569-0f8f145c5176.pdf</link>
+            <guid>https://leap.epa.ie/docs/c40a73e9-11a9-42e6-a569-0f8f145c5176.pdf</guid>
+            <pubDate>Tue, 06 Aug 2024 21:31:38 GMT</pubDate>
+            <description><![CDATA[1. Lakeland Agri AER 2023 Revised.pdf]]></description>
+            <content:encoded><![CDATA[P1020-01 -- Lakeland Agri Limited: 1. Lakeland Agri AER 2023 Revised.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[2024.07 New Autosampler Install.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c21993aa-849c-459c-94f1-6e0b717732f8.pdf</link>
+            <guid>https://leap.epa.ie/docs/c21993aa-849c-459c-94f1-6e0b717732f8.pdf</guid>
+            <pubDate>Tue, 06 Aug 2024 21:31:35 GMT</pubDate>
+            <description><![CDATA[2024.07 New Autosampler Install.pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: 2024.07 New Autosampler Install.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[60726392_ACM_RP_ENV_010_0  (GWM_Q2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/da8f21a7-8c4f-4b7a-8c5e-f63ecdff4e59.pdf</link>
+            <guid>https://leap.epa.ie/docs/da8f21a7-8c4f-4b7a-8c5e-f63ecdff4e59.pdf</guid>
+            <pubDate>Tue, 06 Aug 2024 21:31:32 GMT</pubDate>
+            <description><![CDATA[60726392_ACM_RP_ENV_010_0  (GWM_Q2).pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: 60726392_ACM_RP_ENV_010_0  (GWM_Q2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00016465  06-08-2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e9596.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e9596.pdf</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00016465  06-08-2024]]></description>
+            <content:encoded><![CDATA[P1087-02 -- AbbVie Ireland NL B.V.: Notification to Applicant RFI Reminder  LACT00016465  06-08-2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[E-mail from Applicant - E-mail from Applicant - Email from Consultant 01.09.23]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e979f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e979f.pdf</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[E-mail from Applicant - E-mail from Applicant - Email from Consultant 01.09.23]]></description>
+            <content:encoded><![CDATA[P0048-03 -- Dawn Meats Ireland Unlimited Company: E-mail from Applicant - E-mail from Applicant - Email from Consultant 01.09.23]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[E-mail from Applicant - E-mail from Applicant - Email from Consultant 13.09.23]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e97a0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e97a0.pdf</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[E-mail from Applicant - E-mail from Applicant - Email from Consultant 13.09.23]]></description>
+            <content:encoded><![CDATA[P0048-03 -- Dawn Meats Ireland Unlimited Company: E-mail from Applicant - E-mail from Applicant - Email from Consultant 13.09.23]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[E-mail from Applicant - E-mail from applicant - Email from Dept of Agriculture 14.08.23]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e97a1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e97a1.pdf</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[E-mail from Applicant - E-mail from applicant - Email from Dept of Agriculture 14.08.23]]></description>
+            <content:encoded><![CDATA[P0048-03 -- Dawn Meats Ireland Unlimited Company: E-mail from Applicant - E-mail from applicant - Email from Dept of Agriculture 14.08.23]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00016828  06-08-2024]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e95aa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808e95aa.pdf</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00016828  06-08-2024]]></description>
+            <content:encoded><![CDATA[P0997-02 -- The Hammond Lane Metal Company Limited: Notification to Applicant RFI Reminder  LACT00016828  06-08-2024]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
