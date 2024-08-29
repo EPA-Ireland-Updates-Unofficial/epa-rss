@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 28 Aug 2024 04:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 04:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,84 +16,453 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[WSP Rev 10.pdf]]></title>
-            <link>https://leap.epa.ie/docs/b416720e-76f8-471e-ab99-e401ba82fe76.pdf</link>
-            <guid>https://leap.epa.ie/docs/b416720e-76f8-471e-ab99-e401ba82fe76.pdf</guid>
-            <pubDate>Mon, 26 Aug 2024 21:33:36 GMT</pubDate>
-            <description><![CDATA[WSP Rev 10.pdf]]></description>
-            <content:encoded><![CDATA[W0257-01 -- Country Clean Recycling Unlimited Company: WSP Rev 10.pdf]]></content:encoded>
+            <title><![CDATA[Enrich Enviromental Noise Annual Return.pdf]]></title>
+            <link>https://leap.epa.ie/docs/17a923d9-0f64-4dee-9b4f-02ab6a914af6.pdf</link>
+            <guid>https://leap.epa.ie/docs/17a923d9-0f64-4dee-9b4f-02ab6a914af6.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 21:31:38 GMT</pubDate>
+            <description><![CDATA[Enrich Enviromental Noise Annual Return.pdf]]></description>
+            <content:encoded><![CDATA[P1013-01 -- Enrich Environmental Limited: Enrich Enviromental Noise Annual Return.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Effluent Monitoring Report 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d27ff499-4dc5-4d3d-9d27-b001168178ba.pdf</link>
-            <guid>https://leap.epa.ie/docs/d27ff499-4dc5-4d3d-9d27-b001168178ba.pdf</guid>
-            <pubDate>Mon, 26 Aug 2024 21:33:08 GMT</pubDate>
-            <description><![CDATA[Effluent Monitoring Report 2023.pdf]]></description>
-            <content:encoded><![CDATA[W0041-01 -- Enva Ireland Limited: Effluent Monitoring Report 2023.pdf]]></content:encoded>
+            <title><![CDATA[Air Quality Annual Monitoring 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/4d04437a-d77d-4489-87b1-82c5a573c7c1.pdf</link>
+            <guid>https://leap.epa.ie/docs/4d04437a-d77d-4489-87b1-82c5a573c7c1.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 21:31:21 GMT</pubDate>
+            <description><![CDATA[Air Quality Annual Monitoring 2023.pdf]]></description>
+            <content:encoded><![CDATA[P1013-01 -- Enrich Environmental Limited: Air Quality Annual Monitoring 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Response to SV30092.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7ecebb44-171a-4cf0-8cce-bbfa15f2e064.pdf</link>
-            <guid>https://leap.epa.ie/docs/7ecebb44-171a-4cf0-8cce-bbfa15f2e064.pdf</guid>
-            <pubDate>Mon, 26 Aug 2024 21:33:40 GMT</pubDate>
-            <description><![CDATA[Response to SV30092.pdf]]></description>
-            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: Response to SV30092.pdf]]></content:encoded>
+            <title><![CDATA[Groundwater Annual Monitoring Return 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7621087f-bd0d-44b3-b317-909af57577a4.pdf</link>
+            <guid>https://leap.epa.ie/docs/7621087f-bd0d-44b3-b317-909af57577a4.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 21:31:18 GMT</pubDate>
+            <description><![CDATA[Groundwater Annual Monitoring Return 2023.pdf]]></description>
+            <content:encoded><![CDATA[P1013-01 -- Enrich Environmental Limited: Groundwater Annual Monitoring Return 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[21-193-01 Site Drainage Layout.pdf]]></title>
-            <link>https://leap.epa.ie/docs/9b43392a-2b00-473c-8245-e76cda6c12e7.pdf</link>
-            <guid>https://leap.epa.ie/docs/9b43392a-2b00-473c-8245-e76cda6c12e7.pdf</guid>
-            <pubDate>Mon, 26 Aug 2024 21:33:39 GMT</pubDate>
-            <description><![CDATA[21-193-01 Site Drainage Layout.pdf]]></description>
-            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: 21-193-01 Site Drainage Layout.pdf]]></content:encoded>
+            <title><![CDATA[Stormwater Annual Monitoring Return 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c1c069eb-ad84-409b-abb8-a07a746eac15.pdf</link>
+            <guid>https://leap.epa.ie/docs/c1c069eb-ad84-409b-abb8-a07a746eac15.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 21:31:40 GMT</pubDate>
+            <description><![CDATA[Stormwater Annual Monitoring Return 2023.pdf]]></description>
+            <content:encoded><![CDATA[P1013-01 -- Enrich Environmental Limited: Stormwater Annual Monitoring Return 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Housekeeping Procedure Galco Cork.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d0f1297c-f77d-4cfa-ae71-039a9ac3c3e0.pdf</link>
-            <guid>https://leap.epa.ie/docs/d0f1297c-f77d-4cfa-ae71-039a9ac3c3e0.pdf</guid>
-            <pubDate>Mon, 26 Aug 2024 21:31:25 GMT</pubDate>
-            <description><![CDATA[Housekeeping Procedure Galco Cork.pdf]]></description>
-            <content:encoded><![CDATA[P0391-01 -- Galco (Cork) Limited: Housekeeping Procedure Galco Cork.pdf]]></content:encoded>
+            <title><![CDATA[SW Trigger Levels Report for IE P1006-03 2023.pdf]]></title>
+            <link>https://leap.epa.ie/docs/028e1e83-47b4-4546-a147-e21ddf30fe9a.pdf</link>
+            <guid>https://leap.epa.ie/docs/028e1e83-47b4-4546-a147-e21ddf30fe9a.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 21:31:15 GMT</pubDate>
+            <description><![CDATA[SW Trigger Levels Report for IE P1006-03 2023.pdf]]></description>
+            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: SW Trigger Levels Report for IE P1006-03 2023.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[274524 Noise.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f9b53234-4dfa-4c3c-a077-f75e14311c40.pdf</link>
-            <guid>https://leap.epa.ie/docs/f9b53234-4dfa-4c3c-a077-f75e14311c40.pdf</guid>
-            <pubDate>Mon, 26 Aug 2024 21:32:50 GMT</pubDate>
-            <description><![CDATA[274524 Noise.pdf]]></description>
-            <content:encoded><![CDATA[P0023-03 -- Howmedica International S.de R.L.: 274524 Noise.pdf]]></content:encoded>
+            <title><![CDATA[SW Trigger Level Submission (09-09-2021).pdf]]></title>
+            <link>https://leap.epa.ie/docs/0cebcb6e-9334-4985-bf0d-54c9c8a7d3e2.pdf</link>
+            <guid>https://leap.epa.ie/docs/0cebcb6e-9334-4985-bf0d-54c9c8a7d3e2.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 21:31:12 GMT</pubDate>
+            <description><![CDATA[SW Trigger Level Submission (09-09-2021).pdf]]></description>
+            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: SW Trigger Level Submission (09-09-2021).pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Whiteriver VOC report 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/9db363e1-7b48-4ac6-b333-676ee23d0ae7.pdf</link>
-            <guid>https://leap.epa.ie/docs/9db363e1-7b48-4ac6-b333-676ee23d0ae7.pdf</guid>
-            <pubDate>Mon, 26 Aug 2024 21:32:57 GMT</pubDate>
-            <description><![CDATA[Whiteriver VOC report 2024.pdf]]></description>
-            <content:encoded><![CDATA[W0060-03 -- Louth County Council: Whiteriver VOC report 2024.pdf]]></content:encoded>
+            <title><![CDATA[IMG_1670.jpg]]></title>
+            <link>https://leap.epa.ie/docs/f796c3bb-288b-40d2-98c9-bc6166c24bce.pdf</link>
+            <guid>https://leap.epa.ie/docs/f796c3bb-288b-40d2-98c9-bc6166c24bce.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 21:31:49 GMT</pubDate>
+            <description><![CDATA[IMG_1670.jpg]]></description>
+            <content:encoded><![CDATA[P0294-01 -- Grant Engineering (Ireland): IMG_1670.jpg]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - 2024.08.26 Response to request for extention]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eeb6b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eeb6b.pdf</guid>
-            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 2024.08.26 Response to request for extention]]></description>
-            <content:encoded><![CDATA[P1013-02 -- Enrich Environmental Limited: Letter from Applicant - 2024.08.26 Response to request for extention]]></content:encoded>
+            <title><![CDATA[SV28873 - Licensee Public Response.pdf]]></title>
+            <link>https://leap.epa.ie/docs/6a9038b6-2a2e-463d-b31e-32e95efe3b5d.pdf</link>
+            <guid>https://leap.epa.ie/docs/6a9038b6-2a2e-463d-b31e-32e95efe3b5d.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 21:32:00 GMT</pubDate>
+            <description><![CDATA[SV28873 - Licensee Public Response.pdf]]></description>
+            <content:encoded><![CDATA[P1051-01 -- North Cork Creameries: SV28873 - Licensee Public Response.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00017397]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eeb96.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eeb96.pdf</guid>
-            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00017397]]></description>
-            <content:encoded><![CDATA[P1098-02 -- Tru Poultry Limited: Notification to Applicant Compliance Notice EIA - LACT00017397]]></content:encoded>
+            <title><![CDATA[Bennettsbridge Groundwater Dip Levels Q1 to Q2 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0e4f1d43-7efc-40e1-9a37-a909d9fb082c.pdf</link>
+            <guid>https://leap.epa.ie/docs/0e4f1d43-7efc-40e1-9a37-a909d9fb082c.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:20:31 GMT</pubDate>
+            <description><![CDATA[Bennettsbridge Groundwater Dip Levels Q1 to Q2 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Bennettsbridge Groundwater Dip Levels Q1 to Q2 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1222a72a-5e85-4b4c-8e1b-56787a050bf1.pdf</link>
+            <guid>https://leap.epa.ie/docs/1222a72a-5e85-4b4c-8e1b-56787a050bf1.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:21:25 GMT</pubDate>
+            <description><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Roadstone Bennettsbridge Environment Map.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bennettsbridge April Outfall Water Flows m3.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0ce3782e-8e9a-4515-8f00-d091bdb61d2c.pdf</link>
+            <guid>https://leap.epa.ie/docs/0ce3782e-8e9a-4515-8f00-d091bdb61d2c.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:20:58 GMT</pubDate>
+            <description><![CDATA[Bennettsbridge April Outfall Water Flows m3.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Bennettsbridge April Outfall Water Flows m3.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bennettsbridge Discharge flows Q2 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1b572d01-3a95-414f-b3a6-94347e07c3e9.pdf</link>
+            <guid>https://leap.epa.ie/docs/1b572d01-3a95-414f-b3a6-94347e07c3e9.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:21:00 GMT</pubDate>
+            <description><![CDATA[Bennettsbridge Discharge flows Q2 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Bennettsbridge Discharge flows Q2 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bennettsbridge June Outfall Water Flows m3.pdf]]></title>
+            <link>https://leap.epa.ie/docs/79245f0e-af80-4fbf-b5ab-f361bb9f39c9.pdf</link>
+            <guid>https://leap.epa.ie/docs/79245f0e-af80-4fbf-b5ab-f361bb9f39c9.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:21:03 GMT</pubDate>
+            <description><![CDATA[Bennettsbridge June Outfall Water Flows m3.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Bennettsbridge June Outfall Water Flows m3.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bennettsbridge Groundwater Levels and Graph Q2 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7b6ddce4-dcc3-4606-9f37-9287b6860146.pdf</link>
+            <guid>https://leap.epa.ie/docs/7b6ddce4-dcc3-4606-9f37-9287b6860146.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:20:33 GMT</pubDate>
+            <description><![CDATA[Bennettsbridge Groundwater Levels and Graph Q2 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Bennettsbridge Groundwater Levels and Graph Q2 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Surface Water_2024_285035-1 02.05.24.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8e244c20-9c0a-4dfd-8a0b-4bd79398663f.pdf</link>
+            <guid>https://leap.epa.ie/docs/8e244c20-9c0a-4dfd-8a0b-4bd79398663f.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:21:29 GMT</pubDate>
+            <description><![CDATA[Surface Water_2024_285035-1 02.05.24.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Surface Water_2024_285035-1 02.05.24.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></title>
+            <link>https://leap.epa.ie/docs/983a1622-247b-40c8-bef6-dbea12c3e3e2.pdf</link>
+            <guid>https://leap.epa.ie/docs/983a1622-247b-40c8-bef6-dbea12c3e3e2.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:20:29 GMT</pubDate>
+            <description><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Roadstone Bennettsbridge Environment Map.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Surface Water_2024_287225-1 04.06.24.pdf]]></title>
+            <link>https://leap.epa.ie/docs/bd4b542d-4f5a-4e75-9cfb-bf7501c8757d.pdf</link>
+            <guid>https://leap.epa.ie/docs/bd4b542d-4f5a-4e75-9cfb-bf7501c8757d.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:21:31 GMT</pubDate>
+            <description><![CDATA[Surface Water_2024_287225-1 04.06.24.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Surface Water_2024_287225-1 04.06.24.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Surface Water_2024_282895-1 03.04.24.pdf]]></title>
+            <link>https://leap.epa.ie/docs/90bc87d5-f451-4865-a326-242c68f8bb01.pdf</link>
+            <guid>https://leap.epa.ie/docs/90bc87d5-f451-4865-a326-242c68f8bb01.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:21:27 GMT</pubDate>
+            <description><![CDATA[Surface Water_2024_282895-1 03.04.24.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Surface Water_2024_282895-1 03.04.24.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bennettsbridge Surface Quality Results SW2 Q2 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/be08e621-fb33-4e28-be71-3638b7d02b9c.pdf</link>
+            <guid>https://leap.epa.ie/docs/be08e621-fb33-4e28-be71-3638b7d02b9c.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:21:13 GMT</pubDate>
+            <description><![CDATA[Bennettsbridge Surface Quality Results SW2 Q2 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Bennettsbridge Surface Quality Results SW2 Q2 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bennettsbridge Dust Monitoring Data Q2 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c966c287-5c33-43d5-8181-116849a9397b.pdf</link>
+            <guid>https://leap.epa.ie/docs/c966c287-5c33-43d5-8181-116849a9397b.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:20:19 GMT</pubDate>
+            <description><![CDATA[Bennettsbridge Dust Monitoring Data Q2 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Bennettsbridge Dust Monitoring Data Q2 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bennettsbridge May Outfall Water Flows m3.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d29eaf8e-1282-41a4-9c9e-1ac59df0bac2.pdf</link>
+            <guid>https://leap.epa.ie/docs/d29eaf8e-1282-41a4-9c9e-1ac59df0bac2.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:21:04 GMT</pubDate>
+            <description><![CDATA[Bennettsbridge May Outfall Water Flows m3.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Bennettsbridge May Outfall Water Flows m3.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e3e76895-07f3-4c05-9b57-3a9367ed8d7b.pdf</link>
+            <guid>https://leap.epa.ie/docs/e3e76895-07f3-4c05-9b57-3a9367ed8d7b.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:21:11 GMT</pubDate>
+            <description><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Roadstone Bennettsbridge Environment Map.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ff7d1c84-e410-4177-8ed9-42fc3df79a9c.pdf</link>
+            <guid>https://leap.epa.ie/docs/ff7d1c84-e410-4177-8ed9-42fc3df79a9c.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 08:20:41 GMT</pubDate>
+            <description><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Roadstone Bennettsbridge Environment Map.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Response to 10(2)(b)(ii) AF 270824]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eef67.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eef67.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Response to 10(2)(b)(ii) AF 270824]]></description>
+            <content:encoded><![CDATA[P0447-02 -- Ashleigh Farms (Waterford) Limited: Letter from Applicant - Response to 10(2)(b)(ii) AF 270824]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00017407]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef06a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef06a.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Compliance Notice EIA - LACT00017407]]></description>
+            <content:encoded><![CDATA[P0915-02 -- Ballyfaskin Enterprises Ltd: Notification to Applicant Compliance Notice EIA - LACT00017407]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant - Compliance Notice - LACT00017413]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef07c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef07c.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant - Compliance Notice - LACT00017413]]></description>
+            <content:encoded><![CDATA[P0915-02 -- Ballyfaskin Enterprises Ltd: Notification to Applicant - Compliance Notice - LACT00017413]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eef9d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eef9d.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
+            <content:encoded><![CDATA[P1039-02 -- Corby Rock Mill Unlimited Company: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Indaver response to EPA extension request 27.08.24]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eeed8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eeed8.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Indaver response to EPA extension request 27.08.24]]></description>
+            <content:encoded><![CDATA[W0167-04 -- Indaver Ireland Limited: Unsolicited Additional Information - Indaver response to EPA extension request 27.08.24]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Indaver response to EPA extension request 27.08.24 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eeed9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808eeed9.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Indaver response to EPA extension request 27.08.24 1]]></description>
+            <content:encoded><![CDATA[W0167-04 -- Indaver Ireland Limited: Letter from Applicant - Indaver response to EPA extension request 27.08.24 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Inspector Report - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef176.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef176.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inspector Report - Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady’s Limited: Inspector Report - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Recommended Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef177.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef177.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recommended Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady’s Limited: Recommended Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Director Decision - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef178.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef178.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Director Decision - Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady’s Limited: Director Decision - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment C]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef179.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef179.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment C]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady’s Limited: Technical Amendment C]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment C - Letter to Licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17a.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment C - Letter to Licensee]]></description>
+            <content:encoded><![CDATA[W0169-01 -- Mulleady’s Limited: Technical Amendment C - Letter to Licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Inspector Report - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef169.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef169.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inspector Report - Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0039-02 -- Starrus Eco Holdings Limited: Inspector Report - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Recommended Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef16a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef16a.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recommended Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0039-02 -- Starrus Eco Holdings Limited: Recommended Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Director Decision - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef16b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef16b.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Director Decision - Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0039-02 -- Starrus Eco Holdings Limited: Director Decision - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef16e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef16e.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment A]]></description>
+            <content:encoded><![CDATA[W0039-02 -- Starrus Eco Holdings Limited: Technical Amendment A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment A - Letter to Licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef16f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef16f.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment A - Letter to Licensee]]></description>
+            <content:encoded><![CDATA[W0039-02 -- Starrus Eco Holdings Limited: Technical Amendment A - Letter to Licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Inspector Report - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef170.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef170.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inspector Report - Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: Inspector Report - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Recommended Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef171.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef171.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recommended Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: Recommended Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment F - Letter to Objector]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef172.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef172.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment F - Letter to Objector]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: Technical Amendment F - Letter to Objector]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Director Decision - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef173.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef173.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Director Decision - Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: Director Decision - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment F]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef174.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef174.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment F]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: Technical Amendment F]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment F - Letter to Licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef175.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef175.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment F - Letter to Licensee]]></description>
+            <content:encoded><![CDATA[W0053-03 -- Starrus Eco Holdings Limited: Technical Amendment F - Letter to Licensee]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Inspector Report - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17b.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inspector Report - Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0188-01 -- Starrus Eco Holdings Limited: Inspector Report - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Recommended Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17c.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17c.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recommended Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0188-01 -- Starrus Eco Holdings Limited: Recommended Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Director Decision - Licence Amendment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17d.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Director Decision - Licence Amendment]]></description>
+            <content:encoded><![CDATA[W0188-01 -- Starrus Eco Holdings Limited: Director Decision - Licence Amendment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment B]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17e.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17e.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment B]]></description>
+            <content:encoded><![CDATA[W0188-01 -- Starrus Eco Holdings Limited: Technical Amendment B]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technical Amendment B - Letter to Licensee]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17f.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ef17f.pdf</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Amendment B - Letter to Licensee]]></description>
+            <content:encoded><![CDATA[W0188-01 -- Starrus Eco Holdings Limited: Technical Amendment B - Letter to Licensee]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
