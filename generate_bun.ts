@@ -99,6 +99,7 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
         const items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/" + filename;
         const key = "uploads/" + filename;
 
+        /*
         // Check if file already in S3. If it isn't, upload it
         const s3Query = db.query(`SELECT items3url FROM allsubmissions where items3url=$urlreq;`);
         let s3Rows = s3Query.all({ $urlreq: items3url });
@@ -135,7 +136,7 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
           }
 
         }
-
+*/
         // Check if file already in SQlite. If it isn't add it
         // We have to add this because the geniuses are now including files in the RSS feed with no upload date
         // So we need to use a pseudo-date of the first time we see the file instead of the 2050 trick I used before
