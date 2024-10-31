@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 30 Oct 2024 04:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 04:42:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,30 +16,102 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV29916 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/70fd7a91-68a1-46b7-80ad-3febec9c596e.pdf</link>
-            <guid>https://leap.epa.ie/docs/70fd7a91-68a1-46b7-80ad-3febec9c596e.pdf</guid>
-            <pubDate>Mon, 28 Oct 2024 21:31:47 GMT</pubDate>
-            <description><![CDATA[SV29916 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0018-02 -- Astellas Ireland Company Limited: SV29916 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[001. Response to  LAGOON TESTING.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1376284d-4b3d-4c5d-ac3c-8cde860895d3.pdf</link>
+            <guid>https://leap.epa.ie/docs/1376284d-4b3d-4c5d-ac3c-8cde860895d3.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:11 GMT</pubDate>
+            <description><![CDATA[001. Response to  LAGOON TESTING.pdf]]></description>
+            <content:encoded><![CDATA[P0420-03 -- Future Pigs Limited: 001. Response to  LAGOON TESTING.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P0011-06 RfA for Replacement Boiler 5 Commissioning.pdf]]></title>
-            <link>https://leap.epa.ie/docs/767cbacc-dbb0-4e2a-884c-25991fd715f0.pdf</link>
-            <guid>https://leap.epa.ie/docs/767cbacc-dbb0-4e2a-884c-25991fd715f0.pdf</guid>
-            <pubDate>Mon, 28 Oct 2024 21:31:47 GMT</pubDate>
-            <description><![CDATA[P0011-06 RfA for Replacement Boiler 5 Commissioning.pdf]]></description>
-            <content:encoded><![CDATA[P0011-06 -- MSD International GmbH: P0011-06 RfA for Replacement Boiler 5 Commissioning.pdf]]></content:encoded>
+            <title><![CDATA[EPA Licence Biomass Submission.pdf]]></title>
+            <link>https://leap.epa.ie/docs/44b16650-d488-4086-a780-16dc59dd2bb7.pdf</link>
+            <guid>https://leap.epa.ie/docs/44b16650-d488-4086-a780-16dc59dd2bb7.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:18 GMT</pubDate>
+            <description><![CDATA[EPA Licence Biomass Submission.pdf]]></description>
+            <content:encoded><![CDATA[P0469-01 -- Mr Kevin Kiernan: EPA Licence Biomass Submission.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 14]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ff1b2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ff1b2.pdf</guid>
-            <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 14]]></description>
-            <content:encoded><![CDATA[P0696-03 -- Messrs Jim and Mark Wright T/A JMW Farms: Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 14]]></content:encoded>
+            <title><![CDATA[Drum Scrubber Update (23.09.2024).pdf]]></title>
+            <link>https://leap.epa.ie/docs/872d3dff-330c-459e-9c6e-dde0d3e13bde.pdf</link>
+            <guid>https://leap.epa.ie/docs/872d3dff-330c-459e-9c6e-dde0d3e13bde.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:17 GMT</pubDate>
+            <description><![CDATA[Drum Scrubber Update (23.09.2024).pdf]]></description>
+            <content:encoded><![CDATA[P0236-02 -- Wellman International Limited: Drum Scrubber Update (23.09.2024).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Drum Scrubber Update (23.09.2024).pdf]]></title>
+            <link>https://leap.epa.ie/docs/eefe4b22-829c-4855-a262-bd29e7f309b4.pdf</link>
+            <guid>https://leap.epa.ie/docs/eefe4b22-829c-4855-a262-bd29e7f309b4.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:15 GMT</pubDate>
+            <description><![CDATA[Drum Scrubber Update (23.09.2024).pdf]]></description>
+            <content:encoded><![CDATA[P0236-02 -- Wellman International Limited: Drum Scrubber Update (23.09.2024).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Monitoring locations.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5fe47310-438f-4a46-af7a-3c7670a4226d.pdf</link>
+            <guid>https://leap.epa.ie/docs/5fe47310-438f-4a46-af7a-3c7670a4226d.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:14 GMT</pubDate>
+            <description><![CDATA[Monitoring locations.pdf]]></description>
+            <content:encoded><![CDATA[W0191-02 -- Wexford County Council: Monitoring locations.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AppC GW_2023 Rev.1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/367ebf65-0276-40a2-aa2a-305a7b488667.pdf</link>
+            <guid>https://leap.epa.ie/docs/367ebf65-0276-40a2-aa2a-305a7b488667.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:11 GMT</pubDate>
+            <description><![CDATA[AppC GW_2023 Rev.1.pdf]]></description>
+            <content:encoded><![CDATA[W0191-02 -- Wexford County Council: AppC GW_2023 Rev.1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Holmestown Gas Field Balance Records.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5ca12ceb-7803-4d26-9b69-377fa7a5afb1.pdf</link>
+            <guid>https://leap.epa.ie/docs/5ca12ceb-7803-4d26-9b69-377fa7a5afb1.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:20 GMT</pubDate>
+            <description><![CDATA[Holmestown Gas Field Balance Records.pdf]]></description>
+            <content:encoded><![CDATA[W0191-02 -- Wexford County Council: Holmestown Gas Field Balance Records.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Homestown Survey - Landfill Gas Extraction Layout 1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ab244446-f7fc-44c4-a26b-d98694449a25.pdf</link>
+            <guid>https://leap.epa.ie/docs/ab244446-f7fc-44c4-a26b-d98694449a25.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:22 GMT</pubDate>
+            <description><![CDATA[Homestown Survey - Landfill Gas Extraction Layout 1.pdf]]></description>
+            <content:encoded><![CDATA[W0191-02 -- Wexford County Council: Homestown Survey - Landfill Gas Extraction Layout 1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[HWMF underground gas collection.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ba46b97d-4c39-4f4c-b4ba-1be1ba117021.pdf</link>
+            <guid>https://leap.epa.ie/docs/ba46b97d-4c39-4f4c-b4ba-1be1ba117021.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:26 GMT</pubDate>
+            <description><![CDATA[HWMF underground gas collection.pdf]]></description>
+            <content:encoded><![CDATA[W0191-02 -- Wexford County Council: HWMF underground gas collection.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Homestown Survey Landfill Gas extraction layout 2.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f489dcf8-e589-4d72-8d8a-5e59d1def6eb.pdf</link>
+            <guid>https://leap.epa.ie/docs/f489dcf8-e589-4d72-8d8a-5e59d1def6eb.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 21:31:24 GMT</pubDate>
+            <description><![CDATA[Homestown Survey Landfill Gas extraction layout 2.pdf]]></description>
+            <content:encoded><![CDATA[W0191-02 -- Wexford County Council: Homestown Survey Landfill Gas extraction layout 2.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - 29.10.24 Correction of information]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ff59a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2808ff59a.pdf</guid>
+            <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - 29.10.24 Correction of information]]></description>
+            <content:encoded><![CDATA[P1013-02 -- Enrich Environmental Limited: Unsolicited Additional Information - 29.10.24 Correction of information]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
