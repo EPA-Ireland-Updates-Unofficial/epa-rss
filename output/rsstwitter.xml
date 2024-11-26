@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 25 Nov 2024 04:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 04:40:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,12 +16,12 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[2024-11-23 summary of all updates to EPA licences: ]]></title>
-            <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/2024-11-23.csv</link>
-            <guid>https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/2024-11-23.csv</guid>
-            <pubDate>Mon, 25 Nov 2024 04:39:50 GMT</pubDate>
-            <description><![CDATA[All updates on 2024-11-23]]></description>
-            <content:encoded><![CDATA[EPA warning letters, inspectors reports, 3rd party submissions on licenses etc on 2024-11-23]]></content:encoded>
+            <title><![CDATA[2024-11-24 summary of all updates to EPA licences: ]]></title>
+            <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/2024-11-24.csv</link>
+            <guid>https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/2024-11-24.csv</guid>
+            <pubDate>Tue, 26 Nov 2024 04:40:18 GMT</pubDate>
+            <description><![CDATA[All updates on 2024-11-24]]></description>
+            <content:encoded><![CDATA[EPA warning letters, inspectors reports, 3rd party submissions on licenses etc on 2024-11-24]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
