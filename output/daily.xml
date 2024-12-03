@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 02 Dec 2024 04:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 04:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,167 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SV30152 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8544236f-edec-4956-847f-a3d64973cd06.pdf</link>
+            <guid>https://leap.epa.ie/docs/8544236f-edec-4956-847f-a3d64973cd06.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:29 GMT</pubDate>
+            <description><![CDATA[SV30152 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0420-03 -- Future Pigs Limited: SV30152 - Licensee Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SW1 COD  laboratory  result  18-11-24.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2ef29f75-a8d7-4915-bf81-bca017b1d14c.pdf</link>
+            <guid>https://leap.epa.ie/docs/2ef29f75-a8d7-4915-bf81-bca017b1d14c.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:57 GMT</pubDate>
+            <description><![CDATA[SW1 COD  laboratory  result  18-11-24.pdf]]></description>
+            <content:encoded><![CDATA[P0525-04 -- Garrett Motion Ireland Limited: SW1 COD  laboratory  result  18-11-24.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Snapshot-INCI028805.pdf]]></title>
+            <link>https://leap.epa.ie/docs/700ba656-aae2-4c0c-a3af-0ba5fa467122.pdf</link>
+            <guid>https://leap.epa.ie/docs/700ba656-aae2-4c0c-a3af-0ba5fa467122.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:40 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI028805.pdf]]></description>
+            <content:encoded><![CDATA[P0525-04 -- Garrett Motion Ireland Limited: Snapshot-INCI028805.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[sampling  result 16-10-24.pdf]]></title>
+            <link>https://leap.epa.ie/docs/b3cd181b-43e9-456b-80fc-110f9244a9b2.pdf</link>
+            <guid>https://leap.epa.ie/docs/b3cd181b-43e9-456b-80fc-110f9244a9b2.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:45 GMT</pubDate>
+            <description><![CDATA[sampling  result 16-10-24.pdf]]></description>
+            <content:encoded><![CDATA[P0525-04 -- Garrett Motion Ireland Limited: sampling  result 16-10-24.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SW1 Weekly COD Readings over tolerance.xlsx]]></title>
+            <link>https://leap.epa.ie/docs/cc7719c6-07f6-4e95-8dd9-61bf9a0e7495.pdf</link>
+            <guid>https://leap.epa.ie/docs/cc7719c6-07f6-4e95-8dd9-61bf9a0e7495.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:34 GMT</pubDate>
+            <description><![CDATA[SW1 Weekly COD Readings over tolerance.xlsx]]></description>
+            <content:encoded><![CDATA[P0525-04 -- Garrett Motion Ireland Limited: SW1 Weekly COD Readings over tolerance.xlsx]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SW1 COD  over  tolerance (1).summary.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d539c8af-802e-454f-aba1-07f2c5313dfb.pdf</link>
+            <guid>https://leap.epa.ie/docs/d539c8af-802e-454f-aba1-07f2c5313dfb.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:50 GMT</pubDate>
+            <description><![CDATA[SW1 COD  over  tolerance (1).summary.pdf]]></description>
+            <content:encoded><![CDATA[P0525-04 -- Garrett Motion Ireland Limited: SW1 COD  over  tolerance (1).summary.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Uisce  Eireann  COD  exceedance  letter..pdf]]></title>
+            <link>https://leap.epa.ie/docs/85c8a57d-ef87-4fc7-be62-d93e50297b02.pdf</link>
+            <guid>https://leap.epa.ie/docs/85c8a57d-ef87-4fc7-be62-d93e50297b02.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:52 GMT</pubDate>
+            <description><![CDATA[Uisce  Eireann  COD  exceedance  letter..pdf]]></description>
+            <content:encoded><![CDATA[P0525-04 -- Garrett Motion Ireland Limited: Uisce  Eireann  COD  exceedance  letter..pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IDA  COD  exceedance  letter ..pdf]]></title>
+            <link>https://leap.epa.ie/docs/91100a7a-7398-4861-a8d1-990d7590750f.pdf</link>
+            <guid>https://leap.epa.ie/docs/91100a7a-7398-4861-a8d1-990d7590750f.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:43 GMT</pubDate>
+            <description><![CDATA[IDA  COD  exceedance  letter ..pdf]]></description>
+            <content:encoded><![CDATA[P0525-04 -- Garrett Motion Ireland Limited: IDA  COD  exceedance  letter ..pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SW1 COD  over  tolerance.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9c4b9119-9a37-4dee-9d25-e5c474d081e0.pdf</link>
+            <guid>https://leap.epa.ie/docs/9c4b9119-9a37-4dee-9d25-e5c474d081e0.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:55 GMT</pubDate>
+            <description><![CDATA[SW1 COD  over  tolerance.pdf]]></description>
+            <content:encoded><![CDATA[P0525-04 -- Garrett Motion Ireland Limited: SW1 COD  over  tolerance.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[sampling  resuts  24-10-24.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f4a21133-45cc-41d4-ba7b-ca147b054148.pdf</link>
+            <guid>https://leap.epa.ie/docs/f4a21133-45cc-41d4-ba7b-ca147b054148.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:47 GMT</pubDate>
+            <description><![CDATA[sampling  resuts  24-10-24.pdf]]></description>
+            <content:encoded><![CDATA[P0525-04 -- Garrett Motion Ireland Limited: sampling  resuts  24-10-24.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sewer Survey 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/cd95359d-1b07-40a7-93e3-52653f6c173c.pdf</link>
+            <guid>https://leap.epa.ie/docs/cd95359d-1b07-40a7-93e3-52653f6c173c.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:42 GMT</pubDate>
+            <description><![CDATA[Sewer Survey 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0918-01 -- Hollister ULC: Sewer Survey 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Storm water survey 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f036e83b-02f7-43eb-8cba-0f7c23b90439.pdf</link>
+            <guid>https://leap.epa.ie/docs/f036e83b-02f7-43eb-8cba-0f7c23b90439.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:53 GMT</pubDate>
+            <description><![CDATA[Storm water survey 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0918-01 -- Hollister ULC: Storm water survey 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SV29159 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1e80bd9c-6776-4715-bbf2-58cd74d46a12.pdf</link>
+            <guid>https://leap.epa.ie/docs/1e80bd9c-6776-4715-bbf2-58cd74d46a12.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:46 GMT</pubDate>
+            <description><![CDATA[SV29159 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0398-01 -- Messrs Jack and David Ronan: SV29159 - Licensee Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Request for extension on Bund  Integrity Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3d877b1e-cec0-48eb-8682-fa4cd794f08c.pdf</link>
+            <guid>https://leap.epa.ie/docs/3d877b1e-cec0-48eb-8682-fa4cd794f08c.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:31:29 GMT</pubDate>
+            <description><![CDATA[Request for extension on Bund  Integrity Report.pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: Request for extension on Bund  Integrity Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[60726392_ACM_LT_EN_015_1 VapourPin Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9379de82-3943-4cbf-97fc-bd2e2fe134ac.pdf</link>
+            <guid>https://leap.epa.ie/docs/9379de82-3943-4cbf-97fc-bd2e2fe134ac.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:32:00 GMT</pubDate>
+            <description><![CDATA[60726392_ACM_LT_EN_015_1 VapourPin Report.pdf]]></description>
+            <content:encoded><![CDATA[P0325-02 -- Saint Gobain Building Distribution (ROI) Limited  T/a PDM: 60726392_ACM_LT_EN_015_1 VapourPin Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[ENV401-0 Noise Management Plan.pdf]]></title>
+            <link>https://leap.epa.ie/docs/50c8e714-3de8-48b0-98c0-405e482f2172.pdf</link>
+            <guid>https://leap.epa.ie/docs/50c8e714-3de8-48b0-98c0-405e482f2172.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:32:33 GMT</pubDate>
+            <description><![CDATA[ENV401-0 Noise Management Plan.pdf]]></description>
+            <content:encoded><![CDATA[P0416-04 -- Pelagia Feed (Ireland) Limited: ENV401-0 Noise Management Plan.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Test Programme Emissions Report V1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/14a18ab1-4543-4e5f-a64f-baf64632b3cb.pdf</link>
+            <guid>https://leap.epa.ie/docs/14a18ab1-4543-4e5f-a64f-baf64632b3cb.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:32:46 GMT</pubDate>
+            <description><![CDATA[Test Programme Emissions Report V1.pdf]]></description>
+            <content:encoded><![CDATA[P1093-01 -- Soltec (Ireland) Limited: Test Programme Emissions Report V1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[241101 - E2225 - Firewater Risk Assessment.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d2f81fbc-4a4d-4dc5-8267-a5167a5b2867.pdf</link>
+            <guid>https://leap.epa.ie/docs/d2f81fbc-4a4d-4dc5-8267-a5167a5b2867.pdf</guid>
+            <pubDate>Sun, 01 Dec 2024 21:32:16 GMT</pubDate>
+            <description><![CDATA[241101 - E2225 - Firewater Risk Assessment.pdf]]></description>
+            <content:encoded><![CDATA[P0638-02 -- Zoetis Belgium S.A.: 241101 - E2225 - Firewater Risk Assessment.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
