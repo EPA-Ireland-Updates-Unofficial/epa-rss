@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Thu, 02 Jan 2025 04:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 04:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,858 +16,255 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Q BIO QUALITY JUNE.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d9af7307-fa16-49f9-b63f-fded0f2c7db1.pdf</link>
-            <guid>https://leap.epa.ie/docs/d9af7307-fa16-49f9-b63f-fded0f2c7db1.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 21:31:11 GMT</pubDate>
-            <description><![CDATA[Q BIO QUALITY JUNE.pdf]]></description>
-            <content:encoded><![CDATA[P1129-01 -- Minch Malt Limited: Q BIO QUALITY JUNE.pdf]]></content:encoded>
+            <title><![CDATA[BT  2024  Respirometry.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8776eccd-8351-4a64-b9b2-d1177ad00374.pdf</link>
+            <guid>https://leap.epa.ie/docs/8776eccd-8351-4a64-b9b2-d1177ad00374.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:32:15 GMT</pubDate>
+            <description><![CDATA[BT  2024  Respirometry.pdf]]></description>
+            <content:encoded><![CDATA[P1087-01 -- AbbVie Ireland NL B.V.: BT  2024  Respirometry.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Q quality index sep 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/2de87b02-b45e-48c7-9c20-21b67ab37f46.pdf</link>
-            <guid>https://leap.epa.ie/docs/2de87b02-b45e-48c7-9c20-21b67ab37f46.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 21:31:14 GMT</pubDate>
-            <description><![CDATA[Q quality index sep 2024.pdf]]></description>
-            <content:encoded><![CDATA[P1129-01 -- Minch Malt Limited: Q quality index sep 2024.pdf]]></content:encoded>
+            <title><![CDATA[SV29261 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/31072987-8550-499c-b695-f6b754647f38.pdf</link>
+            <guid>https://leap.epa.ie/docs/31072987-8550-499c-b695-f6b754647f38.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:32:24 GMT</pubDate>
+            <description><![CDATA[SV29261 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P1184-01 -- Amazon Data Services Ireland Limited: SV29261 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant Accepted Application - LACT00018711]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809100ee.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809100ee.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant Accepted Application - LACT00018711]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Notification to Applicant Accepted Application - LACT00018711]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI028996.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a53acd7e-8f04-4013-9ee0-924949caab45.pdf</link>
+            <guid>https://leap.epa.ie/docs/a53acd7e-8f04-4013-9ee0-924949caab45.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:58 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI028996.pdf]]></description>
+            <content:encoded><![CDATA[P0403-03 -- Dairygold Co-Operative Society Limited: Snapshot-INCI028996.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P0065-03 Kingspan Limited]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910130.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910130.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[P0065-03 Kingspan Limited]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: P0065-03 Kingspan Limited]]></content:encoded>
+            <title><![CDATA[Oxigen Waste.pdf]]></title>
+            <link>https://leap.epa.ie/docs/969346eb-7fad-4391-af56-cedb9b0c1013.pdf</link>
+            <guid>https://leap.epa.ie/docs/969346eb-7fad-4391-af56-cedb9b0c1013.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:32:58 GMT</pubDate>
+            <description><![CDATA[Oxigen Waste.pdf]]></description>
+            <content:encoded><![CDATA[P0657-01 -- Drumagoland  Farms Limited: Oxigen Waste.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910131.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910131.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <title><![CDATA[Oldcastle Lab reports.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f7490d3f-fe3b-48ca-9549-9306d5aa1cb6.pdf</link>
+            <guid>https://leap.epa.ie/docs/f7490d3f-fe3b-48ca-9549-9306d5aa1cb6.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:32:54 GMT</pubDate>
+            <description><![CDATA[Oldcastle Lab reports.pdf]]></description>
+            <content:encoded><![CDATA[P0657-01 -- Drumagoland  Farms Limited: Oldcastle Lab reports.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Planning Authority Register - LACT00018714]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910132.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910132.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority Register - LACT00018714]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Notification to Planning Authority Register - LACT00018714]]></content:encoded>
+            <title><![CDATA[Fuel Drain Tank Overflow 02Dec2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/4eb7b9dd-a607-4bed-bd7f-bdb76545a232.pdf</link>
+            <guid>https://leap.epa.ie/docs/4eb7b9dd-a607-4bed-bd7f-bdb76545a232.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:55 GMT</pubDate>
+            <description><![CDATA[Fuel Drain Tank Overflow 02Dec2024.pdf]]></description>
+            <content:encoded><![CDATA[P1198-01 -- Electricity Supply Board: Fuel Drain Tank Overflow 02Dec2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Application Form - LA016052]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910268.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910268.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Application Form - LA016052]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Application Form - LA016052]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI028995.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3801f7aa-ecb2-42fb-928b-c0af9f64fc81.pdf</link>
+            <guid>https://leap.epa.ie/docs/3801f7aa-ecb2-42fb-928b-c0af9f64fc81.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:57 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI028995.pdf]]></description>
+            <content:encoded><![CDATA[P1198-01 -- Electricity Supply Board: Snapshot-INCI028995.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Reason for Review - 1.1 Why Applying for Licence Review 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910269.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910269.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Reason for Review - 1.1 Why Applying for Licence Review 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Reason for Review - 1.1 Why Applying for Licence Review 1]]></content:encoded>
+            <title><![CDATA[SV29516 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/065405a3-26d5-4a03-936a-43785c85f29d.pdf</link>
+            <guid>https://leap.epa.ie/docs/065405a3-26d5-4a03-936a-43785c85f29d.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:32:27 GMT</pubDate>
+            <description><![CDATA[SV29516 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0182-01 -- Glanbia (FP) Limited: SV29516 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Fit and Proper Declaration - 2-5 Financial Commitments Declaration 9]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026a.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Fit and Proper Declaration - 2-5 Financial Commitments Declaration 9]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Fit and Proper Declaration - 2-5 Financial Commitments Declaration 9]]></content:encoded>
+            <title><![CDATA[Glanway - Quarter 4 2024 Dust Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/899616cb-bd2d-4e25-ae75-8119f4fef8d8.pdf</link>
+            <guid>https://leap.epa.ie/docs/899616cb-bd2d-4e25-ae75-8119f4fef8d8.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:32:12 GMT</pubDate>
+            <description><![CDATA[Glanway - Quarter 4 2024 Dust Report.pdf]]></description>
+            <content:encoded><![CDATA[P1015-03 -- Glanway Limited: Glanway - Quarter 4 2024 Dust Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Technical Knowledge - 2.5 Technical knowledge document 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026b.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Technical Knowledge - 2.5 Technical knowledge document 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Technical Knowledge - 2.5 Technical knowledge document 1]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI028990.pdf]]></title>
+            <link>https://leap.epa.ie/docs/b0aa42b5-11a1-4eef-b28f-c733e9af1147.pdf</link>
+            <guid>https://leap.epa.ie/docs/b0aa42b5-11a1-4eef-b28f-c733e9af1147.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:22 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI028990.pdf]]></description>
+            <content:encoded><![CDATA[P0078-01 -- Henkel Ireland Operations and Research  Limited: Snapshot-INCI028990.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Technical Knowledge - Kingspan Insulated Panels Oganisational Chart]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026c.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Technical Knowledge - Kingspan Insulated Panels Oganisational Chart]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Technical Knowledge - Kingspan Insulated Panels Oganisational Chart]]></content:encoded>
+            <title><![CDATA[2024 12 02 Screenshot pH test.png]]></title>
+            <link>https://leap.epa.ie/docs/b0e0ca75-7048-4a4c-83c3-928d305a99b1.pdf</link>
+            <guid>https://leap.epa.ie/docs/b0e0ca75-7048-4a4c-83c3-928d305a99b1.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:33 GMT</pubDate>
+            <description><![CDATA[2024 12 02 Screenshot pH test.png]]></description>
+            <content:encoded><![CDATA[P0078-01 -- Henkel Ireland Operations and Research  Limited: 2024 12 02 Screenshot pH test.png]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Technical Knowledge - Kingspan Light and Air Organisational Chart]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026d.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Technical Knowledge - Kingspan Light and Air Organisational Chart]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Technical Knowledge - Kingspan Light and Air Organisational Chart]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI028989.pdf]]></title>
+            <link>https://leap.epa.ie/docs/38d91db2-65c1-45d0-807e-500c1dc4f608.pdf</link>
+            <guid>https://leap.epa.ie/docs/38d91db2-65c1-45d0-807e-500c1dc4f608.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:16 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI028989.pdf]]></description>
+            <content:encoded><![CDATA[P0079-03 -- Henkel Ireland Operations and Research  Limited: Snapshot-INCI028989.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Technical Knowledge - Kingspan Site Organisational Chart Environmental]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026e.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Technical Knowledge - Kingspan Site Organisational Chart Environmental]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Technical Knowledge - Kingspan Site Organisational Chart Environmental]]></content:encoded>
+            <title><![CDATA[SV28620 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1ee9c346-47da-4ec4-914a-c1ba88217658.pdf</link>
+            <guid>https://leap.epa.ie/docs/1ee9c346-47da-4ec4-914a-c1ba88217658.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:33 GMT</pubDate>
+            <description><![CDATA[SV28620 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0069-02 -- Lufthansa Technik Shannon Ltd: SV28620 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Site Plan - Kingspan Existing Major Air Emissions QED 3a]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091026f.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Site Plan - Kingspan Existing Major Air Emissions QED 3a]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Site Plan - Kingspan Existing Major Air Emissions QED 3a]]></content:encoded>
+            <title><![CDATA[11. Waste Stockpile Update 30th November 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5a646736-0517-4540-9b09-538f8d7ccc84.pdf</link>
+            <guid>https://leap.epa.ie/docs/5a646736-0517-4540-9b09-538f8d7ccc84.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:23 GMT</pubDate>
+            <description><![CDATA[11. Waste Stockpile Update 30th November 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0519-03 -- Saint-Gobain Construction Products (Ireland) Limited: 11. Waste Stockpile Update 30th November 2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Site Plan - Kingspan Noise Measurement Location Map 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910270.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910270.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Site Plan - Kingspan Noise Measurement Location Map 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Site Plan - Kingspan Noise Measurement Location Map 1]]></content:encoded>
+            <title><![CDATA[SV29238 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d21bbabd-0807-4e7d-bbdf-0f060650edf5.pdf</link>
+            <guid>https://leap.epa.ie/docs/d21bbabd-0807-4e7d-bbdf-0f060650edf5.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:32:20 GMT</pubDate>
+            <description><![CDATA[SV29238 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0200-01 -- Sherry Brothers Limited: SV29238 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Site Plan - Kingspan Proposed Major Air Emissions QED 3b]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910271.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910271.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Site Plan - Kingspan Proposed Major Air Emissions QED 3b]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Site Plan - Kingspan Proposed Major Air Emissions QED 3b]]></content:encoded>
+            <title><![CDATA[SV28844 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/447aad5b-c1e1-4c07-8379-79cd1610530d.pdf</link>
+            <guid>https://leap.epa.ie/docs/447aad5b-c1e1-4c07-8379-79cd1610530d.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:52 GMT</pubDate>
+            <description><![CDATA[SV28844 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0983-01 -- Socomore Ireland Limited: SV28844 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Site Plan - Kingspan Site Plan QED 1 Dec 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910272.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910272.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Site Plan - Kingspan Site Plan QED 1 Dec 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Site Plan - Kingspan Site Plan QED 1 Dec 2024]]></content:encoded>
+            <title><![CDATA[82.03-EPA-11-24 Response to SV30509.pdf]]></title>
+            <link>https://leap.epa.ie/docs/71162d51-9da2-47a1-bb9d-af6d863eb769.pdf</link>
+            <guid>https://leap.epa.ie/docs/71162d51-9da2-47a1-bb9d-af6d863eb769.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:33:04 GMT</pubDate>
+            <description><![CDATA[82.03-EPA-11-24 Response to SV30509.pdf]]></description>
+            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: 82.03-EPA-11-24 Response to SV30509.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Site Map - Site Map with boundary in red 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910273.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910273.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Site Map - Site Map with boundary in red 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Site Map - Site Map with boundary in red 1]]></content:encoded>
+            <title><![CDATA[177-EPA-010-24.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f7908d00-909f-450e-9bc8-4f10da9d07f9.pdf</link>
+            <guid>https://leap.epa.ie/docs/f7908d00-909f-450e-9bc8-4f10da9d07f9.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:32:08 GMT</pubDate>
+            <description><![CDATA[177-EPA-010-24.pdf]]></description>
+            <content:encoded><![CDATA[W0177-03 -- Starrus Eco Holdings Limited: 177-EPA-010-24.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Water and Energy Usage - 4.6-1-Water-Energy 40]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910274.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910274.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Water and Energy Usage - 4.6-1-Water-Energy 40]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Water and Energy Usage - 4.6-1-Water-Energy 40]]></content:encoded>
+            <title><![CDATA[Action and Warning Levels for Surface Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9bc73e9f-c013-420f-bd62-a81a65212508.pdf</link>
+            <guid>https://leap.epa.ie/docs/9bc73e9f-c013-420f-bd62-a81a65212508.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:32:20 GMT</pubDate>
+            <description><![CDATA[Action and Warning Levels for Surface Water.pdf]]></description>
+            <content:encoded><![CDATA[P0241-01 -- Sun Chemical Inks Limited: Action and Warning Levels for Surface Water.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Materials Used or Generated - 4.6-2-Raw-Material-Interm-Products 38]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910275.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910275.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Materials Used or Generated - 4.6-2-Raw-Material-Interm-Products 38]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Materials Used or Generated - 4.6-2-Raw-Material-Interm-Products 38]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI028994.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e4f9370f-7f6e-4dc7-b70b-1cd9286de6fb.pdf</link>
+            <guid>https://leap.epa.ie/docs/e4f9370f-7f6e-4dc7-b70b-1cd9286de6fb.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:53 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI028994.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Snapshot-INCI028994.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - BREF Assessment - Kingspan Energy Efficiency BREF 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910276.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910276.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - BREF Assessment - Kingspan Energy Efficiency BREF 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - BREF Assessment - Kingspan Energy Efficiency BREF 1]]></content:encoded>
+            <title><![CDATA[Digestate July 24.pdf]]></title>
+            <link>https://leap.epa.ie/docs/fc55159a-12f8-4584-a186-591f738eb67d.pdf</link>
+            <guid>https://leap.epa.ie/docs/fc55159a-12f8-4584-a186-591f738eb67d.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:51 GMT</pubDate>
+            <description><![CDATA[Digestate July 24.pdf]]></description>
+            <content:encoded><![CDATA[P0986-01 -- Timoleague Agri Gen Limited: Digestate July 24.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - BREF Assessment - Kingspan Polymer BREF 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910277.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910277.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - BREF Assessment - Kingspan Polymer BREF 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - BREF Assessment - Kingspan Polymer BREF 1]]></content:encoded>
+            <title><![CDATA[SV28783 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/282fee07-8b60-466b-badb-8232a319725c.pdf</link>
+            <guid>https://leap.epa.ie/docs/282fee07-8b60-466b-badb-8232a319725c.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:45 GMT</pubDate>
+            <description><![CDATA[SV28783 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0738-03 -- Vermilion Exploration and Production Ireland Limited: SV28783 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - BREF Assessment - Kingspan Storage BREF 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910278.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910278.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - BREF Assessment - Kingspan Storage BREF 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - BREF Assessment - Kingspan Storage BREF 1]]></content:encoded>
+            <title><![CDATA[SV28632 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5c9bc810-e442-4379-825d-59125a05b06b.pdf</link>
+            <guid>https://leap.epa.ie/docs/5c9bc810-e442-4379-825d-59125a05b06b.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:37 GMT</pubDate>
+            <description><![CDATA[SV28632 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0091-03 -- Wexport Limited: SV28632 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Operational Report - A2-1 layout with stack]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910279.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910279.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-1 layout with stack]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-1 layout with stack]]></content:encoded>
+            <title><![CDATA[241211 - E2217- Bund Visual Inspections - Rev01.pdf]]></title>
+            <link>https://leap.epa.ie/docs/493ee913-089e-45c8-bcfa-58ed0b4b538f.pdf</link>
+            <guid>https://leap.epa.ie/docs/493ee913-089e-45c8-bcfa-58ed0b4b538f.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:19 GMT</pubDate>
+            <description><![CDATA[241211 - E2217- Bund Visual Inspections - Rev01.pdf]]></description>
+            <content:encoded><![CDATA[P1069-01 -- William Connolly &amp; Sons Unlimited Company: 241211 - E2217- Bund Visual Inspections - Rev01.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Operational Report - A2-1 Pentane Recovery ULIX Offer 003.22 Rev6 (1)]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027a.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027a.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-1 Pentane Recovery ULIX Offer 003.22 Rev6 (1)]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-1 Pentane Recovery ULIX Offer 003.22 Rev6 (1)]]></content:encoded>
+            <title><![CDATA[241205 - E2217 - Bund Register December 2024.xlsx]]></title>
+            <link>https://leap.epa.ie/docs/65d791c4-dacc-4723-a011-6e1023327779.pdf</link>
+            <guid>https://leap.epa.ie/docs/65d791c4-dacc-4723-a011-6e1023327779.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:10 GMT</pubDate>
+            <description><![CDATA[241205 - E2217 - Bund Register December 2024.xlsx]]></description>
+            <content:encoded><![CDATA[P1069-01 -- William Connolly &amp; Sons Unlimited Company: 241205 - E2217 - Bund Register December 2024.xlsx]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Operational Report - A2-1 Pentane-recovery-unit]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027b.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-1 Pentane-recovery-unit]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-1 Pentane-recovery-unit]]></content:encoded>
+            <title><![CDATA[C000_pp - Bund Location Plan Rev02.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9bf76201-21bb-4f1c-af09-4fd4239a2f7a.pdf</link>
+            <guid>https://leap.epa.ie/docs/9bf76201-21bb-4f1c-af09-4fd4239a2f7a.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:25 GMT</pubDate>
+            <description><![CDATA[C000_pp - Bund Location Plan Rev02.pdf]]></description>
+            <content:encoded><![CDATA[P1069-01 -- William Connolly &amp; Sons Unlimited Company: C000_pp - Bund Location Plan Rev02.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Operational Report - A2-10 COE Modesta Dust Ext Manual]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027c.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-10 COE Modesta Dust Ext Manual]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-10 COE Modesta Dust Ext Manual]]></content:encoded>
+            <title><![CDATA[SV28591 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8d38dcdd-fda1-4f0f-a39d-e2b9ed28c438.pdf</link>
+            <guid>https://leap.epa.ie/docs/8d38dcdd-fda1-4f0f-a39d-e2b9ed28c438.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 21:31:13 GMT</pubDate>
+            <description><![CDATA[SV28591 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0015-05 -- ZOETIS BELGIUM S.A: SV28591 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Application Form - Operational Report - A2-11 SIBILIA GENERALE 2022 Vacuum Cyclone at COE]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027d.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-11 SIBILIA GENERALE 2022 Vacuum Cyclone at COE]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-11 SIBILIA GENERALE 2022 Vacuum Cyclone at COE]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Operational Report - A2-12 PCP Rake Burner]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027e.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027e.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-12 PCP Rake Burner]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-12 PCP Rake Burner]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Operational Report - A2-13 CTM Small oven manual in COE]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027f.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091027f.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-13 CTM Small oven manual in COE]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-13 CTM Small oven manual in COE]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Operational Report - A2-2 COE Activated Carbon Abatement Diagram]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910280.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910280.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-2 COE Activated Carbon Abatement Diagram]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-2 COE Activated Carbon Abatement Diagram]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Operational Report - A2-2 COE Activated Carbon Abatement Manual]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910281.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910281.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-2 COE Activated Carbon Abatement Manual]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-2 COE Activated Carbon Abatement Manual]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Operational Report - A2-8 Nederman Sample Room Dust Ext]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910282.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910282.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-8 Nederman Sample Room Dust Ext]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-8 Nederman Sample Room Dust Ext]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Operational Report - A2-9 COE Coral Dust extractor for Line 4]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910283.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910283.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-9 COE Coral Dust extractor for Line 4]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-9 COE Coral Dust extractor for Line 4]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Operational Report - Kingspan Operational Report Dec 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910284.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910284.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - Kingspan Operational Report Dec 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - Kingspan Operational Report Dec 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Baseline Screening - Kingspan Baseline Report March 2021 5]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910285.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910285.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Baseline Screening - Kingspan Baseline Report March 2021 5]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Baseline Screening - Kingspan Baseline Report March 2021 5]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Site Plan - Kingspan Drainage Plan QED 2 Dec 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a5.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Site Plan - Kingspan Drainage Plan QED 2 Dec 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Site Plan - Kingspan Drainage Plan QED 2 Dec 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Site Plan - Kingspan Minor Air Emissions QED 3c]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a6.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Site Plan - Kingspan Minor Air Emissions QED 3c]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Site Plan - Kingspan Minor Air Emissions QED 3c]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Operational Report - A2-3 Compounding line Scrubber Drawing]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a7.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-3 Compounding line Scrubber Drawing]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-3 Compounding line Scrubber Drawing]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Operational Report - A2-3 Compounding line Scrubber Manual]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a8.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Operational Report - A2-3 Compounding line Scrubber Manual]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Operational Report - A2-3 Compounding line Scrubber Manual]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Baseline Report - Kingspan Baseline Report March 2021 2]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102a9.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Baseline Report - Kingspan Baseline Report March 2021 2]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Baseline Report - Kingspan Baseline Report March 2021 2]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Site Condition Report - Kingspan Baseline Report March 2021 4]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102aa.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102aa.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Site Condition Report - Kingspan Baseline Report March 2021 4]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Site Condition Report - Kingspan Baseline Report March 2021 4]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Signature and Company Stamp - 10.1 Signature Stamp 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ab.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ab.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Signature and Company Stamp - 10.1 Signature Stamp 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Signature and Company Stamp - 10.1 Signature Stamp 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Financial Application Section - 5-1-Financial 38]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ac.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ac.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Financial Application Section - 5-1-Financial 38]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Financial Application Section - 5-1-Financial 38]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Fee Payment Evidence - Evidence of Fee Payment 4]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ad.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ad.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Fee Payment Evidence - Evidence of Fee Payment 4]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Fee Payment Evidence - Evidence of Fee Payment 4]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Stakeholder Engagement Section - 6-1-Stakeholder-Engagement 38]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ae.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ae.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Stakeholder Engagement Section - 6-1-Stakeholder-Engagement 38]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Stakeholder Engagement Section - 6-1-Stakeholder-Engagement 38]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - AA Screening - Kingspan Stage 1 Appropriate Assessment 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102af.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102af.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - AA Screening - Kingspan Stage 1 Appropriate Assessment 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - AA Screening - Kingspan Stage 1 Appropriate Assessment 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Planning Decision - 061979 Planning Decision]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b0.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Planning Decision - 061979 Planning Decision]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Planning Decision - 061979 Planning Decision]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Planning Decision - 14271 Planning Decision]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b1.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Planning Decision - 14271 Planning Decision]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Planning Decision - 14271 Planning Decision]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Planning Decision - 19362 Planning Decision]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b2.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Planning Decision - 19362 Planning Decision]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Planning Decision - 19362 Planning Decision]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Planning Decision - 20517 Planning Decision]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b3.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Planning Decision - 20517 Planning Decision]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Planning Decision - 20517 Planning Decision]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Planning Decision - 2460375 Planning Decision]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b4.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Planning Decision - 2460375 Planning Decision]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Planning Decision - 2460375 Planning Decision]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Planning Decision - Kingspan Kingscourt Summary of Planning Dec 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b5.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Planning Decision - Kingspan Kingscourt Summary of Planning Dec 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Planning Decision - Kingspan Kingscourt Summary of Planning Dec 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Planning Decision - Letter from Cavan Co Co re Planning Exemption]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b6.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Planning Decision - Letter from Cavan Co Co re Planning Exemption]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Planning Decision - Letter from Cavan Co Co re Planning Exemption]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - EIA Confirmation - Planning - Email from Cavan County Council Re EIAR]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b7.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - EIA Confirmation - Planning - Email from Cavan County Council Re EIAR]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - EIA Confirmation - Planning - Email from Cavan County Council Re EIAR]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - EIS - Planning - Appendix 2 Kingspan EIAR Appropriate Assessment 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b8.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - EIS - Planning - Appendix 2 Kingspan EIAR Appropriate Assessment 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - EIS - Planning - Appendix 2 Kingspan EIAR Appropriate Assessment 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - EIS - Planning - Appendix 3 Kingspan EIAR Baseline Report March 2021 3]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102b9.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - EIS - Planning - Appendix 3 Kingspan EIAR Baseline Report March 2021 3]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - EIS - Planning - Appendix 3 Kingspan EIAR Baseline Report March 2021 3]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - EIS - Planning - Appendix 4 Kingspan Air Dispersion Modelling Dec 24]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ba.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ba.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - EIS - Planning - Appendix 4 Kingspan Air Dispersion Modelling Dec 24]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - EIS - Planning - Appendix 4 Kingspan Air Dispersion Modelling Dec 24]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - EIS - Planning - Kingspan Kingscourt EIAR Report 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102bb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102bb.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - EIS - Planning - Kingspan Kingscourt EIAR Report 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - EIS - Planning - Kingspan Kingscourt EIAR Report 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Evidence of Notices - Kingspan Letter to Cavan Co. Co]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102bc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102bc.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Evidence of Notices - Kingspan Letter to Cavan Co. Co]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Evidence of Notices - Kingspan Letter to Cavan Co. Co]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Evidence of Notices - Kingspan Newspaper Notice 12 Dec 2024 Redacted]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102bd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102bd.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Evidence of Notices - Kingspan Newspaper Notice 12 Dec 2024 Redacted]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Evidence of Notices - Kingspan Newspaper Notice 12 Dec 2024 Redacted]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Evidence of Notices - Kingspan Site Notice Dec 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102be.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102be.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Evidence of Notices - Kingspan Site Notice Dec 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Evidence of Notices - Kingspan Site Notice Dec 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Evidence of Notices - Kingspan Site Plan QED 1 Dec 2024 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102bf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102bf.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Evidence of Notices - Kingspan Site Plan QED 1 Dec 2024 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Evidence of Notices - Kingspan Site Plan QED 1 Dec 2024 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Overview Section - 7.1- Emissions-Overview]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102c0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102c0.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Overview Section - 7.1- Emissions-Overview]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Overview Section - 7.1- Emissions-Overview]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Compliance Report - Air Emissions Compliance Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102c1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102c1.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Compliance Report - Air Emissions Compliance Report]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Compliance Report - Air Emissions Compliance Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Compliance Report - Kingspan Baseline Report March 2021 3]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102c2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102c2.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Compliance Report - Kingspan Baseline Report March 2021 3]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Compliance Report - Kingspan Baseline Report March 2021 3]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Compliance Report - Kingspan Noise Management Plan 2025]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ea.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ea.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Compliance Report - Kingspan Noise Management Plan 2025]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Compliance Report - Kingspan Noise Management Plan 2025]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Receiving Environment Report - Kingspan Air Dispersion Modelling Report Dec 24]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102eb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102eb.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Receiving Environment Report - Kingspan Air Dispersion Modelling Report Dec 24]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Receiving Environment Report - Kingspan Air Dispersion Modelling Report Dec 24]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-10 Modesta Dust Extractor Air Report April 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ec.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ec.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-10 Modesta Dust Extractor Air Report April 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-10 Modesta Dust Extractor Air Report April 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-12 Rake Burner Emissions EPA Report July 2021]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ed.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ed.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-12 Rake Burner Emissions EPA Report July 2021]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-12 Rake Burner Emissions EPA Report July 2021]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-13 CTM Oven Air Report April 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ee.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ee.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-13 CTM Oven Air Report April 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-13 CTM Oven Air Report April 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-14 Glue Vent Site Report April 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ef.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ef.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-14 Glue Vent Site Report April 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-14 Glue Vent Site Report April 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-15 Glue Vent Site Report April 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f0.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-15 Glue Vent Site Report April 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-15 Glue Vent Site Report April 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-2 COE Scrubber Report Nov 2023]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f1.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-2 COE Scrubber Report Nov 2023]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-2 COE Scrubber Report Nov 2023]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-4 (Primer) Dec 2020]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f2.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-4 (Primer) Dec 2020]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-4 (Primer) Dec 2020]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-5 PA1 Room Air Report Dec 2020]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f3.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f3.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-5 PA1 Room Air Report Dec 2020]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-5 PA1 Room Air Report Dec 2020]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-6 (Stack D) Air Report Nov 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f4.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f4.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-6 (Stack D) Air Report Nov 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-6 (Stack D) Air Report Nov 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-7 (Dust Cyclone) Air Report Dec 2020]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f5.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f5.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-7 (Dust Cyclone) Air Report Dec 2020]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-7 (Dust Cyclone) Air Report Dec 2020]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-8 Sample Area Air Report Feb 2014]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f6.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f6.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-8 Sample Area Air Report Feb 2014]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-8 Sample Area Air Report Feb 2014]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - A2-9 Coral Dust Extractor Site Report]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f7.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f7.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - A2-9 Coral Dust Extractor Site Report]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - A2-9 Coral Dust Extractor Site Report]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions Impact Assessment - Kingspan Ltd Noise Report 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f8.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f8.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions Impact Assessment - Kingspan Ltd Noise Report 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions Impact Assessment - Kingspan Ltd Noise Report 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions - Air Section - 7-4-1-Emissions-to-Air-Main Dec 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f9.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102f9.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions - Air Section - 7-4-1-Emissions-to-Air-Main Dec 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions - Air Section - 7-4-1-Emissions-to-Air-Main Dec 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Minor - Potenial Emissions - 7.4-2-Air-Minor-Potential Dec 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fa.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fa.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Minor - Potenial Emissions - 7.4-2-Air-Minor-Potential Dec 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Minor - Potenial Emissions - 7.4-2-Air-Minor-Potential Dec 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Emissions - Noise Section - 7.5-Noise 21]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fb.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fb.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Emissions - Noise Section - 7.5-Noise 21]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Emissions - Noise Section - 7.5-Noise 21]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Strorm Water Section - 7.7-1-Storm-Water 28]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fc.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fc.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Strorm Water Section - 7.7-1-Storm-Water 28]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Strorm Water Section - 7.7-1-Storm-Water 28]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Storm Water Monitoring - Kingspan Baseline Report March 2021 6]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fd.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fd.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Storm Water Monitoring - Kingspan Baseline Report March 2021 6]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Storm Water Monitoring - Kingspan Baseline Report March 2021 6]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Waste Generated Section - 8-1-Waste 47]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fe.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102fe.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Waste Generated Section - 8-1-Waste 47]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Waste Generated Section - 8-1-Waste 47]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Waste Hierarchy - Kingspan Group Plc Environmental Policy 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ff.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809102ff.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Waste Hierarchy - Kingspan Group Plc Environmental Policy 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Waste Hierarchy - Kingspan Group Plc Environmental Policy 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - EMT Section - 9-1-EMT 40]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910300.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910300.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - EMT Section - 9-1-EMT 40]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - EMT Section - 9-1-EMT 40]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - EMT Section - Kingspan Response Emergency Plan 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910301.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910301.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - EMT Section - Kingspan Response Emergency Plan 1]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - EMT Section - Kingspan Response Emergency Plan 1]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - Certificate of Incorporation - Kingspan Ltd Certificate of Incorporation]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910302.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910302.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - Certificate of Incorporation - Kingspan Ltd Certificate of Incorporation]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - Certificate of Incorporation - Kingspan Ltd Certificate of Incorporation]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Application Form - 0388 - Kingspan Non Technical Summary Dec 2024]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910303.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910303.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Application Form - 0388 - Kingspan Non Technical Summary Dec 2024]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: Application Form - 0388 - Kingspan Non Technical Summary Dec 2024]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[BATC - BAT Answer - CWW-1-ISO 14001 Kingspan Limited (Kingscourt) Certificate]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910304.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910304.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[BATC - BAT Answer - CWW-1-ISO 14001 Kingspan Limited (Kingscourt) Certificate]]></description>
-            <content:encoded><![CDATA[P0065-03 -- Kingspan Limited: BATC - BAT Answer - CWW-1-ISO 14001 Kingspan Limited (Kingscourt) Certificate]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910133.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910133.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></description>
-            <content:encoded><![CDATA[P1219-01 -- Tara Pig Farms Limited: Letter to Third Party - EIS EIAR - Enter Consultations with PA A]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Notification to Planning Bodies Request for Information Observat]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910134.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280910134.pdf</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Bodies Request for Information Observat]]></description>
-            <content:encoded><![CDATA[P1219-01 -- Tara Pig Farms Limited: Notification to Planning Bodies Request for Information Observat]]></content:encoded>
+            <title><![CDATA[Reminder Email (RFI Overdue)  - Reg 10(2)(b)(ii) notice 74]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809104c3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809104c3.pdf</guid>
+            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reminder Email (RFI Overdue)  - Reg 10(2)(b)(ii) notice 74]]></description>
+            <content:encoded><![CDATA[P1215-01 -- Nephin Renewable Gas - Ballinrobe Limited: Reminder Email (RFI Overdue)  - Reg 10(2)(b)(ii) notice 74]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
