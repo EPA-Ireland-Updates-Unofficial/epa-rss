@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sat, 25 Jan 2025 04:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 04:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,140 +15,5 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[SV30714 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/659dd3e2-60a5-405d-b79c-f48c3c366f1a.pdf</link>
-            <guid>https://leap.epa.ie/docs/659dd3e2-60a5-405d-b79c-f48c3c366f1a.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:31:32 GMT</pubDate>
-            <description><![CDATA[SV30714 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: SV30714 - Licensee Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Technical manual VG07649 SKV150.pdf]]></title>
-            <link>https://leap.epa.ie/docs/47ed2247-3986-45bf-9d27-9d304f84bb5a.pdf</link>
-            <guid>https://leap.epa.ie/docs/47ed2247-3986-45bf-9d27-9d304f84bb5a.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:33:18 GMT</pubDate>
-            <description><![CDATA[Technical manual VG07649 SKV150.pdf]]></description>
-            <content:encoded><![CDATA[P0037-04 -- College Proteins Unlimited Company: Technical manual VG07649 SKV150.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SAACKE SCanView Burner.pdf]]></title>
-            <link>https://leap.epa.ie/docs/1a278d31-6191-436f-a8e2-8aa79718f7d4.pdf</link>
-            <guid>https://leap.epa.ie/docs/1a278d31-6191-436f-a8e2-8aa79718f7d4.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:32:40 GMT</pubDate>
-            <description><![CDATA[SAACKE SCanView Burner.pdf]]></description>
-            <content:encoded><![CDATA[P0037-04 -- College Proteins Unlimited Company: SAACKE SCanView Burner.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Babcock Wanson installation.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8056bdae-f095-4bc7-826c-21b1eeb55c16.pdf</link>
-            <guid>https://leap.epa.ie/docs/8056bdae-f095-4bc7-826c-21b1eeb55c16.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:32:21 GMT</pubDate>
-            <description><![CDATA[Babcock Wanson installation.pdf]]></description>
-            <content:encoded><![CDATA[P0037-04 -- College Proteins Unlimited Company: Babcock Wanson installation.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter re SV30587.pdf]]></title>
-            <link>https://leap.epa.ie/docs/ee0c4cd4-9484-4ae7-9854-9f244889f8c1.pdf</link>
-            <guid>https://leap.epa.ie/docs/ee0c4cd4-9484-4ae7-9854-9f244889f8c1.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:32:24 GMT</pubDate>
-            <description><![CDATA[Letter re SV30587.pdf]]></description>
-            <content:encoded><![CDATA[P0037-04 -- College Proteins Unlimited Company: Letter re SV30587.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[1 Appendix I Lab Reports Ref. SV29438.pdf]]></title>
-            <link>https://leap.epa.ie/docs/6d2abb54-95cf-41f6-8f7e-de407ea01cd5.pdf</link>
-            <guid>https://leap.epa.ie/docs/6d2abb54-95cf-41f6-8f7e-de407ea01cd5.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:31:32 GMT</pubDate>
-            <description><![CDATA[1 Appendix I Lab Reports Ref. SV29438.pdf]]></description>
-            <content:encoded><![CDATA[P0041-03 -- Dublin Products Limited: 1 Appendix I Lab Reports Ref. SV29438.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Licensee_public_response_SV29438.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5cf61f7b-c3da-43c0-9c39-e1340efbbe85.pdf</link>
-            <guid>https://leap.epa.ie/docs/5cf61f7b-c3da-43c0-9c39-e1340efbbe85.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:32:15 GMT</pubDate>
-            <description><![CDATA[Licensee_public_response_SV29438.pdf]]></description>
-            <content:encoded><![CDATA[P0041-03 -- Dublin Products Limited: Licensee_public_response_SV29438.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[3 Appendix III Building Integrity Assessment 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8359268a-f1bd-4804-81f8-22bdd20caec4.pdf</link>
-            <guid>https://leap.epa.ie/docs/8359268a-f1bd-4804-81f8-22bdd20caec4.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:31:38 GMT</pubDate>
-            <description><![CDATA[3 Appendix III Building Integrity Assessment 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0041-03 -- Dublin Products Limited: 3 Appendix III Building Integrity Assessment 2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[5 Appendix V NESA Sump Report Oct2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8e3f6576-c6ff-44fc-8b7a-84fa127f180b.pdf</link>
-            <guid>https://leap.epa.ie/docs/8e3f6576-c6ff-44fc-8b7a-84fa127f180b.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:32:05 GMT</pubDate>
-            <description><![CDATA[5 Appendix V NESA Sump Report Oct2024.pdf]]></description>
-            <content:encoded><![CDATA[P0041-03 -- Dublin Products Limited: 5 Appendix V NESA Sump Report Oct2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[4 Appendix IV Water Balance Ref. SV29438.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a1ecf18f-3560-49e8-9cb9-9699437de59b.pdf</link>
-            <guid>https://leap.epa.ie/docs/a1ecf18f-3560-49e8-9cb9-9699437de59b.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:31:40 GMT</pubDate>
-            <description><![CDATA[4 Appendix IV Water Balance Ref. SV29438.pdf]]></description>
-            <content:encoded><![CDATA[P0041-03 -- Dublin Products Limited: 4 Appendix IV Water Balance Ref. SV29438.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[6 Appendix VI Site Investigation 08102024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/afd429f8-7c0f-4e45-8c67-5567a4b60f82.pdf</link>
-            <guid>https://leap.epa.ie/docs/afd429f8-7c0f-4e45-8c67-5567a4b60f82.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:32:11 GMT</pubDate>
-            <description><![CDATA[6 Appendix VI Site Investigation 08102024.pdf]]></description>
-            <content:encoded><![CDATA[P0041-03 -- Dublin Products Limited: 6 Appendix VI Site Investigation 08102024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[2 AppendixII TMS Report Dec2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fd0bb4fe-ef9a-4228-adab-d9b96f078ce4.pdf</link>
-            <guid>https://leap.epa.ie/docs/fd0bb4fe-ef9a-4228-adab-d9b96f078ce4.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:31:36 GMT</pubDate>
-            <description><![CDATA[2 AppendixII TMS Report Dec2024.pdf]]></description>
-            <content:encoded><![CDATA[P0041-03 -- Dublin Products Limited: 2 AppendixII TMS Report Dec2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Eras Emmissions Response 241224.pdf]]></title>
-            <link>https://leap.epa.ie/docs/28d4fc4b-7398-498a-a344-9657643afe43.pdf</link>
-            <guid>https://leap.epa.ie/docs/28d4fc4b-7398-498a-a344-9657643afe43.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 21:31:34 GMT</pubDate>
-            <description><![CDATA[Eras Emmissions Response 241224.pdf]]></description>
-            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: Eras Emmissions Response 241224.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 96]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091650c.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091650c.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 96]]></description>
-            <content:encoded><![CDATA[P1204-01 -- Edgeconnex Ireland Limited: Reminder Email (RFI Overdue)  - Reg 14(2) Notice 96]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 97]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091650d.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091650d.pdf</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reminder Email (RFI Overdue)  - Reg 14(2) Notice 97]]></description>
-            <content:encoded><![CDATA[W0183-03 -- Starrus Eco Holdings Limited: Reminder Email (RFI Overdue)  - Reg 14(2) Notice 97]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
     </channel>
 </rss>
