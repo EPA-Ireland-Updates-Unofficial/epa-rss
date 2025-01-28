@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 27 Jan 2025 04:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 04:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,1310 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SV30797 - Licensee Public Response.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7b5a8475-c198-4b56-ac99-8de27b3bca9d.pdf</link>
+            <guid>https://leap.epa.ie/docs/7b5a8475-c198-4b56-ac99-8de27b3bca9d.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:20:15 GMT</pubDate>
+            <description><![CDATA[SV30797 - Licensee Public Response.pdf]]></description>
+            <content:encoded><![CDATA[W0165-02 -- Ballynagran Landfill Limited: SV30797 - Licensee Public Response.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Chemifloc Q1-Q2 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a7ea6712-d9a2-4096-9884-4f5180dd0924.pdf</link>
+            <guid>https://leap.epa.ie/docs/a7ea6712-d9a2-4096-9884-4f5180dd0924.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:17:56 GMT</pubDate>
+            <description><![CDATA[Chemifloc Q1-Q2 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0076-01 -- Chemifloc Limited: Chemifloc Q1-Q2 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SW1, SW2, SW3 August 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/dc67222f-3d3e-40ba-96e7-39b9a4a4e4e5.pdf</link>
+            <guid>https://leap.epa.ie/docs/dc67222f-3d3e-40ba-96e7-39b9a4a4e4e5.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:17:41 GMT</pubDate>
+            <description><![CDATA[SW1, SW2, SW3 August 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0076-01 -- Chemifloc Limited: SW1, SW2, SW3 August 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514200 (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/009bfa95-f194-478e-a31c-3f691e20bef2.pdf</link>
+            <guid>https://leap.epa.ie/docs/009bfa95-f194-478e-a31c-3f691e20bef2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:22 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514200 (2).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514200 (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[24-38161_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/00b6526d-4f40-4258-934c-b6cb90d36f2c.pdf</link>
+            <guid>https://leap.epa.ie/docs/00b6526d-4f40-4258-934c-b6cb90d36f2c.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:27:59 GMT</pubDate>
+            <description><![CDATA[24-38161_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 24-38161_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IMG_20240529_163425_492 (1).jpg]]></title>
+            <link>https://leap.epa.ie/docs/0a043202-2201-4cac-89e4-bfa742f98427.pdf</link>
+            <guid>https://leap.epa.ie/docs/0a043202-2201-4cac-89e4-bfa742f98427.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:35:34 GMT</pubDate>
+            <description><![CDATA[IMG_20240529_163425_492 (1).jpg]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: IMG_20240529_163425_492 (1).jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bays and Steel.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0b8e9857-36fb-4918-893a-f4bb27067b89.pdf</link>
+            <guid>https://leap.epa.ie/docs/0b8e9857-36fb-4918-893a-f4bb27067b89.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:25 GMT</pubDate>
+            <description><![CDATA[Bays and Steel.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Bays and Steel.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514230 (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/0b9c6766-1b48-4c77-b5ea-a955d4849cb4.pdf</link>
+            <guid>https://leap.epa.ie/docs/0b9c6766-1b48-4c77-b5ea-a955d4849cb4.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:05 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514230 (2).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514230 (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514230.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0b9d89e4-23e2-43c8-949e-fcd25f14434d.pdf</link>
+            <guid>https://leap.epa.ie/docs/0b9d89e4-23e2-43c8-949e-fcd25f14434d.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:22 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514230.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514230.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514221 (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/0ba20b00-cc31-4825-b286-fd3d210c7ca1.pdf</link>
+            <guid>https://leap.epa.ie/docs/0ba20b00-cc31-4825-b286-fd3d210c7ca1.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:27 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514221 (2).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514221 (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[May 2024 Training.pdf]]></title>
+            <link>https://leap.epa.ie/docs/10275280-e69b-43b7-a169-84f3cf32f738.pdf</link>
+            <guid>https://leap.epa.ie/docs/10275280-e69b-43b7-a169-84f3cf32f738.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:35:58 GMT</pubDate>
+            <description><![CDATA[May 2024 Training.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: May 2024 Training.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514230 (4).pdf]]></title>
+            <link>https://leap.epa.ie/docs/13d994e1-08b2-45fd-834f-455af70aa695.pdf</link>
+            <guid>https://leap.epa.ie/docs/13d994e1-08b2-45fd-834f-455af70aa695.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:14 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514230 (4).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514230 (4).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Off Std.pdf]]></title>
+            <link>https://leap.epa.ie/docs/17f9d765-6558-4828-af51-89df4d3197cc.pdf</link>
+            <guid>https://leap.epa.ie/docs/17f9d765-6558-4828-af51-89df4d3197cc.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:50 GMT</pubDate>
+            <description><![CDATA[Off Std.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Off Std.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-29770_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/180f347d-bb87-44d6-9433-9496cacd6a0d.pdf</link>
+            <guid>https://leap.epa.ie/docs/180f347d-bb87-44d6-9433-9496cacd6a0d.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:19:38 GMT</pubDate>
+            <description><![CDATA[23-29770_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-29770_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-30512_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/19938641-f6fd-4f77-ac4a-f5d8364b1953.pdf</link>
+            <guid>https://leap.epa.ie/docs/19938641-f6fd-4f77-ac4a-f5d8364b1953.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:20:58 GMT</pubDate>
+            <description><![CDATA[23-30512_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-30512_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514190 (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/1d01bade-7795-441d-9739-315623ed6ac2.pdf</link>
+            <guid>https://leap.epa.ie/docs/1d01bade-7795-441d-9739-315623ed6ac2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:13 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514190 (2).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514190 (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514190.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0e989468-74d0-4d35-8bc3-358f54d2b455.pdf</link>
+            <guid>https://leap.epa.ie/docs/0e989468-74d0-4d35-8bc3-358f54d2b455.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:16 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514190.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514190.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[HP and Scotia.pdf]]></title>
+            <link>https://leap.epa.ie/docs/12df89ce-28e8-429d-b53f-13868e67da76.pdf</link>
+            <guid>https://leap.epa.ie/docs/12df89ce-28e8-429d-b53f-13868e67da76.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:45 GMT</pubDate>
+            <description><![CDATA[HP and Scotia.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: HP and Scotia.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PVC Panels.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1e2875e0-a9bd-44db-833f-ef2f5db151d6.pdf</link>
+            <guid>https://leap.epa.ie/docs/1e2875e0-a9bd-44db-833f-ef2f5db151d6.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:19 GMT</pubDate>
+            <description><![CDATA[PVC Panels.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: PVC Panels.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[24-38698_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2180bbca-508f-49b8-87f9-c07a60fd8637.pdf</link>
+            <guid>https://leap.epa.ie/docs/2180bbca-508f-49b8-87f9-c07a60fd8637.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:28:26 GMT</pubDate>
+            <description><![CDATA[24-38698_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 24-38698_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Tilt and Turn Windows.pdf]]></title>
+            <link>https://leap.epa.ie/docs/24b9a956-8aaf-4984-b0dc-483d332d3f97.pdf</link>
+            <guid>https://leap.epa.ie/docs/24b9a956-8aaf-4984-b0dc-483d332d3f97.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:42 GMT</pubDate>
+            <description><![CDATA[Tilt and Turn Windows.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Tilt and Turn Windows.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-28885_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/2883d165-2726-4e0a-ad29-ef82a1547614.pdf</link>
+            <guid>https://leap.epa.ie/docs/2883d165-2726-4e0a-ad29-ef82a1547614.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:18:19 GMT</pubDate>
+            <description><![CDATA[23-28885_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-28885_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-28628_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/290ee5c5-ea52-4c2f-bbe9-d981797f91bf.pdf</link>
+            <guid>https://leap.epa.ie/docs/290ee5c5-ea52-4c2f-bbe9-d981797f91bf.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:17:59 GMT</pubDate>
+            <description><![CDATA[23-28628_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-28628_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-31648_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/29b43702-a756-41e4-824a-0a885a9b06e2.pdf</link>
+            <guid>https://leap.epa.ie/docs/29b43702-a756-41e4-824a-0a885a9b06e2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:22:26 GMT</pubDate>
+            <description><![CDATA[23-31648_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-31648_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Passive 2.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2a5045c8-990a-4f89-b9d3-a9d203b9299f.pdf</link>
+            <guid>https://leap.epa.ie/docs/2a5045c8-990a-4f89-b9d3-a9d203b9299f.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:04 GMT</pubDate>
+            <description><![CDATA[Passive 2.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Passive 2.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-30513_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/3118a63f-573e-4794-b002-cec0e403e512.pdf</link>
+            <guid>https://leap.epa.ie/docs/3118a63f-573e-4794-b002-cec0e403e512.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:21:07 GMT</pubDate>
+            <description><![CDATA[23-30513_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-30513_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-29565_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/321ea61c-7bfa-4f5f-93b4-986294d80692.pdf</link>
+            <guid>https://leap.epa.ie/docs/321ea61c-7bfa-4f5f-93b4-986294d80692.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:19:00 GMT</pubDate>
+            <description><![CDATA[23-29565_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-29565_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PVC Doors -HP and Scotia.pdf]]></title>
+            <link>https://leap.epa.ie/docs/32b29302-3cad-454a-b6c5-f68cd1746afd.pdf</link>
+            <guid>https://leap.epa.ie/docs/32b29302-3cad-454a-b6c5-f68cd1746afd.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:17 GMT</pubDate>
+            <description><![CDATA[PVC Doors -HP and Scotia.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: PVC Doors -HP and Scotia.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IMG_20240423_162453_498.jpg]]></title>
+            <link>https://leap.epa.ie/docs/32ed079b-8f2d-453f-a124-a94d06b013c2.pdf</link>
+            <guid>https://leap.epa.ie/docs/32ed079b-8f2d-453f-a124-a94d06b013c2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:59 GMT</pubDate>
+            <description><![CDATA[IMG_20240423_162453_498.jpg]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: IMG_20240423_162453_498.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514211.pdf]]></title>
+            <link>https://leap.epa.ie/docs/39ac11b9-c59e-468e-9632-42bf293811b3.pdf</link>
+            <guid>https://leap.epa.ie/docs/39ac11b9-c59e-468e-9632-42bf293811b3.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:02 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514211.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514211.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514230 (1).pdf]]></title>
+            <link>https://leap.epa.ie/docs/3a42c9d6-c9bb-4bbd-9b7c-49ee0849a3fa.pdf</link>
+            <guid>https://leap.epa.ie/docs/3a42c9d6-c9bb-4bbd-9b7c-49ee0849a3fa.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:00 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514230 (1).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514230 (1).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514210.pdf]]></title>
+            <link>https://leap.epa.ie/docs/46b9769e-e51f-44db-8448-4f0700b25617.pdf</link>
+            <guid>https://leap.epa.ie/docs/46b9769e-e51f-44db-8448-4f0700b25617.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:40 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514210.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514210.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Passive 1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/23e29db0-500a-44e1-adf8-e440ee8c9de2.pdf</link>
+            <guid>https://leap.epa.ie/docs/23e29db0-500a-44e1-adf8-e440ee8c9de2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:01 GMT</pubDate>
+            <description><![CDATA[Passive 1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Passive 1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IMG_20240507_133733_898.jpg]]></title>
+            <link>https://leap.epa.ie/docs/26a180e8-d1eb-4e65-8817-cecea8e90e82.pdf</link>
+            <guid>https://leap.epa.ie/docs/26a180e8-d1eb-4e65-8817-cecea8e90e82.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:35:10 GMT</pubDate>
+            <description><![CDATA[IMG_20240507_133733_898.jpg]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: IMG_20240507_133733_898.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PVC Vents.pdf]]></title>
+            <link>https://leap.epa.ie/docs/276296b0-0861-495b-ac69-795e3998bf7f.pdf</link>
+            <guid>https://leap.epa.ie/docs/276296b0-0861-495b-ac69-795e3998bf7f.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:30 GMT</pubDate>
+            <description><![CDATA[PVC Vents.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: PVC Vents.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-30004_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/27ced4db-db27-4d3d-b385-15032e8692a0.pdf</link>
+            <guid>https://leap.epa.ie/docs/27ced4db-db27-4d3d-b385-15032e8692a0.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:20:10 GMT</pubDate>
+            <description><![CDATA[23-30004_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-30004_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514230 (3).pdf]]></title>
+            <link>https://leap.epa.ie/docs/282ecc43-f176-4746-9b9f-f3fb240ce2ca.pdf</link>
+            <guid>https://leap.epa.ie/docs/282ecc43-f176-4746-9b9f-f3fb240ce2ca.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:08 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514230 (3).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514230 (3).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-32220_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/2c1a98db-9e43-4cc6-af33-4bdbfcdd5aef.pdf</link>
+            <guid>https://leap.epa.ie/docs/2c1a98db-9e43-4cc6-af33-4bdbfcdd5aef.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:23:02 GMT</pubDate>
+            <description><![CDATA[23-32220_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-32220_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[24-37417_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2c7b4f0f-04dc-4a25-a84f-7dcf72b61620.pdf</link>
+            <guid>https://leap.epa.ie/docs/2c7b4f0f-04dc-4a25-a84f-7dcf72b61620.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:27:30 GMT</pubDate>
+            <description><![CDATA[24-37417_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 24-37417_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Spray Booth.pdf]]></title>
+            <link>https://leap.epa.ie/docs/3329552a-a6ea-4a29-9274-cf0be5b6280b.pdf</link>
+            <guid>https://leap.epa.ie/docs/3329552a-a6ea-4a29-9274-cf0be5b6280b.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:39 GMT</pubDate>
+            <description><![CDATA[Spray Booth.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Spray Booth.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Alum Off Std.pdf]]></title>
+            <link>https://leap.epa.ie/docs/33e21075-41c2-4ae1-b95b-010f7344c365.pdf</link>
+            <guid>https://leap.epa.ie/docs/33e21075-41c2-4ae1-b95b-010f7344c365.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:20 GMT</pubDate>
+            <description><![CDATA[Alum Off Std.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Alum Off Std.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-33853_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/38c999e0-ae60-4231-94a7-9da9c067139f.pdf</link>
+            <guid>https://leap.epa.ie/docs/38c999e0-ae60-4231-94a7-9da9c067139f.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:24:21 GMT</pubDate>
+            <description><![CDATA[23-33853_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-33853_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IMG_20240423_162700_169.jpg]]></title>
+            <link>https://leap.epa.ie/docs/3b70c98b-8898-4cdf-89d7-d33b852b2840.pdf</link>
+            <guid>https://leap.epa.ie/docs/3b70c98b-8898-4cdf-89d7-d33b852b2840.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:32:29 GMT</pubDate>
+            <description><![CDATA[IMG_20240423_162700_169.jpg]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: IMG_20240423_162700_169.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PVC Patios.pdf]]></title>
+            <link>https://leap.epa.ie/docs/44d01b54-d8d8-4b2a-8d07-6df7f903c2fa.pdf</link>
+            <guid>https://leap.epa.ie/docs/44d01b54-d8d8-4b2a-8d07-6df7f903c2fa.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:27 GMT</pubDate>
+            <description><![CDATA[PVC Patios.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: PVC Patios.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-30278_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/5541942b-ba29-4f9c-a26d-420af44bccb6.pdf</link>
+            <guid>https://leap.epa.ie/docs/5541942b-ba29-4f9c-a26d-420af44bccb6.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:20:35 GMT</pubDate>
+            <description><![CDATA[23-30278_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-30278_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514221 (4).pdf]]></title>
+            <link>https://leap.epa.ie/docs/55c3d59f-58b0-428a-8fe4-a2a22954dc33.pdf</link>
+            <guid>https://leap.epa.ie/docs/55c3d59f-58b0-428a-8fe4-a2a22954dc33.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:33 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514221 (4).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514221 (4).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PINE.pdf]]></title>
+            <link>https://leap.epa.ie/docs/482104cf-c95a-487b-8476-4bcb21231cc2.pdf</link>
+            <guid>https://leap.epa.ie/docs/482104cf-c95a-487b-8476-4bcb21231cc2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:11 GMT</pubDate>
+            <description><![CDATA[PINE.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: PINE.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514221 (6).pdf]]></title>
+            <link>https://leap.epa.ie/docs/49ba1502-a026-42ad-82e8-67d758bdf2a8.pdf</link>
+            <guid>https://leap.epa.ie/docs/49ba1502-a026-42ad-82e8-67d758bdf2a8.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:40 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514221 (6).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514221 (6).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IMG_20240423_170507_832.jpg]]></title>
+            <link>https://leap.epa.ie/docs/4ca82be4-1ee7-4e06-9709-9e516091da94.pdf</link>
+            <guid>https://leap.epa.ie/docs/4ca82be4-1ee7-4e06-9709-9e516091da94.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:32:56 GMT</pubDate>
+            <description><![CDATA[IMG_20240423_170507_832.jpg]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: IMG_20240423_170507_832.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[24-39551_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/4e74dad2-037b-4ac3-a75c-f67f5aec619b.pdf</link>
+            <guid>https://leap.epa.ie/docs/4e74dad2-037b-4ac3-a75c-f67f5aec619b.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:28:49 GMT</pubDate>
+            <description><![CDATA[24-39551_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 24-39551_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-34169_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/506b1849-f6d5-4381-bd1a-22176fe7235f.pdf</link>
+            <guid>https://leap.epa.ie/docs/506b1849-f6d5-4381-bd1a-22176fe7235f.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:24:34 GMT</pubDate>
+            <description><![CDATA[23-34169_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-34169_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514230 (5).pdf]]></title>
+            <link>https://leap.epa.ie/docs/57771671-8301-49f8-838d-f48debe21a03.pdf</link>
+            <guid>https://leap.epa.ie/docs/57771671-8301-49f8-838d-f48debe21a03.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:19 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514230 (5).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514230 (5).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[1083.30-RS-0020-R0 Condition 3.8 Compliance Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5885ab22-6e46-41f5-9cc6-ed5cda5c3baf.pdf</link>
+            <guid>https://leap.epa.ie/docs/5885ab22-6e46-41f5-9cc6-ed5cda5c3baf.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:17:33 GMT</pubDate>
+            <description><![CDATA[1083.30-RS-0020-R0 Condition 3.8 Compliance Report.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 1083.30-RS-0020-R0 Condition 3.8 Compliance Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514260 (2) (4).pdf]]></title>
+            <link>https://leap.epa.ie/docs/6203c315-ff09-4167-bdf9-d1964d51a962.pdf</link>
+            <guid>https://leap.epa.ie/docs/6203c315-ff09-4167-bdf9-d1964d51a962.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:36 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514260 (2) (4).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514260 (2) (4).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514220 (4).pdf]]></title>
+            <link>https://leap.epa.ie/docs/66b990d6-bdfb-4b37-bc15-f836a191eed9.pdf</link>
+            <guid>https://leap.epa.ie/docs/66b990d6-bdfb-4b37-bc15-f836a191eed9.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:15 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514220 (4).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514220 (4).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Maintenance.pdf]]></title>
+            <link>https://leap.epa.ie/docs/66f56aef-efc5-4b45-9cba-eae3870899af.pdf</link>
+            <guid>https://leap.epa.ie/docs/66f56aef-efc5-4b45-9cba-eae3870899af.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:47 GMT</pubDate>
+            <description><![CDATA[Maintenance.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Maintenance.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[22-24955_1(SL).pdf]]></title>
+            <link>https://leap.epa.ie/docs/674ea9a5-f99d-44bb-a68b-8da35ae6d013.pdf</link>
+            <guid>https://leap.epa.ie/docs/674ea9a5-f99d-44bb-a68b-8da35ae6d013.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:17:43 GMT</pubDate>
+            <description><![CDATA[22-24955_1(SL).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 22-24955_1(SL).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-36537_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/5ee53d5b-89e0-4a1c-bab9-4966015fc4bb.pdf</link>
+            <guid>https://leap.epa.ie/docs/5ee53d5b-89e0-4a1c-bab9-4966015fc4bb.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:26:51 GMT</pubDate>
+            <description><![CDATA[23-36537_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-36537_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-32219_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/60790482-039a-4858-9908-41dd7b3d06a2.pdf</link>
+            <guid>https://leap.epa.ie/docs/60790482-039a-4858-9908-41dd7b3d06a2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:22:38 GMT</pubDate>
+            <description><![CDATA[23-32219_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-32219_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IMG_20240514_142537_685.jpg]]></title>
+            <link>https://leap.epa.ie/docs/63b07c39-8a49-42aa-a00b-f790799204c9.pdf</link>
+            <guid>https://leap.epa.ie/docs/63b07c39-8a49-42aa-a00b-f790799204c9.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:35:24 GMT</pubDate>
+            <description><![CDATA[IMG_20240514_142537_685.jpg]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: IMG_20240514_142537_685.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-31647_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/68a491a5-63c0-442b-9c64-c3c867420e28.pdf</link>
+            <guid>https://leap.epa.ie/docs/68a491a5-63c0-442b-9c64-c3c867420e28.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:22:14 GMT</pubDate>
+            <description><![CDATA[23-31647_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-31647_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514220 (3).pdf]]></title>
+            <link>https://leap.epa.ie/docs/6ccc9ecf-004b-4bd0-a379-785a9fd64fc4.pdf</link>
+            <guid>https://leap.epa.ie/docs/6ccc9ecf-004b-4bd0-a379-785a9fd64fc4.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:12 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514220 (3).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514220 (3).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514211 (1).pdf]]></title>
+            <link>https://leap.epa.ie/docs/6de7780f-506e-4ea6-bbba-102ba72fbc8f.pdf</link>
+            <guid>https://leap.epa.ie/docs/6de7780f-506e-4ea6-bbba-102ba72fbc8f.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:43 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514211 (1).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514211 (1).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514221.pdf]]></title>
+            <link>https://leap.epa.ie/docs/747a564e-510a-4327-b820-d5612b106e4b.pdf</link>
+            <guid>https://leap.epa.ie/docs/747a564e-510a-4327-b820-d5612b106e4b.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:43 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514221.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514221.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-33544_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/7b6d00b4-068f-435e-b4e7-8a9e9d0a20ed.pdf</link>
+            <guid>https://leap.epa.ie/docs/7b6d00b4-068f-435e-b4e7-8a9e9d0a20ed.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:23:57 GMT</pubDate>
+            <description><![CDATA[23-33544_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-33544_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-32431_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/84c5b28b-86aa-43cb-9840-5cd3f7fc80a8.pdf</link>
+            <guid>https://leap.epa.ie/docs/84c5b28b-86aa-43cb-9840-5cd3f7fc80a8.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:23:14 GMT</pubDate>
+            <description><![CDATA[23-32431_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-32431_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Alu P-Cladding.pdf]]></title>
+            <link>https://leap.epa.ie/docs/73faecc7-f91b-4238-bfce-8e5e9ffc6edb.pdf</link>
+            <guid>https://leap.epa.ie/docs/73faecc7-f91b-4238-bfce-8e5e9ffc6edb.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:14 GMT</pubDate>
+            <description><![CDATA[Alu P-Cladding.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Alu P-Cladding.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Production.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7402a0e3-ac42-4ed2-b7fd-633d59ba31ff.pdf</link>
+            <guid>https://leap.epa.ie/docs/7402a0e3-ac42-4ed2-b7fd-633d59ba31ff.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:14 GMT</pubDate>
+            <description><![CDATA[Production.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Production.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Eco Clad.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7d0b89ed-523d-4a9c-a045-375940931e2f.pdf</link>
+            <guid>https://leap.epa.ie/docs/7d0b89ed-523d-4a9c-a045-375940931e2f.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:36 GMT</pubDate>
+            <description><![CDATA[Eco Clad.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Eco Clad.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514260 (2) (6).pdf]]></title>
+            <link>https://leap.epa.ie/docs/85122283-e55b-44d6-b4e8-bdbd581330ec.pdf</link>
+            <guid>https://leap.epa.ie/docs/85122283-e55b-44d6-b4e8-bdbd581330ec.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:42 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514260 (2) (6).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514260 (2) (6).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514190 (1).pdf]]></title>
+            <link>https://leap.epa.ie/docs/8528458e-6bac-43cd-b1eb-e0a9d18bb0ce.pdf</link>
+            <guid>https://leap.epa.ie/docs/8528458e-6bac-43cd-b1eb-e0a9d18bb0ce.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:08 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514190 (1).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514190 (1).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-29769_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/89352d74-ce93-470c-a8b4-828fc7f8a43d.pdf</link>
+            <guid>https://leap.epa.ie/docs/89352d74-ce93-470c-a8b4-828fc7f8a43d.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:19:26 GMT</pubDate>
+            <description><![CDATA[23-29769_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-29769_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-30785_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/8a091b4c-67fa-4a84-b5b3-8e1f0793f38e.pdf</link>
+            <guid>https://leap.epa.ie/docs/8a091b4c-67fa-4a84-b5b3-8e1f0793f38e.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:21:23 GMT</pubDate>
+            <description><![CDATA[23-30785_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-30785_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[1083.00-DG-13-R1 Site Foul and Storm Water Services.pdf]]></title>
+            <link>https://leap.epa.ie/docs/91b39995-94b3-46d7-8544-3943d52a3aa0.pdf</link>
+            <guid>https://leap.epa.ie/docs/91b39995-94b3-46d7-8544-3943d52a3aa0.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:17:13 GMT</pubDate>
+            <description><![CDATA[1083.00-DG-13-R1 Site Foul and Storm Water Services.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 1083.00-DG-13-R1 Site Foul and Storm Water Services.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514211 (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/946da7a9-85a7-47b8-b712-84d0fe119edd.pdf</link>
+            <guid>https://leap.epa.ie/docs/946da7a9-85a7-47b8-b712-84d0fe119edd.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:59 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514211 (2).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514211 (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[24-37896_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/98919b8a-22b9-4993-8589-f9bdce11db60.pdf</link>
+            <guid>https://leap.epa.ie/docs/98919b8a-22b9-4993-8589-f9bdce11db60.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:27:49 GMT</pubDate>
+            <description><![CDATA[24-37896_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 24-37896_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[24-38401_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/98d6a919-3bef-414d-acb1-0fa400b29fb2.pdf</link>
+            <guid>https://leap.epa.ie/docs/98d6a919-3bef-414d-acb1-0fa400b29fb2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:28:14 GMT</pubDate>
+            <description><![CDATA[24-38401_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 24-38401_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514210 (1).pdf]]></title>
+            <link>https://leap.epa.ie/docs/9c7821d5-2347-4c46-bd71-18d01ef35353.pdf</link>
+            <guid>https://leap.epa.ie/docs/9c7821d5-2347-4c46-bd71-18d01ef35353.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:28 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514210 (1).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514210 (1).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-35887_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/9d853f4d-cf2e-4ef8-8771-f76447736306.pdf</link>
+            <guid>https://leap.epa.ie/docs/9d853f4d-cf2e-4ef8-8771-f76447736306.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:26:35 GMT</pubDate>
+            <description><![CDATA[23-35887_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-35887_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-30787_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/9ff59718-1609-4012-9df7-16ad836be3f8.pdf</link>
+            <guid>https://leap.epa.ie/docs/9ff59718-1609-4012-9df7-16ad836be3f8.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:21:33 GMT</pubDate>
+            <description><![CDATA[23-30787_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-30787_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-34638_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/a08d5cdf-ef89-4147-99b5-9609c060943e.pdf</link>
+            <guid>https://leap.epa.ie/docs/a08d5cdf-ef89-4147-99b5-9609c060943e.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:25:12 GMT</pubDate>
+            <description><![CDATA[23-34638_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-34638_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IMG_20240423_162517_326.jpg]]></title>
+            <link>https://leap.epa.ie/docs/a5a4ed6b-09ec-4a06-aec1-e9a5960b4f8c.pdf</link>
+            <guid>https://leap.epa.ie/docs/a5a4ed6b-09ec-4a06-aec1-e9a5960b4f8c.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:32:15 GMT</pubDate>
+            <description><![CDATA[IMG_20240423_162517_326.jpg]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: IMG_20240423_162517_326.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514220 (5).pdf]]></title>
+            <link>https://leap.epa.ie/docs/ac56c372-6284-4e89-b820-9fecd3939105.pdf</link>
+            <guid>https://leap.epa.ie/docs/ac56c372-6284-4e89-b820-9fecd3939105.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:19 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514220 (5).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514220 (5).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IMG_20240423_170334_336.jpg]]></title>
+            <link>https://leap.epa.ie/docs/9ac2f80c-9f4c-41f4-bba0-4992016ffd3a.pdf</link>
+            <guid>https://leap.epa.ie/docs/9ac2f80c-9f4c-41f4-bba0-4992016ffd3a.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:32:41 GMT</pubDate>
+            <description><![CDATA[IMG_20240423_170334_336.jpg]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: IMG_20240423_170334_336.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514260 (2) (5).pdf]]></title>
+            <link>https://leap.epa.ie/docs/a2f0fe8a-a107-44ad-b032-19d504c9e809.pdf</link>
+            <guid>https://leap.epa.ie/docs/a2f0fe8a-a107-44ad-b032-19d504c9e809.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:39 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514260 (2) (5).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514260 (2) (5).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[IMG_20240423_170559_416.jpg]]></title>
+            <link>https://leap.epa.ie/docs/a2f947f6-05c3-4350-be8d-9b068ef42f4a.pdf</link>
+            <guid>https://leap.epa.ie/docs/a2f947f6-05c3-4350-be8d-9b068ef42f4a.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:06 GMT</pubDate>
+            <description><![CDATA[IMG_20240423_170559_416.jpg]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: IMG_20240423_170559_416.jpg]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[GRP Doors.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a31c18d6-beb8-4d24-8021-440ea587befd.pdf</link>
+            <guid>https://leap.epa.ie/docs/a31c18d6-beb8-4d24-8021-440ea587befd.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:42 GMT</pubDate>
+            <description><![CDATA[GRP Doors.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: GRP Doors.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-35010_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/a3961d2b-d3ed-442c-8f27-ca701ff1ce52.pdf</link>
+            <guid>https://leap.epa.ie/docs/a3961d2b-d3ed-442c-8f27-ca701ff1ce52.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:26:22 GMT</pubDate>
+            <description><![CDATA[23-35010_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-35010_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[24-38975_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a3b0e39c-dbce-45aa-9afb-d1324b22641e.pdf</link>
+            <guid>https://leap.epa.ie/docs/a3b0e39c-dbce-45aa-9afb-d1324b22641e.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:28:37 GMT</pubDate>
+            <description><![CDATA[24-38975_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 24-38975_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[AC DC Windows.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a6269f37-29c0-48a8-be70-2e3ec93a27db.pdf</link>
+            <guid>https://leap.epa.ie/docs/a6269f37-29c0-48a8-be70-2e3ec93a27db.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:11 GMT</pubDate>
+            <description><![CDATA[AC DC Windows.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: AC DC Windows.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Future Proof Doors.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a674260e-05e4-4f99-a8ac-e81bf3840d1d.pdf</link>
+            <guid>https://leap.epa.ie/docs/a674260e-05e4-4f99-a8ac-e81bf3840d1d.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:39 GMT</pubDate>
+            <description><![CDATA[Future Proof Doors.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Future Proof Doors.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514220 (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/a701f648-1e44-4300-b9dd-f6aed92bb0cc.pdf</link>
+            <guid>https://leap.epa.ie/docs/a701f648-1e44-4300-b9dd-f6aed92bb0cc.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:09 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514220 (2).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514220 (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514260 (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/aacbb55e-13f3-404b-a20a-dc99d7aa6815.pdf</link>
+            <guid>https://leap.epa.ie/docs/aacbb55e-13f3-404b-a20a-dc99d7aa6815.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:46 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514260 (2).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514260 (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-30005_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/b2a9b116-0f98-4f06-8dcc-cbae2f806886.pdf</link>
+            <guid>https://leap.epa.ie/docs/b2a9b116-0f98-4f06-8dcc-cbae2f806886.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:20:26 GMT</pubDate>
+            <description><![CDATA[23-30005_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-30005_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-30279_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/b302f41b-a6b0-4822-a2b6-3008970a9cbd.pdf</link>
+            <guid>https://leap.epa.ie/docs/b302f41b-a6b0-4822-a2b6-3008970a9cbd.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:20:43 GMT</pubDate>
+            <description><![CDATA[23-30279_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-30279_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-33852_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/bb441b47-5680-44fc-84fb-27195582f6c8.pdf</link>
+            <guid>https://leap.epa.ie/docs/bb441b47-5680-44fc-84fb-27195582f6c8.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:24:10 GMT</pubDate>
+            <description><![CDATA[23-33852_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-33852_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-32726_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c1be8dc0-0b09-47fb-90fd-9a0211d6561c.pdf</link>
+            <guid>https://leap.epa.ie/docs/c1be8dc0-0b09-47fb-90fd-9a0211d6561c.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:23:35 GMT</pubDate>
+            <description><![CDATA[23-32726_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-32726_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-34639_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/b15d4fe9-3bfa-423a-bfef-20c98f49331e.pdf</link>
+            <guid>https://leap.epa.ie/docs/b15d4fe9-3bfa-423a-bfef-20c98f49331e.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:25:22 GMT</pubDate>
+            <description><![CDATA[23-34639_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-34639_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Surface water identification drawing.pdf]]></title>
+            <link>https://leap.epa.ie/docs/b4595737-0f02-48e5-827c-7ebe2c29e159.pdf</link>
+            <guid>https://leap.epa.ie/docs/b4595737-0f02-48e5-827c-7ebe2c29e159.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:35:41 GMT</pubDate>
+            <description><![CDATA[Surface water identification drawing.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Surface water identification drawing.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[24-37651_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/b5ce1b7a-d886-4413-b383-9de20888f0d0.pdf</link>
+            <guid>https://leap.epa.ie/docs/b5ce1b7a-d886-4413-b383-9de20888f0d0.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:27:41 GMT</pubDate>
+            <description><![CDATA[24-37651_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 24-37651_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514220 (1).pdf]]></title>
+            <link>https://leap.epa.ie/docs/b8b5c93a-17c0-4d02-b41e-f85cd84ac381.pdf</link>
+            <guid>https://leap.epa.ie/docs/b8b5c93a-17c0-4d02-b41e-f85cd84ac381.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:06 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514220 (1).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514220 (1).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Alum Doors.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ba95be9d-81e4-4387-8765-3b5ea7b1ae2a.pdf</link>
+            <guid>https://leap.epa.ie/docs/ba95be9d-81e4-4387-8765-3b5ea7b1ae2a.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:17 GMT</pubDate>
+            <description><![CDATA[Alum Doors.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Alum Doors.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-33542_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/bd9438ca-b335-4523-af4e-0393ca114f9f.pdf</link>
+            <guid>https://leap.epa.ie/docs/bd9438ca-b335-4523-af4e-0393ca114f9f.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:23:45 GMT</pubDate>
+            <description><![CDATA[23-33542_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-33542_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514221 (1).pdf]]></title>
+            <link>https://leap.epa.ie/docs/c5382ae0-c229-489a-9736-77edfab8a23a.pdf</link>
+            <guid>https://leap.epa.ie/docs/c5382ae0-c229-489a-9736-77edfab8a23a.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:25 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514221 (1).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514221 (1).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sliding Sash.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ccf59740-a741-4f4f-9ba9-4a74248175ca.pdf</link>
+            <guid>https://leap.epa.ie/docs/ccf59740-a741-4f4f-9ba9-4a74248175ca.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:36 GMT</pubDate>
+            <description><![CDATA[Sliding Sash.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Sliding Sash.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-29563_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/d10c1b81-f056-4cc6-9011-083237c97883.pdf</link>
+            <guid>https://leap.epa.ie/docs/d10c1b81-f056-4cc6-9011-083237c97883.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:18:55 GMT</pubDate>
+            <description><![CDATA[23-29563_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-29563_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514260 (2) (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/d4f28b8c-7119-458b-9b92-a6aa020debfc.pdf</link>
+            <guid>https://leap.epa.ie/docs/d4f28b8c-7119-458b-9b92-a6aa020debfc.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:29 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514260 (2) (2).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514260 (2) (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-35007_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/d57ec2dd-6d67-480e-9e34-0d206e818f32.pdf</link>
+            <guid>https://leap.epa.ie/docs/d57ec2dd-6d67-480e-9e34-0d206e818f32.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:26:11 GMT</pubDate>
+            <description><![CDATA[23-35007_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-35007_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Alum Windows.pdf]]></title>
+            <link>https://leap.epa.ie/docs/cab8e30f-f802-414d-b61f-a7a39f57cc5c.pdf</link>
+            <guid>https://leap.epa.ie/docs/cab8e30f-f802-414d-b61f-a7a39f57cc5c.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:23 GMT</pubDate>
+            <description><![CDATA[Alum Windows.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Alum Windows.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Outstanding Works Map..pdf]]></title>
+            <link>https://leap.epa.ie/docs/ce95ff88-2ffa-413c-a188-51d33a4c40ba.pdf</link>
+            <guid>https://leap.epa.ie/docs/ce95ff88-2ffa-413c-a188-51d33a4c40ba.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:03 GMT</pubDate>
+            <description><![CDATA[Outstanding Works Map..pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Outstanding Works Map..pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Drawing Glass.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d6efd83e-b16c-469e-95a3-d88c14276617.pdf</link>
+            <guid>https://leap.epa.ie/docs/d6efd83e-b16c-469e-95a3-d88c14276617.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:33 GMT</pubDate>
+            <description><![CDATA[Drawing Glass.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Drawing Glass.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514220.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d70f5d5f-36ca-403b-b1f9-98383cc896fe.pdf</link>
+            <guid>https://leap.epa.ie/docs/d70f5d5f-36ca-403b-b1f9-98383cc896fe.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:22 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514220.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514220.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-31097_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/d79ed7ba-46ce-46e6-a55b-6642ed621a20.pdf</link>
+            <guid>https://leap.epa.ie/docs/d79ed7ba-46ce-46e6-a55b-6642ed621a20.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:22:00 GMT</pubDate>
+            <description><![CDATA[23-31097_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-31097_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514221 (5).pdf]]></title>
+            <link>https://leap.epa.ie/docs/dc4024cd-615b-4ca7-a993-9769a9066a1b.pdf</link>
+            <guid>https://leap.epa.ie/docs/dc4024cd-615b-4ca7-a993-9769a9066a1b.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:37 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514221 (5).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514221 (5).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514210 (2).pdf]]></title>
+            <link>https://leap.epa.ie/docs/dd7cc9b6-dc73-47fa-9660-47300e8ec4b4.pdf</link>
+            <guid>https://leap.epa.ie/docs/dd7cc9b6-dc73-47fa-9660-47300e8ec4b4.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:30 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514210 (2).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514210 (2).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Office.pdf]]></title>
+            <link>https://leap.epa.ie/docs/de7d5fbd-dc22-4ae6-b86a-f60a37518009.pdf</link>
+            <guid>https://leap.epa.ie/docs/de7d5fbd-dc22-4ae6-b86a-f60a37518009.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:56 GMT</pubDate>
+            <description><![CDATA[Office.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Office.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514221 (3).pdf]]></title>
+            <link>https://leap.epa.ie/docs/df55d23a-d536-4d70-9571-a8eda6e3e75d.pdf</link>
+            <guid>https://leap.epa.ie/docs/df55d23a-d536-4d70-9571-a8eda6e3e75d.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:30:30 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514221 (3).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514221 (3).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-34751_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/dfc9d555-657d-447c-88e8-9166d3aff066.pdf</link>
+            <guid>https://leap.epa.ie/docs/dfc9d555-657d-447c-88e8-9166d3aff066.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:25:45 GMT</pubDate>
+            <description><![CDATA[23-34751_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-34751_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-31096_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/e067b950-0ce4-48d3-9749-5e98d6c42147.pdf</link>
+            <guid>https://leap.epa.ie/docs/e067b950-0ce4-48d3-9749-5e98d6c42147.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:21:40 GMT</pubDate>
+            <description><![CDATA[23-31096_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-31096_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-28887_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/e357d248-3400-4fba-a0cb-1dacb186ae91.pdf</link>
+            <guid>https://leap.epa.ie/docs/e357d248-3400-4fba-a0cb-1dacb186ae91.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:18:44 GMT</pubDate>
+            <description><![CDATA[23-28887_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-28887_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Lacka Cross and SW3 Cat 4 and 5 Scheduled Repairs.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e4238fe9-80b2-4048-b210-023741f77856.pdf</link>
+            <guid>https://leap.epa.ie/docs/e4238fe9-80b2-4048-b210-023741f77856.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:28:57 GMT</pubDate>
+            <description><![CDATA[Lacka Cross and SW3 Cat 4 and 5 Scheduled Repairs.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Lacka Cross and SW3 Cat 4 and 5 Scheduled Repairs.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-32436_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/e60b0c4c-d23e-4678-8bd7-44d5c276a64e.pdf</link>
+            <guid>https://leap.epa.ie/docs/e60b0c4c-d23e-4678-8bd7-44d5c276a64e.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:23:24 GMT</pubDate>
+            <description><![CDATA[23-32436_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-32436_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[PVC Yard.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e6710ff5-a597-4885-b95a-5793fe071ad2.pdf</link>
+            <guid>https://leap.epa.ie/docs/e6710ff5-a597-4885-b95a-5793fe071ad2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:34 GMT</pubDate>
+            <description><![CDATA[PVC Yard.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: PVC Yard.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[24-39191_1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e911146b-e0c9-4658-9a24-99385978fc95.pdf</link>
+            <guid>https://leap.epa.ie/docs/e911146b-e0c9-4658-9a24-99385978fc95.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:28:45 GMT</pubDate>
+            <description><![CDATA[24-39191_1.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 24-39191_1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Passive 3.pdf]]></title>
+            <link>https://leap.epa.ie/docs/eb4a9b21-7765-4a49-a8cf-e440fd2fd5b2.pdf</link>
+            <guid>https://leap.epa.ie/docs/eb4a9b21-7765-4a49-a8cf-e440fd2fd5b2.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:34:08 GMT</pubDate>
+            <description><![CDATA[Passive 3.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Passive 3.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-34748_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/d9c7d328-2c35-4790-9863-e6c6e8ae34d9.pdf</link>
+            <guid>https://leap.epa.ie/docs/d9c7d328-2c35-4790-9863-e6c6e8ae34d9.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:25:33 GMT</pubDate>
+            <description><![CDATA[23-34748_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-34748_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-36821_1(F).pdf]]></title>
+            <link>https://leap.epa.ie/docs/ed8776e9-3208-486e-880c-ec4f4768780f.pdf</link>
+            <guid>https://leap.epa.ie/docs/ed8776e9-3208-486e-880c-ec4f4768780f.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:27:05 GMT</pubDate>
+            <description><![CDATA[23-36821_1(F).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-36821_1(F).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-28629_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/ee9be599-938c-4fc4-9e39-8ea5784af266.pdf</link>
+            <guid>https://leap.epa.ie/docs/ee9be599-938c-4fc4-9e39-8ea5784af266.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:18:09 GMT</pubDate>
+            <description><![CDATA[23-28629_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-28629_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514260 (2) (1).pdf]]></title>
+            <link>https://leap.epa.ie/docs/f00e8687-2911-4bd9-8fb6-c634acad4f8e.pdf</link>
+            <guid>https://leap.epa.ie/docs/f00e8687-2911-4bd9-8fb6-c634acad4f8e.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:26 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514260 (2) (1).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514260 (2) (1).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514200 (1).pdf]]></title>
+            <link>https://leap.epa.ie/docs/f4a582fd-e551-4b8f-b8cc-80e95e18449c.pdf</link>
+            <guid>https://leap.epa.ie/docs/f4a582fd-e551-4b8f-b8cc-80e95e18449c.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:19 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514200 (1).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514200 (1).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514200.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f8ddcaa3-9437-404e-a4af-b5912a476977.pdf</link>
+            <guid>https://leap.epa.ie/docs/f8ddcaa3-9437-404e-a4af-b5912a476977.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:29:25 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514200.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514200.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[23-34170_1(Fup).pdf]]></title>
+            <link>https://leap.epa.ie/docs/f951c6a1-088c-4740-9cc8-5dcb213903ae.pdf</link>
+            <guid>https://leap.epa.ie/docs/f951c6a1-088c-4740-9cc8-5dcb213903ae.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:25:00 GMT</pubDate>
+            <description><![CDATA[23-34170_1(Fup).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: 23-34170_1(Fup).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[SKM_C450i24042514260 (2) (3).pdf]]></title>
+            <link>https://leap.epa.ie/docs/f9613711-b18d-4611-bd91-27f449265312.pdf</link>
+            <guid>https://leap.epa.ie/docs/f9613711-b18d-4611-bd91-27f449265312.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:31:33 GMT</pubDate>
+            <description><![CDATA[SKM_C450i24042514260 (2) (3).pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: SKM_C450i24042514260 (2) (3).pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bi Folding Doors.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f9d66e67-b5a8-4aa8-991b-7e169c95ad9b.pdf</link>
+            <guid>https://leap.epa.ie/docs/f9d66e67-b5a8-4aa8-991b-7e169c95ad9b.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:33:28 GMT</pubDate>
+            <description><![CDATA[Bi Folding Doors.pdf]]></description>
+            <content:encoded><![CDATA[P0639-03 -- Gairdini: Bi Folding Doors.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[MBM TP Interim Report Dec 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e8147472-a25c-4861-80dd-a03365382ba3.pdf</link>
+            <guid>https://leap.epa.ie/docs/e8147472-a25c-4861-80dd-a03365382ba3.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:19:34 GMT</pubDate>
+            <description><![CDATA[MBM TP Interim Report Dec 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0029-06 -- Irish Cement Limited: MBM TP Interim Report Dec 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[KMK Dust Kilbeggan Report Q4 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1e58ae7e-4c1a-4f01-b1cf-19ac9ebda2b1.pdf</link>
+            <guid>https://leap.epa.ie/docs/1e58ae7e-4c1a-4f01-b1cf-19ac9ebda2b1.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:18:40 GMT</pubDate>
+            <description><![CDATA[KMK Dust Kilbeggan Report Q4 2024.pdf]]></description>
+            <content:encoded><![CDATA[P1076-01 -- KMK Metals Recycling Limited: KMK Dust Kilbeggan Report Q4 2024.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1192-01 RISL Proposed SW Trigger Levels.pdf]]></title>
+            <link>https://leap.epa.ie/docs/94ee408b-eecc-4551-8d1a-cb8c15ca2864.pdf</link>
+            <guid>https://leap.epa.ie/docs/94ee408b-eecc-4551-8d1a-cb8c15ca2864.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:19:21 GMT</pubDate>
+            <description><![CDATA[P1192-01 RISL Proposed SW Trigger Levels.pdf]]></description>
+            <content:encoded><![CDATA[P1192-01 -- Runways Information Services Limited: P1192-01 RISL Proposed SW Trigger Levels.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Poly Chlorinated Biphenyls.pdf]]></title>
+            <link>https://leap.epa.ie/docs/38f2ebe4-67c5-4d10-bf88-43648b23116b.pdf</link>
+            <guid>https://leap.epa.ie/docs/38f2ebe4-67c5-4d10-bf88-43648b23116b.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:37:28 GMT</pubDate>
+            <description><![CDATA[Poly Chlorinated Biphenyls.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: Poly Chlorinated Biphenyls.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EPA HLMC Air Monitoring Cover Letter.pdf]]></title>
+            <link>https://leap.epa.ie/docs/47931cf8-bf84-4290-91f6-69501bbe831c.pdf</link>
+            <guid>https://leap.epa.ie/docs/47931cf8-bf84-4290-91f6-69501bbe831c.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:37:20 GMT</pubDate>
+            <description><![CDATA[EPA HLMC Air Monitoring Cover Letter.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: EPA HLMC Air Monitoring Cover Letter.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Poly Brominated Diphenyl Ethers.pdf]]></title>
+            <link>https://leap.epa.ie/docs/526091ba-0f75-47a5-aefb-eec136afb36c.pdf</link>
+            <guid>https://leap.epa.ie/docs/526091ba-0f75-47a5-aefb-eec136afb36c.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:37:24 GMT</pubDate>
+            <description><![CDATA[Poly Brominated Diphenyl Ethers.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: Poly Brominated Diphenyl Ethers.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Speciated VOCs.pdf]]></title>
+            <link>https://leap.epa.ie/docs/753de8c0-a00b-4c41-a35f-3f488496d546.pdf</link>
+            <guid>https://leap.epa.ie/docs/753de8c0-a00b-4c41-a35f-3f488496d546.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:37:32 GMT</pubDate>
+            <description><![CDATA[Speciated VOCs.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: Speciated VOCs.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Chlorinated Fluorinated Hydrocarbons.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d8393572-b918-40c7-bbcd-83e0d32fb84a.pdf</link>
+            <guid>https://leap.epa.ie/docs/d8393572-b918-40c7-bbcd-83e0d32fb84a.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:37:08 GMT</pubDate>
+            <description><![CDATA[Chlorinated Fluorinated Hydrocarbons.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: Chlorinated Fluorinated Hydrocarbons.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0794-02_FWRA_June_2024_Final.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ec642108-a670-4639-9d21-1edf5688ced1.pdf</link>
+            <guid>https://leap.epa.ie/docs/ec642108-a670-4639-9d21-1edf5688ced1.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:17:13 GMT</pubDate>
+            <description><![CDATA[P0794-02_FWRA_June_2024_Final.pdf]]></description>
+            <content:encoded><![CDATA[P0794-02 -- Tirlán Limited: P0794-02_FWRA_June_2024_Final.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Rampere Landfill R1 24 Ver 1.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f7704c80-4f04-48f1-82b8-807373af35ce.pdf</link>
+            <guid>https://leap.epa.ie/docs/f7704c80-4f04-48f1-82b8-807373af35ce.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 12:18:51 GMT</pubDate>
+            <description><![CDATA[Rampere Landfill R1 24 Ver 1.pdf]]></description>
+            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: Rampere Landfill R1 24 Ver 1.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1003-01 Technical Amendment A]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280917022.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280917022.pdf</guid>
+            <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[P1003-01 Technical Amendment A]]></description>
+            <content:encoded><![CDATA[P1003-01 -- Mr. Edwin Irwin: P1003-01 Technical Amendment A]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
