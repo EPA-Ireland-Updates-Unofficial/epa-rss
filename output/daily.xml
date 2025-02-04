@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Mon, 03 Feb 2025 04:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 04:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,111 +16,102 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SV28496 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/75ce7015-b9ab-4366-816a-689188c3973b.pdf</link>
-            <guid>https://leap.epa.ie/docs/75ce7015-b9ab-4366-816a-689188c3973b.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:31:08 GMT</pubDate>
-            <description><![CDATA[SV28496 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0125-02 -- Clarochem Ireland Limited: SV28496 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Technical Amendment D.pdf]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091659a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091659a.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 04:31:41 GMT</pubDate>
+            <description><![CDATA[Technical Amendment D.pdf]]></description>
+            <content:encoded><![CDATA[P0494-01 -- Derra Farms Limited: Technical Amendment D.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[IBR1345 Incident Update INCI029193 Final.pdf]]></title>
-            <link>https://leap.epa.ie/docs/18411dac-6c11-455c-b265-0ff218549326.pdf</link>
-            <guid>https://leap.epa.ie/docs/18411dac-6c11-455c-b265-0ff218549326.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:32:12 GMT</pubDate>
-            <description><![CDATA[IBR1345 Incident Update INCI029193 Final.pdf]]></description>
-            <content:encoded><![CDATA[P1022-02 -- Dublin Port Company: IBR1345 Incident Update INCI029193 Final.pdf]]></content:encoded>
+            <title><![CDATA[Technical Amendment D - Letter to Licensee.pdf]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091659b.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091659b.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 04:31:41 GMT</pubDate>
+            <description><![CDATA[Technical Amendment D - Letter to Licensee.pdf]]></description>
+            <content:encoded><![CDATA[P0494-01 -- Derra Farms Limited: Technical Amendment D - Letter to Licensee.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Snapshot-INCI029193.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7c52e35f-5145-46f8-a4e0-5cf892ded9ba.pdf</link>
-            <guid>https://leap.epa.ie/docs/7c52e35f-5145-46f8-a4e0-5cf892ded9ba.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:32:04 GMT</pubDate>
-            <description><![CDATA[Snapshot-INCI029193.pdf]]></description>
-            <content:encoded><![CDATA[P1022-02 -- Dublin Port Company: Snapshot-INCI029193.pdf]]></content:encoded>
+            <title><![CDATA[EPR Reporting 2023 FIR Response (03-01-2025).pdf]]></title>
+            <link>https://leap.epa.ie/docs/ac327e5b-0e73-40c6-b3f7-bef02eac9184.pdf</link>
+            <guid>https://leap.epa.ie/docs/ac327e5b-0e73-40c6-b3f7-bef02eac9184.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 21:31:28 GMT</pubDate>
+            <description><![CDATA[EPR Reporting 2023 FIR Response (03-01-2025).pdf]]></description>
+            <content:encoded><![CDATA[P1006-03 -- Galway Metal Company Limited: EPR Reporting 2023 FIR Response (03-01-2025).pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[MP2 Civil Works SWO2 Dec 2024  2.1.2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f85611d5-b439-4dc6-861c-9def0eb3de4e.pdf</link>
-            <guid>https://leap.epa.ie/docs/f85611d5-b439-4dc6-861c-9def0eb3de4e.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:32:02 GMT</pubDate>
-            <description><![CDATA[MP2 Civil Works SWO2 Dec 2024  2.1.2025.pdf]]></description>
-            <content:encoded><![CDATA[P1022-02 -- Dublin Port Company: MP2 Civil Works SWO2 Dec 2024  2.1.2025.pdf]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI029194.pdf]]></title>
+            <link>https://leap.epa.ie/docs/78e87016-b9c8-462a-87c5-947109aeb20d.pdf</link>
+            <guid>https://leap.epa.ie/docs/78e87016-b9c8-462a-87c5-947109aeb20d.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 21:31:35 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI029194.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Snapshot-INCI029194.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[222-026 Bund Reports December 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5cf6e54b-a735-4668-8bbe-2762026b19bb.pdf</link>
-            <guid>https://leap.epa.ie/docs/5cf6e54b-a735-4668-8bbe-2762026b19bb.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:31:23 GMT</pubDate>
-            <description><![CDATA[222-026 Bund Reports December 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0327-01 -- Glennon Bros. Timber Limited: 222-026 Bund Reports December 2024.pdf]]></content:encoded>
+            <title><![CDATA[302450-1 06.11.2024 - 02.12.2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/92e02b8b-7572-4369-bf36-470d18fa333e.pdf</link>
+            <guid>https://leap.epa.ie/docs/92e02b8b-7572-4369-bf36-470d18fa333e.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 21:31:51 GMT</pubDate>
+            <description><![CDATA[302450-1 06.11.2024 - 02.12.2024.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: 302450-1 06.11.2024 - 02.12.2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Site Visit Report response SV30524 - update.pdf]]></title>
-            <link>https://leap.epa.ie/docs/794df8cc-eaed-40e6-ac9f-c1aff579ec68.pdf</link>
-            <guid>https://leap.epa.ie/docs/794df8cc-eaed-40e6-ac9f-c1aff579ec68.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:31:32 GMT</pubDate>
-            <description><![CDATA[Site Visit Report response SV30524 - update.pdf]]></description>
-            <content:encoded><![CDATA[P0327-01 -- Glennon Bros. Timber Limited: Site Visit Report response SV30524 - update.pdf]]></content:encoded>
+            <title><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9ee59aff-c229-4268-9199-04ced5ba9896.pdf</link>
+            <guid>https://leap.epa.ie/docs/9ee59aff-c229-4268-9199-04ced5ba9896.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 21:31:49 GMT</pubDate>
+            <description><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Roadstone Bennettsbridge Environment Map.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV28708 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/ad340f47-8633-4f92-9495-21b459226357.pdf</link>
-            <guid>https://leap.epa.ie/docs/ad340f47-8633-4f92-9495-21b459226357.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:31:25 GMT</pubDate>
-            <description><![CDATA[SV28708 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0376-02 -- Premier Periclase Limited: SV28708 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c0db50c5-1bef-452a-9fde-f74ddb9efc82.pdf</link>
+            <guid>https://leap.epa.ie/docs/c0db50c5-1bef-452a-9fde-f74ddb9efc82.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 21:32:08 GMT</pubDate>
+            <description><![CDATA[Roadstone Bennettsbridge Environment Map.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Roadstone Bennettsbridge Environment Map.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV28531 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/dc656b35-fb0d-4c79-994a-a66da6fae85d.pdf</link>
-            <guid>https://leap.epa.ie/docs/dc656b35-fb0d-4c79-994a-a66da6fae85d.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:31:18 GMT</pubDate>
-            <description><![CDATA[SV28531 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0606-04 -- SSE Generation Ireland Limited: SV28531 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI029195.pdf]]></title>
+            <link>https://leap.epa.ie/docs/cbcbbcac-11e0-4fc7-83b1-1bd1cf6fca4d.pdf</link>
+            <guid>https://leap.epa.ie/docs/cbcbbcac-11e0-4fc7-83b1-1bd1cf6fca4d.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 21:31:54 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI029195.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Snapshot-INCI029195.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV28824 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/590d29b5-4727-40dd-949e-36099f9f64e4.pdf</link>
-            <guid>https://leap.epa.ie/docs/590d29b5-4727-40dd-949e-36099f9f64e4.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:31:45 GMT</pubDate>
-            <description><![CDATA[SV28824 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0836-01 -- Suretank Limited: SV28824 - Licensee Report.pdf]]></content:encoded>
+            <title><![CDATA[302450-1 06.11.2024 - 02.12.2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c4fdfc44-5161-4326-993b-488e39a84963.pdf</link>
+            <guid>https://leap.epa.ie/docs/c4fdfc44-5161-4326-993b-488e39a84963.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 21:31:28 GMT</pubDate>
+            <description><![CDATA[302450-1 06.11.2024 - 02.12.2024.pdf]]></description>
+            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: 302450-1 06.11.2024 - 02.12.2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Snapshot-INCI029191.pdf]]></title>
-            <link>https://leap.epa.ie/docs/0375f011-a110-4127-8605-6099b96b3891.pdf</link>
-            <guid>https://leap.epa.ie/docs/0375f011-a110-4127-8605-6099b96b3891.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:31:11 GMT</pubDate>
-            <description><![CDATA[Snapshot-INCI029191.pdf]]></description>
-            <content:encoded><![CDATA[W0074-03 -- Tipperary County Council: Snapshot-INCI029191.pdf]]></content:encoded>
+            <title><![CDATA[Air Emission Abatement Types 03.01.2025.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9a5ba5c3-6673-4787-b4d9-b22a690bddb1.pdf</link>
+            <guid>https://leap.epa.ie/docs/9a5ba5c3-6673-4787-b4d9-b22a690bddb1.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 21:31:35 GMT</pubDate>
+            <description><![CDATA[Air Emission Abatement Types 03.01.2025.pdf]]></description>
+            <content:encoded><![CDATA[P1069-01 -- William Connolly &amp; Sons Unlimited Company: Air Emission Abatement Types 03.01.2025.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[SV28798 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/4e7cd096-1a36-40fc-a45d-50adc31b10ea.pdf</link>
-            <guid>https://leap.epa.ie/docs/4e7cd096-1a36-40fc-a45d-50adc31b10ea.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:31:39 GMT</pubDate>
-            <description><![CDATA[SV28798 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0799-01 -- Glanbia Foods Society Limited: SV28798 - Licensee Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Rampere Noise Monitoring Report 2024 Q4.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d2429848-eafe-4222-8406-e2d0ce893719.pdf</link>
-            <guid>https://leap.epa.ie/docs/d2429848-eafe-4222-8406-e2d0ce893719.pdf</guid>
-            <pubDate>Sat, 01 Feb 2025 21:31:55 GMT</pubDate>
-            <description><![CDATA[Rampere Noise Monitoring Report 2024 Q4.pdf]]></description>
-            <content:encoded><![CDATA[W0066-03 -- Wicklow County Council: Rampere Noise Monitoring Report 2024 Q4.pdf]]></content:encoded>
+            <title><![CDATA[Redmills Goresbridge A2-19 1 2024 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/c8ae216f-3113-4054-846d-04c99d3a582d.pdf</link>
+            <guid>https://leap.epa.ie/docs/c8ae216f-3113-4054-846d-04c99d3a582d.pdf</guid>
+            <pubDate>Sun, 02 Feb 2025 21:31:49 GMT</pubDate>
+            <description><![CDATA[Redmills Goresbridge A2-19 1 2024 Report.pdf]]></description>
+            <content:encoded><![CDATA[P1069-01 -- William Connolly &amp; Sons Unlimited Company: Redmills Goresbridge A2-19 1 2024 Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
