@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 05 Feb 2025 04:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 04:39:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,30 +16,120 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Notification to Planning Authority - Register - LACT00018989]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280918fbf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280918fbf.pdf</guid>
-            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Planning Authority - Register - LACT00018989]]></description>
-            <content:encoded><![CDATA[P0442-03 -- Irish Distillers Limited: Notification to Planning Authority - Register - LACT00018989]]></content:encoded>
+            <title><![CDATA[IBR1345 Storm Water Management Update.pdf]]></title>
+            <link>https://leap.epa.ie/docs/029f5892-f10b-4d01-8f70-f2ef893ba6d0.pdf</link>
+            <guid>https://leap.epa.ie/docs/029f5892-f10b-4d01-8f70-f2ef893ba6d0.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 21:32:32 GMT</pubDate>
+            <description><![CDATA[IBR1345 Storm Water Management Update.pdf]]></description>
+            <content:encoded><![CDATA[P1022-02 -- Dublin Port Company: IBR1345 Storm Water Management Update.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[P0442-03 Register of Licence 1]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280918fc0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280918fc0.pdf</guid>
-            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[P0442-03 Register of Licence 1]]></description>
-            <content:encoded><![CDATA[P0442-03 -- Irish Distillers Limited: P0442-03 Register of Licence 1]]></content:encoded>
+            <title><![CDATA[Notification to Relevant Parties - Circulation of objs - LACT000]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809192a2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809192a2.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Relevant Parties - Circulation of objs - LACT000]]></description>
+            <content:encoded><![CDATA[P1165-01 -- Data And Power Hub Services Limited: Notification to Relevant Parties - Circulation of objs - LACT000]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Final Determination 124]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919216.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919216.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Final Determination 124]]></description>
+            <content:encoded><![CDATA[P0577-05 -- Electricity Supply Board: Final Determination 124]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Final Determination Decision - P0577-05 Electricity Supply Board]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919217.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919217.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Final Determination Decision - P0577-05 Electricity Supply Board]]></description>
+            <content:encoded><![CDATA[P0577-05 -- Electricity Supply Board: Final Determination Decision - P0577-05 Electricity Supply Board]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Relevant Parties Final Determination Decision]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919218.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919218.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Relevant Parties Final Determination Decision]]></description>
+            <content:encoded><![CDATA[P0577-05 -- Electricity Supply Board: Notification to Relevant Parties Final Determination Decision]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Web Notice - FD Issued  P0577-05  LACT00018995]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919280.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919280.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Web Notice - FD Issued  P0577-05  LACT00018995]]></description>
+            <content:encoded><![CDATA[P0577-05 -- Electricity Supply Board: Web Notice - FD Issued  P0577-05  LACT00018995]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
             <title><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280918fda.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280918fda.pdf</guid>
-            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809192b9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809192b9.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Letter to Third Party - Circulation of Register to Local Authori]]></description>
-            <content:encoded><![CDATA[P0442-03 -- Irish Distillers Limited: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <content:encoded><![CDATA[P0577-05 -- Electricity Supply Board: Letter to Third Party - Circulation of Register to Local Authori]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Planning Authority - Register - LACT00018999]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809192ba.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809192ba.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Planning Authority - Register - LACT00018999]]></description>
+            <content:encoded><![CDATA[P0577-05 -- Electricity Supply Board: Notification to Planning Authority - Register - LACT00018999]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0577-05 Register of Licence]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809192bb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809192bb.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[P0577-05 Register of Licence]]></description>
+            <content:encoded><![CDATA[P0577-05 -- Electricity Supply Board: P0577-05 Register of Licence]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[EIA Screening Determination - LACT00018985]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809193ac.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809193ac.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[EIA Screening Determination - LACT00018985]]></description>
+            <content:encoded><![CDATA[P1085-02 -- Haughey Poultry Farms Limited: EIA Screening Determination - LACT00018985]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00018996]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091926a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091926a.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00018996]]></description>
+            <content:encoded><![CDATA[P0652-02 -- Pfizer Ireland Pharmaceuticals: Notification to Applicant Extension Request - LACT00018996]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 040225 Response to Agency Ref. LACT00018996]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809193c3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809193c3.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 040225 Response to Agency Ref. LACT00018996]]></description>
+            <content:encoded><![CDATA[P0652-02 -- Pfizer Ireland Pharmaceuticals: Letter from Applicant - 040225 Response to Agency Ref. LACT00018996]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Licence Transfer - Application - Licence Transfer Report - LT00461]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919269.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280919269.pdf</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Licence Transfer - Application - Licence Transfer Report - LT00461]]></description>
+            <content:encoded><![CDATA[P0047-03 -- Slaney Foods International Unlimited Company: Licence Transfer - Application - Licence Transfer Report - LT00461]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
