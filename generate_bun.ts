@@ -83,7 +83,13 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
       // Idiots now generating invalid XML
       let santizedXML = xmlUtf16le.replace(/&/g, "&amp;amp;");
 
-      let RSSContent = await parser.parseString(santizedXML);
+      let RSSContent;
+      try {
+        RSSContent = await parser.parseString(santizedXML);
+      } catch (error) {
+        console.error("Error parsing RSS feed: " + eachRSSURL, error);
+        continue;
+      }
 
       // console.log(RSSContent.title);
       for (let j = 0; j < RSSContent.items.length; j++) {
@@ -99,48 +105,7 @@ async function scrapeNewsAndUploadS3(urlbase: string) {
         const items3url = "https://epa-rss.s3.eu-west-1.amazonaws.com/uploads/" + filename;
         const key = "uploads/" + filename;
 
-        /*
-        // Check if file already in S3. If it isn't, upload it
-        const s3Query = db.query(`SELECT items3url FROM allsubmissions where items3url=$urlreq;`);
-        let s3Rows = s3Query.all({ $urlreq: items3url });
-
-        let PDFBuffer;
-
-        if (s3Rows.length == 0) {
-          try {
-            const response = await fetch(item.link);
-            if (response.status === 404) {
-              console.log("PDF not found: " + item.link);
-              continue;
-            }
-            PDFBuffer = await response.arrayBuffer();
-          } catch (error) {
-            console.error("An PDF download error occurred:", error);
-            continue;
-          }
-
-          const s3Client = new S3Client(S3Config);
-
-          const uploadParams = {
-            Bucket: bucketName,
-            Key: key,
-            Body: Buffer.from(PDFBuffer),
-          };
-
-          try {
-            await s3Client.send(new PutObjectCommand(uploadParams));
-            console.log(`PDF uploaded successfully to S3: ${key}`);
-          } catch (error) {
-            console.error("An S3 upload error occurred:", error);
-            continue;
-          }
-
-        }
-*/
         // Check if file already in SQlite. If it isn't add it
-        // We have to add this because the geniuses are now including files in the RSS feed with no upload date
-        // So we need to use a pseudo-date of the first time we see the file instead of the 2050 trick I used before
-        // There was also a one-off setting of all dates to 2023-09-23 that were previously Mon, 03 Jan 2050 11:00:00 GMT 
         const query = db.query(`SELECT itemurl FROM allsubmissions where itemurl=$suburl;`);
         let rows = query.all({ $suburl: item.link });
 
