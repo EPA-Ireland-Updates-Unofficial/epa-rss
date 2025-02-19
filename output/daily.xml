@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 18 Feb 2025 04:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 04:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,41 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[P1092-01 Biomass Boiler Application Cover Letter.pdf]]></title>
+            <link>https://leap.epa.ie/docs/36e68972-b32f-4784-b277-8cdc64925fb8.pdf</link>
+            <guid>https://leap.epa.ie/docs/36e68972-b32f-4784-b277-8cdc64925fb8.pdf</guid>
+            <pubDate>Mon, 17 Feb 2025 21:31:08 GMT</pubDate>
+            <description><![CDATA[P1092-01 Biomass Boiler Application Cover Letter.pdf]]></description>
+            <content:encoded><![CDATA[P1092-01 -- Kevin McVicar: P1092-01 Biomass Boiler Application Cover Letter.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Att-7-4-2-Emissions-to-Air-Minor-Potential.pdf]]></title>
+            <link>https://leap.epa.ie/docs/56ddfdf5-f2d1-4c13-acc4-c94024c52415.pdf</link>
+            <guid>https://leap.epa.ie/docs/56ddfdf5-f2d1-4c13-acc4-c94024c52415.pdf</guid>
+            <pubDate>Mon, 17 Feb 2025 21:31:05 GMT</pubDate>
+            <description><![CDATA[Att-7-4-2-Emissions-to-Air-Minor-Potential.pdf]]></description>
+            <content:encoded><![CDATA[P1092-01 -- Kevin McVicar: Att-7-4-2-Emissions-to-Air-Minor-Potential.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P1092-01 Biomass Boiler AQA.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e9b5b969-53ac-46c9-9cda-2219ed782938.pdf</link>
+            <guid>https://leap.epa.ie/docs/e9b5b969-53ac-46c9-9cda-2219ed782938.pdf</guid>
+            <pubDate>Mon, 17 Feb 2025 21:31:16 GMT</pubDate>
+            <description><![CDATA[P1092-01 Biomass Boiler AQA.pdf]]></description>
+            <content:encoded><![CDATA[P1092-01 -- Kevin McVicar: P1092-01 Biomass Boiler AQA.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Extension Request Letter Indaver 17.02.25]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091d936.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28091d936.pdf</guid>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Extension Request Letter Indaver 17.02.25]]></description>
+            <content:encoded><![CDATA[W0167-04 -- Indaver Ireland Limited: Letter from Applicant - Extension Request Letter Indaver 17.02.25]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
