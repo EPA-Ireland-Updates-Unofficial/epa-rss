@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 05 Mar 2025 04:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 04:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,30 +16,255 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Letter from Applicant - Letter request for Extension 0325]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809210d1.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809210d1.pdf</guid>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Letter request for Extension 0325]]></description>
-            <content:encoded><![CDATA[P1214-01 -- Enfield Broiler Breeders Limited: Letter from Applicant - Letter request for Extension 0325]]></content:encoded>
+            <title><![CDATA[KMK Metals Recycling Limited A1 Q4 2024 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5bda4b49-68e6-4984-a24b-7e49582e5199.pdf</link>
+            <guid>https://leap.epa.ie/docs/5bda4b49-68e6-4984-a24b-7e49582e5199.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 21:32:13 GMT</pubDate>
+            <description><![CDATA[KMK Metals Recycling Limited A1 Q4 2024 Report.pdf]]></description>
+            <content:encoded><![CDATA[P1076-01 -- KMK Metals Recycling Limited: KMK Metals Recycling Limited A1 Q4 2024 Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Letter from Applicant - EPA letter to extend Feb 2025]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280921133.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280921133.pdf</guid>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - EPA letter to extend Feb 2025]]></description>
-            <content:encoded><![CDATA[P0294-02 -- Grant Engineering (Ireland) Unlimited Company: Letter from Applicant - EPA letter to extend Feb 2025]]></content:encoded>
+            <title><![CDATA[KMK Kilbeggan A3 Q4 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f82eaf03-5bbf-4956-bba3-a3c526319d9e.pdf</link>
+            <guid>https://leap.epa.ie/docs/f82eaf03-5bbf-4956-bba3-a3c526319d9e.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 21:31:54 GMT</pubDate>
+            <description><![CDATA[KMK Kilbeggan A3 Q4 2024.pdf]]></description>
+            <content:encoded><![CDATA[P1076-01 -- KMK Metals Recycling Limited: KMK Kilbeggan A3 Q4 2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00016882  26-02-2025]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809210d2.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809210d2.pdf</guid>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00016882  26-02-2025]]></description>
-            <content:encoded><![CDATA[P0652-02 -- Pfizer Ireland Pharmaceuticals: Notification to Applicant RFI Reminder  LACT00016882  26-02-2025]]></content:encoded>
+            <title><![CDATA[EPA HLMC Air Monitoring Cover Letter.pdf]]></title>
+            <link>https://leap.epa.ie/docs/26f0f993-b3c1-4624-9886-e69856542647.pdf</link>
+            <guid>https://leap.epa.ie/docs/26f0f993-b3c1-4624-9886-e69856542647.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 21:32:15 GMT</pubDate>
+            <description><![CDATA[EPA HLMC Air Monitoring Cover Letter.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: EPA HLMC Air Monitoring Cover Letter.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Speciated VOCs 7 2024 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/4d408b99-33c7-4895-a630-2249e3999d97.pdf</link>
+            <guid>https://leap.epa.ie/docs/4d408b99-33c7-4895-a630-2249e3999d97.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 21:32:38 GMT</pubDate>
+            <description><![CDATA[Speciated VOCs 7 2024 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: Speciated VOCs 7 2024 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Poly Brominated Diphenyl Ethers 7 2024 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/27da3a98-b119-42a6-aec1-2803ce1c44cd.pdf</link>
+            <guid>https://leap.epa.ie/docs/27da3a98-b119-42a6-aec1-2803ce1c44cd.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 21:32:26 GMT</pubDate>
+            <description><![CDATA[Poly Brominated Diphenyl Ethers 7 2024 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: Poly Brominated Diphenyl Ethers 7 2024 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Poly Chlorinated Biphenyls 7 2024 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d147d33c-94ed-47f4-8f63-78917c09c3b3.pdf</link>
+            <guid>https://leap.epa.ie/docs/d147d33c-94ed-47f4-8f63-78917c09c3b3.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 21:32:31 GMT</pubDate>
+            <description><![CDATA[Poly Chlorinated Biphenyls 7 2024 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: Poly Chlorinated Biphenyls 7 2024 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Chlorinated Fluorinated Hydrocarbons 7 2024 Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ff561e55-aeb3-4d08-9795-be292d3bbf54.pdf</link>
+            <guid>https://leap.epa.ie/docs/ff561e55-aeb3-4d08-9795-be292d3bbf54.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 21:32:11 GMT</pubDate>
+            <description><![CDATA[Chlorinated Fluorinated Hydrocarbons 7 2024 Report.pdf]]></description>
+            <content:encoded><![CDATA[P0997-01 -- The Hammond Lane Metal Company Limited: Chlorinated Fluorinated Hydrocarbons 7 2024 Report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-0001 SITE LOCATION]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215e8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215e8.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-0001 SITE LOCATION]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - 21 123F-CSE-00-XX-DR-C-0001 SITE LOCATION]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-0002 SITE LAYOUT]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215e9.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215e9.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-0002 SITE LAYOUT]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - 21 123F-CSE-00-XX-DR-C-0002 SITE LAYOUT]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-1100 SURFACE WATER]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ea.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ea.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-1100 SURFACE WATER]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - 21 123F-CSE-00-XX-DR-C-1100 SURFACE WATER]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-1200 FOUL WATER]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215eb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215eb.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-1200 FOUL WATER]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - 21 123F-CSE-00-XX-DR-C-1200 FOUL WATER]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-2000 EMISSION]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ec.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ec.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 21 123F-CSE-00-XX-DR-C-2000 EMISSION]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - 21 123F-CSE-00-XX-DR-C-2000 EMISSION]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 237501.0343NR12 (P1186-01 2023 Noise Survey)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ed.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ed.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 237501.0343NR12 (P1186-01 2023 Noise Survey)]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - 237501.0343NR12 (P1186-01 2023 Noise Survey)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 247501.0505NR02 (P1186-01 2024 Noise Survey)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ee.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ee.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 247501.0505NR02 (P1186-01 2024 Noise Survey)]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - 247501.0505NR02 (P1186-01 2024 Noise Survey)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 257501.0094L01-Response to Further Information]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ef.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215ef.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 257501.0094L01-Response to Further Information]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - 257501.0094L01-Response to Further Information]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-1-2-Non Technical Summary Rev]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f0.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-1-2-Non Technical Summary Rev]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - Attachment-1-2-Non Technical Summary Rev]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-4-6-2-Raw-Material-Rev]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f1.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-4-6-2-Raw-Material-Rev]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - Attachment-4-6-2-Raw-Material-Rev]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-4-7-4-BREF-Industrial Cooling-Rev]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f2.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f2.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-4-7-4-BREF-Industrial Cooling-Rev]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - Attachment-4-7-4-BREF-Industrial Cooling-Rev]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-4-8-1 Operational Report Rev]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f3.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f3.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-4-8-1 Operational Report Rev]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - Attachment-4-8-1 Operational Report Rev]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Attachment-4-8-3-Complete Baseline Report-Rev]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f4.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f4.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Attachment-4-8-3-Complete Baseline Report-Rev]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - Attachment-4-8-3-Complete Baseline Report-Rev]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - P1186-01 Condition 3.17]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f5.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f5.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - P1186-01 Condition 3.17]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - P1186-01 Condition 3.17]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - P1186-01 Conditions 7.2.1 and 7.2.2]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f6.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215f6.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - P1186-01 Conditions 7.2.1 and 7.2.2]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - P1186-01 Conditions 7.2.1 and 7.2.2]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Site Notice Check 10]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809214d7.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809214d7.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Site Notice Check 10]]></description>
+            <content:encoded><![CDATA[P1085-02 -- Haughey Poultry Farms Limited: Site Notice Check 10]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Assessment Of Major Accidents To The Environment]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215bf.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215bf.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Assessment Of Major Accidents To The Environment]]></description>
+            <content:encoded><![CDATA[P1208-01 -- Kilshane Energy  Limited: Unsolicited Additional Information - Assessment Of Major Accidents To The Environment]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - Emergency Response Plan]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215c0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215c0.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - Emergency Response Plan]]></description>
+            <content:encoded><![CDATA[P1208-01 -- Kilshane Energy  Limited: Unsolicited Additional Information - Emergency Response Plan]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - IE001090-RPS-DG-XX-DR-CE-0004]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215c1.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809215c1.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - IE001090-RPS-DG-XX-DR-CE-0004]]></description>
+            <content:encoded><![CDATA[P1208-01 -- Kilshane Energy  Limited: Unsolicited Additional Information - IE001090-RPS-DG-XX-DR-CE-0004]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0710-04 Site Notice Check]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280921485.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280921485.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[P0710-04 Site Notice Check]]></description>
+            <content:encoded><![CDATA[P0710-04 -- Mr Paul Tully: P0710-04 Site Notice Check]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - SDCC Agreement for consent for emissions to sewer]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809214ea.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809214ea.pdf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - SDCC Agreement for consent for emissions to sewer]]></description>
+            <content:encoded><![CDATA[P0652-02 -- Pfizer Ireland Pharmaceuticals: Letter from Applicant - SDCC Agreement for consent for emissions to sewer]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
