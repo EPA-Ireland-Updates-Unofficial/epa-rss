@@ -4,7 +4,7 @@
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sat, 15 Mar 2025 04:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 04:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -16,1020 +16,381 @@
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Final Determination &amp;amp; Notification]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923550.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923550.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 04:39:24 GMT</pubDate>
-            <description><![CDATA[Final Determination &amp;amp; Notification]]></description>
-            <content:encoded><![CDATA[P0359-03 -- Tirlán Limited: Final Determination &amp;amp; Notification]]></content:encoded>
+            <title><![CDATA[24-48 AN Cootehill FW RA Report Rev 0.pdf]]></title>
+            <link>https://leap.epa.ie/docs/03756183-eb56-447f-9e51-3b74e9a7acae.pdf</link>
+            <guid>https://leap.epa.ie/docs/03756183-eb56-447f-9e51-3b74e9a7acae.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:03 GMT</pubDate>
+            <description><![CDATA[24-48 AN Cootehill FW RA Report Rev 0.pdf]]></description>
+            <content:encoded><![CDATA[P0687-02 -- Abbott Ireland: 24-48 AN Cootehill FW RA Report Rev 0.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[Condition 1 Change Modular Build 10.02.25.pdf]]></title>
-            <link>https://leap.epa.ie/docs/02b18435-e6f4-4b09-9eea-6064f02871db.pdf</link>
-            <guid>https://leap.epa.ie/docs/02b18435-e6f4-4b09-9eea-6064f02871db.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:40:01 GMT</pubDate>
-            <description><![CDATA[Condition 1 Change Modular Build 10.02.25.pdf]]></description>
-            <content:encoded><![CDATA[P1087-01 -- AbbVie Ireland NL B.V.: Condition 1 Change Modular Build 10.02.25.pdf]]></content:encoded>
+            <title><![CDATA[Integrity Testing Certificates 2023 - 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/31a2f8a7-3c32-47cd-b70a-511fcd818ae1.pdf</link>
+            <guid>https://leap.epa.ie/docs/31a2f8a7-3c32-47cd-b70a-511fcd818ae1.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:32:07 GMT</pubDate>
+            <description><![CDATA[Integrity Testing Certificates 2023 - 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0687-02 -- Abbott Ireland: Integrity Testing Certificates 2023 - 2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.2.a. WWTP Monitoring.pdf]]></title>
-            <link>https://leap.epa.ie/docs/0d600531-8712-4ab1-b774-c05f784526f7.pdf</link>
-            <guid>https://leap.epa.ie/docs/0d600531-8712-4ab1-b774-c05f784526f7.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:57 GMT</pubDate>
-            <description><![CDATA[3.2.a. WWTP Monitoring.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.2.a. WWTP Monitoring.pdf]]></content:encoded>
+            <title><![CDATA[CCTV Survey Certificates 2023 - 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a382f298-23f6-4ec0-a9e8-ec588410014e.pdf</link>
+            <guid>https://leap.epa.ie/docs/a382f298-23f6-4ec0-a9e8-ec588410014e.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:32:01 GMT</pubDate>
+            <description><![CDATA[CCTV Survey Certificates 2023 - 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0687-02 -- Abbott Ireland: CCTV Survey Certificates 2023 - 2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.5 NC ER -  Incident Investigation - Dec 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/1553c628-340e-422b-ab6b-379c6939fe72.pdf</link>
-            <guid>https://leap.epa.ie/docs/1553c628-340e-422b-ab6b-379c6939fe72.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:35:12 GMT</pubDate>
-            <description><![CDATA[3.5 NC ER -  Incident Investigation - Dec 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.5 NC ER -  Incident Investigation - Dec 2024.pdf]]></content:encoded>
+            <title><![CDATA[EM 3.0 Noise Management Plan.pdf]]></title>
+            <link>https://leap.epa.ie/docs/325f6a1f-2eb0-4695-a83b-348fd3898e73.pdf</link>
+            <guid>https://leap.epa.ie/docs/325f6a1f-2eb0-4695-a83b-348fd3898e73.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:34 GMT</pubDate>
+            <description><![CDATA[EM 3.0 Noise Management Plan.pdf]]></description>
+            <content:encoded><![CDATA[P0812-02 -- Arrow Group Limited: EM 3.0 Noise Management Plan.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.1.b. EP 4.4.2 - Spillage Containment Proc.pdf]]></title>
-            <link>https://leap.epa.ie/docs/23c7d7ed-4bee-4e7a-9e92-e788be059c77.pdf</link>
-            <guid>https://leap.epa.ie/docs/23c7d7ed-4bee-4e7a-9e92-e788be059c77.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:45 GMT</pubDate>
-            <description><![CDATA[3.1.b. EP 4.4.2 - Spillage Containment Proc.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.1.b. EP 4.4.2 - Spillage Containment Proc.pdf]]></content:encoded>
+            <title><![CDATA[EMS.7.4.3.6.100_Sludge Recovery Request.pdf]]></title>
+            <link>https://leap.epa.ie/docs/63b28e2b-7184-4029-9a5a-bb85135b60c9.pdf</link>
+            <guid>https://leap.epa.ie/docs/63b28e2b-7184-4029-9a5a-bb85135b60c9.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:33:01 GMT</pubDate>
+            <description><![CDATA[EMS.7.4.3.6.100_Sludge Recovery Request.pdf]]></description>
+            <content:encoded><![CDATA[P0812-02 -- Arrow Group Limited: EMS.7.4.3.6.100_Sludge Recovery Request.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.4.a. Drains-MH-B - CS. Jan 2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/30583ed0-28a0-4ee2-8594-d23b8afcf417.pdf</link>
-            <guid>https://leap.epa.ie/docs/30583ed0-28a0-4ee2-8594-d23b8afcf417.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:34:28 GMT</pubDate>
-            <description><![CDATA[3.4.a. Drains-MH-B - CS. Jan 2025.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.4.a. Drains-MH-B - CS. Jan 2025.pdf]]></content:encoded>
+            <title><![CDATA[EM 2.0 Odour Management Plan.pdf]]></title>
+            <link>https://leap.epa.ie/docs/8863d9bb-cc1e-47ca-8971-a73747697b6d.pdf</link>
+            <guid>https://leap.epa.ie/docs/8863d9bb-cc1e-47ca-8971-a73747697b6d.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:51 GMT</pubDate>
+            <description><![CDATA[EM 2.0 Odour Management Plan.pdf]]></description>
+            <content:encoded><![CDATA[P0812-02 -- Arrow Group Limited: EM 2.0 Odour Management Plan.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2.c. Waste Disposal. June. 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/22b4451b-2516-4418-b526-a60f4b6e8d52.pdf</link>
-            <guid>https://leap.epa.ie/docs/22b4451b-2516-4418-b526-a60f4b6e8d52.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:31 GMT</pubDate>
-            <description><![CDATA[1.2.c. Waste Disposal. June. 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.c. Waste Disposal. June. 2024.pdf]]></content:encoded>
+            <title><![CDATA[EM 7.0 Traffic Management Plan.pdf]]></title>
+            <link>https://leap.epa.ie/docs/ea043e52-7406-4d1a-b2b1-8da182bdef6e.pdf</link>
+            <guid>https://leap.epa.ie/docs/ea043e52-7406-4d1a-b2b1-8da182bdef6e.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:29 GMT</pubDate>
+            <description><![CDATA[EM 7.0 Traffic Management Plan.pdf]]></description>
+            <content:encoded><![CDATA[P0812-02 -- Arrow Group Limited: EM 7.0 Traffic Management Plan.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.9.c. WWTP Monitoring.pdf]]></title>
-            <link>https://leap.epa.ie/docs/2f55a110-5715-4f87-85ce-6ed66d0de1ec.pdf</link>
-            <guid>https://leap.epa.ie/docs/2f55a110-5715-4f87-85ce-6ed66d0de1ec.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:52 GMT</pubDate>
-            <description><![CDATA[3.9.c. WWTP Monitoring.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.9.c. WWTP Monitoring.pdf]]></content:encoded>
+            <title><![CDATA[SV32076 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/5e45e27c-3410-4178-bc61-77e6d80d3f99.pdf</link>
+            <guid>https://leap.epa.ie/docs/5e45e27c-3410-4178-bc61-77e6d80d3f99.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:09 GMT</pubDate>
+            <description><![CDATA[SV32076 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0056-01 -- Colas Bitumen Emulsions (West) Limited: SV32076 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.5.a SoP SS.pdf]]></title>
-            <link>https://leap.epa.ie/docs/372388f6-9afd-4a4f-af92-1bd3a86aa038.pdf</link>
-            <guid>https://leap.epa.ie/docs/372388f6-9afd-4a4f-af92-1bd3a86aa038.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:35:17 GMT</pubDate>
-            <description><![CDATA[3.5.a SoP SS.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.5.a SoP SS.pdf]]></content:encoded>
+            <title><![CDATA[SV31101 Temperature Investigation Query 2025.pdf]]></title>
+            <link>https://leap.epa.ie/docs/88420152-5fcd-4a0b-8cf8-fd38f0268895.pdf</link>
+            <guid>https://leap.epa.ie/docs/88420152-5fcd-4a0b-8cf8-fd38f0268895.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:33:15 GMT</pubDate>
+            <description><![CDATA[SV31101 Temperature Investigation Query 2025.pdf]]></description>
+            <content:encoded><![CDATA[P0577-05 -- Electricity Supply Board: SV31101 Temperature Investigation Query 2025.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.5.d. Q-250000235 - 22-01-2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/4ee559d2-26a6-409c-92b7-c175a22ac9e2.pdf</link>
-            <guid>https://leap.epa.ie/docs/4ee559d2-26a6-409c-92b7-c175a22ac9e2.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:35:48 GMT</pubDate>
-            <description><![CDATA[3.5.d. Q-250000235 - 22-01-2025.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.5.d. Q-250000235 - 22-01-2025.pdf]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI029559.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0b3d590e-3976-427e-91ca-6983ac6d15ac.pdf</link>
+            <guid>https://leap.epa.ie/docs/0b3d590e-3976-427e-91ca-6983ac6d15ac.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:47 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI029559.pdf]]></description>
+            <content:encoded><![CDATA[P0648-02 -- Becton Dickinson Penel Limited (Irish Branch): Snapshot-INCI029559.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2 OB.pdf]]></title>
-            <link>https://leap.epa.ie/docs/57d5196c-6fba-4700-aa6a-a6bc58aaf6c9.pdf</link>
-            <guid>https://leap.epa.ie/docs/57d5196c-6fba-4700-aa6a-a6bc58aaf6c9.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:13 GMT</pubDate>
-            <description><![CDATA[1.2 OB.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2 OB.pdf]]></content:encoded>
+            <title><![CDATA[Service report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/019cf2bf-8c11-4e4b-9ca9-91dfff66bb69.pdf</link>
+            <guid>https://leap.epa.ie/docs/019cf2bf-8c11-4e4b-9ca9-91dfff66bb69.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:43 GMT</pubDate>
+            <description><![CDATA[Service report.pdf]]></description>
+            <content:encoded><![CDATA[P0648-02 -- Becton Dickinson Penel Limited (Irish Branch): Service report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.4.e. Map Be7 Product Areas.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5d6cb7e4-c714-4411-82aa-74384f4a405a.pdf</link>
-            <guid>https://leap.epa.ie/docs/5d6cb7e4-c714-4411-82aa-74384f4a405a.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:34:58 GMT</pubDate>
-            <description><![CDATA[3.4.e. Map Be7 Product Areas.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.4.e. Map Be7 Product Areas.pdf]]></content:encoded>
+            <title><![CDATA[Robert Kearns.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e7623e2c-97f6-4387-b2f4-b7a5c38a3794.pdf</link>
+            <guid>https://leap.epa.ie/docs/e7623e2c-97f6-4387-b2f4-b7a5c38a3794.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:41 GMT</pubDate>
+            <description><![CDATA[Robert Kearns.pdf]]></description>
+            <content:encoded><![CDATA[P0648-02 -- Becton Dickinson Penel Limited (Irish Branch): Robert Kearns.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.4.c. Ground Floor Plan - No Equipment.pdf]]></title>
-            <link>https://leap.epa.ie/docs/642ac11e-7898-4523-9460-f97242dad1ad.pdf</link>
-            <guid>https://leap.epa.ie/docs/642ac11e-7898-4523-9460-f97242dad1ad.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:34:39 GMT</pubDate>
-            <description><![CDATA[3.4.c. Ground Floor Plan - No Equipment.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.4.c. Ground Floor Plan - No Equipment.pdf]]></content:encoded>
+            <title><![CDATA[Leak location.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9a41dad8-6c77-4675-8a26-1fe1038d0814.pdf</link>
+            <guid>https://leap.epa.ie/docs/9a41dad8-6c77-4675-8a26-1fe1038d0814.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:31 GMT</pubDate>
+            <description><![CDATA[Leak location.pdf]]></description>
+            <content:encoded><![CDATA[P0648-02 -- Becton Dickinson Penel Limited (Irish Branch): Leak location.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2.f. Interceptor Report. Dec. 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/35c70027-36c4-420d-93dc-f931958f5e5f.pdf</link>
-            <guid>https://leap.epa.ie/docs/35c70027-36c4-420d-93dc-f931958f5e5f.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:58 GMT</pubDate>
-            <description><![CDATA[1.2.f. Interceptor Report. Dec. 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.f. Interceptor Report. Dec. 2024.pdf]]></content:encoded>
+            <title><![CDATA[Sirus_F-Gas Certificate_2025.pdf]]></title>
+            <link>https://leap.epa.ie/docs/9f30158d-b401-4807-b8af-43b6aff54093.pdf</link>
+            <guid>https://leap.epa.ie/docs/9f30158d-b401-4807-b8af-43b6aff54093.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:50 GMT</pubDate>
+            <description><![CDATA[Sirus_F-Gas Certificate_2025.pdf]]></description>
+            <content:encoded><![CDATA[P0648-02 -- Becton Dickinson Penel Limited (Irish Branch): Sirus_F-Gas Certificate_2025.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.3 OB ER -  Incident Investigation. Dec 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/3f5f1c0a-e4f0-49e6-b958-a0015a57ee1d.pdf</link>
-            <guid>https://leap.epa.ie/docs/3f5f1c0a-e4f0-49e6-b958-a0015a57ee1d.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:01 GMT</pubDate>
-            <description><![CDATA[3.3 OB ER -  Incident Investigation. Dec 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.3 OB ER -  Incident Investigation. Dec 2024.pdf]]></content:encoded>
+            <title><![CDATA[F-gas incident report Jan 25.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a7e1cd02-dc2d-46aa-96ed-8195d720b80f.pdf</link>
+            <guid>https://leap.epa.ie/docs/a7e1cd02-dc2d-46aa-96ed-8195d720b80f.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:26 GMT</pubDate>
+            <description><![CDATA[F-gas incident report Jan 25.pdf]]></description>
+            <content:encoded><![CDATA[P0648-02 -- Becton Dickinson Penel Limited (Irish Branch): F-gas incident report Jan 25.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2.a. Interceptor Report. Jan. 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/3fcf1c74-7600-46cd-8178-849febe83d9a.pdf</link>
-            <guid>https://leap.epa.ie/docs/3fcf1c74-7600-46cd-8178-849febe83d9a.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:16 GMT</pubDate>
-            <description><![CDATA[1.2.a. Interceptor Report. Jan. 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.a. Interceptor Report. Jan. 2024.pdf]]></content:encoded>
+            <title><![CDATA[David Holmes.pdf]]></title>
+            <link>https://leap.epa.ie/docs/f858f30e-2a24-48f7-be6a-e6f0b53cb231.pdf</link>
+            <guid>https://leap.epa.ie/docs/f858f30e-2a24-48f7-be6a-e6f0b53cb231.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:23 GMT</pubDate>
+            <description><![CDATA[David Holmes.pdf]]></description>
+            <content:encoded><![CDATA[P0648-02 -- Becton Dickinson Penel Limited (Irish Branch): David Holmes.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.1.a. EMP 100 026 - Daily Walk.xlsx]]></title>
-            <link>https://leap.epa.ie/docs/4db513b2-3191-4c04-a982-60f527a243ce.pdf</link>
-            <guid>https://leap.epa.ie/docs/4db513b2-3191-4c04-a982-60f527a243ce.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:41 GMT</pubDate>
-            <description><![CDATA[3.1.a. EMP 100 026 - Daily Walk.xlsx]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.1.a. EMP 100 026 - Daily Walk.xlsx]]></content:encoded>
+            <title><![CDATA[F-gas log.pdf]]></title>
+            <link>https://leap.epa.ie/docs/fbdff5e2-2a68-495b-9d8b-bf13a6105f1d.pdf</link>
+            <guid>https://leap.epa.ie/docs/fbdff5e2-2a68-495b-9d8b-bf13a6105f1d.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:29 GMT</pubDate>
+            <description><![CDATA[F-gas log.pdf]]></description>
+            <content:encoded><![CDATA[P0648-02 -- Becton Dickinson Penel Limited (Irish Branch): F-gas log.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2.c. Interceptor Report. June. 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/59cb933f-1d78-4fca-89eb-1fda6708ae32.pdf</link>
-            <guid>https://leap.epa.ie/docs/59cb933f-1d78-4fca-89eb-1fda6708ae32.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:26 GMT</pubDate>
-            <description><![CDATA[1.2.c. Interceptor Report. June. 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.c. Interceptor Report. June. 2024.pdf]]></content:encoded>
+            <title><![CDATA[SV31353 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/a3c1f47d-b06a-498a-bae9-0d2b46f9ce5d.pdf</link>
+            <guid>https://leap.epa.ie/docs/a3c1f47d-b06a-498a-bae9-0d2b46f9ce5d.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:21 GMT</pubDate>
+            <description><![CDATA[SV31353 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[W0286-01 -- Enva Ireland Limited: SV31353 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.9 NC- Incident Investigation. Dec 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5ad97802-cc38-4021-bc0f-246d33889152.pdf</link>
-            <guid>https://leap.epa.ie/docs/5ad97802-cc38-4021-bc0f-246d33889152.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:36 GMT</pubDate>
-            <description><![CDATA[3.9 NC- Incident Investigation. Dec 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.9 NC- Incident Investigation. Dec 2024.pdf]]></content:encoded>
+            <title><![CDATA[2025 Q1 Ground Water 01.pdf]]></title>
+            <link>https://leap.epa.ie/docs/85eb7e2d-5464-448f-806f-39088d013c89.pdf</link>
+            <guid>https://leap.epa.ie/docs/85eb7e2d-5464-448f-806f-39088d013c89.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:33:17 GMT</pubDate>
+            <description><![CDATA[2025 Q1 Ground Water 01.pdf]]></description>
+            <content:encoded><![CDATA[P0918-01 -- Hollister ULC: 2025 Q1 Ground Water 01.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.1 OB - Incident Investigation. Dec 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/677e67cb-ac42-4d34-bf7f-29b96fc6e932.pdf</link>
-            <guid>https://leap.epa.ie/docs/677e67cb-ac42-4d34-bf7f-29b96fc6e932.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:36 GMT</pubDate>
-            <description><![CDATA[3.1 OB - Incident Investigation. Dec 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.1 OB - Incident Investigation. Dec 2024.pdf]]></content:encoded>
+            <title><![CDATA[2025 Q1 Storm Water SW02.pdf]]></title>
+            <link>https://leap.epa.ie/docs/958949c4-5431-4671-a933-5334afa92c60.pdf</link>
+            <guid>https://leap.epa.ie/docs/958949c4-5431-4671-a933-5334afa92c60.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:47 GMT</pubDate>
+            <description><![CDATA[2025 Q1 Storm Water SW02.pdf]]></description>
+            <content:encoded><![CDATA[P0918-01 -- Hollister ULC: 2025 Q1 Storm Water SW02.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2.h. ER 20 - SW1 Inspections 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7f0d732e-7ce7-4647-95c1-e34fa57cc4e3.pdf</link>
-            <guid>https://leap.epa.ie/docs/7f0d732e-7ce7-4647-95c1-e34fa57cc4e3.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:34:11 GMT</pubDate>
-            <description><![CDATA[1.2.h. ER 20 - SW1 Inspections 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.h. ER 20 - SW1 Inspections 2024.pdf]]></content:encoded>
+            <title><![CDATA[2025 Q1 Ground Water 02.pdf]]></title>
+            <link>https://leap.epa.ie/docs/997d11b4-f203-4947-8b86-77d802d1b927.pdf</link>
+            <guid>https://leap.epa.ie/docs/997d11b4-f203-4947-8b86-77d802d1b927.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:33:20 GMT</pubDate>
+            <description><![CDATA[2025 Q1 Ground Water 02.pdf]]></description>
+            <content:encoded><![CDATA[P0918-01 -- Hollister ULC: 2025 Q1 Ground Water 02.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.9.d. EP 4.4.2 - Spillage Containment Proc.pdf]]></title>
-            <link>https://leap.epa.ie/docs/942c55e8-61a9-401b-9e69-783ae1980837.pdf</link>
-            <guid>https://leap.epa.ie/docs/942c55e8-61a9-401b-9e69-783ae1980837.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:56 GMT</pubDate>
-            <description><![CDATA[3.9.d. EP 4.4.2 - Spillage Containment Proc.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.9.d. EP 4.4.2 - Spillage Containment Proc.pdf]]></content:encoded>
+            <title><![CDATA[2025 Q1 Storm Water SW01.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7a3eb4b4-5658-49f5-84e1-5b2726393dd8.pdf</link>
+            <guid>https://leap.epa.ie/docs/7a3eb4b4-5658-49f5-84e1-5b2726393dd8.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:44 GMT</pubDate>
+            <description><![CDATA[2025 Q1 Storm Water SW01.pdf]]></description>
+            <content:encoded><![CDATA[P0918-01 -- Hollister ULC: 2025 Q1 Storm Water SW01.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.2 NC.pdf]]></title>
-            <link>https://leap.epa.ie/docs/9814b567-3643-4eac-b38b-c35bfff3554c.pdf</link>
-            <guid>https://leap.epa.ie/docs/9814b567-3643-4eac-b38b-c35bfff3554c.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:52 GMT</pubDate>
-            <description><![CDATA[3.2 NC.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.2 NC.pdf]]></content:encoded>
+            <title><![CDATA[2025 Q1 SE1 Sample.pdf]]></title>
+            <link>https://leap.epa.ie/docs/cd0e1023-1e35-4e8a-9849-df5e29fb19fa.pdf</link>
+            <guid>https://leap.epa.ie/docs/cd0e1023-1e35-4e8a-9849-df5e29fb19fa.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:41 GMT</pubDate>
+            <description><![CDATA[2025 Q1 SE1 Sample.pdf]]></description>
+            <content:encoded><![CDATA[P0918-01 -- Hollister ULC: 2025 Q1 SE1 Sample.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2.d. Surface Water 06 24.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a8305d38-4877-4f2d-b998-a326b2d154ac.pdf</link>
-            <guid>https://leap.epa.ie/docs/a8305d38-4877-4f2d-b998-a326b2d154ac.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:36 GMT</pubDate>
-            <description><![CDATA[1.2.d. Surface Water 06 24.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.d. Surface Water 06 24.pdf]]></content:encoded>
+            <title><![CDATA[Biological Monitoring response.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1b464cff-0647-44ac-b464-3682287ccb3b.pdf</link>
+            <guid>https://leap.epa.ie/docs/1b464cff-0647-44ac-b464-3682287ccb3b.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:06 GMT</pubDate>
+            <description><![CDATA[Biological Monitoring response.pdf]]></description>
+            <content:encoded><![CDATA[P1129-01 -- Minch Malt Limited: Biological Monitoring response.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[2.1.a. Interceptor Report. Dec. 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/b626e364-fb9a-4317-b2ea-e1621e969b1c.pdf</link>
-            <guid>https://leap.epa.ie/docs/b626e364-fb9a-4317-b2ea-e1621e969b1c.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:20 GMT</pubDate>
-            <description><![CDATA[2.1.a. Interceptor Report. Dec. 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 2.1.a. Interceptor Report. Dec. 2024.pdf]]></content:encoded>
+            <title><![CDATA[Groundwater Report December 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/6a636ead-4255-4c1e-8fa9-64bcd60c4ef1.pdf</link>
+            <guid>https://leap.epa.ie/docs/6a636ead-4255-4c1e-8fa9-64bcd60c4ef1.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:33:11 GMT</pubDate>
+            <description><![CDATA[Groundwater Report December 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0795-02 -- Mondelez Ireland Production Limited: Groundwater Report December 2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2.b. Waste Disposal. April. 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/ba3e436c-8866-4fec-96e2-07499c1fc152.pdf</link>
-            <guid>https://leap.epa.ie/docs/ba3e436c-8866-4fec-96e2-07499c1fc152.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:23 GMT</pubDate>
-            <description><![CDATA[1.2.b. Waste Disposal. April. 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.b. Waste Disposal. April. 2024.pdf]]></content:encoded>
+            <title><![CDATA[AER 2024.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2bee0115-03bf-41fd-80d4-a1362c1f512b.pdf</link>
+            <guid>https://leap.epa.ie/docs/2bee0115-03bf-41fd-80d4-a1362c1f512b.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:32:59 GMT</pubDate>
+            <description><![CDATA[AER 2024.pdf]]></description>
+            <content:encoded><![CDATA[P0891-01 -- Mr Kevin Ahern: AER 2024.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.3.a. EMP 100 026 - Daily Walk.xlsx]]></title>
-            <link>https://leap.epa.ie/docs/bdaede90-0df5-4c7f-895f-f8c06c629af7.pdf</link>
-            <guid>https://leap.epa.ie/docs/bdaede90-0df5-4c7f-895f-f8c06c629af7.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:05 GMT</pubDate>
-            <description><![CDATA[3.3.a. EMP 100 026 - Daily Walk.xlsx]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.3.a. EMP 100 026 - Daily Walk.xlsx]]></content:encoded>
+            <title><![CDATA[1. Additional Reporting Requirements 2024 (1).pdf]]></title>
+            <link>https://leap.epa.ie/docs/783ef843-fb65-44be-a0ef-286b55c296fc.pdf</link>
+            <guid>https://leap.epa.ie/docs/783ef843-fb65-44be-a0ef-286b55c296fc.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:32:56 GMT</pubDate>
+            <description><![CDATA[1. Additional Reporting Requirements 2024 (1).pdf]]></description>
+            <content:encoded><![CDATA[P0891-01 -- Mr Kevin Ahern: 1. Additional Reporting Requirements 2024 (1).pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.7.a. Drains-MH-B - CS. Jan 2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/bede6aea-ace7-4d66-8678-6f04a05d7f86.pdf</link>
-            <guid>https://leap.epa.ie/docs/bede6aea-ace7-4d66-8678-6f04a05d7f86.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:09 GMT</pubDate>
-            <description><![CDATA[3.7.a. Drains-MH-B - CS. Jan 2025.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.7.a. Drains-MH-B - CS. Jan 2025.pdf]]></content:encoded>
+            <title><![CDATA[SV31862 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/2f41f481-da73-4fd8-aefd-32a5c2676231.pdf</link>
+            <guid>https://leap.epa.ie/docs/2f41f481-da73-4fd8-aefd-32a5c2676231.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:27 GMT</pubDate>
+            <description><![CDATA[SV31862 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[P0556-01 -- Murray Timber (Ballon) Limited: SV31862 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.4.d. Ground Floor Plan - With Equipment.pdf]]></title>
-            <link>https://leap.epa.ie/docs/c5c5fa8b-14c9-45cf-8134-e0b39881807e.pdf</link>
-            <guid>https://leap.epa.ie/docs/c5c5fa8b-14c9-45cf-8134-e0b39881807e.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:34:50 GMT</pubDate>
-            <description><![CDATA[3.4.d. Ground Floor Plan - With Equipment.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.4.d. Ground Floor Plan - With Equipment.pdf]]></content:encoded>
+            <title><![CDATA[12. Dec 24 - Surface Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/40d584e3-de0b-49f0-9598-2693ccc6a098.pdf</link>
+            <guid>https://leap.epa.ie/docs/40d584e3-de0b-49f0-9598-2693ccc6a098.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:33:07 GMT</pubDate>
+            <description><![CDATA[12. Dec 24 - Surface Water.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: 12. Dec 24 - Surface Water.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.1 NC.pdf]]></title>
-            <link>https://leap.epa.ie/docs/cf9f6c97-3a8a-4351-a0c6-5791375f1682.pdf</link>
-            <guid>https://leap.epa.ie/docs/cf9f6c97-3a8a-4351-a0c6-5791375f1682.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:31:47 GMT</pubDate>
-            <description><![CDATA[1.1 NC.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.1 NC.pdf]]></content:encoded>
+            <title><![CDATA[10. Oct 24 - Surface Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7fdf55ea-18cf-4d7e-822b-e951cdaaae09.pdf</link>
+            <guid>https://leap.epa.ie/docs/7fdf55ea-18cf-4d7e-822b-e951cdaaae09.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:33:04 GMT</pubDate>
+            <description><![CDATA[10. Oct 24 - Surface Water.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: 10. Oct 24 - Surface Water.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.7.  Incident Investigation. Dec 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/db6d7567-0401-4b45-a061-18fa778050ff.pdf</link>
-            <guid>https://leap.epa.ie/docs/db6d7567-0401-4b45-a061-18fa778050ff.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:02 GMT</pubDate>
-            <description><![CDATA[3.7.  Incident Investigation. Dec 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.7.  Incident Investigation. Dec 2024.pdf]]></content:encoded>
+            <title><![CDATA[11. Nov 24 - Surface Water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e7f41a3b-1fea-4b7b-af7e-bf7252843134.pdf</link>
+            <guid>https://leap.epa.ie/docs/e7f41a3b-1fea-4b7b-af7e-bf7252843134.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:33:05 GMT</pubDate>
+            <description><![CDATA[11. Nov 24 - Surface Water.pdf]]></description>
+            <content:encoded><![CDATA[P0652-01 -- Pfizer Ireland Pharmaceuticals: 11. Nov 24 - Surface Water.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2.a. Waste Disposal. Jan. 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/dbd8fac5-757e-4b41-b5da-7eed5e7b2469.pdf</link>
-            <guid>https://leap.epa.ie/docs/dbd8fac5-757e-4b41-b5da-7eed5e7b2469.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:18 GMT</pubDate>
-            <description><![CDATA[1.2.a. Waste Disposal. Jan. 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.a. Waste Disposal. Jan. 2024.pdf]]></content:encoded>
+            <title><![CDATA[W0116-02 2024 SurfaceWater Waterford.pdf]]></title>
+            <link>https://leap.epa.ie/docs/7c7b5aea-96b4-40ed-bcaa-72f0a9313e3f.pdf</link>
+            <guid>https://leap.epa.ie/docs/7c7b5aea-96b4-40ed-bcaa-72f0a9313e3f.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:32:23 GMT</pubDate>
+            <description><![CDATA[W0116-02 2024 SurfaceWater Waterford.pdf]]></description>
+            <content:encoded><![CDATA[W0116-02 -- Starrus Eco Holdings Limited: W0116-02 2024 SurfaceWater Waterford.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.8 OB ER -  Incident Investigation. Dec 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/e86488ff-073c-44e2-ac81-d3f06d213eac.pdf</link>
-            <guid>https://leap.epa.ie/docs/e86488ff-073c-44e2-ac81-d3f06d213eac.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:20 GMT</pubDate>
-            <description><![CDATA[3.8 OB ER -  Incident Investigation. Dec 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.8 OB ER -  Incident Investigation. Dec 2024.pdf]]></content:encoded>
+            <title><![CDATA[W0116-02 2024 Dust Waterford.pdf]]></title>
+            <link>https://leap.epa.ie/docs/de5336de-7d2d-439c-bb72-d958f82deee9.pdf</link>
+            <guid>https://leap.epa.ie/docs/de5336de-7d2d-439c-bb72-d958f82deee9.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:32:35 GMT</pubDate>
+            <description><![CDATA[W0116-02 2024 Dust Waterford.pdf]]></description>
+            <content:encoded><![CDATA[W0116-02 -- Starrus Eco Holdings Limited: W0116-02 2024 Dust Waterford.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.9.b. SoP COD.pdf]]></title>
-            <link>https://leap.epa.ie/docs/ebc7bca5-48b0-4d3e-b296-3aa3fc15634f.pdf</link>
-            <guid>https://leap.epa.ie/docs/ebc7bca5-48b0-4d3e-b296-3aa3fc15634f.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:47 GMT</pubDate>
-            <description><![CDATA[3.9.b. SoP COD.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.9.b. SoP COD.pdf]]></content:encoded>
+            <title><![CDATA[SV31291 - Licensee Report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/703384ec-477b-434c-82c7-d9898412db45.pdf</link>
+            <guid>https://leap.epa.ie/docs/703384ec-477b-434c-82c7-d9898412db45.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:14 GMT</pubDate>
+            <description><![CDATA[SV31291 - Licensee Report.pdf]]></description>
+            <content:encoded><![CDATA[W0140-05 -- Starrus Eco Holdings Limited: SV31291 - Licensee Report.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.6 OB ER -  Incident Investigation. Dec 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/efbb4f62-75a4-4e18-a616-246a64fc8a6a.pdf</link>
-            <guid>https://leap.epa.ie/docs/efbb4f62-75a4-4e18-a616-246a64fc8a6a.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:35:52 GMT</pubDate>
-            <description><![CDATA[3.6 OB ER -  Incident Investigation. Dec 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.6 OB ER -  Incident Investigation. Dec 2024.pdf]]></content:encoded>
+            <title><![CDATA[W0177-03 2024 Surface water.pdf]]></title>
+            <link>https://leap.epa.ie/docs/36ac3f35-72db-4f94-90ec-4418cf8f9fe3.pdf</link>
+            <guid>https://leap.epa.ie/docs/36ac3f35-72db-4f94-90ec-4418cf8f9fe3.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:32:15 GMT</pubDate>
+            <description><![CDATA[W0177-03 2024 Surface water.pdf]]></description>
+            <content:encoded><![CDATA[W0177-03 -- Starrus Eco Holdings Limited: W0177-03 2024 Surface water.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[1.2.g. Drains-MH-B - CS. Jan 2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/72157c01-aed1-47b4-b3fd-580991b9cf97.pdf</link>
-            <guid>https://leap.epa.ie/docs/72157c01-aed1-47b4-b3fd-580991b9cf97.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:34:05 GMT</pubDate>
-            <description><![CDATA[1.2.g. Drains-MH-B - CS. Jan 2025.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.g. Drains-MH-B - CS. Jan 2025.pdf]]></content:encoded>
+            <title><![CDATA[W0177-03 GroundWater 2024 GES Waterford.pdf]]></title>
+            <link>https://leap.epa.ie/docs/e6b09a19-a403-40bf-9d93-58836c633182.pdf</link>
+            <guid>https://leap.epa.ie/docs/e6b09a19-a403-40bf-9d93-58836c633182.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:18 GMT</pubDate>
+            <description><![CDATA[W0177-03 GroundWater 2024 GES Waterford.pdf]]></description>
+            <content:encoded><![CDATA[W0177-03 -- Starrus Eco Holdings Limited: W0177-03 GroundWater 2024 GES Waterford.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.4.f. Process Flow.pdf]]></title>
-            <link>https://leap.epa.ie/docs/80ce8944-d5d7-4c15-afa4-973fe0669daa.pdf</link>
-            <guid>https://leap.epa.ie/docs/80ce8944-d5d7-4c15-afa4-973fe0669daa.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:35:06 GMT</pubDate>
-            <description><![CDATA[3.4.f. Process Flow.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.4.f. Process Flow.pdf]]></content:encoded>
+            <title><![CDATA[Snapshot-INCI029560.pdf]]></title>
+            <link>https://leap.epa.ie/docs/0b569713-c5e4-401e-8551-c30ac47d45ba.pdf</link>
+            <guid>https://leap.epa.ie/docs/0b569713-c5e4-401e-8551-c30ac47d45ba.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 21:31:52 GMT</pubDate>
+            <description><![CDATA[Snapshot-INCI029560.pdf]]></description>
+            <content:encoded><![CDATA[P0004-06 -- Thermo Fisher Scientific Cork Limited: Snapshot-INCI029560.pdf]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.5.b. SoP COD.pdf]]></title>
-            <link>https://leap.epa.ie/docs/86e95d0d-ad71-40cb-8c02-064f9dd31f8c.pdf</link>
-            <guid>https://leap.epa.ie/docs/86e95d0d-ad71-40cb-8c02-064f9dd31f8c.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:35:36 GMT</pubDate>
-            <description><![CDATA[3.5.b. SoP COD.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.5.b. SoP COD.pdf]]></content:encoded>
+            <title><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280924168.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280924168.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Request for Further Information -LACT0]]></description>
+            <content:encoded><![CDATA[P1030-02 -- Alexion Pharma International Operations Limited &amp; Astrazeneca Ireland Limited: Notification to Applicant Request for Further Information -LACT0]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.9.a SoP SS.pdf]]></title>
-            <link>https://leap.epa.ie/docs/92b192ca-3e4b-495c-a2b4-4c3ebbf10d79.pdf</link>
-            <guid>https://leap.epa.ie/docs/92b192ca-3e4b-495c-a2b4-4c3ebbf10d79.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:41 GMT</pubDate>
-            <description><![CDATA[3.9.a SoP SS.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.9.a SoP SS.pdf]]></content:encoded>
+            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00018846  14-03-2025]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280924264.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280924264.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00018846  14-03-2025]]></description>
+            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Notification to Applicant RFI Reminder  LACT00018846  14-03-2025]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.7.c. EP 4.4.2 - Spillage Containment Pro.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a62d6c35-9572-4b85-bd3f-58157967e971.pdf</link>
-            <guid>https://leap.epa.ie/docs/a62d6c35-9572-4b85-bd3f-58157967e971.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:14 GMT</pubDate>
-            <description><![CDATA[3.7.c. EP 4.4.2 - Spillage Containment Pro.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.7.c. EP 4.4.2 - Spillage Containment Pro.pdf]]></content:encoded>
+            <title><![CDATA[AA Screening - Public Notice - LACT00019261]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809241ca.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809241ca.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[AA Screening - Public Notice - LACT00019261]]></description>
+            <content:encoded><![CDATA[P1220-01 -- Mr. Niall Mc Kenna: AA Screening - Public Notice - LACT00019261]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.7.d Area C draft 5.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a7b2b367-3a5f-4dd3-a25e-5ed9ff5e1eec.pdf</link>
-            <guid>https://leap.epa.ie/docs/a7b2b367-3a5f-4dd3-a25e-5ed9ff5e1eec.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:05 GMT</pubDate>
-            <description><![CDATA[3.7.d Area C draft 5.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.7.d Area C draft 5.pdf]]></content:encoded>
+            <title><![CDATA[AA Screening Determination - LACT00019261]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809241cb.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809241cb.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[AA Screening Determination - LACT00019261]]></description>
+            <content:encoded><![CDATA[P1220-01 -- Mr. Niall Mc Kenna: AA Screening Determination - LACT00019261]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
         <item>
-            <title><![CDATA[3.5.c. WWTP Monitoring.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a7e8fedf-2dac-41f7-ba30-dd023daa9f0b.pdf</link>
-            <guid>https://leap.epa.ie/docs/a7e8fedf-2dac-41f7-ba30-dd023daa9f0b.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:35:45 GMT</pubDate>
-            <description><![CDATA[3.5.c. WWTP Monitoring.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.5.c. WWTP Monitoring.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[3.7.b. Environmental Team Training.pdf]]></title>
-            <link>https://leap.epa.ie/docs/b7554dcc-afbd-4a2f-9230-b79ae43cd03f.pdf</link>
-            <guid>https://leap.epa.ie/docs/b7554dcc-afbd-4a2f-9230-b79ae43cd03f.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:10 GMT</pubDate>
-            <description><![CDATA[3.7.b. Environmental Team Training.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.7.b. Environmental Team Training.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[1.1.a SoP SS.pdf]]></title>
-            <link>https://leap.epa.ie/docs/cc2bb3f2-f780-424c-9b0a-fe26ff530ff9.pdf</link>
-            <guid>https://leap.epa.ie/docs/cc2bb3f2-f780-424c-9b0a-fe26ff530ff9.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:31:53 GMT</pubDate>
-            <description><![CDATA[1.1.a SoP SS.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.1.a SoP SS.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[1.1.c. WWTP Monitoring.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d0421b8f-d17c-455c-a402-34e91e41c7e9.pdf</link>
-            <guid>https://leap.epa.ie/docs/d0421b8f-d17c-455c-a402-34e91e41c7e9.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:12 GMT</pubDate>
-            <description><![CDATA[1.1.c. WWTP Monitoring.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.1.c. WWTP Monitoring.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[3.4 OB ER -  Incident Investigation. Dec 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d07ee66a-566b-4895-be3f-7b4f872999b6.pdf</link>
-            <guid>https://leap.epa.ie/docs/d07ee66a-566b-4895-be3f-7b4f872999b6.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:34:21 GMT</pubDate>
-            <description><![CDATA[3.4 OB ER -  Incident Investigation. Dec 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.4 OB ER -  Incident Investigation. Dec 2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[3.8.a. WWTP Monitoring.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d42a75bf-5ccf-43c7-8b3f-99f7f168024b.pdf</link>
-            <guid>https://leap.epa.ie/docs/d42a75bf-5ccf-43c7-8b3f-99f7f168024b.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:36:28 GMT</pubDate>
-            <description><![CDATA[3.8.a. WWTP Monitoring.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.8.a. WWTP Monitoring.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[3.9.e. EP 4.5.3 - Emissions to surface water.pdf]]></title>
-            <link>https://leap.epa.ie/docs/e2177719-7f51-4320-bdaf-f77baf3b1d36.pdf</link>
-            <guid>https://leap.epa.ie/docs/e2177719-7f51-4320-bdaf-f77baf3b1d36.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:00 GMT</pubDate>
-            <description><![CDATA[3.9.e. EP 4.5.3 - Emissions to surface water.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.9.e. EP 4.5.3 - Emissions to surface water.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[1.2.b. Interceptor Report. April. 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/e26798fe-ad74-4177-846b-89a20f036757.pdf</link>
-            <guid>https://leap.epa.ie/docs/e26798fe-ad74-4177-846b-89a20f036757.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:21 GMT</pubDate>
-            <description><![CDATA[1.2.b. Interceptor Report. April. 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.b. Interceptor Report. April. 2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[3.9.f. SHE Off Training .pdf]]></title>
-            <link>https://leap.epa.ie/docs/e96c9e36-9a34-42e4-9caf-3112f8922b60.pdf</link>
-            <guid>https://leap.epa.ie/docs/e96c9e36-9a34-42e4-9caf-3112f8922b60.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:02 GMT</pubDate>
-            <description><![CDATA[3.9.f. SHE Off Training .pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.9.f. SHE Off Training .pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[3.6.a. ETP Assessment Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f2848712-b1d6-4575-ab03-944cb412e320.pdf</link>
-            <guid>https://leap.epa.ie/docs/f2848712-b1d6-4575-ab03-944cb412e320.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:35:55 GMT</pubDate>
-            <description><![CDATA[3.6.a. ETP Assessment Report.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.6.a. ETP Assessment Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[3.4.b. Plant S Water Waste drains.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f63aec50-8287-4d39-8c24-ad596b37f173.pdf</link>
-            <guid>https://leap.epa.ie/docs/f63aec50-8287-4d39-8c24-ad596b37f173.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:34:35 GMT</pubDate>
-            <description><![CDATA[3.4.b. Plant S Water Waste drains.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 3.4.b. Plant S Water Waste drains.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[1.1.b. SoP COD.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f6d4dbc5-a2e9-4394-816c-5fb603674234.pdf</link>
-            <guid>https://leap.epa.ie/docs/f6d4dbc5-a2e9-4394-816c-5fb603674234.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:05 GMT</pubDate>
-            <description><![CDATA[1.1.b. SoP COD.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.1.b. SoP COD.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[2.1.b. Drains-MH-B - CS. Jan 2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fca5ebb6-9c88-463e-b276-418547e4c260.pdf</link>
-            <guid>https://leap.epa.ie/docs/fca5ebb6-9c88-463e-b276-418547e4c260.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:27 GMT</pubDate>
-            <description><![CDATA[2.1.b. Drains-MH-B - CS. Jan 2025.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 2.1.b. Drains-MH-B - CS. Jan 2025.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[2.1 OB - Incident Investigation. Dec 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/ff5a234c-9d10-40a2-9799-2127cf28cf17.pdf</link>
-            <guid>https://leap.epa.ie/docs/ff5a234c-9d10-40a2-9799-2127cf28cf17.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:17 GMT</pubDate>
-            <description><![CDATA[2.1 OB - Incident Investigation. Dec 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 2.1 OB - Incident Investigation. Dec 2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[1.2.e. Sep - MHF2.1 - MHF2.2 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fface89a-5853-47de-aebd-4d7b5b391b86.pdf</link>
-            <guid>https://leap.epa.ie/docs/fface89a-5853-47de-aebd-4d7b5b391b86.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:33:41 GMT</pubDate>
-            <description><![CDATA[1.2.e. Sep - MHF2.1 - MHF2.2 Report.pdf]]></description>
-            <content:encoded><![CDATA[P0805-01 -- Birds Eye Ireland Limited: 1.2.e. Sep - MHF2.1 - MHF2.2 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[24814-CORA-ZZ-ZZZ-DR-S-BS-R001.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8fb5f470-20d5-493c-a54f-05c9ad4536f1.pdf</link>
-            <guid>https://leap.epa.ie/docs/8fb5f470-20d5-493c-a54f-05c9ad4536f1.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:40:49 GMT</pubDate>
-            <description><![CDATA[24814-CORA-ZZ-ZZZ-DR-S-BS-R001.pdf]]></description>
-            <content:encoded><![CDATA[P0125-02 -- Clarochem Ireland Limited: 24814-CORA-ZZ-ZZZ-DR-S-BS-R001.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[24814-CORA-ZZ-ZZZ-DR-S-R001.pdf]]></title>
-            <link>https://leap.epa.ie/docs/991a8c9b-0a73-4fd5-b981-272c29ad0207.pdf</link>
-            <guid>https://leap.epa.ie/docs/991a8c9b-0a73-4fd5-b981-272c29ad0207.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:40:51 GMT</pubDate>
-            <description><![CDATA[24814-CORA-ZZ-ZZZ-DR-S-R001.pdf]]></description>
-            <content:encoded><![CDATA[P0125-02 -- Clarochem Ireland Limited: 24814-CORA-ZZ-ZZZ-DR-S-R001.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[24814-CORA-ZZ-ZZZ-DR-S-R002.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8931497b-cf74-49c4-b1e0-d34018d85a0b.pdf</link>
-            <guid>https://leap.epa.ie/docs/8931497b-cf74-49c4-b1e0-d34018d85a0b.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:40:54 GMT</pubDate>
-            <description><![CDATA[24814-CORA-ZZ-ZZZ-DR-S-R002.pdf]]></description>
-            <content:encoded><![CDATA[P0125-02 -- Clarochem Ireland Limited: 24814-CORA-ZZ-ZZZ-DR-S-R002.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Volume and Materials .pdf]]></title>
-            <link>https://leap.epa.ie/docs/b29f9ffc-d359-4957-a4f4-6632b9c8af75.pdf</link>
-            <guid>https://leap.epa.ie/docs/b29f9ffc-d359-4957-a4f4-6632b9c8af75.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:40:58 GMT</pubDate>
-            <description><![CDATA[Volume and Materials .pdf]]></description>
-            <content:encoded><![CDATA[P0125-02 -- Clarochem Ireland Limited: Volume and Materials .pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[KA1-420-RevC-Model.pdf]]></title>
-            <link>https://leap.epa.ie/docs/cc2b5ba3-3aae-44a5-be87-213e55bb6536.pdf</link>
-            <guid>https://leap.epa.ie/docs/cc2b5ba3-3aae-44a5-be87-213e55bb6536.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:40:56 GMT</pubDate>
-            <description><![CDATA[KA1-420-RevC-Model.pdf]]></description>
-            <content:encoded><![CDATA[P0125-02 -- Clarochem Ireland Limited: KA1-420-RevC-Model.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Youghal landfill Annual Dust report 2024 .pdf]]></title>
-            <link>https://leap.epa.ie/docs/7ac22dde-77c8-45ca-a7a6-969b3a40a9f6.pdf</link>
-            <guid>https://leap.epa.ie/docs/7ac22dde-77c8-45ca-a7a6-969b3a40a9f6.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:34 GMT</pubDate>
-            <description><![CDATA[Youghal landfill Annual Dust report 2024 .pdf]]></description>
-            <content:encoded><![CDATA[W0068-03 -- Cork County Council: Youghal landfill Annual Dust report 2024 .pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV31332 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/e0a5f606-4ef0-4dde-b3b1-9e195921218d.pdf</link>
-            <guid>https://leap.epa.ie/docs/e0a5f606-4ef0-4dde-b3b1-9e195921218d.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:31:01 GMT</pubDate>
-            <description><![CDATA[SV31332 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[W0232-02 -- Dublin Waste to Energy Limited: SV31332 - Licensee Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV31909 - Licensee Public Response.pdf]]></title>
-            <link>https://leap.epa.ie/docs/aa050ab5-cfd8-4b02-b217-33054e1283ce.pdf</link>
-            <guid>https://leap.epa.ie/docs/aa050ab5-cfd8-4b02-b217-33054e1283ce.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:41:10 GMT</pubDate>
-            <description><![CDATA[SV31909 - Licensee Public Response.pdf]]></description>
-            <content:encoded><![CDATA[W0211-02 -- ERAS ECO Limited: SV31909 - Licensee Public Response.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Snapshot-INCI029552.pdf]]></title>
-            <link>https://leap.epa.ie/docs/9d7101c8-57c6-4364-9e26-79198193309e.pdf</link>
-            <guid>https://leap.epa.ie/docs/9d7101c8-57c6-4364-9e26-79198193309e.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:31:58 GMT</pubDate>
-            <description><![CDATA[Snapshot-INCI029552.pdf]]></description>
-            <content:encoded><![CDATA[P0969-02 -- Euroflex Teoranta: Snapshot-INCI029552.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[FID Routine maintenance notification.pdf]]></title>
-            <link>https://leap.epa.ie/docs/bcf71a80-840a-4077-b88a-118de44e9e66.pdf</link>
-            <guid>https://leap.epa.ie/docs/bcf71a80-840a-4077-b88a-118de44e9e66.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:31:55 GMT</pubDate>
-            <description><![CDATA[FID Routine maintenance notification.pdf]]></description>
-            <content:encoded><![CDATA[P0969-02 -- Euroflex Teoranta: FID Routine maintenance notification.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Location of E-stop and ladder.jpg]]></title>
-            <link>https://leap.epa.ie/docs/e4d8b047-61bc-4052-8fee-5fc57c7cc6a6.pdf</link>
-            <guid>https://leap.epa.ie/docs/e4d8b047-61bc-4052-8fee-5fc57c7cc6a6.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:08 GMT</pubDate>
-            <description><![CDATA[Location of E-stop and ladder.jpg]]></description>
-            <content:encoded><![CDATA[P0969-02 -- Euroflex Teoranta: Location of E-stop and ladder.jpg]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Measured values_2025-02-11.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fe9035f2-c344-4c3b-9a7e-002d74d0f931.pdf</link>
-            <guid>https://leap.epa.ie/docs/fe9035f2-c344-4c3b-9a7e-002d74d0f931.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:32:11 GMT</pubDate>
-            <description><![CDATA[Measured values_2025-02-11.pdf]]></description>
-            <content:encoded><![CDATA[P0969-02 -- Euroflex Teoranta: Measured values_2025-02-11.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[603690 L05 (00) Remediation Update - December.pdf]]></title>
-            <link>https://leap.epa.ie/docs/56752d72-503a-43e6-bf9a-07e87dc0f37e.pdf</link>
-            <guid>https://leap.epa.ie/docs/56752d72-503a-43e6-bf9a-07e87dc0f37e.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:40:19 GMT</pubDate>
-            <description><![CDATA[603690 L05 (00) Remediation Update - December.pdf]]></description>
-            <content:encoded><![CDATA[P0059-02 -- Fronville Limited: 603690 L05 (00) Remediation Update - December.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ITW Ireland A2-3 MMA 3 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/36a386af-b9a5-462b-86bb-51a8216f4c5a.pdf</link>
-            <guid>https://leap.epa.ie/docs/36a386af-b9a5-462b-86bb-51a8216f4c5a.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:27 GMT</pubDate>
-            <description><![CDATA[ITW Ireland A2-3 MMA 3 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[P0072-04 -- ITW Ireland Unlimited Company: ITW Ireland A2-3 MMA 3 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ITW Ireland A2-3 4 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/4d136126-ac79-4c57-80f2-de76b2c43b34.pdf</link>
-            <guid>https://leap.epa.ie/docs/4d136126-ac79-4c57-80f2-de76b2c43b34.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:24 GMT</pubDate>
-            <description><![CDATA[ITW Ireland A2-3 4 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[P0072-04 -- ITW Ireland Unlimited Company: ITW Ireland A2-3 4 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ITW Ireland A2-2 3 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/47adb32d-01fa-4949-8add-d2d2addc50f7.pdf</link>
-            <guid>https://leap.epa.ie/docs/47adb32d-01fa-4949-8add-d2d2addc50f7.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:08 GMT</pubDate>
-            <description><![CDATA[ITW Ireland A2-2 3 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[P0072-04 -- ITW Ireland Unlimited Company: ITW Ireland A2-2 3 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ITW Ireland A2-3 MMA 4 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/a582df92-4e70-44f0-917c-f954bd28c8c3.pdf</link>
-            <guid>https://leap.epa.ie/docs/a582df92-4e70-44f0-917c-f954bd28c8c3.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:31 GMT</pubDate>
-            <description><![CDATA[ITW Ireland A2-3 MMA 4 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[P0072-04 -- ITW Ireland Unlimited Company: ITW Ireland A2-3 MMA 4 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ITW Ireland A2-3 3 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/aec3ebdb-557e-4700-bba1-7acf0375bdc6.pdf</link>
-            <guid>https://leap.epa.ie/docs/aec3ebdb-557e-4700-bba1-7acf0375bdc6.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:18 GMT</pubDate>
-            <description><![CDATA[ITW Ireland A2-3 3 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[P0072-04 -- ITW Ireland Unlimited Company: ITW Ireland A2-3 3 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ITW Ireland A2-1 4 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/dfb178ec-f5ae-47bd-a62c-0aab20a0eef1.pdf</link>
-            <guid>https://leap.epa.ie/docs/dfb178ec-f5ae-47bd-a62c-0aab20a0eef1.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:04 GMT</pubDate>
-            <description><![CDATA[ITW Ireland A2-1 4 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[P0072-04 -- ITW Ireland Unlimited Company: ITW Ireland A2-1 4 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ITW Ireland A2-1 3 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f95986c6-e933-4707-9fa1-5a1444e62d59.pdf</link>
-            <guid>https://leap.epa.ie/docs/f95986c6-e933-4707-9fa1-5a1444e62d59.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:59 GMT</pubDate>
-            <description><![CDATA[ITW Ireland A2-1 3 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[P0072-04 -- ITW Ireland Unlimited Company: ITW Ireland A2-1 3 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[ITW Ireland A2-2 4 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d767b867-b9a3-4446-b204-a373cdbb6614.pdf</link>
-            <guid>https://leap.epa.ie/docs/d767b867-b9a3-4446-b204-a373cdbb6614.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:12 GMT</pubDate>
-            <description><![CDATA[ITW Ireland A2-2 4 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[P0072-04 -- ITW Ireland Unlimited Company: ITW Ireland A2-2 4 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[AS1 Total Phosphorus .pdf]]></title>
-            <link>https://leap.epa.ie/docs/288b5470-df15-488d-88ad-69a45bd816d6.pdf</link>
-            <guid>https://leap.epa.ie/docs/288b5470-df15-488d-88ad-69a45bd816d6.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:57 GMT</pubDate>
-            <description><![CDATA[AS1 Total Phosphorus .pdf]]></description>
-            <content:encoded><![CDATA[P0168-02 -- Kepak Athleague: AS1 Total Phosphorus .pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[60727849_ACM_EN_RP_04_1 Stormwater Trigger V pH.pdf]]></title>
-            <link>https://leap.epa.ie/docs/67532d1a-6bce-4dd9-b96e-70daa901d765.pdf</link>
-            <guid>https://leap.epa.ie/docs/67532d1a-6bce-4dd9-b96e-70daa901d765.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:52 GMT</pubDate>
-            <description><![CDATA[60727849_ACM_EN_RP_04_1 Stormwater Trigger V pH.pdf]]></description>
-            <content:encoded><![CDATA[P1073-02 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): 60727849_ACM_EN_RP_04_1 Stormwater Trigger V pH.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Organics AEP2 1 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/3ac71eda-4bee-42ec-a229-6f5a0ade2f9c.pdf</link>
-            <guid>https://leap.epa.ie/docs/3ac71eda-4bee-42ec-a229-6f5a0ade2f9c.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:00 GMT</pubDate>
-            <description><![CDATA[Ormonde Organics AEP2 1 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Ormonde Organics AEP2 1 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Organics AEP1 2 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/4567ca80-209f-480d-bf7f-9417a571f86b.pdf</link>
-            <guid>https://leap.epa.ie/docs/4567ca80-209f-480d-bf7f-9417a571f86b.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:41 GMT</pubDate>
-            <description><![CDATA[Ormonde Organics AEP1 2 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Ormonde Organics AEP1 2 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Declaration 2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d682c881-b728-48b3-881c-f86369792f16.pdf</link>
-            <guid>https://leap.epa.ie/docs/d682c881-b728-48b3-881c-f86369792f16.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:28 GMT</pubDate>
-            <description><![CDATA[Declaration 2025.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Declaration 2025.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Declaration 2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/e4c85da2-7732-40dc-9d37-5f4ca2123869.pdf</link>
-            <guid>https://leap.epa.ie/docs/e4c85da2-7732-40dc-9d37-5f4ca2123869.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:36 GMT</pubDate>
-            <description><![CDATA[Declaration 2025.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Declaration 2025.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Organics AEP2 4 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fd4e8d51-900f-4981-b4a1-20b2ea205193.pdf</link>
-            <guid>https://leap.epa.ie/docs/fd4e8d51-900f-4981-b4a1-20b2ea205193.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:19 GMT</pubDate>
-            <description><![CDATA[Ormonde Organics AEP2 4 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Ormonde Organics AEP2 4 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Organics AEP1 1 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/28a0047f-e5c1-4a79-9ed8-810e1275be41.pdf</link>
-            <guid>https://leap.epa.ie/docs/28a0047f-e5c1-4a79-9ed8-810e1275be41.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:34 GMT</pubDate>
-            <description><![CDATA[Ormonde Organics AEP1 1 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Ormonde Organics AEP1 1 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[260624 OdourOrmonde Organics AEP9.pdf]]></title>
-            <link>https://leap.epa.ie/docs/510a667c-018d-4398-8f1a-273d9b15d5eb.pdf</link>
-            <guid>https://leap.epa.ie/docs/510a667c-018d-4398-8f1a-273d9b15d5eb.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:32 GMT</pubDate>
-            <description><![CDATA[260624 OdourOrmonde Organics AEP9.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: 260624 OdourOrmonde Organics AEP9.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[160824 OdourOrmonde OrganicsQ3 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/57792a1a-9ccc-44f0-9975-ae01c7a37b83.pdf</link>
-            <guid>https://leap.epa.ie/docs/57792a1a-9ccc-44f0-9975-ae01c7a37b83.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:29 GMT</pubDate>
-            <description><![CDATA[160824 OdourOrmonde OrganicsQ3 2024.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: 160824 OdourOrmonde OrganicsQ3 2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Organics AEP1 4 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5b9ed556-20cc-4d05-8160-51e128f3d9ab.pdf</link>
-            <guid>https://leap.epa.ie/docs/5b9ed556-20cc-4d05-8160-51e128f3d9ab.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:53 GMT</pubDate>
-            <description><![CDATA[Ormonde Organics AEP1 4 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Ormonde Organics AEP1 4 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[071124 OdourOrmondeQ4 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7405eebb-8d61-457f-8849-e4baad18c7bf.pdf</link>
-            <guid>https://leap.epa.ie/docs/7405eebb-8d61-457f-8849-e4baad18c7bf.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:22 GMT</pubDate>
-            <description><![CDATA[071124 OdourOrmondeQ4 2024.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: 071124 OdourOrmondeQ4 2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Noise 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/77df177c-1d95-46e5-890f-50611e7c1e8c.pdf</link>
-            <guid>https://leap.epa.ie/docs/77df177c-1d95-46e5-890f-50611e7c1e8c.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:40 GMT</pubDate>
-            <description><![CDATA[Ormonde Noise 2024.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Ormonde Noise 2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[W0287 2024 SW Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7ba920f3-3568-4e57-896e-b29c0f1de89a.pdf</link>
-            <guid>https://leap.epa.ie/docs/7ba920f3-3568-4e57-896e-b29c0f1de89a.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:25 GMT</pubDate>
-            <description><![CDATA[W0287 2024 SW Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: W0287 2024 SW Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Declaration 2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/7fb2d5c0-acd0-4129-9697-5f6419420a9a.pdf</link>
-            <guid>https://leap.epa.ie/docs/7fb2d5c0-acd0-4129-9697-5f6419420a9a.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:34 GMT</pubDate>
-            <description><![CDATA[Declaration 2025.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Declaration 2025.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[100524 OdourOrmondeQ2 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/8219c86f-2e5e-4b53-905d-f70eb450120e.pdf</link>
-            <guid>https://leap.epa.ie/docs/8219c86f-2e5e-4b53-905d-f70eb450120e.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:24 GMT</pubDate>
-            <description><![CDATA[100524 OdourOrmondeQ2 2024.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: 100524 OdourOrmondeQ2 2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[W0287-02 Hydrogeological Risk Assessment.pdf]]></title>
-            <link>https://leap.epa.ie/docs/85a4b626-6163-4a62-b163-cd58c0f9eade.pdf</link>
-            <guid>https://leap.epa.ie/docs/85a4b626-6163-4a62-b163-cd58c0f9eade.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:31:36 GMT</pubDate>
-            <description><![CDATA[W0287-02 Hydrogeological Risk Assessment.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: W0287-02 Hydrogeological Risk Assessment.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Organics AEP2 2 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/862c8f50-9c8d-4ad8-b37c-79375f5fcdeb.pdf</link>
-            <guid>https://leap.epa.ie/docs/862c8f50-9c8d-4ad8-b37c-79375f5fcdeb.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:06 GMT</pubDate>
-            <description><![CDATA[Ormonde Organics AEP2 2 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Ormonde Organics AEP2 2 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Organics AEP2 3 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/aeb33446-3384-4d6e-a17a-0b4bbbeb4a18.pdf</link>
-            <guid>https://leap.epa.ie/docs/aeb33446-3384-4d6e-a17a-0b4bbbeb4a18.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:13 GMT</pubDate>
-            <description><![CDATA[Ormonde Organics AEP2 3 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Ormonde Organics AEP2 3 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ormonde Organics AEP1 3 2024 Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/bad696b7-49c7-4e60-a1b7-b5b3d31422f7.pdf</link>
-            <guid>https://leap.epa.ie/docs/bad696b7-49c7-4e60-a1b7-b5b3d31422f7.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:48 GMT</pubDate>
-            <description><![CDATA[Ormonde Organics AEP1 3 2024 Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Ormonde Organics AEP1 3 2024 Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Site Visit SV27061 Response.pdf]]></title>
-            <link>https://leap.epa.ie/docs/c0e5cf6f-fcfc-4c5e-8568-8cd1765d3be1.pdf</link>
-            <guid>https://leap.epa.ie/docs/c0e5cf6f-fcfc-4c5e-8568-8cd1765d3be1.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:30:56 GMT</pubDate>
-            <description><![CDATA[Site Visit SV27061 Response.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: Site Visit SV27061 Response.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[W0287 2024 GW Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/de4004e0-0a2b-413e-b12f-54237ad4d70c.pdf</link>
-            <guid>https://leap.epa.ie/docs/de4004e0-0a2b-413e-b12f-54237ad4d70c.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:19 GMT</pubDate>
-            <description><![CDATA[W0287 2024 GW Report.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: W0287 2024 GW Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[160224 OdourOrmondeQ1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/e9cf7eb7-7cd0-4e10-94ae-3d56c4268996.pdf</link>
-            <guid>https://leap.epa.ie/docs/e9cf7eb7-7cd0-4e10-94ae-3d56c4268996.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:38:26 GMT</pubDate>
-            <description><![CDATA[160224 OdourOrmondeQ1.pdf]]></description>
-            <content:encoded><![CDATA[W0287-02 -- Ormonde Organics Limited: 160224 OdourOrmondeQ1.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Bennettsbridge P0521-03 AER Year 2024.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fc82d654-1e40-490e-85f1-c2145c23fa88.pdf</link>
-            <guid>https://leap.epa.ie/docs/fc82d654-1e40-490e-85f1-c2145c23fa88.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:37:11 GMT</pubDate>
-            <description><![CDATA[Bennettsbridge P0521-03 AER Year 2024.pdf]]></description>
-            <content:encoded><![CDATA[P0521-03 -- Roadstone Limited: Bennettsbridge P0521-03 AER Year 2024.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Drummond Mine Annual hoildays 2025.pdf]]></title>
-            <link>https://leap.epa.ie/docs/801d5ef6-5afb-4bef-af83-41506609003b.pdf</link>
-            <guid>https://leap.epa.ie/docs/801d5ef6-5afb-4bef-af83-41506609003b.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:41:07 GMT</pubDate>
-            <description><![CDATA[Drummond Mine Annual hoildays 2025.pdf]]></description>
-            <content:encoded><![CDATA[P0519-04 -- Saint-Gobain Construction Products (Ireland) Limited: Drummond Mine Annual hoildays 2025.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[2023 AER.pdf]]></title>
-            <link>https://leap.epa.ie/docs/98a9e9e1-6380-4d95-b0cc-294ea03c2855.pdf</link>
-            <guid>https://leap.epa.ie/docs/98a9e9e1-6380-4d95-b0cc-294ea03c2855.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:37 GMT</pubDate>
-            <description><![CDATA[2023 AER.pdf]]></description>
-            <content:encoded><![CDATA[P0608-01 -- Södra Wood (Ireland) Limited: 2023 AER.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[2024 AER.pdf]]></title>
-            <link>https://leap.epa.ie/docs/db74088e-fe6b-4df1-9c10-8e70cf626a68.pdf</link>
-            <guid>https://leap.epa.ie/docs/db74088e-fe6b-4df1-9c10-8e70cf626a68.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:39:40 GMT</pubDate>
-            <description><![CDATA[2024 AER.pdf]]></description>
-            <content:encoded><![CDATA[P0608-01 -- Södra Wood (Ireland) Limited: 2024 AER.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[183.-1-EPA-004-25 Drainage repairs 2023.pdf]]></title>
-            <link>https://leap.epa.ie/docs/926d55c2-d034-44e0-8a2f-0cb787d78c39.pdf</link>
-            <guid>https://leap.epa.ie/docs/926d55c2-d034-44e0-8a2f-0cb787d78c39.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:30:52 GMT</pubDate>
-            <description><![CDATA[183.-1-EPA-004-25 Drainage repairs 2023.pdf]]></description>
-            <content:encoded><![CDATA[W0183-01 -- Starrus Eco Holdings Limited: 183.-1-EPA-004-25 Drainage repairs 2023.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[NC030858 Bunding and Materials.pdf]]></title>
-            <link>https://leap.epa.ie/docs/b579dc64-5da7-4ed2-8e18-37157532f5bb.pdf</link>
-            <guid>https://leap.epa.ie/docs/b579dc64-5da7-4ed2-8e18-37157532f5bb.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 21:41:05 GMT</pubDate>
-            <description><![CDATA[NC030858 Bunding and Materials.pdf]]></description>
-            <content:encoded><![CDATA[P0801-03 -- Tipperary Co-operative Creamery Limited: NC030858 Bunding and Materials.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - 257501]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923dbe.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923dbe.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - 257501]]></description>
-            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - 257501]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - AA Screening Report 3]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923dbf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923dbf.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - AA Screening Report 3]]></description>
-            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - AA Screening Report 3]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - P1186-01 Air Quality FI]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923dc0.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923dc0.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - P1186-01 Air Quality FI]]></description>
-            <content:encoded><![CDATA[P1186-02 -- Amazon Data Services Ireland Limited: Letter from Applicant - P1186-01 Air Quality FI]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Letter from Applicant - Let EPA March 2025]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923eaf.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923eaf.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Letter from Applicant - Let EPA March 2025]]></description>
-            <content:encoded><![CDATA[P1217-01 -- Deal View Farm Limited: Letter from Applicant - Let EPA March 2025]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Submission - Snapshot - Submission No S011900 - P1221-01 - Arlene Ward]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923d49.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923d49.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Submission - Snapshot - Submission No S011900 - P1221-01 - Arlene Ward]]></description>
-            <content:encoded><![CDATA[P1221-01 -- Padraig Thornton Waste Disposal Limited: Submission - Snapshot - Submission No S011900 - P1221-01 - Arlene Ward]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[S011900 Submission Notice]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923d4b.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923d4b.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[S011900 Submission Notice]]></description>
-            <content:encoded><![CDATA[P1221-01 -- Padraig Thornton Waste Disposal Limited: S011900 Submission Notice]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 16]]></title>
-            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923d01.pdf</link>
-            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280923d01.pdf</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 16]]></description>
-            <content:encoded><![CDATA[P1203-01 -- Vantage Data Centers Dub11 Limited: Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 16]]></content:encoded>
+            <title><![CDATA[AA Screening - Notification - Submitters - P1220-01]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809241cc.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809241cc.pdf</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[AA Screening - Notification - Submitters - P1220-01]]></description>
+            <content:encoded><![CDATA[P1220-01 -- Mr. Niall Mc Kenna: AA Screening - Notification - Submitters - P1220-01]]></content:encoded>
             <author>info@epa.ie (EPA Ireland)</author>
         </item>
     </channel>
