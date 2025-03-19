@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Tue, 18 Mar 2025 04:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 04:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,149 +15,5 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[EW1 - Jan 2025 .xlsx]]></title>
-            <link>https://leap.epa.ie/docs/51136267-41d0-40cf-a63f-c87d462c40a7.pdf</link>
-            <guid>https://leap.epa.ie/docs/51136267-41d0-40cf-a63f-c87d462c40a7.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:32:18 GMT</pubDate>
-            <description><![CDATA[EW1 - Jan 2025 .xlsx]]></description>
-            <content:encoded><![CDATA[P0179-01 -- Dawn Meats Ireland Unlimited Company: EW1 - Jan 2025 .xlsx]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Snapshot-INCI029579.pdf]]></title>
-            <link>https://leap.epa.ie/docs/f22fc33d-5309-43fc-bf74-3e194c3973c8.pdf</link>
-            <guid>https://leap.epa.ie/docs/f22fc33d-5309-43fc-bf74-3e194c3973c8.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:32:22 GMT</pubDate>
-            <description><![CDATA[Snapshot-INCI029579.pdf]]></description>
-            <content:encoded><![CDATA[P0179-01 -- Dawn Meats Ireland Unlimited Company: Snapshot-INCI029579.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV28754 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/2b57602d-8af5-4e9c-848c-a832dc559538.pdf</link>
-            <guid>https://leap.epa.ie/docs/2b57602d-8af5-4e9c-848c-a832dc559538.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:31:45 GMT</pubDate>
-            <description><![CDATA[SV28754 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0561-05 -- Electricity Supply Board: SV28754 - Licensee Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV31920 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/baaac361-ce0b-482b-ae25-95df4e40dda1.pdf</link>
-            <guid>https://leap.epa.ie/docs/baaac361-ce0b-482b-ae25-95df4e40dda1.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:32:19 GMT</pubDate>
-            <description><![CDATA[SV31920 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[W0286-01 -- Enva Ireland Limited: SV31920 - Licensee Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV31922 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fa0675a5-b102-4cdd-85a4-b6c462938bd1.pdf</link>
-            <guid>https://leap.epa.ie/docs/fa0675a5-b102-4cdd-85a4-b6c462938bd1.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:32:30 GMT</pubDate>
-            <description><![CDATA[SV31922 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0229-02 -- General Paints Limited: SV31922 - Licensee Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Drawing 7C_IED Licence Minor Air Emission Points.pdf]]></title>
-            <link>https://leap.epa.ie/docs/257dd093-34f4-46f8-8030-ab7d53fe58a3.pdf</link>
-            <guid>https://leap.epa.ie/docs/257dd093-34f4-46f8-8030-ab7d53fe58a3.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:33:43 GMT</pubDate>
-            <description><![CDATA[Drawing 7C_IED Licence Minor Air Emission Points.pdf]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: Drawing 7C_IED Licence Minor Air Emission Points.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[24234 MS DUB15 Temp Gens AAS1 Rev1.pdf]]></title>
-            <link>https://leap.epa.ie/docs/79736451-4fcc-4f15-9da3-8e63f170c4d2.pdf</link>
-            <guid>https://leap.epa.ie/docs/79736451-4fcc-4f15-9da3-8e63f170c4d2.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:32:41 GMT</pubDate>
-            <description><![CDATA[24234 MS DUB15 Temp Gens AAS1 Rev1.pdf]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: 24234 MS DUB15 Temp Gens AAS1 Rev1.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[247501.0478AR02 Air Emissions Impact Assessment.pdf]]></title>
-            <link>https://leap.epa.ie/docs/d1493b78-f55c-4d49-bd74-92080be6ecc6.pdf</link>
-            <guid>https://leap.epa.ie/docs/d1493b78-f55c-4d49-bd74-92080be6ecc6.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:32:50 GMT</pubDate>
-            <description><![CDATA[247501.0478AR02 Air Emissions Impact Assessment.pdf]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: 247501.0478AR02 Air Emissions Impact Assessment.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P1187-01-Condition 1 Change Request.pdf]]></title>
-            <link>https://leap.epa.ie/docs/fc5c1bb2-d489-45ec-bc4d-2f364eeb29f9.pdf</link>
-            <guid>https://leap.epa.ie/docs/fc5c1bb2-d489-45ec-bc4d-2f364eeb29f9.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:33:45 GMT</pubDate>
-            <description><![CDATA[P1187-01-Condition 1 Change Request.pdf]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: P1187-01-Condition 1 Change Request.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[247501.0512NR01 Noise Impact Assessment.pdf]]></title>
-            <link>https://leap.epa.ie/docs/301d58d7-7ea0-459a-b946-abc6b3b3b71a.pdf</link>
-            <guid>https://leap.epa.ie/docs/301d58d7-7ea0-459a-b946-abc6b3b3b71a.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:32:53 GMT</pubDate>
-            <description><![CDATA[247501.0512NR01 Noise Impact Assessment.pdf]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: 247501.0512NR01 Noise Impact Assessment.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[P1187-01-Cover Letter.pdf]]></title>
-            <link>https://leap.epa.ie/docs/75e071e2-4dbf-41ef-9346-a53e62a8e7f9.pdf</link>
-            <guid>https://leap.epa.ie/docs/75e071e2-4dbf-41ef-9346-a53e62a8e7f9.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:33:47 GMT</pubDate>
-            <description><![CDATA[P1187-01-Cover Letter.pdf]]></description>
-            <content:encoded><![CDATA[P1187-01 -- Microsoft Ireland Operations Limited: P1187-01-Cover Letter.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[202501_015985_RiverDischargeFromRedundantPipe.pdf]]></title>
-            <link>https://leap.epa.ie/docs/1081aac4-5d5c-490f-b7df-efe4cc91541b.pdf</link>
-            <guid>https://leap.epa.ie/docs/1081aac4-5d5c-490f-b7df-efe4cc91541b.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:31:49 GMT</pubDate>
-            <description><![CDATA[202501_015985_RiverDischargeFromRedundantPipe.pdf]]></description>
-            <content:encoded><![CDATA[P0809-01 -- Mondelez Ireland Production Limited: 202501_015985_RiverDischargeFromRedundantPipe.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SW1 pH all data - return to EPA.xlsx]]></title>
-            <link>https://leap.epa.ie/docs/5564cfbf-3805-4e67-a1f0-6e2e4ae507ab.pdf</link>
-            <guid>https://leap.epa.ie/docs/5564cfbf-3805-4e67-a1f0-6e2e4ae507ab.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:31:40 GMT</pubDate>
-            <description><![CDATA[SW1 pH all data - return to EPA.xlsx]]></description>
-            <content:encoded><![CDATA[P1073-02 -- MSD International GmbH t/a MSD Ireland (Dunboyne Biologics): SW1 pH all data - return to EPA.xlsx]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[Condition 1.4 Air Emissions 13-02-25.pdf]]></title>
-            <link>https://leap.epa.ie/docs/93f05f95-a0c1-4bea-9354-dbebf1da2abc.pdf</link>
-            <guid>https://leap.epa.ie/docs/93f05f95-a0c1-4bea-9354-dbebf1da2abc.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:32:31 GMT</pubDate>
-            <description><![CDATA[Condition 1.4 Air Emissions 13-02-25.pdf]]></description>
-            <content:encoded><![CDATA[P0153-06 -- Pfizer Ireland Pharmaceuticals: Condition 1.4 Air Emissions 13-02-25.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[SV31455 - Licensee Report.pdf]]></title>
-            <link>https://leap.epa.ie/docs/5c15114a-94ac-4dd2-8454-45073faccbe8.pdf</link>
-            <guid>https://leap.epa.ie/docs/5c15114a-94ac-4dd2-8454-45073faccbe8.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:31:56 GMT</pubDate>
-            <description><![CDATA[SV31455 - Licensee Report.pdf]]></description>
-            <content:encoded><![CDATA[P0181-01 -- Rosderra Irish Meats Group Unlimited Company: SV31455 - Licensee Report.pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-        <item>
-            <title><![CDATA[82.03-EPA-06-25 .pdf]]></title>
-            <link>https://leap.epa.ie/docs/3f316060-ece3-48c7-aec4-21168cae5a24.pdf</link>
-            <guid>https://leap.epa.ie/docs/3f316060-ece3-48c7-aec4-21168cae5a24.pdf</guid>
-            <pubDate>Sun, 16 Mar 2025 21:31:36 GMT</pubDate>
-            <description><![CDATA[82.03-EPA-06-25 .pdf]]></description>
-            <content:encoded><![CDATA[W0082-03 -- Starrus Eco Holdings Limited: 82.03-EPA-06-25 .pdf]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
     </channel>
 </rss>
