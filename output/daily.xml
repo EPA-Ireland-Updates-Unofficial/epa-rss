@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EPA Ireland RSS Feed</title>
         <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
         <description>RSS feed for EPA website</description>
-        <lastBuildDate>Wed, 19 Mar 2025 04:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 04:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions</generator>
         <language>en</language>
@@ -15,5 +15,95 @@
         </image>
         <copyright>2022 © EPA. All Rights Reserved.</copyright>
         <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jan 2025 Bi annual water test report.pdf]]></title>
+            <link>https://leap.epa.ie/docs/d3f7a7fb-57e1-420f-93a9-71e679ba3973.pdf</link>
+            <guid>https://leap.epa.ie/docs/d3f7a7fb-57e1-420f-93a9-71e679ba3973.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 21:31:37 GMT</pubDate>
+            <description><![CDATA[Jan 2025 Bi annual water test report.pdf]]></description>
+            <content:encoded><![CDATA[P0294-01 -- Grant Engineering (Ireland): Jan 2025 Bi annual water test report.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[P0011-06 Proposal Substances for 2024 SMP.pdf]]></title>
+            <link>https://leap.epa.ie/docs/1bac0a24-f200-4617-843b-5a98d24f3451.pdf</link>
+            <guid>https://leap.epa.ie/docs/1bac0a24-f200-4617-843b-5a98d24f3451.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 21:31:40 GMT</pubDate>
+            <description><![CDATA[P0011-06 Proposal Substances for 2024 SMP.pdf]]></description>
+            <content:encoded><![CDATA[P0011-06 -- MSD International GmbH: P0011-06 Proposal Substances for 2024 SMP.pdf]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 16]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280924fc8.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b280924fc8.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 16]]></description>
+            <content:encoded><![CDATA[P0516-05 -- Boliden Tara Mines Designated Activity Company: Reminder Email (upcoming due date)  - Reg 10(2)(b)(ii) notice 16]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant Extension Request - LACT00019386]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28092508a.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28092508a.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant Extension Request - LACT00019386]]></description>
+            <content:encoded><![CDATA[P0037-05 -- College Proteins Unlimited Company: Notification to Applicant Extension Request - LACT00019386]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - 2017-58-02 Site Plan EPA (Revised)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250aa.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250aa.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - 2017-58-02 Site Plan EPA (Revised)]]></description>
+            <content:encoded><![CDATA[P0696-03 -- Messrs Jim and Mark Wright T/A JMW Farms: Letter from Applicant - 2017-58-02 Site Plan EPA (Revised)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Let EPA 25022025 1]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250ab.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250ab.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Let EPA 25022025 1]]></description>
+            <content:encoded><![CDATA[P0696-03 -- Messrs Jim and Mark Wright T/A JMW Farms: Letter from Applicant - Let EPA 25022025 1]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - Rp001 2024425 (JMW Farms Monaghan)]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250ac.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250ac.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - Rp001 2024425 (JMW Farms Monaghan)]]></description>
+            <content:encoded><![CDATA[P0696-03 -- Messrs Jim and Mark Wright T/A JMW Farms: Letter from Applicant - Rp001 2024425 (JMW Farms Monaghan)]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Notification to Applicant RFI Reminder  LACT00014877  12-03-2025]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250ad.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250ad.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notification to Applicant RFI Reminder  LACT00014877  12-03-2025]]></description>
+            <content:encoded><![CDATA[P0696-03 -- Messrs Jim and Mark Wright T/A JMW Farms: Notification to Applicant RFI Reminder  LACT00014877  12-03-2025]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Applicant - EPA Further Information Response -March 2025]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28092517d.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b28092517d.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Letter from Applicant - EPA Further Information Response -March 2025]]></description>
+            <content:encoded><![CDATA[W0270-03 -- Milltown Composting Systems Ltd: Letter from Applicant - EPA Further Information Response -March 2025]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unsolicited Additional Information - RFI Notification for P1203-01 dated 06.02.2025 Le02]]></title>
+            <link>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250e0.pdf</link>
+            <guid>https://epawebapp.epa.ie/licences/lic_eDMS/090151b2809250e0.pdf</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsolicited Additional Information - RFI Notification for P1203-01 dated 06.02.2025 Le02]]></description>
+            <content:encoded><![CDATA[P1203-01 -- Vantage Data Centers Dub11 Limited: Unsolicited Additional Information - RFI Notification for P1203-01 dated 06.02.2025 Le02]]></content:encoded>
+            <author>info@epa.ie (EPA Ireland)</author>
+        </item>
     </channel>
 </rss>
