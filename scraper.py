@@ -234,7 +234,7 @@ class EPAScraper:
 
     # ---- CSV Logging Helper ----
     def _log_to_csv(self, record_type: str, record_data: Dict[str, Any]):
-        """Logs a record to a date-stamped CSV file in a 'csv/daily' subdirectory."""
+        """Logs a record to a date-stamped CSV file in 'output/csv/daily/YYYY/MM' subdirectory."""
         # Skip logging for compliance documents and records as per requirements
         if record_type in ['compliance_document', 'compliance_record']:
             return
@@ -242,10 +242,16 @@ class EPAScraper:
         if not record_data:
             return
 
-        # Define the subdirectory and ensure it exists
-        output_dir = os.path.join("output", "csv", "daily")
+        # Get current date components for directory structure
+        now = datetime.now(timezone.utc)
+        year = now.strftime("%Y")
+        month = now.strftime("%m")
+        
+        # Define the subdirectory structure and ensure it exists
+        output_dir = os.path.join("output", "csv", "daily", year, month)
         os.makedirs(output_dir, exist_ok=True)
 
+        # Create the filename with date and record type
         filename = os.path.join(output_dir, f"{self.run_date_stamp}_{record_type.replace(' ', '_').lower()}s.csv")
         
         processed_record_data = {}
@@ -285,11 +291,11 @@ class EPAScraper:
                         days_back=1
                     )
                 
-                # Generate CSV listing RSS
+                # Generate CSV listing RSS - point to the base directory, it will handle YYYY/MM structure
                 rss_gen.generate_csv_listing_rss(
                     csv_dir=os.path.join("output", "csv", "daily"),
                     output_dir="output",
-                    days=10
+                    days=30  # Increased to 30 days to match the RSS feed history
                 )
         except Exception as e:
             print(f"Error generating RSS feeds: {e}")
@@ -1039,19 +1045,25 @@ class EPAScraper:
 
     def generate_recent_documents_csv(self, document_urls: List[str]):
         """Generates a CSV file for documents deemed truly recent, using their document_urls.
-           Saves to csv/daily/YYYY-MM-DD.csv
+           Saves to csv/daily/YYYY/MM/YYYY-MM-DD.csv
            Only includes documents that haven't been exported before.
+           Returns the full path to the generated CSV file, or None if no file was created.
         """
         if not document_urls:
             self.logger.info("No 'truly recent' documents found to generate CSV.")
-            return []
+            return None
 
+        # Get current date and create directory structure
+        now = datetime.now(timezone.utc)
+        year = now.strftime("%Y")
+        month = now.strftime("%m")
+        date_str = now.strftime("%Y-%m-%d")
+        
         # Create the output directory if it doesn't exist
-        output_dir = os.path.join("csv", "daily")
+        output_dir = os.path.join("output", "csv", "daily", year, month)
         os.makedirs(output_dir, exist_ok=True)
         
-        # Use today's date in YYYY-MM-DD format for the filename
-        date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        # Create the full path for the CSV file
         filename = os.path.join(output_dir, f"{date_str}.csv")
         
         # Create a string of placeholders for the IN clause
@@ -1097,7 +1109,8 @@ class EPAScraper:
                     """, [date_str] + exported_urls)
                 
                 self.logger.info(f"Successfully exported {len(exported_urls)} new documents to {filename}")
-                return exported_urls
+                # Return the full path to the generated CSV file
+                return filename if exported_urls else None
                 
         except sqlite3.Error as e:
             self.logger.error(f"SQL error in generate_recent_documents_csv: {e}")
@@ -1157,18 +1170,25 @@ class EPAScraper:
         self.logger.info(f"Truly recent documents (updated this run, doc_date < 3 months): {truly_recent_doc_count}")
         # print(f"New documents: {new_documents_count}") # Old print, replaced by logger
 
+        csv_file_path = None
         # Generate CSV and RSS for truly recent documents (only unexported ones)
         if truly_recent_doc_urls:
-            exported_count = len(self.generate_recent_documents_csv(truly_recent_doc_urls))
-            truly_recent_doc_count = exported_count  # Update count to only include newly exported
+            csv_file_path = self.generate_recent_documents_csv(truly_recent_doc_urls)
+            if csv_file_path:
+                truly_recent_doc_count = len(truly_recent_doc_urls)  # Update count based on URLs
+                print(f"Generated CSV file: {csv_file_path}")
         
         # Generate RSS feeds
         self._generate_rss_feeds(truly_recent_doc_urls if 'truly_recent_doc_urls' in locals() else [])
         
         # Simplified logging output
+        print("\nSummary:")
         print("New licence profiles")
         print("Processed compliance records")
         print(f"Truly recent documents: {truly_recent_doc_count}")
+        
+        # Return the path to the generated CSV file if one was created
+        return csv_file_path
 
     def close(self):
         if self.conn:

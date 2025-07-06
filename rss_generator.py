@@ -149,7 +149,7 @@ class RSSGenerator:
         """Generate RSS feed listing recent CSV files from the last N calendar days.
         
         Args:
-            csv_dir: Directory containing CSV files
+            csv_dir: Base directory containing YYYY/MM/ subdirectories with CSV files
             output_dir: Directory to save the RSS feed
             days: Number of calendar days of CSV files to include
             
@@ -165,33 +165,41 @@ class RSSGenerator:
         try:
             # Get list of dates for the last 'days' calendar days
             today = datetime.now(timezone.utc).date()
-            date_strings = [(today - timedelta(days=i)).strftime('%Y-%m-%d') for i in range(days)]
+            date_objects = [(today - timedelta(days=i)) for i in range(days)]
             
             # Check which of these dates have corresponding CSV files
-            for date_str in date_strings:
+            for date_obj in date_objects:
+                year = date_obj.strftime('%Y')
+                month = date_obj.strftime('%m')
+                date_str = date_obj.strftime('%Y-%m-%d')
+                
+                # Build the expected file path
                 file_name = f"{date_str}.csv"
-                file_path = os.path.join(csv_dir, file_name)
+                file_path = os.path.join(csv_dir, year, month, file_name)
+                
                 if os.path.exists(file_path):
                     mtime = os.path.getmtime(file_path)
-                    csv_files.append((file_path, mtime, file_name))
+                    # Store both the full path and the display path (relative to the repo root)
+                    display_path = os.path.join("output", "csv", "daily", year, month, file_name)
+                    csv_files.append((file_path, mtime, file_name, display_path, date_str))
             
             # Sort by date (newest first)
-            csv_files.sort(key=lambda x: x[2], reverse=True)
+            csv_files.sort(key=lambda x: x[4], reverse=True)
             
             items = []
-            for file_path, mtime, file_name in csv_files:
+            for file_path, mtime, file_name, display_path, date_str in csv_files:
                 file_date = datetime.fromtimestamp(mtime, timezone.utc)
                 pub_date = file_date.strftime('%a, %d %b %Y %H:%M:%S +0000')
                 
                 # Create a GitHub URL
-                github_url = f"https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/{file_path}"
+                github_url = f"https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/{display_path}"
                 
                 items.append({
                     'title': f"CSV: {file_name}",
                     'link': github_url,
-                    'description': f"CSV file for {file_name.replace('.csv', '')}",
+                    'description': f"CSV file for {date_str}",
                     'pubDate': pub_date,
-                    'guid': file_path
+                    'guid': display_path
                 })
             
             output_path = os.path.join(output_dir, "rsstwitter.xml")

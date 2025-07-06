@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'output/csv/daily/*.csv'
+      - 'output/csv/daily/**/*.csv'
 
 jobs:
   create-notification:
@@ -17,12 +17,32 @@ jobs:
         id: date
         run: |
           echo "current_date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "current_year=$(date +'%Y')" >> $GITHUB_OUTPUT
+          echo "current_month=$(date +'%m')" >> $GITHUB_OUTPUT
+
+      - name: Check if CSV exists for today
+        id: check_csv
+        run: |
+          CSV_PATH="output/csv/daily/${{ steps.date.outputs.current_year }}/${{ steps.date.outputs.current_month }}/${{ steps.date.outputs.current_date }}.csv"
+          if [ -f "$CSV_PATH" ]; then
+            echo "csv_exists=true" >> $GITHUB_OUTPUT
+            echo "csv_url=https://github.com/${{ github.repository }}/blob/main/$CSV_PATH" >> $GITHUB_OUTPUT
+          else
+            echo "csv_exists=false" >> $GITHUB_OUTPUT
+            echo "csv_url=" >> $GITHUB_OUTPUT
+          fi
 
       - name: Create notification issue
         run: |
+          if [ "${{ steps.check_csv.outputs.csv_exists }}" = "true" ]; then
+            BODY="New EPA submissions have been added to the repository.\n\n**Download the latest CSV file:**\n[${{ steps.date.outputs.current_date }}.csv](${{ steps.check_csv.outputs.csv_url }})\n\n[View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)"
+          else
+            BODY="New EPA submissions have been processed, but no CSV file was generated for today (${{ steps.date.outputs.current_date }}).\n\n[View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)"
+          fi
+          
           gh issue create \
             --title "New EPA Submissions - ${{ steps.date.outputs.current_date }}" \
-            --body "New EPA submissions have been added to the repository. Check the latest files in the [output/csv/daily/](https://github.com/${{ github.repository }}/tree/main/output/csv/daily) directory." \
+            --body "$BODY" \
             --repo ${{ github.repository }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
