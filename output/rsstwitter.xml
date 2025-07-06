@@ -1,28 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>EPA Ireland RSS Feed</title>
-        <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
-        <description>RSS feed for EPA website</description>
-        <lastBuildDate>Sun, 06 Jul 2025 04:50:30 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>GitHub Actions</generator>
-        <language>en</language>
-        <image>
-            <title>EPA Ireland RSS Feed</title>
-            <url>https://www.epa.ie/media/epa-2020/content-assets/images/EPA_logo_favicon.jpg</url>
-            <link>https://epawebapp.epa.ie/terminalfour/ippc/ippc-search.jsp?name=B*&amp;Submit=Browse</link>
-        </image>
-        <copyright>2022 © EPA. All Rights Reserved.</copyright>
-        <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[2025-07-04 summary of all updates to EPA licences: ]]></title>
-            <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/2025-07-04.csv</link>
-            <guid>https://github.com/EPA-Ireland-Updates-Unofficial/epa-rss/blob/main/output/csv/daily/2025-07-04.csv</guid>
-            <pubDate>Sun, 06 Jul 2025 04:50:30 GMT</pubDate>
-            <description><![CDATA[All updates on 2025-07-04]]></description>
-            <content:encoded><![CDATA[EPA warning letters, inspectors reports, 3rd party submissions on licenses etc on 2025-07-04]]></content:encoded>
-            <author>info@epa.ie (EPA Ireland)</author>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>EPA Ireland - Recent CSV Files</title>
+    <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
+    <description>CSV files from the last 10 calendar days</description>
+    <lastBuildDate>Sun, 06 Jul 2025 09:32:13 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Jul 2025 09:32:13 +0000</pubDate>
+    <item>
+        <title>CSV: 2025-07-04.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025-07-04.csv</link>
+        <description>CSV file for 2025-07-04</description>
+        <pubDate>Sun, 06 Jul 2025 08:41:56 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025-07-04.csv</guid>
+    </item>
+    <item>
+        <title>CSV: 2025-07-03.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025-07-03.csv</link>
+        <description>CSV file for 2025-07-03</description>
+        <pubDate>Sun, 06 Jul 2025 08:41:56 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025-07-03.csv</guid>
+    </item>
+    <item>
+        <title>CSV: 2025-07-02.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025-07-02.csv</link>
+        <description>CSV file for 2025-07-02</description>
+        <pubDate>Sun, 06 Jul 2025 08:41:56 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025-07-02.csv</guid>
+    </item>
+    <item>
+        <title>CSV: 2025-07-01.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025-07-01.csv</link>
+        <description>CSV file for 2025-07-01</description>
+        <pubDate>Sun, 06 Jul 2025 08:41:56 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025-07-01.csv</guid>
+    </item>
+    <item>
+        <title>CSV: 2025-06-30.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025-06-30.csv</link>
+        <description>CSV file for 2025-06-30</description>
+        <pubDate>Sun, 06 Jul 2025 08:41:56 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025-06-30.csv</guid>
+    </item>
+    <item>
+        <title>CSV: 2025-06-29.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025-06-29.csv</link>
+        <description>CSV file for 2025-06-29</description>
+        <pubDate>Sun, 06 Jul 2025 08:41:56 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025-06-29.csv</guid>
+    </item>
+    <item>
+        <title>CSV: 2025-06-28.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025-06-28.csv</link>
+        <description>CSV file for 2025-06-28</description>
+        <pubDate>Sun, 06 Jul 2025 08:41:56 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025-06-28.csv</guid>
+    </item>
+    <item>
+        <title>CSV: 2025-06-27.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025-06-27.csv</link>
+        <description>CSV file for 2025-06-27</description>
+        <pubDate>Sun, 06 Jul 2025 08:41:56 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025-06-27.csv</guid>
+    </item>
+</channel>
 </rss>

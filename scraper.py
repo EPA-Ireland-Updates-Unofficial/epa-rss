@@ -15,6 +15,7 @@ from dateutil import parser
 import csv
 import os
 import logging
+from rss_generator import RSSGenerator
 
 # Helper to parse API date strings safely
 def parse_api_date(date_str: Optional[str]) -> Optional[datetime]:
@@ -234,11 +235,15 @@ class EPAScraper:
     # ---- CSV Logging Helper ----
     def _log_to_csv(self, record_type: str, record_data: Dict[str, Any]):
         """Logs a record to a date-stamped CSV file in a 'csv/daily' subdirectory."""
+        # Skip logging for compliance documents and records as per requirements
+        if record_type in ['compliance_document', 'compliance_record']:
+            return
+            
         if not record_data:
             return
 
         # Define the subdirectory and ensure it exists
-        output_dir = os.path.join("csv", "daily")
+        output_dir = os.path.join("output", "csv", "daily")
         os.makedirs(output_dir, exist_ok=True)
 
         filename = os.path.join(output_dir, f"{self.run_date_stamp}_{record_type.replace(' ', '_').lower()}s.csv")
@@ -269,7 +274,27 @@ class EPAScraper:
         except Exception as e:
             print(f"\nUnexpected error during CSV writing for {filename}: {e}")
 
-    # ---- End CSV Logging Helper ----
+    def _generate_rss_feeds(self, document_urls: List[str]):
+        """Generate RSS feeds using the RSSGenerator class."""
+        try:
+            with RSSGenerator(self.db_path) as rss_gen:
+                # Generate documents RSS
+                if document_urls:
+                    rss_gen.generate_daily_documents_rss(
+                        output_dir="output",
+                        days_back=1
+                    )
+                
+                # Generate CSV listing RSS
+                rss_gen.generate_csv_listing_rss(
+                    csv_dir=os.path.join("output", "csv", "daily"),
+                    output_dir="output",
+                    days=10
+                )
+        except Exception as e:
+            print(f"Error generating RSS feeds: {e}")
+
+    # ---- End CSV Logging ----
 
 
     def _create_tables(self):
@@ -1132,10 +1157,13 @@ class EPAScraper:
         self.logger.info(f"Truly recent documents (updated this run, doc_date < 3 months): {truly_recent_doc_count}")
         # print(f"New documents: {new_documents_count}") # Old print, replaced by logger
 
-        # Generate CSV for truly recent documents (only unexported ones)
+        # Generate CSV and RSS for truly recent documents (only unexported ones)
         if truly_recent_doc_urls:
             exported_count = len(self.generate_recent_documents_csv(truly_recent_doc_urls))
             truly_recent_doc_count = exported_count  # Update count to only include newly exported
+        
+        # Generate RSS feeds
+        self._generate_rss_feeds(truly_recent_doc_urls if 'truly_recent_doc_urls' in locals() else [])
         
         # Simplified logging output
         print("New licence profiles")
