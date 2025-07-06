@@ -1,0 +1,28 @@
+name: Update Notification
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'output/csv/daily/*.csv'
+
+jobs:
+  create-notification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get current date
+        id: date
+        run: |
+          echo "current_date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Create notification issue
+        run: |
+          gh issue create \
+            --title "New EPA Submissions - ${{ steps.date.outputs.current_date }}" \
+            --body "New EPA submissions have been added to the repository. Check the latest files in the [output/csv/daily/](https://github.com/${{ github.repository }}/tree/main/output/csv/daily) directory." \
+            --repo ${{ github.repository }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
