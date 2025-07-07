@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 
+# Suppress InsecureRequestWarning for unverified HTTPS requests
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 import json
 import signal
 import sqlite3
 import sys
 from contextlib import contextmanager
 from datetime import datetime, timezone
-from typing import Dict, Any, List, Set, ContextManager, Optional, Tuple
+from typing import Dict, Any, List, Set, ContextManager, Optional, Tuple, Union
 import requests
 import time
 from tqdm import tqdm
@@ -364,8 +368,11 @@ class EPAScraper:
     def fetch_licence_profiles(self) -> List[Dict[str, Any]]:
         """Fetch all licence profiles from the EPA API."""
         url = f"{self.base_url}/LicenceProfile/list/"
+        all_profiles = []
+        
         try:
-            response = requests.get(url, timeout=15)
+            # Disable SSL verification to handle certificate issues
+            response = requests.get(url, timeout=15, verify=False)
             response.raise_for_status()
             data = response.json()
 
@@ -380,15 +387,16 @@ class EPAScraper:
             
             if data.get('list'):
                 print(f"Sample profile: {json.dumps(data['list'][0], indent=2)}")
-                
-            # The API seems to return all profiles at once, no need for pagination
-            return data.get('list', [])
+                all_profiles = data['list']
+            
         except requests.exceptions.Timeout:
             print(f"Timeout error fetching licence profiles from {url}")
             return []
-        except requests.exceptions.RequestException as e:
+        except Exception as e:
             print(f"Error fetching licence profiles from {url}: {e}")
             return []
+        
+        return all_profiles
 
     def fetch_compliance_data(self, licence_profile_id: str, from_date: str = None, to_date: str = None) -> List[Dict[str, Any]]:
         """Fetch compliance data for a specific licence profile, ensuring uniqueness."""
@@ -409,7 +417,8 @@ class EPAScraper:
         
         try:
             while True:
-                response = requests.get(url, params=params, timeout=15)
+                # Disable SSL verification to handle certificate issues
+                response = requests.get(url, params=params, timeout=15, verify=False)
                 response.raise_for_status()
                 data = response.json()
                 
@@ -473,7 +482,8 @@ class EPAScraper:
         # Fetch document metadata from the API
         url = f"{self.base_url}/{endpoint}?{param}={record_id}"
         try:
-            response = requests.get(url, timeout=15)
+            # Disable SSL verification to handle certificate issues
+            response = requests.get(url, timeout=15, verify=False)
             response.raise_for_status()
             data = response.json()
             
@@ -704,7 +714,7 @@ class EPAScraper:
         # This simply wraps the existing fetch_compliance_data for clarity
         return self.fetch_compliance_data(profile_id)
 
-    def process_compliance_records(self) -> set[str]:
+    def process_compliance_records(self) -> Set[str]:
         """Fetch compliance records for each profile, store new/recent ones, 
            and return IDs needing document checks."""
         print("\nPhase 2: Processing compliance records...")
@@ -1014,8 +1024,12 @@ class EPAScraper:
         return new_documents_count
 
     def _get_truly_recent_document_details(self, recency_months: int) -> Tuple[int, List[str]]:
-        """Counts documents that were updated in the current run and have a recent document_date.
+        """Counts documents that were added in the current run and have a recent document_date.
            Returns the count and a list of their document_urls.
+           
+           A document is considered 'truly recent' if:
+           1. It was added in this run (last_updated = last_checked)
+           2. Its document_date is within the specified number of months from today
         """
         if not self.run_start_time_utc:
             self.logger.warning("_get_truly_recent_document_details called before run_start_time_utc was set.")
@@ -1023,21 +1037,20 @@ class EPAScraper:
 
         start_time_str = self.run_start_time_utc.strftime('%Y-%m-%d %H:%M:%S')
         
-        # Calculate the earliest acceptable document_date string ('YYYY-MM-DD')
-        # SQLite's date functions are robust here.
-        # We compare document_date (which should be 'YYYY-MM-DD' or 'YYYY-MM-DD HH:MM:SS')
-        # with date('now', '-X months').
-
+        # Only include documents that were actually added in this run (last_updated = last_checked)
+        # and have a document_date within the specified recency window
         query = """
             SELECT document_url 
             FROM compliance_documents
-            WHERE last_updated >= ? 
+            WHERE last_updated = last_checked  -- Only documents added in this run
+            AND last_updated >= ?              -- That were added since the run started
             AND document_date IS NOT NULL
             AND date(document_date) >= date('now', '-' || CAST(? AS TEXT) || ' months')
         """ 
         try:
             self.cursor.execute(query, (start_time_str, recency_months))
             result_urls = [row[0] for row in self.cursor.fetchall()] 
+            self.logger.info(f"Found {len(result_urls)} truly recent documents added in this run with document_date in the last {recency_months} months")
             return len(result_urls), result_urls
         except sqlite3.Error as e:
             self.logger.error(f"SQL error in _get_truly_recent_document_details: {e}")
@@ -1047,7 +1060,13 @@ class EPAScraper:
         """Generates a CSV file for documents deemed truly recent, using their document_urls.
            Saves to csv/daily/YYYY/MM/YYYY-MM-DD.csv
            Only includes documents that haven't been exported before.
-           Returns the full path to the generated CSV file, or None if no file was created.
+           
+           Args:
+               document_urls: List of document URLs that were identified as 'truly recent'
+                             These should only be documents that were added in this run.
+           
+           Returns:
+               str: Full path to the generated CSV file, or None if no file was created.
         """
         if not document_urls:
             self.logger.info("No 'truly recent' documents found to generate CSV.")
@@ -1072,45 +1091,72 @@ class EPAScraper:
         try:
             # Start a transaction
             with transaction(self.conn) as cursor:
-                # First, fetch only unexported documents
+                # First, verify these documents are actually unexported and were added in this run
                 cursor.execute(f"""
-                    SELECT * FROM compliance_documents 
-                    WHERE document_url IN ({placeholders})
-                    AND (exported = 0 OR exported IS NULL)
+                    SELECT d.document_url 
+                    FROM compliance_documents d
+                    JOIN compliance_records cr ON d.compliance_id = cr.compliancerecord_id
+                    WHERE d.document_url IN ({placeholders})
+                    AND (d.exported = 0 OR d.exported IS NULL)
+                    AND d.last_updated = d.last_checked  -- Ensure it was added in this run
                 """, document_urls)
                 
-                rows = cursor.fetchall()
-                if not rows:
-                    self.logger.info("No new documents to export.")
-                    return []
+                valid_urls = [row[0] for row in cursor.fetchall()]
                 
-                # Get column headers
+                if not valid_urls:
+                    self.logger.info("No new, unexported documents found from this run to export.")
+                    return None
+                
+                self.logger.info(f"Found {len(valid_urls)} documents to export that were added in this run and not yet exported.")
+                
+                # Now fetch all required data for these documents with joins to get additional fields
+                valid_placeholders = ','.join(['?'] * len(valid_urls))
+                cursor.execute(f"""
+                    SELECT 
+                        d.document_url,
+                        '"' || d.document_type || '"' as document_type,  -- Ensure document_type is in quotes
+                        d.title,
+                        d.document_date,
+                        d.last_updated,
+                        cr.licenceprofileid,
+                        lp.profilenumber,
+                        lp.name as licence_profile_name,
+                        cr.type as compliance_type,
+                        cr.title as compliance_title,
+                        cr.status as compliance_status,
+                        cr.date as compliance_date
+                    FROM compliance_documents d
+                    JOIN compliance_records cr ON d.compliance_id = cr.compliancerecord_id
+                    LEFT JOIN licence_profiles lp ON cr.licenceprofileid = lp.licenceprofileid
+                    WHERE d.document_url IN ({valid_placeholders})
+                """, valid_urls)
+                
+                rows = cursor.fetchall()
+                
+                if not rows:
+                    self.logger.warning("No document data found for valid URLs. This should not happen.")
+                    return None
+                
+                # Get column headers from the query results
                 headers = [desc[0] for desc in cursor.description]
                 
                 # Write to CSV
                 file_exists = os.path.exists(filename)
-                with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
-                    csv_writer = csv.writer(csvfile)
-                    if not file_exists or os.path.getsize(filename) == 0:
-                        csv_writer.writerow(headers)
+                with open(filename, 'w', newline='', encoding='utf-8') as csvfile:  # Changed to 'w' to overwrite existing file
+                    csv_writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+                    csv_writer.writerow(headers)  # Always write headers
                     csv_writer.writerows(rows)
                 
-                # Get the list of exported document URLs
-                exported_urls = [row[headers.index('document_url')] for row in rows]
-                
                 # Mark documents as exported
-                if exported_urls:
-                    export_placeholders = ','.join(['?'] * len(exported_urls))
-                    cursor.execute(f"""
-                        UPDATE compliance_documents 
-                        SET exported = 1, 
-                            export_date = ?
-                        WHERE document_url IN ({export_placeholders})
-                    """, [date_str] + exported_urls)
+                cursor.execute(f"""
+                    UPDATE compliance_documents 
+                    SET exported = 1, 
+                        export_date = ?
+                    WHERE document_url IN ({valid_placeholders})
+                """, [date_str] + valid_urls)
                 
-                self.logger.info(f"Successfully exported {len(exported_urls)} new documents to {filename}")
-                # Return the full path to the generated CSV file
-                return filename if exported_urls else None
+                self.logger.info(f"Successfully exported {len(valid_urls)} documents to {filename}")
+                return filename
                 
         except sqlite3.Error as e:
             self.logger.error(f"SQL error in generate_recent_documents_csv: {e}")
@@ -1127,65 +1173,79 @@ class EPAScraper:
         """Main execution method to scrape and store all data in phases."""
         self.run_start_time_utc = datetime.now(timezone.utc) # Set run start time
         self.logger.info(f"Starting EPA Ireland data scraper at {self.run_start_time_utc.strftime('%Y-%m-%d %H:%M:%S UTC')}...")
-        # print("Starting EPA Ireland data scraper...") # Old print
-
+        
         # Phase 1: Process licence profiles
-        # new_profiles_count = self.process_licence_profiles()
-        # Temporarily disable phase 1 if focusing on document processing logic
-        # self.logger.info("Skipping Phase 1: Licence Profiles for focused testing.")
-        # new_profiles_count = 0
-        # Instead of skipping, let's ensure it runs unless an error stops it.
         try:
             new_profiles_count = self.process_licence_profiles()
+            self.logger.info(f"Phase 1 complete: Processed {new_profiles_count} new/updated licence profiles.")
         except Exception as e:
             self.logger.critical(f"CRITICAL ERROR in Phase 1 (Licence Profiles), stopping: {e}", exc_info=True)
-            return # Stop execution if phase 1 fails critically
+            return None  # Stop execution if phase 1 fails critically
 
         # Phase 2: Process compliance records
         try:
             processed_compliance_record_ids = self.process_compliance_records()
+            self.logger.info(f"Phase 2 complete: Processed {len(processed_compliance_record_ids)} compliance records.")
         except Exception as e:
             self.logger.critical(f"CRITICAL ERROR in Phase 2 (Compliance Records), stopping: {e}", exc_info=True)
-            return # Stop execution if phase 2 fails critically
+            return None  # Stop execution if phase 2 fails critically
 
         # Phase 3: Process compliance documents
         try:
-            # This count is total documents inserted/updated in the phase, not 'truly recent'.
-            _ = self.process_compliance_documents(processed_compliance_record_ids)
+            new_docs_count = self.process_compliance_documents(processed_compliance_record_ids)
+            self.logger.info(f"Phase 3 complete: Processed {new_docs_count} new/updated documents.")
         except Exception as e:
             self.logger.critical(f"CRITICAL ERROR in Phase 3 (Compliance Documents), stopping: {e}", exc_info=True)
-            return # Stop execution if phase 3 fails critically
+            return None  # Stop execution if phase 3 fails critically
         
-        # Get count and IDs of 'truly recent' documents for summary and CSV
-        # Using default 3 months recency. Make this configurable if needed later.
-        truly_recent_doc_count, truly_recent_doc_urls = self._get_truly_recent_document_details(recency_months=3)
+        # Get count and URLs of 'truly recent' documents for summary and CSV
+        # Using default 3 months recency. This can be made configurable if needed.
+        recency_months = 3
+        truly_recent_doc_count, truly_recent_doc_urls = self._get_truly_recent_document_details(recency_months=recency_months)
 
-        self.logger.info("\nScraping complete!")
-        if new_profiles_count is not None:
-             self.logger.info(f"New licence profiles: {new_profiles_count}")
-        if processed_compliance_record_ids is not None:
-            self.logger.info(f"Processed compliance records: {len(processed_compliance_record_ids)}") 
-        
-        # Updated log for 'truly recent' documents
-        self.logger.info(f"Truly recent documents (updated this run, doc_date < 3 months): {truly_recent_doc_count}")
-        # print(f"New documents: {new_documents_count}") # Old print, replaced by logger
+        # Log summary of the run
+        self.logger.info("\n=== Scraping Complete ===")
+        self.logger.info(f"- New/updated licence profiles: {new_profiles_count}")
+        self.logger.info(f"- Processed compliance records: {len(processed_compliance_record_ids)}")
+        self.logger.info(f"- New/updated documents: {new_docs_count}")
+        self.logger.info(f"- Truly recent documents (added this run, document_date < {recency_months} months): {truly_recent_doc_count}")
 
+        # Generate CSV for truly recent documents (only unexported ones)
         csv_file_path = None
-        # Generate CSV and RSS for truly recent documents (only unexported ones)
         if truly_recent_doc_urls:
-            csv_file_path = self.generate_recent_documents_csv(truly_recent_doc_urls)
+            self.logger.info("\nSkipping CSV generation (moved to export_to_csv.py)")
+            # CSV generation has been moved to export_to_csv.py
+            # csv_file_path = self.generate_recent_documents_csv(truly_recent_doc_urls)
+            csv_file_path = None
+            
             if csv_file_path:
-                truly_recent_doc_count = len(truly_recent_doc_urls)  # Update count based on URLs
-                print(f"Generated CSV file: {csv_file_path}")
+                self.logger.info(f"Successfully generated CSV file: {os.path.abspath(csv_file_path)}")
+                # Verify the file was created and has content
+                if os.path.exists(csv_file_path) and os.path.getsize(csv_file_path) > 0:
+                    # Count the number of lines in the CSV (subtract 1 for header)
+                    with open(csv_file_path, 'r', encoding='utf-8') as f:
+                        line_count = sum(1 for _ in f) - 1  # Subtract 1 for header
+                    self.logger.info(f"CSV contains {line_count} document records.")
+                else:
+                    self.logger.warning("CSV file was created but appears to be empty.")
+            else:
+                self.logger.warning("No CSV file was generated (no new documents to export).")
+        else:
+            self.logger.info("No truly recent documents found to export to CSV.")
         
-        # Generate RSS feeds
-        self._generate_rss_feeds(truly_recent_doc_urls if 'truly_recent_doc_urls' in locals() else [])
+        # Generate RSS feeds for truly recent documents
+        self.logger.info("\nGenerating RSS feeds...")
+        self._generate_rss_feeds(truly_recent_doc_urls if truly_recent_doc_urls else [])
+        self.logger.info("RSS feed generation complete.")
         
-        # Simplified logging output
-        print("\nSummary:")
-        print("New licence profiles")
-        print("Processed compliance records")
-        print(f"Truly recent documents: {truly_recent_doc_count}")
+        # Final status
+        print("\n=== Run Summary ===")
+        print(f"Start time: {self.run_start_time_utc.strftime('%Y-%m-%d %H:%M:%S UTC')}")
+        print(f"End time:   {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}")
+        print(f"New/updated documents: {new_docs_count}")
+        print(f"Documents exported to CSV: {truly_recent_doc_count}")
+        if csv_file_path:
+            print(f"CSV file: {os.path.abspath(csv_file_path)}")
         
         # Return the path to the generated CSV file if one was created
         return csv_file_path

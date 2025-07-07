@@ -15,6 +15,10 @@ source "$VENV_PATH/bin/activate"
 # Run the Python script
 python "$SCRIPT_PATH"
 
+# Run the export script for today's date
+TODAY=$(date +%Y-%m-%d)
+python export_to_csv.py "$TODAY"
+
 # Optional: deactivate venv (not required in cron, but for clarity)
 deactivate
 
