@@ -95,18 +95,15 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
         # Get documents created in the date range that haven't been exported
         cursor.execute("""
             SELECT 
-                d.document_url,
+                lp.name as licence_profile_name,
                 d.document_type,
                 d.title,
                 d.document_date,
-                d.last_updated,
-                cr.licenceprofileid,
-                lp.profilenumber,
-                lp.name as licence_profile_name,
-                cr.type as compliance_type,
-                cr.title as compliance_title,
                 cr.status as compliance_status,
-                cr.date as compliance_date
+                cr.date as compliance_date,
+                d.document_url,
+                lp.profilenumber,
+                cr.licenceprofileid
             FROM compliance_documents d
             JOIN compliance_records cr ON d.compliance_id = cr.compliancerecord_id
             LEFT JOIN licence_profiles lp ON cr.licenceprofileid = lp.licenceprofileid
