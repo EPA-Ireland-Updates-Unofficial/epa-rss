@@ -4,6 +4,8 @@ This tool scrapes data from the EPA Ireland API and stores it in a SQLite databa
 1. Licence holder profiles
 2. Compliance data for each licence holder
 
+It generates a CSV file daily with the latest data. Sign up for Issue notifications on this repo to be notified when new data is available.
+
 ## Setup
 
 ```bash
