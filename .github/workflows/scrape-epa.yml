@@ -35,9 +35,22 @@ jobs:
       - name: Create notification issue
         run: |
           if [ "${{ steps.check_csv.outputs.csv_exists }}" = "true" ]; then
-            BODY="New EPA submissions have been added to the repository.\n\n**Download the latest CSV file:**\n[${{ steps.date.outputs.current_date }}.csv](${{ steps.check_csv.outputs.csv_url }})\n\n[View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)"
+            BODY=$(cat <<-EOM
+              New EPA submissions have been added to the repository.
+
+              **Download the latest CSV file:**
+              [${{ steps.date.outputs.current_date }}.csv](${{ steps.check_csv.outputs.csv_url }})
+
+              [View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)
+              EOM
+            )
           else
-            BODY="New EPA submissions have been processed, but no CSV file was generated for today (${{ steps.date.outputs.current_date }}).\n\n[View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)"
+            BODY=$(cat <<-EOM
+              New EPA submissions have been processed, but no CSV file was generated for today (${{ steps.date.outputs.current_date }}).
+
+              [View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)
+              EOM
+            )
           fi
           
           gh issue create \
