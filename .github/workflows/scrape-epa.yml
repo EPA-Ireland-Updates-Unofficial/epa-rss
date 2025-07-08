@@ -35,17 +35,20 @@ jobs:
       - name: Create notification issue
         run: |
           if [ "${{ steps.check_csv.outputs.csv_exists }}" = "true" ]; then
-            BODY="New EPA submissions have been added to the repository.
-
-**Download the latest CSV file:**
-[${{ steps.date.outputs.current_date }}.csv](${{ steps.check_csv.outputs.csv_url }})
-
-[View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)"
+            echo "New EPA submissions have been added to the repository." > message.txt
+            echo "" >> message.txt
+            echo "**Download the latest CSV file:**" >> message.txt
+            echo "[${{ steps.date.outputs.current_date }}.csv](${{ steps.check_csv.outputs.csv_url }})" >> message.txt
+            echo "" >> message.txt
+            echo "[View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)" >> message.txt
           else
-            BODY="New EPA submissions have been processed, but no CSV file was generated for today (${{ steps.date.outputs.current_date }}).
-
-[View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)"
+            echo "New EPA submissions have been processed, but no CSV file was generated for today (${{ steps.date.outputs.current_date }})." > message.txt
+            echo "" >> message.txt
+            echo "[View all CSV files](https://github.com/${{ github.repository }}/tree/main/output/csv/daily)" >> message.txt
           fi
+          
+          BODY=$(cat message.txt)
+          rm message.txt
           
           gh issue create \
             --title "New EPA Submissions - ${{ steps.date.outputs.current_date }}" \
