@@ -56,6 +56,6 @@ jobs:
             --repo ${{ github.repository }} | tail -n1)
           # Close the issue immediately
           ISSUE_NUMBER=${ISSUE_URL##*/}
-          gh issue edit "$ISSUE_NUMBER" --state closed --repo ${{ github.repository }}
+          gh issue close "$ISSUE_NUMBER" --repo ${{ github.repository }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
