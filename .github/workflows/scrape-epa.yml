@@ -53,8 +53,7 @@ jobs:
           ISSUE_URL=$(gh issue create \
             --title "New EPA Submissions - ${{ steps.date.outputs.current_date }}" \
             --body "$BODY" \
-            --repo ${{ github.repository }} \
-            --json url --jq .url)
+            --repo ${{ github.repository }} | tail -n1)
           # Close the issue immediately
           ISSUE_NUMBER=${ISSUE_URL##*/}
           gh issue edit "$ISSUE_NUMBER" --state closed --repo ${{ github.repository }}
