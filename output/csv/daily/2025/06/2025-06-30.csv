@@ -1,5 +1,10 @@
 licence_profile_name,document_type,title,document_date,compliance_status,compliance_date,document_url,profilenumber,licenceprofileid
-Kepak Clonee t/a Kepak Ballybay - P0803,Incident,,2025-06-30T00:00:00+00:00,Closed,2025-06-09T00:00:00,https://data.epa.ie/leap/api/v1/Incident/byid?incident_id=9cbcaf11-2745-f011-a373-0050568a2d1a,P0803,e7300aeb-e8ca-4da8-adc3-11decfcc50fc
+Kepak Clonee t/a Kepak Ballybay - P0803,Incident,"High Levels from Mays Effluent Sample 
+
+Emission limit levels:
+
+Suspended Solids 300
+Fats, Oils",2025-06-30T00:00:00+00:00,Closed,2025-06-09T00:00:00,https://data.epa.ie/leap/api/v1/Incident/byid?incident_id=9cbcaf11-2745-f011-a373-0050568a2d1a,P0803,e7300aeb-e8ca-4da8-adc3-11decfcc50fc
 Shannon Foynes Port Company - S0009,Site Updates/Notifications,Completion Notice of scheduled Plough Dredging at Foynes 30/06/2025,2025-06-30T00:00:00+00:00,Closed,2025-06-30T00:00:00,https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=178d05da-c455-f011-a373-0050568a2d1a,S0009,cde61a83-98a6-e611-8d41-0050568a69e2
 Shannon Foynes Port Company - S0009,Site Updates/Notifications,Commencement Notice for Q3 2025 proposed Plough Dredging at Foynes Harbour,2025-06-30T00:00:00+00:00,Open,2025-06-30T00:00:00,https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=7943262b-c555-f011-a373-0050568a2d1a,S0009,cde61a83-98a6-e611-8d41-0050568a69e2
 Shannon Foynes Port Company - S0009,Site Updates/Notifications,Completion Notice of scheduled Plough Dredging at Foynes 16/06/2025,2025-06-30T00:00:00+00:00,Closed,2025-06-30T00:00:00,https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=b9a193aa-c455-f011-a373-0050568a2d1a,S0009,cde61a83-98a6-e611-8d41-0050568a69e2
@@ -8,7 +13,7 @@ Roche Ireland Limited - P0012,Site Updates/Notifications,WFD Significant Industr
 Shannon Foynes Port Company - S0009,Site Updates/Notifications,Completion Notice of scheduled Plough Dredging at Foynes 31/05/2025,2025-06-30T00:00:00+00:00,Closed,2025-06-30T00:00:00,https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=dd8a3d76-c455-f011-a373-0050568a2d1a,S0009,cde61a83-98a6-e611-8d41-0050568a69e2
 Port of Waterford. - S0012,Site Updates/Notifications,Commencement notice late June ploughing,2025-06-28T00:00:00+00:00,Open,2025-06-28T00:00:00,https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=824ec985-fc53-f011-a373-0050568a2d1a,S0012,d3e61a83-98a6-e611-8d41-0050568a69e2
 PDM Timber Treatment Limited - P0325,Complaint,"P0325-02, 19/05/2025, Odour",2025-06-27T00:00:00+00:00,Closed,2025-05-19T00:00:00,https://data.epa.ie/leap/api/v1/Complaint/byid?complaint_id=286e79b8-f234-f011-a373-0050568a2d1a,P0325,9a5dfee4-003a-4c50-9ade-d074dff60ab8
-Lower Liffey Valley Regional Sewerage Scheme - D0004,Incident,,2025-06-27T00:00:00+00:00,Closed,2025-05-28T00:00:00,https://data.epa.ie/leap/api/v1/Incident/byid?incident_id=a72c59c8-bb3b-f011-a373-0050568a2d1a,D0004,7196c04b-4bd8-478e-99af-010482136e26
+Lower Liffey Valley Regional Sewerage Scheme - D0004,Incident,Uncontrolled Release,2025-06-27T00:00:00+00:00,Closed,2025-05-28T00:00:00,https://data.epa.ie/leap/api/v1/Incident/byid?incident_id=a72c59c8-bb3b-f011-a373-0050568a2d1a,D0004,7196c04b-4bd8-478e-99af-010482136e26
 Unilin Insulation Ireland Limited - P0583,Monitoring Returns,Q1 Service ,2025-06-27T00:00:00+00:00,Closed,2025-02-06T00:00:00,https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=054208a9-7ae4-ef11-a372-0050568a2d1a,P0583,ef57424a-b5ee-4fc0-916b-7a25e329e987
 Unilin Insulation Ireland Limited - P0583,Monitoring Returns,Air Testing - Boiler Only,2025-06-27T00:00:00+00:00,Closed,2025-04-07T00:00:00,https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=09bc5790-9013-f011-a373-0050568a2d1a,P0583,ef57424a-b5ee-4fc0-916b-7a25e329e987
 Staunton Foods Limited - P0947,Site Updates/Notifications,Formal request for approval under condition 1.5 of the EPA licence.,2025-06-27T00:00:00+00:00,Closed,2025-06-04T00:00:00,https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=16b77690-4741-f011-a373-0050568a2d1a,P0947,479f42a6-4d72-e511-a5db-0050568a69e2

@@ -117,11 +117,11 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
         
         documents = [dict(row) for row in cursor.fetchall()]
 
-        # Fix blank titles for Complaint documents using subject from metadata_json
+        # Fix blank titles for Complaint and Incident documents using subject from metadata_json
         import json
         for doc in documents:
             if (
-                doc.get("document_type") == "Complaint" and
+                doc.get("document_type") in ("Complaint", "Incident") and
                 (doc.get("title") is None or str(doc.get("title")).strip() == "")
             ):
                 meta_raw = doc.get("metadata_json")
