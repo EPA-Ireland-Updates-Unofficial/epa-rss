@@ -50,9 +50,13 @@ jobs:
           BODY=$(cat message.txt)
           rm message.txt
           
-          gh issue create \
+          ISSUE_URL=$(gh issue create \
             --title "New EPA Submissions - ${{ steps.date.outputs.current_date }}" \
             --body "$BODY" \
-            --repo ${{ github.repository }}
+            --repo ${{ github.repository }} \
+            --json url --jq .url)
+          # Close the issue immediately
+          ISSUE_NUMBER=${ISSUE_URL##*/}
+          gh issue edit "$ISSUE_NUMBER" --state closed --repo ${{ github.repository }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -102,6 +102,7 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
                 cr.status as compliance_status,
                 cr.date as compliance_date,
                 d.document_url,
+                d.metadata_json,
                 lp.profilenumber,
                 cr.licenceprofileid
             FROM compliance_documents d
@@ -115,6 +116,39 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
         """, [str(start_date), str(end_date)] + list(exported_docs))
         
         documents = [dict(row) for row in cursor.fetchall()]
+
+        # Fix blank titles for Complaint documents using subject from metadata_json
+        import json
+        for doc in documents:
+            if (
+                doc.get("document_type") == "Complaint" and
+                (doc.get("title") is None or str(doc.get("title")).strip() == "")
+            ):
+                meta_raw = doc.get("metadata_json")
+                subject = None
+                if meta_raw:
+                    try:
+                        outer = json.loads(meta_raw)
+                        # The LEAP API stores another JSON string in the "metadata" field for Complaints
+                        if isinstance(outer, dict):
+                            inner_raw = outer.get("metadata")
+                            if inner_raw:
+                                try:
+                                    inner = json.loads(inner_raw)
+                                    subject = inner.get("subject")
+                                except json.JSONDecodeError:
+                                    # If inner is not valid JSON, treat it as plain string
+                                    subject = None
+                            # Fallback – some older records may store subject at top level
+                            subject = subject or outer.get("subject")
+                    except json.JSONDecodeError:
+                        pass
+                if subject:
+                    doc["title"] = subject.strip()
+
+        # Remove metadata_json from output
+        for doc in documents:
+            doc.pop("metadata_json", None)
         
         if not documents:
             print(f"No new documents found from the past {days_back} days.")
