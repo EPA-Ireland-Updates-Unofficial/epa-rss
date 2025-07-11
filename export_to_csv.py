@@ -15,6 +15,22 @@ DB_PATH = 'epa_ireland.db'
 OUTPUT_DIR = os.path.join('output', 'csv', 'daily')
 DEFAULT_DAYS_BACK = 4
 
+# Mapping from document_type to URL segment for constructing LEAP URLs
+TYPE_SEGMENT_MAP = {
+    "Monitoring Returns": "return",
+    "Annual Environmental Report": "return",
+    "Requests for Approval and Site Reports": "return",
+    "Site Updates/Notifications": "return",
+    "Site Closure and Surrender": "return",
+    "Site Visit": "sitevisit",
+    "Non Compliance": "non-compliance",
+    "Incident": "incident",
+    "Complaint": "complaint",
+    "Compliance Investigation": "investigation",
+    "EPA Initiated Correspondence": "epa-correspondence",
+}
+
+
 def get_previously_exported_documents(days_back):
     """Get a set of document URLs that have been exported in recent CSVs.
     
@@ -146,16 +162,35 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
                 if subject:
                     doc["title"] = subject.strip()
 
-        # Remove metadata_json from output
+        # Remove metadata_json from output and construct LEAP URLs
         for doc in documents:
             doc.pop("metadata_json", None)
+            # Build LEAP URL for this document
+            seg = TYPE_SEGMENT_MAP.get(doc.get("document_type"), "return")
+            from urllib.parse import urlparse, parse_qs
+            raw_url = (doc.get("document_url") or "").rstrip("/")
+            parsed = urlparse(raw_url)
+            if parsed.query:
+                qs = parse_qs(parsed.query)
+                # Take the first query param value (lr_id, incident_id, etc.)
+                guid_vals = next(iter(qs.values()), [""])
+                guid = guid_vals[0]
+            else:
+                guid = parsed.path.rstrip("/").split("/")[-1] if parsed.path else ""
+            profilenumber = doc.get("profilenumber") or ""
+            doc["leap_url"] = (
+                f"https://leap.epa.ie/licence-profile/{profilenumber}/compliance/{seg}/{guid}"
+                if guid and profilenumber else None
+            )
         
         if not documents:
             print(f"No new documents found from the past {days_back} days.")
             return None
             
-        # Get column headers
-        headers = list(documents[0].keys())
+        # Get column headers – place leap_url and document_url as the last two columns (in that order)
+        all_keys = list(documents[0].keys())
+        tail_order = ["leap_url", "document_url"]
+        headers = [k for k in all_keys if k not in tail_order] + tail_order
         
         # Write to CSV
         with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
