@@ -6,6 +6,22 @@ import csv
 from typing import List, Dict, Optional, Tuple
 from datetime import datetime, timezone, timedelta
 import argparse
+from urllib.parse import urlparse, parse_qs
+
+# Mapping from document_type to URL segment for constructing LEAP URLs
+TYPE_SEGMENT_MAP = {
+    "Monitoring Returns": "return",
+    "Annual Environmental Report": "return",
+    "Requests for Approval and Site Reports": "return",
+    "Site Updates/Notifications": "return",
+    "Site Closure and Surrender": "return",
+    "Site Visit": "sitevisit",
+    "Non Compliance": "non-compliance",
+    "Incident": "incident",
+    "Complaint": "complaint",
+    "Compliance Investigation": "investigation",
+    "EPA Initiated Correspondence": "epa-correspondence",
+}
 
 class RSSGenerator:
     def __init__(self, db_path: str = "epa_ireland.db"):
@@ -115,7 +131,24 @@ class RSSGenerator:
                     # Try to get the most relevant fields from the CSV
                     doc_type = row.get('document_type', '')
                     title = row.get('title', row.get('document_id', 'Untitled'))
-                    url = row.get('document_url', '')
+                    raw_url = (row.get('document_url') or '').rstrip('/')
+
+                    # Use leap_url from CSV if present, else compute it on the fly
+                    leap_url = row.get('leap_url')
+                    if not leap_url:
+                        seg = TYPE_SEGMENT_MAP.get(doc_type, 'return')
+                        parsed = urlparse(raw_url)
+                        if parsed.query:
+                            qs = parse_qs(parsed.query)
+                            guid_vals = next(iter(qs.values()), [''])
+                            guid = guid_vals[0]
+                        else:
+                            guid = parsed.path.rstrip('/').split('/')[-1] if parsed.path else ''
+                        profilenumber = row.get('profilenumber') or ''
+                        if guid and profilenumber:
+                            leap_url = f"https://leap.epa.ie/licence-profile/{profilenumber}/compliance/{seg}/{guid}"
+
+                    url = leap_url or raw_url
                     doc_date = row.get('document_date', '')
                     
                     try:
