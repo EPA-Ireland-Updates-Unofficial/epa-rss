@@ -187,10 +187,21 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
             print(f"No new documents found from the past {days_back} days.")
             return None
             
-        # Get column headers – place leap_url and document_url as the last two columns (in that order)
+        # Build column headers with leap_url after title and document_url last
         all_keys = list(documents[0].keys())
-        tail_order = ["leap_url", "document_url"]
-        headers = [k for k in all_keys if k not in tail_order] + tail_order
+        desired_order = [
+            "licence_profile_name",
+            "document_type",
+            "title",
+            "leap_url",
+            "document_date",
+            "compliance_status",
+            "compliance_date",
+            "profilenumber",
+            "licenceprofileid",
+            "document_url",
+        ]
+        headers = [k for k in desired_order if k in all_keys] + [k for k in all_keys if k not in desired_order]
         
         # Write to CSV
         with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
