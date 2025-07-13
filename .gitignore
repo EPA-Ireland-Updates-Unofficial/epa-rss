@@ -1,7 +1,7 @@
 serverless.yml
 scraper.log
 epa_scraper_cron.log
-epa_ireland.db
+epa_ireland.db*
 *compliance_documents.csv
 *compliance_records.csv
 *licence_profiles.csv
