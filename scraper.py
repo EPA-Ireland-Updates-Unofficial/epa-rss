@@ -20,6 +20,23 @@ import csv
 import os
 import logging
 from rss_generator import RSSGenerator
+from urllib.parse import urlparse, parse_qs
+
+# Mapping from document_type to URL segment for constructing LEAP URLs
+TYPE_SEGMENT_MAP = {
+    "Monitoring Returns": "return",
+    "Annual Environmental Report": "return",
+    "Requests for Approval and Site Reports": "return",
+    "Site Updates/Notifications": "return",
+    "Site Closure and Surrender": "return",
+    "Site Visit": "sitevisit",
+    "Non Compliance": "non-compliance",
+    "Incident": "incident",
+    "Complaint": "complaint",
+    "Compliance Investigation": "investigation",
+    "EPA Initiated Correspondence": "epa-correspondence",
+}
+
 
 # Helper to parse API date strings safely
 def parse_api_date(date_str: Optional[str]) -> Optional[datetime]:
@@ -352,6 +369,7 @@ class EPAScraper:
                 document_id TEXT,
                 document_type TEXT,
                 title TEXT,
+                leap_url TEXT,
                 last_updated TEXT,
                 last_checked TEXT,
                 metadata_json TEXT,
@@ -360,6 +378,11 @@ class EPAScraper:
                 FOREIGN KEY (compliance_id) REFERENCES compliance_records (compliancerecord_id)
             )
             """)
+            # Ensure leap_url column exists for pre-existing databases
+            cursor.execute("PRAGMA table_info(compliance_documents)")
+            existing_cols = {row[1] for row in cursor.fetchall()}
+            if 'leap_url' not in existing_cols:
+                cursor.execute("ALTER TABLE compliance_documents ADD COLUMN leap_url TEXT")
         print("Database tables ensured.")
 
     
@@ -901,28 +924,51 @@ class EPAScraper:
                         doc_data_for_db['compliance_id'] = compliance_id
                         doc_data_for_db['document_id'] = doc.get('document_id') # From original API doc
                         doc_data_for_db['document_type'] = doc.get('document_type', record_type) # Use from doc if available, else fallback to parent record_type
-                        doc_data_for_db['title'] = doc.get('title') # From original API doc
-                        
-                        doc_data_for_db['last_checked'] = now
-                        doc_data_for_db['last_updated'] = now # Set initial last_updated for new doc
-                        
-                        # Store the *entire original* API 'doc' object as JSON in metadata_json
-                        # This ensures all fields, including 'description' or any others, are preserved.
-                        doc_data_for_db['metadata_json'] = json.dumps(doc)
-                        
-                        # Log the structured document data intended for DB
-                        self._log_to_csv("compliance_document", doc_data_for_db)
-                        
-                        docs_to_insert.append(doc_data_for_db) # Add the structured data to insert list
-                        
-                        # Mark relevant parent records for update
-                        compliance_records_with_new_docs.add(compliance_id)
-                        if licence_profile_id: # Ensure licence_profile_id is available
-                            licence_profiles_with_new_docs.add(licence_profile_id)
-                        
-                        # Add to existing_urls immediately to prevent duplicates within this batch run
-                        existing_doc_urls.add(doc_url)
+                        doc_data_for_db['title'] = doc.get('title')  # From original API doc
+
+                    # Build leap_url using licence profilenumber and document details
+                    profilenumber = None
+                    if licence_profile_id:
+                        try:
+                            self.cursor.execute("SELECT profilenumber FROM licence_profiles WHERE licenceprofileid = ?", (licence_profile_id,))
+                            row_lp = self.cursor.fetchone()
+                            profilenumber = row_lp[0] if row_lp else None
+                        except sqlite3.Error:
+                            profilenumber = None
+                    seg = TYPE_SEGMENT_MAP.get(doc_data_for_db['document_type'], 'return')
+                    # Extract GUID from document_url
+                    parsed = urlparse(doc_url.rstrip('/'))
+                    if parsed.query:
+                        qs = parse_qs(parsed.query)
+                        guid = next(iter(qs.values()), [''])[0]
                     else:
+                        guid = parsed.path.rstrip('/').split('/')[-1] if parsed.path else ''
+
+                    if guid and profilenumber:
+                        doc_data_for_db['leap_url'] = f"https://leap.epa.ie/licence-profile/{profilenumber}/compliance/{seg}/{guid}"
+                    else:
+                        doc_data_for_db['leap_url'] = None
+
+                    # --- Finalise and queue insert ---
+                    doc_data_for_db['last_checked'] = now
+                    doc_data_for_db['last_updated'] = now  # Set initial last_updated for new doc
+
+                    # Store the *entire original* API 'doc' object as JSON in metadata_json
+                    doc_data_for_db['metadata_json'] = json.dumps(doc)
+
+                    # Log the structured document data intended for DB
+                    self._log_to_csv("compliance_document", doc_data_for_db)
+
+                    docs_to_insert.append(doc_data_for_db)  # Add the structured data to insert list
+
+                    # Mark relevant parent records for update
+                    compliance_records_with_new_docs.add(compliance_id)
+                    if licence_profile_id:  # Ensure licence_profile_id is available
+                        licence_profiles_with_new_docs.add(licence_profile_id)
+
+                    # Add to existing_urls immediately to prevent duplicates within this batch run
+                    existing_doc_urls.add(doc_url)
+                    if doc_url in existing_doc_urls:
                         # EXISTING document - mark for last_checked update
                         docs_to_update_checked.add(doc_url)
 
@@ -937,8 +983,11 @@ class EPAScraper:
             
             # Dynamically get columns from the first dict (assuming all dicts have same keys)
             if docs_to_insert:
-                ordered_columns = ['document_date', 'document_url', 'compliance_id', 'document_id', 
-                                   'document_type', 'title', 'last_updated', 'last_checked', 'metadata_json']
+                ordered_columns = [
+                    'document_date', 'document_url', 'compliance_id', 'document_id',
+                    'document_type', 'title', 'leap_url',
+                    'last_updated', 'last_checked', 'metadata_json'
+                ]
                 column_names = ', '.join(ordered_columns)
                 placeholders = ', '.join(['?' for _ in ordered_columns])
                 insert_sql = f"INSERT INTO compliance_documents ({column_names}) VALUES ({placeholders})"
@@ -954,11 +1003,12 @@ class EPAScraper:
                     # Ensure column names here exactly match the `ordered_columns` order and table schema
                     sql = f"""
                         INSERT INTO compliance_documents (
-                            document_date, document_url, compliance_id, document_id, 
-                            document_type, title, last_updated, last_checked, metadata_json
-                        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            document_date, document_url, compliance_id, document_id,
+                            document_type, title, leap_url, last_updated, last_checked, metadata_json
+                        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                         ON CONFLICT(document_url) DO UPDATE SET
                             last_checked = excluded.last_checked,
+                            leap_url = excluded.leap_url,
                             title = excluded.title, 
                             document_date = excluded.document_date, 
                             document_type = excluded.document_type,

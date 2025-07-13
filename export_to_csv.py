@@ -114,6 +114,7 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
                 lp.name as licence_profile_name,
                 d.document_type,
                 d.title,
+                d.leap_url,
                 d.document_date,
                 cr.status as compliance_status,
                 cr.date as compliance_date,
@@ -162,26 +163,24 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
                 if subject:
                     doc["title"] = subject.strip()
 
-        # Remove metadata_json from output and construct LEAP URLs
+        # Remove metadata_json from output.  Ensure leap_url present; compute only if still missing.
+        from urllib.parse import urlparse, parse_qs
         for doc in documents:
             doc.pop("metadata_json", None)
-            # Build LEAP URL for this document
+            if doc.get("leap_url"):
+                continue  # already populated by DB
+            # Fallback computation for legacy rows (should not normally occur)
             seg = TYPE_SEGMENT_MAP.get(doc.get("document_type"), "return")
-            from urllib.parse import urlparse, parse_qs
             raw_url = (doc.get("document_url") or "").rstrip("/")
             parsed = urlparse(raw_url)
             if parsed.query:
                 qs = parse_qs(parsed.query)
-                # Take the first query param value (lr_id, incident_id, etc.)
-                guid_vals = next(iter(qs.values()), [""])
-                guid = guid_vals[0]
+                guid = next(iter(qs.values()), [""])[0]
             else:
                 guid = parsed.path.rstrip("/").split("/")[-1] if parsed.path else ""
             profilenumber = doc.get("profilenumber") or ""
-            doc["leap_url"] = (
-                f"https://leap.epa.ie/licence-profile/{profilenumber}/compliance/{seg}/{guid}"
-                if guid and profilenumber else None
-            )
+            if guid and profilenumber:
+                doc["leap_url"] = f"https://leap.epa.ie/licence-profile/{profilenumber}/compliance/{seg}/{guid}"
         
         if not documents:
             print(f"No new documents found from the past {days_back} days.")
