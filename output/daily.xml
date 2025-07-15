@@ -3,197 +3,57 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-06-10.csv)</description>
-    <lastBuildDate>Sun, 06 Jul 2025 09:32:13 +0000</lastBuildDate>
-    <pubDate>Sun, 06 Jul 2025 09:32:13 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-07-15.csv)</description>
+    <lastBuildDate>Tue, 15 Jul 2025 03:31:55 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 03:31:55 +0000</pubDate>
     <item>
-        <title>Monitoring Returns: Wrong surface water test COD instead of TOC</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=1df382a0-1116-f011-a373-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-06-09T00:00:00+00:00</description>
-        <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=1df382a0-1116-f011-a373-0050568a2d1a</guid>
+        <title>Complaint: Odour issue behind Old Bank of Ireland, Kilcullen</title>
+        <link>https://leap.epa.ie/licence-profile/D0002/compliance/complaint/33027652-6548-f011-a373-0050568a2d1a</link>
+        <description>Type: Complaint<br>Date: 2025-07-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0002/compliance/complaint/33027652-6548-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Response to SV Report</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=3e4867f4-18f9-ef11-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-06-09T00:00:00+00:00</description>
-        <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=3e4867f4-18f9-ef11-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: Wastewater annual report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0039/compliance/return/1879e66f-17ea-ef11-a372-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-07-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0039/compliance/return/1879e66f-17ea-ef11-a372-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV31859</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=93db56e3-4a35-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-06-09T00:00:00+00:00</description>
-        <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=93db56e3-4a35-f011-a373-0050568a2d1a</guid>
+        <title>Monitoring Returns: noise annual report 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0039/compliance/return/562ffa9a-6d36-f011-a373-0050568a2d1a</link>
+        <description>Type: Monitoring Returns<br>Date: 2025-07-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0039/compliance/return/562ffa9a-6d36-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: RTO Test Programme Update </title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=beb32af3-5e27-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-06-09T00:00:00+00:00</description>
-        <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=beb32af3-5e27-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Decommissioning record</title>
+        <link>https://leap.epa.ie/licence-profile/P0057/compliance/return/6e09b8f3-d716-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-07-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0057/compliance/return/6e09b8f3-d716-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ICL Limerick 2025 - Blast 6 1st May</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=c77a5e91-4520-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-06-09T00:00:00+00:00</description>
-        <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=c77a5e91-4520-f011-a373-0050568a2d1a</guid>
+        <title>Site Updates/Notifications: Odour management plan 2024</title>
+        <link>https://leap.epa.ie/licence-profile/W0039/compliance/return/773faf32-7236-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-07-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0039/compliance/return/773faf32-7236-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: EPA Site Visit SV30791</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=d4e6d23e-fbdf-ef11-a372-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-06-09T00:00:00+00:00</description>
-        <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=d4e6d23e-fbdf-ef11-a372-0050568a2d1a</guid>
+        <title>Requests for Approval and Site Reports: Withdrawal of Licence Return LR091135</title>
+        <link>https://leap.epa.ie/licence-profile/P0605/compliance/return/8e105897-6d48-f011-a373-0050568a2d1a</link>
+        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-07-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0605/compliance/return/8e105897-6d48-f011-a373-0050568a2d1a</guid>
     </item>
     <item>
-        <title>Site Updates/Notifications: ICL Limerick 2025 - Blast 5 17th April</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=fb235bb6-4211-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-06-09T00:00:00+00:00</description>
-        <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=fb235bb6-4211-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Licensee Public Response - SV29942</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=830ae8dc-d842-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-06-06T00:00:00+00:00</description>
-        <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=830ae8dc-d842-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Update on WwTP </title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=b6a457f8-d62d-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-05-20T00:00:00+00:00</description>
-        <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=b6a457f8-d62d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Site Updates/Notifications: Follow-up on the temporary change of primary FID</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=f31f7682-9c2d-f011-a373-0050568a2d1a</link>
-        <description>Type: Site Updates/Notifications<br>Date: 2025-05-12T00:00:00+00:00</description>
-        <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=f31f7682-9c2d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Complaint: </title>
-        <link>https://data.epa.ie/leap/api/v1/Complaint/byid?complaint_id=348635e5-d22d-f011-a373-0050568a2d1a</link>
-        <description>Type: Complaint<br>Date: 2025-05-10T00:00:00+00:00</description>
-        <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/Complaint/byid?complaint_id=348635e5-d22d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: AER 2024</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=6dce57cd-322d-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-05-10T00:00:00+00:00</description>
-        <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=6dce57cd-322d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: AER 2024</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=965e565c-342d-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-05-10T00:00:00+00:00</description>
-        <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=965e565c-342d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: AER </title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=34c5bf90-302d-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-05-09T00:00:00+00:00</description>
-        <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=34c5bf90-302d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: AER 2024</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=9df4cac3-2d2d-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-05-09T00:00:00+00:00</description>
-        <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=9df4cac3-2d2d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: Independent Closure Audit Scoping Memo</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=ee386c01-882a-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-05-06T00:00:00+00:00</description>
-        <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=ee386c01-882a-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Requests for Approval and Site Reports: In-Situ Thermal Treatment</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=70a4362a-5c20-f011-a373-0050568a2d1a</link>
-        <description>Type: Requests for Approval and Site Reports<br>Date: 2025-04-23T00:00:00+00:00</description>
-        <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=70a4362a-5c20-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Meeting: </title>
-        <link>https://data.epa.ie/leap/api/v1/MeetingCorrespondence/meetingbyid?meeting_id=88e5e76a-8311-4be9-af8d-f57e5874b238</link>
-        <description>Type: Meeting<br>Date: 2025-04-15T00:00:00+00:00</description>
-        <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/MeetingCorrespondence/meetingbyid?meeting_id=88e5e76a-8311-4be9-af8d-f57e5874b238</guid>
-    </item>
-    <item>
-        <title>Meeting: </title>
-        <link>https://data.epa.ie/leap/api/v1/MeetingCorrespondence/meetingbyid?meeting_id=61361149-fb22-4227-9220-6bba940a138e</link>
-        <description>Type: Meeting<br>Date: 2025-04-07T00:00:00+00:00</description>
-        <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/MeetingCorrespondence/meetingbyid?meeting_id=61361149-fb22-4227-9220-6bba940a138e</guid>
-    </item>
-    <item>
-        <title>Meeting: </title>
-        <link>https://data.epa.ie/leap/api/v1/MeetingCorrespondence/meetingbyid?meeting_id=cd543b38-b2d3-478e-88f7-b736d0b0222d</link>
-        <description>Type: Meeting<br>Date: 2025-04-07T00:00:00+00:00</description>
-        <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/MeetingCorrespondence/meetingbyid?meeting_id=cd543b38-b2d3-478e-88f7-b736d0b0222d</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: AER 2024</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=0f6cac41-0b0e-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-03-31T00:00:00+00:00</description>
-        <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=0f6cac41-0b0e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: AER 2024</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=1e28aa1b-0b0e-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-03-31T00:00:00+00:00</description>
-        <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=1e28aa1b-0b0e-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: 2024 AER for Marlinstown Landfill W0071-02</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=44d7ba44-a40d-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-03-30T00:00:00+00:00</description>
-        <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=44d7ba44-a40d-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: Full PDF Aer for 2024 Reporting Period</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=3eb6168d-c90c-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-03-29T00:00:00+00:00</description>
-        <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=3eb6168d-c90c-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: Corranure Landfill 2024 AER (W0074-04)</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=4dcaa720-e30b-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-03-28T00:00:00+00:00</description>
-        <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=4dcaa720-e30b-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Annual Environmental Report: 2024 AER for Ballydonagh Landfill W0028-03</title>
-        <link>https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=a677fe06-2f0b-f011-a373-0050568a2d1a</link>
-        <description>Type: Annual Environmental Report<br>Date: 2025-03-27T00:00:00+00:00</description>
-        <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/LicenseeReturns/byid?lr_id=a677fe06-2f0b-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Meeting: </title>
-        <link>https://data.epa.ie/leap/api/v1/MeetingCorrespondence/meetingbyid?meeting_id=3ae6e7e1-1425-4370-b760-ac13c10022c8</link>
-        <description>Type: Meeting<br>Date: 2025-03-26T00:00:00+00:00</description>
-        <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://data.epa.ie/leap/api/v1/MeetingCorrespondence/meetingbyid?meeting_id=3ae6e7e1-1425-4370-b760-ac13c10022c8</guid>
+        <title>Site Updates/Notifications: ODS and F-Gas Maintenance and Leak Check Records</title>
+        <link>https://leap.epa.ie/licence-profile/P0057/compliance/return/af8fbd8b-4516-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-07-14T00:00:00+00:00</description>
+        <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0057/compliance/return/af8fbd8b-4516-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>

@@ -88,15 +88,16 @@ class RSSGenerator:
         print(f"Generated RSS feed: {output_path}")
     
     def _get_most_recent_csv(self, csv_dir: str) -> Optional[str]:
-        """Find the most recent CSV file in the directory."""
+        """Find the most recent CSV file in the directory (searches recursively in year/month subdirectories)."""
         if not os.path.exists(csv_dir):
             return None
             
-        csv_files = [
-            os.path.join(csv_dir, f) 
-            for f in os.listdir(csv_dir) 
-            if f.endswith('.csv')
-        ]
+        csv_files = []
+        # Search recursively for CSV files in year/month subdirectories
+        for root, dirs, files in os.walk(csv_dir):
+            for file in files:
+                if file.endswith('.csv'):
+                    csv_files.append(os.path.join(root, file))
         
         if not csv_files:
             return None

@@ -59,12 +59,17 @@ def get_previously_exported_documents(days_back):
         if os.path.exists(csv_path):
             try:
                 with open(csv_path, 'r', encoding='utf-8') as f:
-                    # Skip header
-                    next(f, None)
-                    # Read document URLs from first column
-                    for line in f:
-                        doc_url = line.split(',', 1)[0].strip('"')
-                        exported_docs.add(doc_url)
+                    csv_reader = csv.reader(f)
+                    # Read header to find document_url column index
+                    header = next(csv_reader, None)
+                    if header and 'document_url' in header:
+                        doc_url_index = header.index('document_url')
+                        # Read document URLs from the correct column
+                        for row in csv_reader:
+                            if len(row) > doc_url_index:
+                                doc_url = row[doc_url_index].strip()
+                                if doc_url:
+                                    exported_docs.add(doc_url)
             except Exception as e:
                 print(f"Warning: Could not read {csv_path}: {e}")
         
@@ -134,6 +139,24 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
         
         documents = [dict(row) for row in cursor.fetchall()]
 
+        # Function to sanitize text fields for CSV output
+        def sanitize_csv_text(text):
+            """Remove line breaks, carriage returns, and other problematic characters from text."""
+            if not text:
+                return text
+            
+            # Convert to string and strip whitespace
+            text = str(text).strip()
+            
+            # Replace line breaks and carriage returns with spaces
+            text = text.replace('\n', ' ').replace('\r', ' ')
+            
+            # Replace multiple consecutive spaces with single space
+            import re
+            text = re.sub(r'\s+', ' ', text)
+            
+            return text.strip()
+
         # Fix blank titles for Complaint and Incident documents using subject from metadata_json
         import json
         for doc in documents:
@@ -161,7 +184,7 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
                     except json.JSONDecodeError:
                         pass
                 if subject:
-                    doc["title"] = subject.strip()
+                    doc["title"] = sanitize_csv_text(subject)
 
         # Remove metadata_json from output.  Ensure leap_url present; compute only if still missing.
         from urllib.parse import urlparse, parse_qs
@@ -181,6 +204,16 @@ def generate_recent_documents_csv(target_date, days_back=DEFAULT_DAYS_BACK):
             profilenumber = doc.get("profilenumber") or ""
             if guid and profilenumber:
                 doc["leap_url"] = f"https://leap.epa.ie/licence-profile/{profilenumber}/compliance/{seg}/{guid}"
+        
+        # Sanitize all text fields that might contain line breaks or other problematic characters
+        for doc in documents:
+            # Sanitize title (most important for CSV integrity)
+            if doc.get("title"):
+                doc["title"] = sanitize_csv_text(doc["title"])
+            
+            # Sanitize licence_profile_name in case it has line breaks
+            if doc.get("licence_profile_name"):
+                doc["licence_profile_name"] = sanitize_csv_text(doc["licence_profile_name"])
         
         if not documents:
             print(f"No new documents found from the past {days_back} days.")

@@ -19,6 +19,9 @@ python "$SCRIPT_PATH"
 TODAY=$(date +%Y-%m-%d)
 python export_to_csv.py "$TODAY"
 
+# Regenerate RSS feeds after CSV export to include the latest files
+python rss_generator.py --csv-days 30
+
 # Optional: deactivate venv (not required in cron, but for clarity)
 deactivate
 
