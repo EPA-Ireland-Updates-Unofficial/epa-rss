@@ -22,6 +22,13 @@ python export_to_csv.py "$TODAY"
 # Regenerate RSS feeds after CSV export to include the latest files
 python rss_generator.py --csv-days 30
 
+# Add new files to git and commit changes
+git add -A
+git commit -m "Daily update: CSV and RSS files for $TODAY" || echo "No changes to commit"
+
+# Push to GitHub
+git push origin main
+
 # Optional: deactivate venv (not required in cron, but for clarity)
 deactivate
 
