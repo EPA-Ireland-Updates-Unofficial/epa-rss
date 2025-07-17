@@ -69,7 +69,7 @@ def get_previously_exported_documents(days_back):
                             if len(row) > doc_url_index:
                                 doc_url = row[doc_url_index].strip()
                                 if doc_url:
-                        exported_docs.add(doc_url)
+                                    exported_docs.add(doc_url)
             except Exception as e:
                 print(f"Warning: Could not read {csv_path}: {e}")
         
