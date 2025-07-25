@@ -3,29 +3,29 @@
 <channel>
     <title>EPA Ireland - Recent Documents</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
-    <description>Recent documents from EPA Ireland (from 2025-07-24.csv)</description>
-    <lastBuildDate>Thu, 24 Jul 2025 03:12:15 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 03:12:15 +0000</pubDate>
+    <description>Recent documents from EPA Ireland (from 2025-07-25.csv)</description>
+    <lastBuildDate>Fri, 25 Jul 2025 03:13:53 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 03:13:53 +0000</pubDate>
     <item>
-        <title>Site Updates/Notifications: Extension of Prescribed Period</title>
-        <link>https://leap.epa.ie/licence-profile/P1105/compliance/return/1659aedd-8305-f011-a373-0050568a2d1a</link>
+        <title>Site Updates/Notifications: Surface water trigger levels</title>
+        <link>https://leap.epa.ie/licence-profile/P0674/compliance/return/50d2604c-e919-f011-a373-0050568a2d1a</link>
+        <description>Type: Site Updates/Notifications<br>Date: 2025-07-24T00:00:00+00:00</description>
+        <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0674/compliance/return/50d2604c-e919-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Incident: Breach of ELV</title>
+        <link>https://leap.epa.ie/licence-profile/P0801/compliance/incident/f929d908-0b51-f011-a373-0050568a2d1a</link>
+        <description>Type: Incident<br>Date: 2025-07-23T00:00:00+00:00</description>
+        <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P0801/compliance/incident/f929d908-0b51-f011-a373-0050568a2d1a</guid>
+    </item>
+    <item>
+        <title>Site Updates/Notifications: Ringsend WWTP Full Plant Shut Downs</title>
+        <link>https://leap.epa.ie/licence-profile/D0034/compliance/return/3869f69a-0c51-f011-a373-0050568a2d1a</link>
         <description>Type: Site Updates/Notifications<br>Date: 2025-07-23T00:00:00+00:00</description>
         <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/P1105/compliance/return/1659aedd-8305-f011-a373-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: Inagh 2024 Surface Water Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0109/compliance/return/46bb4e44-bcdd-ef11-a372-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-07-23T00:00:00+00:00</description>
-        <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0109/compliance/return/46bb4e44-bcdd-ef11-a372-0050568a2d1a</guid>
-    </item>
-    <item>
-        <title>Monitoring Returns: CWMF 2024 Biological Report</title>
-        <link>https://leap.epa.ie/licence-profile/W0109/compliance/return/fca725e3-3dae-ef11-a36c-0050568a2d1a</link>
-        <description>Type: Monitoring Returns<br>Date: 2025-07-23T00:00:00+00:00</description>
-        <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/W0109/compliance/return/fca725e3-3dae-ef11-a36c-0050568a2d1a</guid>
+        <guid isPermaLink="false">https://leap.epa.ie/licence-profile/D0034/compliance/return/3869f69a-0c51-f011-a373-0050568a2d1a</guid>
     </item>
 </channel>
 </rss>
