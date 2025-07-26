@@ -4,8 +4,15 @@
     <title>EPA Ireland - Recent CSV Files</title>
     <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper</link>
     <description>CSV files from the last 30 calendar days</description>
-    <lastBuildDate>Fri, 25 Jul 2025 03:13:53 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 03:13:53 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Jul 2025 03:12:35 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Jul 2025 03:12:35 +0000</pubDate>
+    <item>
+        <title>CSV: 2025-07-26.csv</title>
+        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/07/2025-07-26.csv</link>
+        <description>CSV file for 2025-07-26</description>
+        <pubDate>Sat, 26 Jul 2025 03:12:35 +0000</pubDate>
+        <guid isPermaLink="false">output/csv/daily/2025/07/2025-07-26.csv</guid>
+    </item>
     <item>
         <title>CSV: 2025-07-25.csv</title>
         <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/07/2025-07-25.csv</link>
@@ -180,13 +187,6 @@
         <description>CSV file for 2025-06-27</description>
         <pubDate>Tue, 15 Jul 2025 03:26:29 +0000</pubDate>
         <guid isPermaLink="false">output/csv/daily/2025/06/2025-06-27.csv</guid>
-    </item>
-    <item>
-        <title>CSV: 2025-06-26.csv</title>
-        <link>https://github.com/EPA-Ireland-Updates-Unofficial/epa_ireland_scraper/blob/main/output/csv/daily/2025/06/2025-06-26.csv</link>
-        <description>CSV file for 2025-06-26</description>
-        <pubDate>Tue, 15 Jul 2025 03:26:29 +0000</pubDate>
-        <guid isPermaLink="false">output/csv/daily/2025/06/2025-06-26.csv</guid>
     </item>
 </channel>
 </rss>
